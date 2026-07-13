@@ -8,11 +8,23 @@ const POST_INTERVAL_MS = 1200;
 const FEED_TIMEOUT_MS = 15000;
 const FETCH_TIMEOUT_MS = 15000;
 
-const webhookUrl = process.env.DISCORD_WEBHOOK_URL;
+const CHANNEL_WEBHOOKS = {
+  general: process.env.DISCORD_WEBHOOK_URL,
+  jp: process.env.DISCORD_WEBHOOK_JP,
+  na: process.env.DISCORD_WEBHOOK_NA,
+  cn: process.env.DISCORD_WEBHOOK_CN,
+  eu: process.env.DISCORD_WEBHOOK_EU,
+  kr: process.env.DISCORD_WEBHOOK_KR,
+  me: process.env.DISCORD_WEBHOOK_ME,
+  af: process.env.DISCORD_WEBHOOK_AF,
+  latam: process.env.DISCORD_WEBHOOK_LATAM,
+  oc: process.env.DISCORD_WEBHOOK_OC,
+};
+
 const anthropicKey = process.env.ANTHROPIC_API_KEY;
 
-if (!webhookUrl) {
-  console.error('DISCORD_WEBHOOK_URL is not set. Aborting.');
+if (!Object.values(CHANNEL_WEBHOOKS).some(Boolean)) {
+  console.error('No DISCORD_WEBHOOK_* secrets are set. Aborting.');
   process.exit(1);
 }
 
@@ -86,7 +98,7 @@ async function summarize(title, contentSnippet, link) {
   }
 }
 
-async function postToDiscord(feedName, item, summary) {
+async function postToDiscord(webhookUrl, feedName, item, summary) {
   const embed = {
     title: (item.title ?? '(no title)').slice(0, 256),
     url: item.link,
@@ -114,6 +126,13 @@ async function main() {
   let changed = false;
 
   for (const feed of feeds) {
+    const channel = feed.channel || 'general';
+    const webhookUrl = CHANNEL_WEBHOOKS[channel];
+    if (!webhookUrl) {
+      console.warn(`[${feed.name}] no webhook configured for channel "${channel}", skipping for now`);
+      continue;
+    }
+
     let parsed;
     try {
       parsed = await withTimeout(parser.parseURL(feed.url), FEED_TIMEOUT_MS, feed.name);
@@ -137,7 +156,7 @@ async function main() {
       const ordered = [...newItems].reverse();
       for (const item of ordered) {
         const summary = await summarize(item.title, item.contentSnippet, item.link);
-        await postToDiscord(feed.name, item, summary);
+        await postToDiscord(webhookUrl, feed.name, item, summary);
         await sleep(POST_INTERVAL_MS);
       }
       console.log(`[${feed.name}] posted ${ordered.length} new item(s)`);

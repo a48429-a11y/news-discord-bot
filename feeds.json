@@ -1,14 +1,57 @@
 [
   {
     "name": "Reuters (via Google News)",
-    "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=ja&gl=JP&ceid=JP:ja"
-  },
-  {
-    "name": "NHKニュース",
-    "url": "https://www3.nhk.or.jp/rss/news/cat0.xml"
+    "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=ja&gl=JP&ceid=JP:ja",
+    "channel": "general"
   },
   {
     "name": "BBC News",
-    "url": "http://feeds.bbci.co.uk/news/world/rss.xml"
+    "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+    "channel": "general"
+  },
+  {
+    "name": "NHKニュース (日本)",
+    "url": "https://www3.nhk.or.jp/rss/news/cat0.xml",
+    "channel": "jp"
+  },
+  {
+    "name": "AP News (via Google News, 北米)",
+    "url": "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en",
+    "channel": "na"
+  },
+  {
+    "name": "South China Morning Post (中国)",
+    "url": "https://www.scmp.com/rss/4/feed",
+    "channel": "cn"
+  },
+  {
+    "name": "Euronews (via Google News, 欧州)",
+    "url": "https://news.google.com/rss/search?q=site:euronews.com&hl=en-US&gl=US&ceid=US:en",
+    "channel": "eu"
+  },
+  {
+    "name": "Yonhap News Agency (朝鮮半島)",
+    "url": "https://en.yna.co.kr/RSS/news.xml",
+    "channel": "kr"
+  },
+  {
+    "name": "Al Jazeera (中東)",
+    "url": "https://www.aljazeera.com/xml/rss/all.xml",
+    "channel": "me"
+  },
+  {
+    "name": "AllAfrica (アフリカ)",
+    "url": "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf",
+    "channel": "af"
+  },
+  {
+    "name": "MercoPress (中南米)",
+    "url": "https://en.mercopress.com/rss/latin-america",
+    "channel": "latam"
+  },
+  {
+    "name": "ABC News Australia (オセアニア)",
+    "url": "https://www.abc.net.au/news/feed/2942460/rss.xml",
+    "channel": "oc"
   }
 ]

@@ -28,6 +28,15 @@ jobs:
       - name: Check feeds and post to Discord
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          DISCORD_WEBHOOK_JP: ${{ secrets.DISCORD_WEBHOOK_JP }}
+          DISCORD_WEBHOOK_NA: ${{ secrets.DISCORD_WEBHOOK_NA }}
+          DISCORD_WEBHOOK_CN: ${{ secrets.DISCORD_WEBHOOK_CN }}
+          DISCORD_WEBHOOK_EU: ${{ secrets.DISCORD_WEBHOOK_EU }}
+          DISCORD_WEBHOOK_KR: ${{ secrets.DISCORD_WEBHOOK_KR }}
+          DISCORD_WEBHOOK_ME: ${{ secrets.DISCORD_WEBHOOK_ME }}
+          DISCORD_WEBHOOK_AF: ${{ secrets.DISCORD_WEBHOOK_AF }}
+          DISCORD_WEBHOOK_LATAM: ${{ secrets.DISCORD_WEBHOOK_LATAM }}
+          DISCORD_WEBHOOK_OC: ${{ secrets.DISCORD_WEBHOOK_OC }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: node scripts/check-news.mjs
 
