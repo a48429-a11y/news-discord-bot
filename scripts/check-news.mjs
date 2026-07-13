@@ -5,6 +5,8 @@ const FEEDS_PATH = new URL('../feeds.json', import.meta.url);
 const SEEN_PATH = new URL('../data/seen.json', import.meta.url);
 const MAX_SEEN_PER_FEED = 300;
 const POST_INTERVAL_MS = 1200;
+const FEED_TIMEOUT_MS = 15000;
+const FETCH_TIMEOUT_MS = 15000;
 
 const webhookUrl = process.env.DISCORD_WEBHOOK_URL;
 const anthropicKey = process.env.ANTHROPIC_API_KEY;
@@ -14,10 +16,28 @@ if (!webhookUrl) {
   process.exit(1);
 }
 
-const parser = new Parser();
+const parser = new Parser({ timeout: FEED_TIMEOUT_MS });
 
 function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+function withTimeout(promise, ms, label) {
+  let timer;
+  const timeout = new Promise((_, reject) => {
+    timer = setTimeout(() => reject(new Error(`${label} timed out after ${ms}ms`)), ms);
+  });
+  return Promise.race([promise, timeout]).finally(() => clearTimeout(timer));
+}
+
+async function fetchWithTimeout(url, options, ms) {
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), ms);
+  try {
+    return await fetch(url, { ...options, signal: controller.signal });
+  } finally {
+    clearTimeout(timer);
+  }
 }
 
 async function loadJson(url, fallback) {
@@ -32,24 +52,28 @@ async function loadJson(url, fallback) {
 async function summarize(title, contentSnippet, link) {
   if (!anthropicKey) return null;
   try {
-    const res = await fetch('https://api.anthropic.com/v1/messages', {
-      method: 'POST',
-      headers: {
-        'x-api-key': anthropicKey,
-        'anthropic-version': '2023-06-01',
-        'content-type': 'application/json',
+    const res = await fetchWithTimeout(
+      'https://api.anthropic.com/v1/messages',
+      {
+        method: 'POST',
+        headers: {
+          'x-api-key': anthropicKey,
+          'anthropic-version': '2023-06-01',
+          'content-type': 'application/json',
+        },
+        body: JSON.stringify({
+          model: 'claude-haiku-4-5-20251001',
+          max_tokens: 200,
+          messages: [
+            {
+              role: 'user',
+              content: `次のニュース記事を日本語で2文以内に要約してください。\nタイトル: ${title}\n本文抜粋: ${contentSnippet ?? '(なし)'}\nURL: ${link}`,
+            },
+          ],
+        }),
       },
-      body: JSON.stringify({
-        model: 'claude-haiku-4-5-20251001',
-        max_tokens: 200,
-        messages: [
-          {
-            role: 'user',
-            content: `次のニュース記事を日本語で2文以内に要約してください。\nタイトル: ${title}\n本文抜粋: ${contentSnippet ?? '(なし)'}\nURL: ${link}`,
-          },
-        ],
-      }),
-    });
+      FETCH_TIMEOUT_MS,
+    );
     if (!res.ok) {
       console.error('Anthropic API error', res.status, await res.text());
       return null;
@@ -70,11 +94,15 @@ async function postToDiscord(feedName, item, summary) {
     footer: { text: feedName },
     timestamp: item.isoDate ?? undefined,
   };
-  const res = await fetch(webhookUrl, {
-    method: 'POST',
-    headers: { 'content-type': 'application/json' },
-    body: JSON.stringify({ embeds: [embed] }),
-  });
+  const res = await fetchWithTimeout(
+    webhookUrl,
+    {
+      method: 'POST',
+      headers: { 'content-type': 'application/json' },
+      body: JSON.stringify({ embeds: [embed] }),
+    },
+    FETCH_TIMEOUT_MS,
+  );
   if (!res.ok) {
     console.error('Discord post failed:', res.status, await res.text());
   }
@@ -88,7 +116,7 @@ async function main() {
   for (const feed of feeds) {
     let parsed;
     try {
-      parsed = await parser.parseURL(feed.url);
+      parsed = await withTimeout(parser.parseURL(feed.url), FEED_TIMEOUT_MS, feed.name);
     } catch (err) {
       console.error(`Failed to fetch feed ${feed.name} (${feed.url}):`, err.message);
       continue;
@@ -128,7 +156,9 @@ async function main() {
   }
 }
 
-main().catch((err) => {
-  console.error(err);
-  process.exit(1);
-});
+main()
+  .then(() => process.exit(0))
+  .catch((err) => {
+    console.error(err);
+    process.exit(1);
+  });
