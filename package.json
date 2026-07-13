@@ -1,0 +1,13 @@
+{
+  "name": "news-discord-bot",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "ニュースRSSフィードを監視し、新着記事をDiscordに自動投稿するBot",
+  "scripts": {
+    "check": "node scripts/check-news.mjs"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Reuters (via Google News)",
+    "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=ja&gl=JP&ceid=JP:ja"
+  },
+  {
+    "name": "NHKニュース",
+    "url": "https://www3.nhk.or.jp/rss/news/cat0.xml"
+  },
+  {
+    "name": "BBC News",
+    "url": "http://feeds.bbci.co.uk/news/world/rss.xml"
+  }
+]
