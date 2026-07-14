@@ -244,7 +244,8 @@
     "http://www3.nhk.or.jp/news/html/20260715/k10015176941000.html",
     "http://www3.nhk.or.jp/news/html/20260715/k10015177011000.html",
     "http://www3.nhk.or.jp/news/html/20260715/k10015176981000.html",
-    "http://www3.nhk.or.jp/news/html/20260715/k10015176971000.html"
+    "http://www3.nhk.or.jp/news/html/20260715/k10015176971000.html",
+    "http://www3.nhk.or.jp/news/html/20260715/k10015176991000.html"
   ],
   "http://feeds.bbci.co.uk/news/world/rss.xml": [
     "https://www.bbc.co.uk/news/articles/c24yev53q06o#0",
@@ -326,7 +327,8 @@
     "https://www.bbc.co.uk/news/articles/c9q28dlyxrzo#1",
     "https://www.bbc.co.uk/news/articles/c0kymrz0vkgo#2",
     "https://www.bbc.co.uk/news/videos/cx2425dmpl3o#3",
-    "https://www.bbc.co.uk/news/videos/cd959ygx8g7o#3"
+    "https://www.bbc.co.uk/news/videos/cd959ygx8g7o#3",
+    "https://www.bbc.co.uk/news/articles/cpq3q75y40do#2"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
     "CBMilAFBVV95cUxQdjVKMkVWT1YxSlpySmVyaGhtQVF2Z0Q4aGRHSEFIWUVMUlZEX3hvcjFkY3Jtck9rZzdtNHZMZFBkUHc3TVdWU25zam5YRzlOSEo5OGIwamNCbkUwZVFld2I2Sy1rRHlmd0lkTVV3amtPODFRYWkzMWdfX1pQLVlhNWprYllUX2tWVzh5a09PR21ZTEsy",
@@ -494,7 +496,9 @@
     "CBMijAFBVV95cUxOaFNrNjhwbkhMdjZ0dTNVRjNuZl9Rc3NkM3NtX3VhWHhOVklKMG83TTdubWtBRHo4czJuUHVwMWpBaXpXZmFsRnRDc2RVSHl5NURNMUdrcVpWWjRrV25CWkdoVUdtVWVaRXpBbC0zSHF6ODRLbXptd2RCcTFXSUtHTE44U1RFMnF6QUg2Zg",
     "CBMitAFBVV95cUxOOGlUSjEtcGs2cXl3c3llbFhFNGtvcENoQkF5WTB0TVZVYnk4Y3o5TEZmcXREUjhFRFJBbDQwakM2WjF0S01nQ2ZhaWZaRXdJRk8yc3h2SVhrYTBrZkxpbGpRTWRHWm9Rc2RwRmJfOHNLREVRUzBYNDM3QjNXRF9aM0Rwb3lEc01EUDBKdWZrOVNMaElmZnh2eUI2dEZUWDdTc1pTOVVTaGFCMjN0WDJPaURrX1M",
     "CBMilwFBVV95cUxNOEF6RnpLaF9jU0tsSVNGdDZ4SW41OGZhMlplaTl3cExkUUJlS1g5Y2JveDRTbWFwa2RRWXlEdDgwTE9HNzc2aXVrdEltZ1JVcHhCdW5kd2JxOTF5MTNTb1l6ZDZIXzUxVnZaWVRjbTMtWTlRZjRCV2xORzcxYi1wNzRPdDN4cnlicno2aUhZdS1mN2R3X0F3",
-    "CBMikwFBVV95cUxNem9hWHVZSHg3WE0zdFBvdXd0UFlpaEFETGpxN1d5RVNhZnQ4UGNVMFFNTzNxVmEyUmY3NEVBQUlGM09GdFNhWkl5ampQcC0yVHZpZWFCMmNrS2kwbVplZjJXU3g4emVjYmJpVDZVZ1J0VWVIQmdaSjQ0Q1NWSlVvY201OTI5UFl6Y1BHR2YweXZOY0E"
+    "CBMikwFBVV95cUxNem9hWHVZSHg3WE0zdFBvdXd0UFlpaEFETGpxN1d5RVNhZnQ4UGNVMFFNTzNxVmEyUmY3NEVBQUlGM09GdFNhWkl5ampQcC0yVHZpZWFCMmNrS2kwbVplZjJXU3g4emVjYmJpVDZVZ1J0VWVIQmdaSjQ0Q1NWSlVvY201OTI5UFl6Y1BHR2YweXZOY0E",
+    "CBMikgFBVV95cUxNSURhX3FMdWtnTzItVmVORkhQbldIYkdDWmhlWTlkNUk5N0IwdE1ndVdoNl9nSlhCelo4dkVHb1E3aXB0SEFoUlU3cG84Nk5EeVN2RlBPdmt0Nzk0NnhsckowY1ZvNW5ZVkJNdWRLLVFZQ21BSVdGbzZpMmV5QXJiaHRaRFFIRnZKM3k1c2VKMkptUQ",
+    "CBMikAFBVV95cUxNUDlLanJfZnpqT0hONGJNLVl0eG5Hbk1lUkMwZ2tpaW5tR2RLcG9CZDNjMnoxU0VYbEFIUE96emJIWTd5WUUtZWNfNHlvZFdlaTUxRTVkN1Fma0tmNXNsYmZZWThjdE1UQ2lBcUwwYnBMUkQxM1c5UXhHT0dlSVhzRFlGNmZWU3dGR0M5cmJnRlU"
   ],
   "https://www.scmp.com/rss/4/feed": [
     "https://www.scmp.com/news/us/article/3360421/us-restore-iran-blockade-charge-fees-strait-hormuz-shipping?utm_source=rss_feed",
@@ -745,7 +749,8 @@
     "CBMizwFBVV95cUxOSVRORnNJVUQxaEVhLURyS3ppOE0xRG9DZXo2Znh6WS05Z19HSW54bjlKMTV0c1FJOFFCVmJJaTF5QTRxVDFzb3d6dDI1XzZsOUZZV0JyQU5Ic2phYVQ0a3pPRHRDWDlEQTFJekVrWXA1S2ZzQlUwRnJaY09IbHZmbTlBRWxocGxORzFDbUw2ZFF0Y3JYcFVhXzNhT1hXREt4MlBZQUpzbTdzT2dXbTlkOUdfc2t3eXZOZHRiTTU4ME8wVEk1SURMdkRZX0VPb0k",
     "CBMiqgFBVV95cUxOTGFNTUVsSXcwT0E1bUJKa2RRcHhyNTFLTGE5ZmxDbEJEZW5UTW5TVnFVM1RncDVnLTdGdU8xQTRVNkROR1FVQ2JRaW45US10cU5tdmpzTWo1Y2VuTXBvbWdiZmF0VldxZ2xjYmJjazNpNzU2U2pUNGZnUkFOZ19WTng2T19jdC1xeXlXMG5XckNJbUtiV1NDWjZFVVBFenRSaFh3cmhZcjRVUQ",
     "CBMivwFBVV95cUxNdjh6R3Foa0F1ZC1LZmdRN0tERmtOWkRtSVRFaVJDSzA0cW5icEw1c01nSXo4X1ppbUx2R2dENHEwZXBIdU5BSXAzLWZvZkZ2NkRTalJZYjE5cWxCWGtXTC1fTTRHTkw2SlJaYmo3enBKSmRnNTFaOG1TYS1UUmNhNkJQdm5oejFlUnJXU01LTURtSjVycDFQOVBmZmhWM1ZCLVpWZldhXzNPdVR6SWcwYzE3M3FGVEM2NlpvRnpscw",
-    "CBMirAFBVV95cUxPV1pVRFdiLVViRXg5am1GdjJJaU43MV92aTNKNzJWandhVXNobzEyQ3lNVjFqeUhxbEVoajFxUnRXSTQtaXJrVDU2QWExZVhUcWtTbnBERDhfLWVUb1F4bjV2Wlc0eUsyaWhtZEdJaXFEWDZOOVZnTDFzTmFTNUxhT1NoNjVPcHdRODRkXzFlSlNaUTcwckZyc1ZVQTNadXE4MFotSG9uS0twOFhJ"
+    "CBMirAFBVV95cUxPV1pVRFdiLVViRXg5am1GdjJJaU43MV92aTNKNzJWandhVXNobzEyQ3lNVjFqeUhxbEVoajFxUnRXSTQtaXJrVDU2QWExZVhUcWtTbnBERDhfLWVUb1F4bjV2Wlc0eUsyaWhtZEdJaXFEWDZOOVZnTDFzTmFTNUxhT1NoNjVPcHdRODRkXzFlSlNaUTcwckZyc1ZVQTNadXE4MFotSG9uS0twOFhJ",
+    "CBMiswFBVV95cUxPMXVLdDAyT250SzFyMzhjSFFEblJOMGxCNWJLalVta2xncWVmV0FMeXg5bnFTa2dsblgtV2lXRzZXWVVDaFRJQXJVQlUyS3hwa0pUOTJfUFZ4a1ZUTnVUbHEyVnp1ZlBxR1QwSzJWeTVIaTdrWFF1c1NzQmdhRXpESHJtbHJwMS1TS0EyQ1hpWS0yY0hGWG05OHpROWExYmhZYTYyYTB0VVJHSHBKQmF5YXY3SQ"
   ],
   "https://en.yna.co.kr/RSS/news.xml": [
     "https://en.yna.co.kr/view/AEN20260713012651315",
@@ -932,7 +937,8 @@
     "https://en.yna.co.kr/view/AEN20260715000600315",
     "https://en.yna.co.kr/view/AEN20260715000500315",
     "https://en.yna.co.kr/view/AEN20260714009200320",
-    "https://en.yna.co.kr/view/AEN20260715000352315"
+    "https://en.yna.co.kr/view/AEN20260715000352315",
+    "https://en.yna.co.kr/view/AEN20260715001151320"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
     "https://www.aljazeera.com/?t=1783925873",
@@ -1196,6 +1202,7 @@
     "https://www.abc.net.au/news/2026-07-14/shayna-jack-announces-swimming-retirement-comm-games/106915006",
     "https://www.abc.net.au/news/2026-07-15/world-cup-live-blog-semifinal-france-vs-spain/106915652",
     "https://www.abc.net.au/news/2026-07-15/nrlw-players-eye-off-longer-season-full-time-salaries/106916332",
-    "https://www.abc.net.au/news/2026-07-15/pogacar-powers-to-third-stage-win-to-demoralise-tour-rivals/106916250"
+    "https://www.abc.net.au/news/2026-07-15/pogacar-powers-to-third-stage-win-to-demoralise-tour-rivals/106916250",
+    "https://www.abc.net.au/news/2026-07-15/world-cup-quick-hits-spain-france-lamine-yamal-folarin-balogun/106916262"
   ]
 }
