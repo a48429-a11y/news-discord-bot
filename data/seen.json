@@ -206,7 +206,8 @@
     "CBMigAFBVV95cUxOSFJtUGhXZWRXVVM1NVE0RU9CM0Fwd1B6cDljRTRWMlZ1QWl2VkZCTGtGRWk4UU9lMGtqS0xNQ3E4VlNwODhZbGZPV24wRndVaFpGTFJSUjN6X1NjYUhMY2NRSUltckh2SThSYjdmRFRsYXhsSThpdmdFTlowN21rZg",
     "CBMiggFBVV95cUxOY0RGYUpHQ0VBakF0dGJEY2FKU1l3cWVyOU9EZkRzVHJ2bEMzalJ4WXNnRVV3YzBhNmZsd3hNUWdHLW90NWc5ZzN4cWhWWGFKUEVGQlFWV3RocmlMb1dGTWNpZDQxaXRybEJMOGFZYVBBNTA5ejVseUdSbGV4UDRZeEN3",
     "CBMigAFBVV95cUxQWERLOHZjUXVKaEduNEM5UW9tbkxzUE1RRHg0bWNudU5QYnVLN3U0dVpHZ04taXV5QWF6MHYwOWNPejVPOXdLYWdSWkhnOElidzJOYjFScktwMURZOWlLOGZhV1puY0dTd0ZsU193WUNaVnQ3SExzTHZ3WnpQMUJmbQ",
-    "CBMigAFBVV95cUxPQ2x4aGhXUjJTZUVmbDRneTg4aEdQM3BjamtRSEl5b1Z4Y0FtckFZODRSUkdXQ3FGcjRrZWQ0Rnl2OHZwYlBoaFhZb2RsXzRJQ0FlUkV4MGV0OEVSczhzMzViYzZLQlRRN1BYc0JLRl9OWWdJYjIzeDJOOGpUYjM0Wg"
+    "CBMigAFBVV95cUxPQ2x4aGhXUjJTZUVmbDRneTg4aEdQM3BjamtRSEl5b1Z4Y0FtckFZODRSUkdXQ3FGcjRrZWQ0Rnl2OHZwYlBoaFhZb2RsXzRJQ0FlUkV4MGV0OEVSczhzMzViYzZLQlRRN1BYc0JLRl9OWWdJYjIzeDJOOGpUYjM0Wg",
+    "CBMiekFVX3lxTFBLbDkyWVdVVlJtaDRfdFZhcUZIc1pTWDNGUDZmTk1laTVCS24tanNxQWNpYkZPNjhWZEZaZVQtNnN4UXplTHBxUWNGVDVSeFl6ckM1OE9HbG9lR3ktbU5hWWl1bzBxaGZRSGtCNjliVG16ZFB0RExCWmhB"
   ],
   "https://www3.nhk.or.jp/rss/news/cat0.xml": [
     "http://www3.nhk.or.jp/news/html/20260713/k10015175581000.html",
@@ -260,7 +261,8 @@
     "http://www3.nhk.or.jp/news/html/20260715/k10015176971000.html",
     "http://www3.nhk.or.jp/news/html/20260715/k10015176991000.html",
     "http://www3.nhk.or.jp/news/html/20260715/k10015177231000.html",
-    "http://www3.nhk.or.jp/news/html/20260715/k10015176951000.html"
+    "http://www3.nhk.or.jp/news/html/20260715/k10015176951000.html",
+    "http://www3.nhk.or.jp/news/html/20260715/k10015177251000.html"
   ],
   "http://feeds.bbci.co.uk/news/world/rss.xml": [
     "https://www.bbc.co.uk/news/articles/c24yev53q06o#0",
@@ -982,7 +984,15 @@
     "https://en.yna.co.kr/view/AEN20260715002300320",
     "https://en.yna.co.kr/view/AEN20260715001351315",
     "https://en.yna.co.kr/view/AEN20260715003100320",
-    "https://en.yna.co.kr/view/AEN20260715003000315"
+    "https://en.yna.co.kr/view/AEN20260715003000315",
+    "https://en.yna.co.kr/view/AEN20260715004200320",
+    "https://en.yna.co.kr/view/AEN20260715001352315",
+    "https://en.yna.co.kr/view/AEN20260715004600315",
+    "https://en.yna.co.kr/view/AEN20260715004500315",
+    "https://en.yna.co.kr/view/AEN20260715004700320",
+    "https://en.yna.co.kr/view/AEN20260715002600320",
+    "https://en.yna.co.kr/view/AEN20260715004400315",
+    "https://en.yna.co.kr/view/AEN20260715003200315"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
     "https://www.aljazeera.com/?t=1783925873",
@@ -1142,7 +1152,11 @@
     "https://www.aljazeera.com/?t=1784060546",
     "https://www.aljazeera.com/?t=1784070246",
     "https://www.aljazeera.com/?t=1784074364",
-    "https://www.aljazeera.com/?t=1784070465"
+    "https://www.aljazeera.com/?t=1784070465",
+    "https://www.aljazeera.com/?t=1784081759",
+    "https://www.aljazeera.com/?t=1784081969",
+    "https://www.aljazeera.com/?t=1784073019",
+    "https://www.aljazeera.com/?t=1784080651"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
     "https://allafrica.com/stories/202607130138.html",
@@ -1250,6 +1264,11 @@
     "https://www.abc.net.au/news/2026-07-15/world-cup-live-blog-semifinal-france-vs-spain/106915652",
     "https://www.abc.net.au/news/2026-07-15/nrlw-players-eye-off-longer-season-full-time-salaries/106916332",
     "https://www.abc.net.au/news/2026-07-15/pogacar-powers-to-third-stage-win-to-demoralise-tour-rivals/106916250",
-    "https://www.abc.net.au/news/2026-07-15/world-cup-quick-hits-spain-france-lamine-yamal-folarin-balogun/106916262"
+    "https://www.abc.net.au/news/2026-07-15/world-cup-quick-hits-spain-france-lamine-yamal-folarin-balogun/106916262",
+    "https://www.abc.net.au/news/2026-07-15/aflw-frustrations-linger-with-stadium-and-venue-use/106911126",
+    "https://www.abc.net.au/news/2026-07-15/mollie-ocallaghan-broken-back-commonwealth-games/106917776",
+    "https://www.abc.net.au/news/2026-07-15/scottish-traffic-cone-welcomed-in-boston-amid-world-cup-links/106916512",
+    "https://www.abc.net.au/news/2026-07-15/crows-defender-josh-worrell-to-face-court-over-crash/106917162",
+    "https://www.abc.net.au/news/2026-07-15/france-falters-at-first-real-hurdle-as-superstars-fail-to-shine/106916868"
   ]
 }
