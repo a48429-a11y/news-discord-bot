@@ -1,6 +1,5 @@
 {
   "https://news.google.com/rss/search?q=site:reuters.com&hl=ja&gl=JP&ceid=JP:ja": [
-    "CBMigAFBVV95cUxQbEcybnRoYmQxMkxJLVVuYW1SWXk1YWlTOVRhWi1JaEFkbW1FRmhKZ28xUDRGZ01MMDRGb0c2QUVaazJmeUo0aVFDRzM0VC05Ylllc2JLRW1DOUxmM0xQZnFYM2RKSzg5ZURKZG9yOHZaNE5uUmdCNzQ2RzBYTVJReA",
     "CBMif0FVX3lxTE1SUnBpcHA4RngtWXlNUUREWTBMMjZEUlJ5enJzYlQ5VVI2blVVM3RwaXNWN21ubU1kYTFEV2VtNFhnVnlRVmhIRC0wbnlnTTVJb2NQZTRBS0ZxVGFkYTNPanlqX2RQcEo2Q2VMSU9LNFlua1VDRlNmZ1hfdmVwLTg",
     "CBMigAFBVV95cUxOSl9GS205N1hiYkxzR3B4M0pOaG5aZGdiUlZ2NFJCQlhFbm04SXhQYXZPUWdPUWdFc3VXWUh5V3l2enJ2cjFub216TFpuZTk3UVBJdmtGb1VvYzdqTmRqQVZEZExseVVYcXlIWW5iXzQtcTBHeUFneElTbG5uazFCUA",
     "CBMieEFVX3lxTE03Z1NWanRfcGFjRm9XeHNZdmUxaVNENVBkdktrdkF4VzQtb2hpTW45eWkyNmlJMzNjVi02WmFDQWhfTGw4QlBMSWVlbTBPZE9iVmVaUUwxWWpYSzhRNWw0bmJJRENhVFpnRHlpaVlCM1N6eURMQWVaQQ",
@@ -299,7 +298,8 @@
     "CBMigAFBVV95cUxPRkpFcE81Z0VMZ0FVTTJmWE04TC12WU5pdFU4U0FIOEh1M2RNY3RmbXVoT3E5bFhDYU9FWk54R3RtYURmdzdHSmZKLWVteWZULTFMYlBGbGsxejkyYlJPVVBjQm9XQUZLNTJWSWM0VUZxaGRkcVFoT3FyUDVyenlPQw",
     "CBMigAFBVV95cUxPcVJLUC1uUnozUVRMaV9uVXNtcmpNQWVWRTM4WmxIaUtCMjRiM0gyTzRlak1pX3plbFFvbnphaDJIaFIzel9UU0dHdWxJTDFfVFVyV2VzR1NTZ0t6R0I4RklxSGVBc1oxUEljZzVCWkZ0VXRib0NkZUZUU2x2NFB0Tw",
     "CBMidkFVX3lxTE5XaThEZjEwcjhuZ0NrOTAwN1JWS0FwREJseFJZeVB3aEhCVUJ3WFdRT1JXMW5fUUpreHpsX25kLTZhSXREc1Bvam5keS1iVGV5b3VfN29EeF96MlBNS3E3OEQ4eVJzNTlnVzBFZS1mejR6eFFOeFE",
-    "CBMieEFVX3lxTFBiZ0ZlX2VtbFBHeDVWM0VmOEp3NDUwSmNWRGZsX21LaUcyQllMVjRlS2ltX3RSLWg5V2lRV0ZoaWhHend5QkNxVFVWdzE0QUxWYzg2N2ZYSmhaTjVSNkR4UHdOWmpIdDA3ZHBzOWtLbzYxczFKcm9kaQ"
+    "CBMieEFVX3lxTFBiZ0ZlX2VtbFBHeDVWM0VmOEp3NDUwSmNWRGZsX21LaUcyQllMVjRlS2ltX3RSLWg5V2lRV0ZoaWhHend5QkNxVFVWdzE0QUxWYzg2N2ZYSmhaTjVSNkR4UHdOWmpIdDA3ZHBzOWtLbzYxczFKcm9kaQ",
+    "CBMieEFVX3lxTE5OcWZqYXVjMGxGMUd2OFdZYXRRUDlSNWFldjVNelppcTBRZDhYbksydXVGRFpZalBOdmpNdUlESkdOM3FOZXVkbzRKZzRGeEliRW5Kb3VwaXpvT3pxRXhOZDkwVGdwaGY2bHpYM2Qtc2dQMEdlbkc5eA"
   ],
   "https://www3.nhk.or.jp/rss/news/cat0.xml": [
     "http://www3.nhk.or.jp/news/html/20260723/k10015184541000.html",
@@ -1510,7 +1510,6 @@
     "https://www.scmp.com/news/china/article/3363365/unionpay-plug-chinese-payment-apps-brazils-pix-after-us-tariffs-over-system?utm_source=rss_feed"
   ],
   "https://news.google.com/rss/search?q=site:euronews.com&hl=en-US&gl=US&ceid=US:en": [
-    "CBMinwFBVV95cUxNU1V3dUJHdFcwell5TmRYbm9oQnJyYTZ0ODFueS12Mlkxd1RHWnNHR1E0V0JIQ09HbWMwNEJJaWlvZGUwdVhTVzVpbU95V01xVVRzTkpvSkJpVlQ3OGpDTGNfVmlrS1ljV2k5TkM3d1RMYlVRVmpyMWk5eG1UaWFIMUZjZktEd01IX2JsN3MtbGdGVWpHRmxVaGk3bzRiOXc",
     "CBMizgFBVV95cUxNMUF5T3JLck4wMDVTcTN6c3dRZ2ZpRFduZ0p0RHJJd3EzcW1vY3UtbFpvdVhQbzVzeXNGSWhIVkNabHdZcjA1cTA5Wi1wMHpCOF9tU1Y1SXNTOHV3eTd4aFhzamN3TWNPTVBvakpjTUxDc0ZrRHkzaWRKS2lWVkNleHotaGlVVmcwaGIyZTBvZ1lHSHBrMnV1QnJ2QkpGRTVOOUJnem5KWUwxNndpaHRGLWZteTJQbTlMRXFGSlk3OEh1SmNTcGNuZ3N4N3o1QQ",
     "CBMijwFBVV95cUxPMndxZ0J4aFRrQkJZenM0N2VvRC1xZE9WOFcxTkRsSEtvMnN0SFB2emhTSUZKQXpXWndQVU9qdHQ0OG9VR3ozUzBad0FtV1cyUlpDdXhXR3U0NG1pOHNPWGdhR1NqNHpxakNMMjYtWWphNHBxajNKamhVbHdkUFZKcEFIR3A1LWlfeWpQbFgzdw",
     "CBMiwAFBVV95cUxNWFNRc182QkV1NFZjN1RseGNvUUZYeHY0Q2dqbERhWk5fMlhXNGtxdW5WZDZBNm5SYXJuWDNLODluMmdMejVVYXZ1ZmpueC12VnhUTi1IVEItaHlpclpqREYzZmUyekRxdXFGRnhRZ1NhNEtDYUFMc09yV1o1UDBOYXNYaTE4M2o0amo2ZmVMRjFleV81RlN4aXR4ajNqd2tTN0VLS3NlSE9lMTFQVEdod0lLbDFMc3Z5Ry04LW9vVzk",
@@ -1809,7 +1808,8 @@
     "CBMitgFBVV95cUxQVTdkWkJTM080dG93Y0hNQjUtaU9OQlNFX1BGSWNiTTN2czVhZTk2c3I0T054dEFoNHFWMW14aUFxcm1yb3J0YmxCOFJWZGNZWFFTT18xcFdBMWpFQlA5eG1XamswQl95MDJGVDVEZmZGeFBrOWQ3a2JjZDROZkJOclp5Z09WeHlvRG15LTU3eGcwR3hlZ0xaSFFMd1oyak9kQ24wNlk0enk2Ukw2VU82QU1rWDNSZw",
     "CBMiwAFBVV95cUxOVVNjNzFoeUIyR2wxamp3QmU5UDAzVkEyUGVrbTRnZUpFWkRmSk9mSmp5S1NMTVFlTHplZlF1WUhodXpaQkNDOC1IOFlsYlNmRlBPUWg1cGVKbjFSM2pOd3F6S0RvR0FqTTFqOG5wblQyRTAwWDRndHY5UzdNaWRub0VkdkJNVGUtMGlZMkx1ZmtzZ09SckdXS2VYaF9oZVpYX0VvUXB5LTR6WmtQOU53M2V4MzQ3WEIzVThlWlgybVo",
     "CBMi0gFBVV95cUxNMmlhZGlWVGY1SDdFcmxXbjVpOVppMWlkOWp3M0RJcmNpOTFxVFIwdFYwZjVkQl91SmM2SjJmSU9YSHdDakJsMV9OUWhWQnR2WDhoektxcHk0TWNnU3U3Y2plOVI4TnU1emk5ekFSVFVMRTBJNGNJdTB6TGxVMS1WclVHWGFlbjFVNnVQWncycEV3bjRNNks3QUhnanczMlVHOVAzV25fbFpsOHFsRGY3U0RRWHcwM09wdEk2MG9xQmdLUkxNdE9mUG1YMlBGR2ZXX3c",
-    "CBMivAFBVV95cUxOV3l1eEJiemhGcGdDa3ZjNGFPcFZNaDlwazVLZk9tbkJVVTVabkV6aUJmTXJLRnlCT0E0LTdoNnRJMmtQWUpIc3VwNmtsbmlKSVJ1bUhIbWZHY3RfdGRnYnlpakZRbmRXOUVEeGd3RERMREE2RFQ1d2lqdWN1V2taakdFWEpGU2NaNGNxazFUbDFXTlZrbUZWRHExUW11WDVyUVlDc0YtUWtUdThRRjhwSW40bW9SOGxiUnZyOQ"
+    "CBMivAFBVV95cUxOV3l1eEJiemhGcGdDa3ZjNGFPcFZNaDlwazVLZk9tbkJVVTVabkV6aUJmTXJLRnlCT0E0LTdoNnRJMmtQWUpIc3VwNmtsbmlKSVJ1bUhIbWZHY3RfdGRnYnlpakZRbmRXOUVEeGd3RERMREE2RFQ1d2lqdWN1V2taakdFWEpGU2NaNGNxazFUbDFXTlZrbUZWRHExUW11WDVyUVlDc0YtUWtUdThRRjhwSW40bW9SOGxiUnZyOQ",
+    "CBMiowFBVV95cUxQM1g5ZnFsNWc5Ny1haE1sQ3hWSTBQSmg5c080SVJuYTI5bEtqTlh3Z1NYaFFpRGJxaFl0bTllci1xN25KNWV3b0RxRFl0MHR1TWhNc1U2eDRDLW54dFB3R05CWkNMSlRsN1VkdU1MM2FfSEpCdzc1cnpyZXhuQ0dkcTBWMTlQbjZnWVBZSHRGcWlWRXUyd0gtamlaU2NJcEhKS1RF"
   ],
   "https://en.yna.co.kr/RSS/news.xml": [
     "https://en.yna.co.kr/view/AEN20260803002400315",
@@ -2758,7 +2758,6 @@
     "https://en.mercopress.com/2026/08/07/venezuelan-government-and-opposition-open-us-backed-talks?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss"
   ],
   "https://www.abc.net.au/news/feed/2942460/rss.xml": [
-    "https://www.abc.net.au/news/2026-07-17/paige-raddatz-racing-kyojo-cup-female-series/106744080",
     "https://www.abc.net.au/news/2026-07-17/world-cup-2026-spain-training-in-hazardous-wildfire-smoke/106926268",
     "https://www.abc.net.au/news/2026-07-17/world-cup-final-spain-vs-argentina-when-where-how-to-watch/106926254",
     "https://www.abc.net.au/news/2026-07-17/the-open-2026-australians-struggle-as-jackson-suber-leads/106926034",
@@ -3057,6 +3056,7 @@
     "https://www.abc.net.au/news/2026-08-07/travis-head-wins-second-consecutive-allan-border-medal/107010836",
     "https://www.abc.net.au/news/2026-08-08/adam-hunter-mother-accuses-afl-of-cover-up-on-brain-injury-cte/107008390",
     "https://www.abc.net.au/news/2026-08-08/aflw-women-dual-jobs-caitlin-reid-emily-pease/107001096",
-    "https://www.abc.net.au/news/2026-08-08/afl-geelong-faces-please-explain-over-concussion-contract/107012364"
+    "https://www.abc.net.au/news/2026-08-08/afl-geelong-faces-please-explain-over-concussion-contract/107012364",
+    "https://www.abc.net.au/news/2026-08-08/tour-de-france-femmes-new-leader-after-stage-seven/107012414"
   ]
 }
