@@ -604,9 +604,6 @@
     "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html"
   ],
   "http://feeds.bbci.co.uk/news/world/rss.xml": [
-    "https://www.bbc.co.uk/news/articles/c0m78k3k31jo#1",
-    "https://www.bbc.co.uk/news/articles/c9w01781981o#1",
-    "https://www.bbc.co.uk/news/articles/c0m78xl1k2po#1",
     "https://www.bbc.co.uk/news/videos/cly8xzmwpvmo#1",
     "https://www.bbc.co.uk/news/articles/clyx83l8jv8o#2",
     "https://www.bbc.co.uk/news/articles/c0km3d2j6mko#2",
@@ -903,7 +900,10 @@
     "https://www.bbc.co.uk/sport/football/articles/c70gn3w5ek5o#0",
     "https://www.bbc.co.uk/news/articles/cdewx6rew04o#1",
     "https://www.bbc.co.uk/sport/basketball/articles/czekj4wg41po#1",
-    "https://www.bbc.co.uk/news/articles/cewr8wel4z8o#0"
+    "https://www.bbc.co.uk/news/articles/cewr8wel4z8o#0",
+    "https://www.bbc.co.uk/news/videos/cvg8je12xxeo#0",
+    "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo#1",
+    "https://www.bbc.co.uk/news/videos/cvg8je12xxeo#3"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
     "CBMinAFBVV95cUxOaWdYaEZOVkwyNjZObXZkSEYtNGcwbE41RXRzQkFsV042bFFNMElSRGUxbF91UWM4SDcyRHJQcjNDVW83Nk0yREgtZUM5OXVER3NVU2dtME5UUlk5cDI3cmQ1Rll6S0w0ZHExR1dFTjJOSGJNWGRRSlJSTUYwdUtsMDlta3g1V3I2Tld1N29qd1N3V25wLWh5X194cHU",
@@ -2114,7 +2114,6 @@
     "https://en.yna.co.kr/view/AEN20260808002200320"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1785845347",
     "https://www.aljazeera.com/?t=1785861607",
     "https://www.aljazeera.com/?t=1785859037",
     "https://www.aljazeera.com/?t=1785835495",
@@ -2413,7 +2412,8 @@
     "https://www.aljazeera.com/?t=1786200808",
     "https://www.aljazeera.com/?t=1786195959",
     "https://www.aljazeera.com/?t=1786109062",
-    "https://www.aljazeera.com/?t=1786205159"
+    "https://www.aljazeera.com/?t=1786205159",
+    "https://www.aljazeera.com/?t=1786182558"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
     "https://allafrica.com/stories/202607150015.html",
