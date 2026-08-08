@@ -2114,7 +2114,6 @@
     "https://en.yna.co.kr/view/AEN20260807005000315"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1785903198",
     "https://www.aljazeera.com/?t=1785904553",
     "https://www.aljazeera.com/?t=1785901681",
     "https://www.aljazeera.com/?t=1785897758",
@@ -2413,7 +2412,8 @@
     "https://www.aljazeera.com/?t=1786216177",
     "https://www.aljazeera.com/?t=1786217380",
     "https://www.aljazeera.com/?t=1786222799",
-    "https://www.aljazeera.com/?t=1786194459"
+    "https://www.aljazeera.com/?t=1786194459",
+    "https://www.aljazeera.com/?t=1786220480"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
     "https://allafrica.com/stories/202607150084.html",
@@ -2759,8 +2759,6 @@
     "https://en.mercopress.com/2026/08/08/de-la-espriella-sworn-in-before-congress-in-cali-delivers-first-speech-to-the-military?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss"
   ],
   "https://www.abc.net.au/news/feed/2942460/rss.xml": [
-    "https://www.abc.net.au/news/2026-07-17/bmx-racing-world-championships-2026-brisbane-lauren-reynolds/106926474",
-    "https://www.abc.net.au/news/2026-07-17/world-cup-2026-uk-government-on-falklands-banner/106926680",
     "https://www.abc.net.au/news/2026-07-17/afl-rd-19-live-swans-crows/106913082",
     "https://www.abc.net.au/news/2026-07-17/melbourne-storm-injury-crisis-deepens-in-loss-to-rosters/106929508",
     "https://www.abc.net.au/news/2026-07-18/glasgow-commonwealth-games-future-relevance-swimming-athletics/106772774",
@@ -3058,6 +3056,8 @@
     "https://www.abc.net.au/news/2026-08-08/tour-de-france-femmes-fans-broadcast-row/107002508",
     "https://www.abc.net.au/news/2026-08-08/wallabies-vs-japan-first-test-live-scores/106999438",
     "https://www.abc.net.au/news/2026-08-09/discrimination-barriers-sporting-success-elite-disabled-athletes/106976092",
-    "https://www.abc.net.au/news/2026-08-09/saimoni-vunilagi-dies-aged-26-from-suspected-heat-stroke/107013866"
+    "https://www.abc.net.au/news/2026-08-09/saimoni-vunilagi-dies-aged-26-from-suspected-heat-stroke/107013866",
+    "https://www.abc.net.au/news/2026-08-09/nfl-hall-of-fame-roger-craig-announces-dementia/107013916",
+    "https://www.abc.net.au/news/2026-08-09/tour-de-france-femmes-demi-vollering-reclaims-yellow/107013888"
   ]
 }
