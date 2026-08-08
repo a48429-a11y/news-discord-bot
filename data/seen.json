@@ -604,7 +604,6 @@
     "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html"
   ],
   "http://feeds.bbci.co.uk/news/world/rss.xml": [
-    "https://www.bbc.co.uk/news/videos/cly8xzmwpvmo#1",
     "https://www.bbc.co.uk/news/articles/clyx83l8jv8o#2",
     "https://www.bbc.co.uk/news/articles/c0km3d2j6mko#2",
     "https://www.bbc.co.uk/news/videos/cvg0nlkmzewo#3",
@@ -903,10 +902,10 @@
     "https://www.bbc.co.uk/news/articles/cewr8wel4z8o#0",
     "https://www.bbc.co.uk/news/videos/cvg8je12xxeo#0",
     "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo#1",
-    "https://www.bbc.co.uk/news/videos/cvg8je12xxeo#3"
+    "https://www.bbc.co.uk/news/videos/cvg8je12xxeo#3",
+    "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o#1"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
-    "CBMinAFBVV95cUxPZVlvOGtkVG5TUXN5M1J0aFBMdllQN3pFQjZIcE4zUGFGakVEQm9hcFhrMUhRbmpCOEdZdGg3SEp4WTY4VWp2OXE0UFN5YlZtSHpoWE05Tmg4YnphV0NnYm5qeUlTRHZ0aWlReTA3OHp2MWR1MlNzRkpGQ3JqVDhLeEI5TzkzZDhYVmJURUlfamRybTZMb2RtWklneEw",
     "CBMivAFBVV95cUxNTnE2clhGSzhVY192V0ZoZGVCWGhJU1lWZ2tEeklTcC03dTJaU1lXMWU4LW1YbXNQcjg2QS1fQnFZd1hnM0dfbkdCSUx1Um9YcUV5bjB2bzZjMG02T2ZCQk1BR0M1U2FVZWN1NUtOZDZoclZYaHdNQ19iR1BvMG9xN0lsSjZjZWxLb2dSc1VBSDRPSzA0cGtvTGtiZGFMTmpYcjRPb09vb1NLVkxUTE9fby1VOVJ0Um9QdzMzTA",
     "CBMiigFBVV95cUxOMkZBc2EyUTBGNGVvb05KazlBQVpWNWNrcFktRGdNN0F3SkpfdlRVTzhLLV9EM1hWQkdqaS1Wd2Jsc0wzWWkwbV9jcVppcTZ0WHIzQlBpcmVqZV93QTVhaHlHMUh1NjA0clR6VVBjTlhLdTdBZ0hOWEtTcUV4NHZ5aG9fTjk1eEpwamc",
     "CBMirgFBVV95cUxObUFlVDNrWE5rTUQ1VllrejdjQkk0eWFUaWVHOU1LdGxoU2dKTXNCVldFV2VfVFI5QUxyTGJQVkhoclJYd0o2eUtNQ1NFdF8wNWMzbHJoNWNkXzVUNC16cEhhUjJURUc4SDJCNTJ4U255TnBQM2VfSlYwQUVFOHZLMmFVSjcwZWhkRG5QOEpESEZ2MGE0M2RFREtMZ05Nal96eXNGaWJZYXU5VmFwaFE",
@@ -1205,7 +1204,8 @@
     "CBMivgFBVV95cUxONHBEUUlsdUlIcC1vM0pPSm9IUk9fdnRseE15OXFhN3FRTHRqa0dEcmR4aXVjMmJMLVEyMzNsWDlnaFFLRkRKRkQyb24tTC1MNjBGMVcwa2cyeXczemdMY3AtX2x4TENBWmc4S0Nqbm5COEd6NmVhNEN4MjVPajdrd3UyQ0FsRXoxU0JTdm1BTTBCRjVzcmZ3WTJVNVZ1Y3JFV3owRzBGQXNIVXBiSUVKZ2FJZUpxeUdJZzNFaWhR",
     "CBMiowFBVV95cUxNTWExbm9XZElnSDJPRjBmZ1pyTW50V2REa0hDWXpxR2FxLVRSUHVZTm5DYVZLYlkwTnN0ZWRLMDBwaGc4QlprU293SkRkQVVIZV9sNjJNTDZ3c1VaWU1DRDQ0enZ2c0xBdzVxdVFQdEdpamVucUFSNW1qR19scVVWemhJWDg1dUdQSGFrOTJHWmpNQzF4T1N0Qm5pb2FZRllEQ3Vn",
     "CBMif0FVX3lxTE9PMmlaYU5Yc2ZlZTBMd2ctX0lFdDlMTWpQMHJvdlNIT3lKVWkyWGZfeWljUm5CeElsRElBMG1uZ05wTGlZTHY2ajVhUWVmSk9WOUVQalhlR2tjcy02ZUVqVFNGSU1TS1NMcUEwR21nY3JSRC1pbG9mQ2pDN2U4REU",
-    "CBMirwFBVV95cUxNVVFqcS02ZHV5ZjlaeVFZdTlteEs3VjRqcVhQN3hxZHRQYjFjNUhKenE5MnVQR1J3R1d0cTA2NXJGTHZfcjU0RXM0T0dvSHFUUWItbktmV3JLMVFPaURkMzh5RUhCQmRyY3JUb3NNWGJqSlZvYXhBdzFfeU5hY3d6YVRMRkg5SWt4ZVJSVUpJZWxuYi0tZ2ExbXd5SGdmQzVWWnRvOE5JUm9HOXk4LUVV"
+    "CBMirwFBVV95cUxNVVFqcS02ZHV5ZjlaeVFZdTlteEs3VjRqcVhQN3hxZHRQYjFjNUhKenE5MnVQR1J3R1d0cTA2NXJGTHZfcjU0RXM0T0dvSHFUUWItbktmV3JLMVFPaURkMzh5RUhCQmRyY3JUb3NNWGJqSlZvYXhBdzFfeU5hY3d6YVRMRkg5SWt4ZVJSVUpJZWxuYi0tZ2ExbXd5SGdmQzVWWnRvOE5JUm9HOXk4LUVV",
+    "CBMiqAFBVV95cUxNcFVjUWlQRWxQVk1KR2xvem0zOEJkUFVGcjBaNjdCU3dxQkU5Wml4VURmVDRHcVgxekM3ejFLa1Utc1YzRlhhaVJCd0FqWEJGaEQwRGwxbGpYTjdUejlxbXBhQ3hHMmUxaFgyTEgtOEh1LWhhZ2xRQW9oaVBDdUY3TEhpQkxRNjEzdExucFBIWms5OTlqYjlQaWlXcTZ4eThjZHg2MmxlMlA"
   ],
   "https://www.scmp.com/rss/4/feed": [
     "https://www.scmp.com/news/world/europe/article/3361261/chinas-li-congratulates-andy-burnham-becoming-britains-new-prime-minister?utm_source=rss_feed",
@@ -2114,7 +2114,6 @@
     "https://en.yna.co.kr/view/AEN20260808002200320"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1785851542",
     "https://www.aljazeera.com/?t=1785853521",
     "https://www.aljazeera.com/?t=1785858121",
     "https://www.aljazeera.com/?t=1785838455",
@@ -2413,10 +2412,10 @@
     "https://www.aljazeera.com/?t=1786182558",
     "https://www.aljazeera.com/?t=1786202969",
     "https://www.aljazeera.com/?t=1786204285",
-    "https://www.aljazeera.com/?t=1786200426"
+    "https://www.aljazeera.com/?t=1786200426",
+    "https://www.aljazeera.com/?t=1786212178"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
-    "https://allafrica.com/stories/202607150015.html",
     "https://allafrica.com/stories/202607150084.html",
     "https://allafrica.com/stories/202607150029.html",
     "https://allafrica.com/stories/202607150021.html",
@@ -2715,7 +2714,8 @@
     "https://allafrica.com/stories/202608070666.html",
     "https://allafrica.com/stories/202608070751.html",
     "https://allafrica.com/stories/202608070756.html",
-    "https://allafrica.com/stories/202608080045.html"
+    "https://allafrica.com/stories/202608080045.html",
+    "https://allafrica.com/stories/202608080079.html"
   ],
   "https://en.mercopress.com/rss/latin-america": [
     "https://en.mercopress.com/2026/07/11/four-held-in-ecuador-over-migrant-smuggling-network-to-the-united-states?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss",
