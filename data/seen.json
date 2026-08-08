@@ -1,6 +1,5 @@
 {
   "https://news.google.com/rss/search?q=site:reuters.com&hl=ja&gl=JP&ceid=JP:ja": [
-    "CBMif0FVX3lxTFBEWTlRZXRQUVR3cEt2ZFA0ZTlJdklHRFlpd1dWcmN2ZHNIamIydy1rLURRSkdQQVRudlkyekd5dE0xNnNhZ3loWkx0V2hrTXpvLVpYamhNWWc2aVB3M3JXM1l6UnVHcG1RTkpyS2lLQ3hwRWZ5cXNNbFdaMEpmc3c",
     "CBMigAFBVV95cUxPUWxxbVkwYm10STcybHAtMWR3QVlNeGRVMjNSUlEtbE16VFBEZV9KQVRZTm4wNWx0NDJuR3dtaWl5VjJkNDFYeXZQOVFEc0pCVC1OTVlabTd0cnVBYV9SM1JGZGc4bzlBeDFYcEhLTTlHZzhOZVh2bTBEYWdqZmYwNw",
     "CBMieEFVX3lxTE4ybW1SNGF2dzdLaUFuRlFRbHdXUDVBVThNdHo1cHMwNHJpTnJ5WF9VR3ZHc0IyRmZwNWh6RXpCVTduTC1Oc1VocjYtNGZ1cl8yVDhDVnluQzRwSjBRX0U5SkluS3I4NHRjeWl3akE5VDlESFhTMmFfcg",
     "CBMieEFVX3lxTE1vM1RtVmlXam13VzJMMnFJM1ZjQ1JxNktDVlhfUXVEenl4MmtyVGtPUnk4RUFweHVRbDNJU2JmU0FCdTdITE51ZHRvR2xSN3NwU1pqVjZ3OHFISUEwX0IxRV84WV9ROVNUbzJkblFGdC00WHVaYWtqVQ",
@@ -299,10 +298,10 @@
     "CBMieEFVX3lxTE9mNUdETE1fN0NzRkdnNE9rcDJiU1VmQWRRRURjNWpTbGhFVjJ2S2VFYTFGZGJHZTZSRUowb2JCUC1kQldvSFkyODF4QVg3XzJhYlVHZENaZjVFbHJGZVlKb3M2S3Z6QXRkbUhQVTNtOVllOTJmQloyTQ",
     "CBMifkFVX3lxTE5oRWp2RlZMTFJmS2J4NjItMjlyWEJVbzlWZGVqVElwNzVENEFTR0twd19ITVVrWGplV3lLN2tfQUM0LWxsUDhkUnZjMlBEZ0pxamJTUzJ0bWhfN0NZZ3dBaFZOTFlFdWgtVlNlRjVfcE1iY2tNbTV1djBrdk5wZw",
     "CBMieEFVX3lxTE5xREpnRHhiQURQSDlNTDY4dVdqekh6Q1dtZ0V6NGxBNVJObE4zMGJkMzBWRU9CUEd6b21LMjQ0STBxVHE3S0xKMjBTdWp3Ml9uSGRTQ01NUjhIX1lpZ1hNbUlFd3pJR2JnWDlGbUxzNk5VOHhzZUhrSQ",
-    "CBMieEFVX3lxTE9WNmNFaHN1cGpKR3U2OHNjZE1tOW9nb240WG5lWnpxS1J2Mk1PSDg1MUZ6eVN0UjdBWW1iUkliRl9IenVmRXl5VGVURTk5WUhFaGhwQUpvVUJCOUEtNDF6VHF3S21tRVVWZWpyUVpZb215MXBMSnpQeg"
+    "CBMieEFVX3lxTE9WNmNFaHN1cGpKR3U2OHNjZE1tOW9nb240WG5lWnpxS1J2Mk1PSDg1MUZ6eVN0UjdBWW1iUkliRl9IenVmRXl5VGVURTk5WUhFaGhwQUpvVUJCOUEtNDF6VHF3S21tRVVWZWpyUVpZb215MXBMSnpQeg",
+    "CBMigAFBVV95cUxNOWhCLXkxSUFJamVzT3hZMU1GR19neHV2V3drYlZkN3pfSy1ZWW9rM0s3a0ROM0dzQnN3X0V0Q2IxVi05aUlTUXMzUWh5LWhJeHVOVVUyS3Y2RTh3MlowdjdnTjVGel9HcHo4UDA4Z3ZfMUtIaHJTNG5RTVQyRUxrWQ"
   ],
   "https://www3.nhk.or.jp/rss/news/cat0.xml": [
-    "http://www3.nhk.or.jp/news/html/20260724/k10015185401000.html",
     "http://www3.nhk.or.jp/news/html/20260724/k10015185231000.html",
     "http://www3.nhk.or.jp/news/html/20260724/k10015185301000.html",
     "http://www3.nhk.or.jp/news/html/20260724/k10015185271000.html",
@@ -601,7 +600,8 @@
     "http://www3.nhk.or.jp/news/html/20260808/k10015199911000.html",
     "http://www3.nhk.or.jp/news/html/20260808/k10015200101000.html",
     "http://www3.nhk.or.jp/news/html/20260808/k10015200031000.html",
-    "http://www3.nhk.or.jp/news/html/20260808/k10015200141000.html"
+    "http://www3.nhk.or.jp/news/html/20260808/k10015200141000.html",
+    "http://www3.nhk.or.jp/news/html/20260808/k10015200171000.html"
   ],
   "http://feeds.bbci.co.uk/news/world/rss.xml": [
     "https://www.bbc.co.uk/news/articles/c9w01781981o#0",
@@ -1812,7 +1812,6 @@
     "CBMitgFBVV95cUxQWVhhNDlIcjlHMGc5Q0JPT21yd0tZXzJkalI0TGItZzlxSzFlT3A5MlcxX1Q3ajF6VGhZQlZxUXpXc0tPUXRvNHIzNF9wRk12ZkgzaWdkbTdRcWhwUThOWWZlUHlYb3BrMFV5WDNmck5nc2FDQnlLZzNjY0JQelZJVjhZY08tM2FKWHlqWmo1QWUwbmhGRGFDYnlEd2hJS2JFbU4wUTBHdzhsWVk1a3Jsdk5lclJRZw"
   ],
   "https://en.yna.co.kr/RSS/news.xml": [
-    "https://en.yna.co.kr/view/AEN20260803001500315",
     "https://en.yna.co.kr/view/AEN20260803001200315",
     "https://en.yna.co.kr/view/AEN20260803008152315",
     "https://en.yna.co.kr/view/AEN20260804000800315",
@@ -2111,13 +2110,10 @@
     "https://en.yna.co.kr/view/AEN20260808000500315",
     "https://en.yna.co.kr/view/AEN20260808000700315",
     "https://en.yna.co.kr/view/AEN20260808001000315",
-    "https://en.yna.co.kr/view/AEN20260808000900320"
+    "https://en.yna.co.kr/view/AEN20260808000900320",
+    "https://en.yna.co.kr/view/AEN20260808001500320"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1785842997",
-    "https://www.aljazeera.com/?t=1785844409",
-    "https://www.aljazeera.com/?t=1785849770",
-    "https://www.aljazeera.com/?t=1785844691",
     "https://www.aljazeera.com/?t=1785846991",
     "https://www.aljazeera.com/?t=1785847989",
     "https://www.aljazeera.com/?t=1785850318",
@@ -2413,7 +2409,11 @@
     "https://www.aljazeera.com/?t=1786163729",
     "https://www.aljazeera.com/?t=1786163154",
     "https://www.aljazeera.com/?t=1786111443",
-    "https://www.aljazeera.com/?t=1786158578"
+    "https://www.aljazeera.com/?t=1786158578",
+    "https://www.aljazeera.com/?t=1786135897",
+    "https://www.aljazeera.com/?t=1786164448",
+    "https://www.aljazeera.com/?t=1786165111",
+    "https://www.aljazeera.com/?t=1786163302"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
     "https://allafrica.com/stories/202607150016.html",
