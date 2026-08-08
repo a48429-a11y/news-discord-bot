@@ -1812,7 +1812,6 @@
     "CBMipwFBVV95cUxQaUZEdWpOcWpqT1FHVTlxb1NhWHdnaFRxcjdRZDNHU1RSOEhkNXR1X1otdE90VUFXTGlQWDNVMFlpdDVtZVBuTzFucDJEcERwd3YzZHYxZktFYy1OT0RBLTdaMDlmaVNaU3Q2Q0ZrM0MxbGNDR0M5OERRZ1NXR0JmOVJNazhYMzdWYmpVc01zVjVxZjJhamRJWmQwY2dWN1hYRVZkbTh2RQ"
   ],
   "https://en.yna.co.kr/RSS/news.xml": [
-    "https://en.yna.co.kr/view/AEN20260803001400320",
     "https://en.yna.co.kr/view/AEN20260803001300320",
     "https://en.yna.co.kr/view/AEN20260803001600315",
     "https://en.yna.co.kr/view/AEN20260803001500315",
@@ -2111,11 +2110,10 @@
     "https://en.yna.co.kr/view/AEN20260807001951315",
     "https://en.yna.co.kr/view/AEN20260808000400315",
     "https://en.yna.co.kr/view/AEN20260808000600320",
-    "https://en.yna.co.kr/view/AEN20260808000500315"
+    "https://en.yna.co.kr/view/AEN20260808000500315",
+    "https://en.yna.co.kr/view/AEN20260808000700315"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1785786586",
-    "https://www.aljazeera.com/?t=1785789001",
     "https://www.aljazeera.com/?t=1785789456",
     "https://www.aljazeera.com/?t=1785858447",
     "https://www.aljazeera.com/?t=1785850686",
@@ -2413,7 +2411,9 @@
     "https://www.aljazeera.com/?t=1786141375",
     "https://www.aljazeera.com/?t=1786152338",
     "https://www.aljazeera.com/?t=1786151599",
-    "https://www.aljazeera.com/?t=1786146713"
+    "https://www.aljazeera.com/?t=1786146713",
+    "https://www.aljazeera.com/?t=1786157346",
+    "https://www.aljazeera.com/?t=1786149888"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
     "https://allafrica.com/stories/202607150016.html",
@@ -2758,8 +2758,6 @@
     "https://en.mercopress.com/2026/08/07/venezuelan-government-and-opposition-open-us-backed-talks?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss"
   ],
   "https://www.abc.net.au/news/feed/2942460/rss.xml": [
-    "https://www.abc.net.au/news/2026-07-17/world-cup-2026-spain-training-in-hazardous-wildfire-smoke/106926268",
-    "https://www.abc.net.au/news/2026-07-17/world-cup-final-spain-vs-argentina-when-where-how-to-watch/106926254",
     "https://www.abc.net.au/news/2026-07-17/the-open-2026-australians-struggle-as-jackson-suber-leads/106926034",
     "https://www.abc.net.au/news/2026-07-17/tour-de-france-stage-12-tim-merlier-claims-victory/106925960",
     "https://www.abc.net.au/news/2026-07-17/nrl-live-blog-sharks-vs-knights-roosters-vs-storm/106929508",
@@ -3057,6 +3055,8 @@
     "https://www.abc.net.au/news/2026-08-08/adam-hunter-mother-accuses-afl-of-cover-up-on-brain-injury-cte/107008390",
     "https://www.abc.net.au/news/2026-08-08/aflw-women-dual-jobs-caitlin-reid-emily-pease/107001096",
     "https://www.abc.net.au/news/2026-08-08/afl-geelong-faces-please-explain-over-concussion-contract/107012364",
-    "https://www.abc.net.au/news/2026-08-08/tour-de-france-femmes-new-leader-after-stage-seven/107012414"
+    "https://www.abc.net.au/news/2026-08-08/tour-de-france-femmes-new-leader-after-stage-seven/107012414",
+    "https://www.abc.net.au/news/2026-08-08/afl-rd-22-live-melb-frem-syd-ptad-geel-ess-adel-rich/107007960",
+    "https://www.abc.net.au/news/2026-08-08/craig-drummond-apologises-jake-kolodjashnij-concussion-contract/107012630"
   ]
 }
