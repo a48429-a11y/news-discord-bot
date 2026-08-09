@@ -906,8 +906,6 @@
     "https://www.bbc.co.uk/news/articles/c20d8qre98do#1"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
-    "CBMipwFBVV95cUxPclJabFdrbTNzNHZmcGpWTUdtMmNkSWdoeTVJUDN0Q0czWE5kRGdmcFNqOWRxd3pJVEIweFR3Z2pPTHdvYVE2eUlkU08xQS1EUlRqYjRkOTdiZk5mQ1lMclJfcjVGNHJyRUszcUZWQWxYa2gyRVdPUnlLM1dONm5uMXlCVFpwU3hoRXREYXU0NW5WbXp3ZzhkUFFQbFRHeTdndzA4S1Y0QQ",
-    "CBMioAFBVV95cUxNUzJQc3ZQcWlQcTFaR2d6RkljcW5yQTRldTRqX1hZbzEycWNpd25yWmRycERxY2lGMmdzbndBZFA1dU9WdEsyS1FHVWRKRWp0TVJaZXJvcVRKQUFUN0NyYUpSc0xxOW9JbU5KYzN2aEpiUEg4VjNSYjE4VUVXT0dZaFBmdlpvUThfLUdocXVxVTlRaWptZS15SUZFUzc5bjls",
     "CBMipwFBVV95cUxNZy05LW5ObUpORjFnYnd6WWR0UmJrOVVXR19TU1JqcFBxdUtwMGRGZm5DX2hNZ3h0dWhRWk5Rd3M1cGY5WnpneE85T1JDOEdtYnZUMWl0b1AwN0JseTRCQTNmVlllQzN1djg3RzIyWENCdGx2SzdZSXJLNHJJeXFPVHVwc292NnlCbDJTdDhHQ3ZURE0zaEJvdHR2dkxyRVk1a1FoTmtoZw",
     "CBMiqwFBVV95cUxQUHNTdEh5MUkteDQ3VVBjbGxPR2tFdW9meWZGZHdWN3Z5MVRfa1N5N3RyQjRRU0VDbWYtQXNUejIxcUpJMml5R0dMaDVyVnBBWm84LVc2eWE4SHFpZHhBOXAzQVA3UDIwOEdIb19vVzZiVnY0TUVJSlo0eWw1ZG9VdGtLQ0lUX3pHODhSb0RhRmZSMk5lNW11YnBwY2FHMlBTbHdJem1wLXFlQ1E",
     "CBMiowFBVV95cUxNUkRZanhFQktKbUpKMGcybXROdEdDbEJtNmVJSzZSRGpYVmdFMGtDZmdXa1M0Ym9MaGtFdlNIbEVGakhqV3FUaTJDclFHSEVNWDNwcS1XRWN6Q1h0aVBSQUJVRzhGYVVqQU5xMUtPYk1jRGdiSFhhemZyZlQ0S2JHNTRxeG9ERmF5SGIxa1RmMHkxbFpTOU9fSW5LUVZ5VmdUckUw",
@@ -1205,7 +1203,9 @@
     "CBMiqgFBVV95cUxNb0xUOUZscjJubmJIbnBRTHVjbUV4emlhWXo1MjZNdVpWRFIxOFFYeVlENUR6ZDkxbkMxVkRCcGVXTWJ6dkM2OGRSMHlUZGx5bFl4aHV6dHJONmtPenpsZDZkb0NOY0NUWjhWRGFsZVV6VkM0dy1SSEJPRDBSN2Vod3dNM3B3eW9QYmdlYXFZSUJuOWFKWnA3dkd2ZmU0OGZoR3h1SGVjaEkzdw",
     "CBMitAFBVV95cUxPOHA1VHp4QlRGdm1rZVR5clVHX2x5M1N0TDhzaE5WNjJFYTdsdXEzOFVFVW8tRHB6V0xIUk5NM3o2Mlljb1A0V3ZVLW1PTTNRZ1ViNjMxaFRTNUMtWjlScjN5LTdWVko0bFlZWGFkVHNIX1VOaFh2RTlWNVN0bHZsUlY3WEFUNXFheVppdWY3U1UtN2xzRUkyWjlUN2M0OXZLR2xQWGpKUE0ycmZXS2c2Vl9tSVU",
     "CBMisAFBVV95cUxOZDRVbmJYT1dkcjVDVFcxSUd1N3NQX05HcXVpR0lRRWo4RDVCTGpLTG5aVDRnSk5Yc3NoRi1VaENibDRldWRWZGo2WlFtdXBGZUdNV2RHVl9XWTEzTDIzWEwxNktuNEtUc09uY1FROTNyTWJ4LUo2VFhkcG50UlVaSkpYNTNTMFBQTFlld1I3TENoM3l3Y2RCekJJUnppdHhNMHB5SnpSb1ZmMF91QmdJOA",
-    "CBMiigFBVV95cUxNa3U0b1pqNDV2cUpIT3dVVF9BMVJTNk9IUEtMWngzdlktVGd6V25KZy1DdW1sakJKZjdCMHJYWGpyemtpTVZjR2hXMmFtTVV6TTB4aVVWTFlSZURyZWNNVHhSc0Rna2JRTXpSRmxVeHA4NGNac1JLdGxOZ3Z6YzBrbjJEMW9Yb2paRkE"
+    "CBMiigFBVV95cUxNa3U0b1pqNDV2cUpIT3dVVF9BMVJTNk9IUEtMWngzdlktVGd6V25KZy1DdW1sakJKZjdCMHJYWGpyemtpTVZjR2hXMmFtTVV6TTB4aVVWTFlSZURyZWNNVHhSc0Rna2JRTXpSRmxVeHA4NGNac1JLdGxOZ3Z6YzBrbjJEMW9Yb2paRkE",
+    "CBMipAFBVV95cUxQZUUwZGVYSU5sMHpMazg3MEo2YkJ0RlJEOGloN2UxcXVNSENMSWYwdFM2aFdTa3g1ZjdER3FxS3ZDS3c1cWZoSy1nVUFWODlOM2g4VzRmN2VvYWZxaGJ3aHdvX2VSdTJlN3RyOVhsQW5NTllELTI5U1d0VmxwYWlsRWNVNnlQWk01eGtMQ09mYV9JLVFETDJncU4xaUpab0Vrc2lGVw",
+    "CBMiogFBVV95cUxQZVBYMUVpSDhFSEhqZzF0SHdheDV1OG1pSkx6MHlJYkx0MlBuZU9kSHV1N0VSVkk4dVlINko5c1c2X2hXMWx2Z3AxTjFzQ2JHekFScV9fZFlnZjZPcTJwZmRNbVJLeENHYnJXMnpHcGNmLTBMNl9jVXh2bmNUcjZjQUtUVmk1RGYyVDlFTFptS1M5OFEzN3A3R2h0Tk5WTkJZSnc"
   ],
   "https://www.scmp.com/rss/4/feed": [
     "https://www.scmp.com/news/china/military/article/3361291/japan-says-chinese-and-russian-warships-held-live-fire-drills-within-its-eez?utm_source=rss_feed",
@@ -2114,8 +2114,6 @@
     "https://en.yna.co.kr/view/AEN20260809003400315"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1785936686",
-    "https://www.aljazeera.com/?t=1785937587",
     "https://www.aljazeera.com/?t=1785931563",
     "https://www.aljazeera.com/?t=1785925382",
     "https://www.aljazeera.com/?t=1785932701",
@@ -2413,7 +2411,9 @@
     "https://www.aljazeera.com/?t=1786293570",
     "https://www.aljazeera.com/?t=1786266781",
     "https://www.aljazeera.com/?t=1786293362",
-    "https://www.aljazeera.com/?t=1786291858"
+    "https://www.aljazeera.com/?t=1786291858",
+    "https://www.aljazeera.com/?t=1786299140",
+    "https://www.aljazeera.com/?t=1786301466"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
     "https://allafrica.com/stories/202607150084.html",
@@ -2759,7 +2759,6 @@
     "https://en.mercopress.com/2026/08/08/de-la-espriella-sworn-in-before-congress-in-cali-delivers-first-speech-to-the-military?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss"
   ],
   "https://www.abc.net.au/news/feed/2942460/rss.xml": [
-    "https://www.abc.net.au/news/2026-07-18/fifa-world-cup-2026-england-france-prepare-for-third-place-game/106931340",
     "https://www.abc.net.au/news/2026-07-18/australia-hosts-over-70s-football-world-cup/106926336",
     "https://www.abc.net.au/news/2026-07-18/the-open-bryson-dechambeau-fumes-at-open-penalty/106931150",
     "https://www.abc.net.au/news/2026-07-18/smoke-threatens-world-cup-final-2026-canada-donald-trump-tariffs/106931012",
@@ -3058,6 +3057,7 @@
     "https://www.abc.net.au/news/2026-08-09/afl-rd-22-live-gws-suns-wce-coll-stk-carl/107008342",
     "https://www.abc.net.au/news/2026-08-09/quillan-salkilld-wins-his-first-ufc-main-event/107014434",
     "https://www.abc.net.au/news/2026-08-09/cameron-munster-dangerous-contact-charge-downgraded/107014712",
-    "https://www.abc.net.au/news/2026-08-09/blues-start-aflw-season-with-26-point-win-over-saints/107014688"
+    "https://www.abc.net.au/news/2026-08-09/blues-start-aflw-season-with-26-point-win-over-saints/107014688",
+    "https://www.abc.net.au/news/2026-08-10/nrl-alameddine-gang-war-eels-bulldogs/107014320"
   ]
 }
