@@ -906,8 +906,6 @@
     "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko#1"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
-    "CBMirwFBVV95cUxOYnFLSTBFRVdZS3BrQTM5LXl1Mk5mNi10MEZYR1lURDJMZ1laM0FqS1FYbklaTngyYnVWUTlUX2QtU3RHTjVWQ2llUGotNmNhUGZxWmk3NHY0S0xWVi1iR3JRRDNnSk8xSENTNUdQY21HM2VaclQ4akJQTEphbklLWHlHMk5teDUtaHRoaU1DbnZTRUpVUXgtV3A5T2NrYUhDT0JxVHAwZUt5YUM5Yi1Z",
-    "CBMisgFBVV95cUxOSU1MeVdrYjhveWpLMW1RNlFwcUc4ai0tQWROaFJDRzNKMUVFWXo2Qmk0MktrdDBtOUxYdkVhQlFXQnRrMnlFNkU4c1RTTXpDbVRxa19ydlZvR2g4SFI3VXowWnRSOHFLQm9YV2IxQmx1YVNZQUhZLWlnWlFaQzJYWE4yZk1PSk43VERZMURoeDUyWTU1TVQ5dkk4NmlTQUtqQjItRU8zaDhhT0FKd0FlRmFn",
     "CBMihgFBVV95cUxOQ29OWVVpM1NLQVJBSk9XYTI5a3ZwYUpob2JRMFg0b2J4ME9TcjBwMHU4R2lBZ1lEWklJRnVqcTJRWUt5UF9LZkl3MzgwOVlqWnNUYmU3YmltRERyZVpIbDEyMW1pMzI1bEkyTHFBM3ZPRVJNUlRkM1paWVFya1BDYnN4d3Y0Zw",
     "CBMihgFBVV95cUxQUzItUDE3dHJ5Q2F6QWJ4WENlTXRWM1AwUDRIR3Vhd0JiRDdiLVJZR1JjVTlrOS1lVHE2WUs0YWVlNXVJUWRXdE1KdXBWdVhCeDdTam5HN3dJZ1prQlROREN3YUVVNElsdzlka09jdTNFSks3TmRBTkhnWVRqS2dXMk1DXzRUdw",
     "CBMioAFBVV95cUxNZWNKbWU4clZGdFhwNWNIdmFMYnVhM0RPMUdsVHBTNUJwcTk4MktJMV9iMUY1TTBaM2ZGZld3LWxHM05tUVZLTjdjZjFYX0dKN3MtUVM0Ml84NmJMT2tZczY0TjFOaDVXTjlTYmRyaGZ4LWhmT2trRkQxczFuTFRmbzNpQm1wYmh4M1c4RkNwQjBXdWd3OHJEWVNUSjNVbGpG",
@@ -1205,7 +1203,9 @@
     "CBMipwFBVV95cUxNTmZPRnBtNzN0V3ZLdTVzaTVPY1Q5LWpQS01MSVgzWlBCdFJzT2hpekx5ODFFTEV6QUxDa1NIUWFqNUFqbGNTb1V4aEl5ZTRoVEVuZkNiM0FBR0M3WVpwVmJmRUJVdTdzNS1VUHdNcXM1UXYxYzJJekRjZ0JNSGVJX0lRSG90V21ZY3hjdlc1SmJCa1lsVTlvLVI4RVAtUkk0aFVubGRDMA",
     "CBMimgFBVV95cUxNN2pTRnJBaDVrWU52Uk81S2tEUWNDNW1mUHluVzFUSFQ4R2ZlRlZSWmdfVzVfWWIxX0F5YzZPbkNtTDJRNEJ2bnp6dDVva1laNTVwRUQ3ZWhOY21PRHQwakRBWjJiNHZudmUwbmpuZjFqZHo5SWtQR1dGOHZTeFcwbUF2ZXhmOHpwMWEyZkRWdDg2OEN1NFBBcmZR",
     "CBMimwFBVV95cUxPMmZ6Z01kclNFSVd6V09LUzVGYVNIb3EyWTl5YW01eXBGLXI1SjExZ0NXbHZXdXVDN2hVNXNiNUlpSFgwNFozTWhFNnF2SWU1djBZUkdzWXBhdEY5S3FRS1BuX0RFcUJJQTlLNmdfWEI0QXJMWGRISVpBSHB6blc3cE1PaDA0YkR3UW1GREkybmhJc2hzNDgxdzBLYw",
-    "CBMirAFBVV95cUxPM0tUdlotbWlHS3NaSEtsaUZ3ZzQyUk9yTlIwWTE2MDVRc3NDSFUzazdtR2pBUnpSSkZqcnp5VEFmQlJ2Y2ZvT0drUjRtcklxNW1mZjhLSU1MRlhCbDVHSWh6b05NaFBUU3NMWjlYZ01BcnhwcjNPY1pQZmZrTmtldDZvU3dBazBsMEpnMF83Q2lEbzRUWUdDNkl6RmFCYlZCSEpoN1o0OVNfaGx3"
+    "CBMirAFBVV95cUxPM0tUdlotbWlHS3NaSEtsaUZ3ZzQyUk9yTlIwWTE2MDVRc3NDSFUzazdtR2pBUnpSSkZqcnp5VEFmQlJ2Y2ZvT0drUjRtcklxNW1mZjhLSU1MRlhCbDVHSWh6b05NaFBUU3NMWjlYZ01BcnhwcjNPY1pQZmZrTmtldDZvU3dBazBsMEpnMF83Q2lEbzRUWUdDNkl6RmFCYlZCSEpoN1o0OVNfaGx3",
+    "CBMimwFBVV95cUxOOFFSWnpjNzVyU0htWWZ0azZ1YUJrUEJPa2JyQVd6OXE5UEROa214RWU5OXlKTk1IeXBuaU5Ib1laR3ZkcDhuTmpIN1NZRXR4S0VtSXFWUzZMUnotVldJTGxraklUNWFGYTFZSzdiYWEweDJhMThVWF9fbXVvdndpRkdzaEVqMU9KZF96X2tEbU5xc0I4Wl9xTmFKbw",
+    "CBMiugFBVV95cUxOQ1JyMTYtLUFjNVItSGJDcE9fbWZ0eHNqR0h1ZUstUDROYXI5aXBQdklfMVNfRkN3V05kMUJwNXhLdzNsQTBnN0FSQnNYWGVXRVJ1bEtxRFh2Yk5URnltUHk2a29kN1BTNE05OVYwQ1d0SEtwYnhtMGtMQm5uakJQSVhmR0k4SVZtVS1kVW9Jb1RTdjZGSFE4b1NWSk04Z2ZuU2xxNm1BNHE5WXozc3VvTTc0aXBzUkZFOGc"
   ],
   "https://www.scmp.com/rss/4/feed": [
     "https://www.scmp.com/news/world/europe/article/3361261/chinas-li-congratulates-andy-burnham-becoming-britains-new-prime-minister?utm_source=rss_feed",
@@ -1510,7 +1510,6 @@
     "https://www.scmp.com/news/china/military/article/3363386/how-chinas-hypersonic-carrier-killers-could-distract-us-forces-taiwan-conflict?utm_source=rss_feed"
   ],
   "https://news.google.com/rss/search?q=site:euronews.com&hl=en-US&gl=US&ceid=US:en": [
-    "CBMizgFBVV95cUxPQ0Z2aEZwTkZIN0xlSm50UHZUWUR4UDRhclZFUjRlZExrQzdqTVo1MHpMX3V2WjF5c09OSFplNkE4Q19qSlpkbEUyTWpjajQ3VEFnWm5UT2dmcmpYaFRoaU5GWl9PblR6TEVYcW1rd3Bpd004bm5sb3k0V3pRVW5fcmtNV2s0V1BaODZ5N0lDQ3dabjh5N2F6LXZfamFMcG1fVlZiWm9ncWF6U3lib090anBTbTI5dkFOdENIMjB5VVBLT0tLcU5lbTRFLUpTdw",
     "CBMiqwFBVV95cUxNeHRSRzFfRHFFOTFobUIxVjZ0UV9EaVNTZ1Z3WWN2bDEtVlB6cUg0UkFmY2ZNT2hUUTRabHhJNTh2T0FWMXg1QTl6Ym5sVllpQ3ZZMmlJZWhNNVZneDhLSWljd3VjWmVLSTNsVjFXU2NFTXRmaDNzU1VYUUtZc1RDN05WUjYyYkFNQzVsdTJfd1pITk9oVjJCWGE5Z24zVHdaTl9RNlFnaWdYZTg",
     "CBMiowFBVV95cUxOdDhIem8zb0tvUkZOVXdQMHhvU2d3WExFUG5ieHgxdXFJMzlRaFYzbmpnZTBqMHBVN3g0dFd6c1RBLUFJM3BSQ3hJQ0trNUxHNTc5WVlPQTA1V0VzRDItdEVFaE1QdWFobDBWaWZPYmlqMEtRQWVQUmFRRnZqNlFoWnk3NEJfN2lLNEFXc250c0lLOFdqcllmRWRjU2RjS3NIcU9r",
     "CBMilwFBVV95cUxOQmFlc2FMQWhpRGk5Z28xX2lPdV9ERFJMamNjUmpxSEtncGg0R21meHE1enk0NTZVbHhoRTl1MHRIVUR5VUtrRHVwMXhUTEZpMnI3Q1J3LWRGSXllcTNyS05EYkpsT2UtU19VSU5EQzlROHRIdXZvbkZ3b21rX3kzV2VyYnRPTVk1emNTZ2xKdldjTWN1dEFz",
@@ -1809,7 +1808,8 @@
     "CBMitwFBVV95cUxPTlgwTXRqMWZmc2VfWFVRNmg1ZWU3U1FsMktKdUtDNFFpZVdHMlhLUmNqaTJsMTJsYmItNEhXOGpaeDVQQkhBbHVPdWFQQjV6SVVOVWhIRGFOcUtfVHlvNXFZd1RudGRVc0VtR3lEY1BPazhQZlJUVC1GYjA3SWtUclJXQU5Md0pNcFlhUS0yTEJfcG96T2xMTDZZbm93TGdTN1pOd0pnZlJLeVpJaGljV2RsVU5ZMXM",
     "CBMizAFBVV95cUxNa1hQNlZyekZmODViLWptek5MVkdlRVBZbVRaTGExRUpBV0pxajFOeS1qT3RoNkxoUzFQb1lHOERPQ1cyT3lZTUNmWnhWdDZZZDVGX1Q3N2t5dGVmbzgwSmVMTF9YX1RJYUNSM3BONGtSV1hPd2w0UUM3bHBCNUh3aVdFWG5yWDFQczByOUFCRVIxMjU3X21TUlJCNW1NVFI1S2JiZVN1bjROaFFBQkl2UjRjVl92aXM5clBtX1VoZmVyaDI3eXFudDR2VHk",
     "CBMixAFBVV95cUxQTFlGMmVsZFlNMEpBdlVrMzU3VmRqLTVsc1FJMmluaEZTUkhOajFXbE5aUGw2TzNZWnA2UGdrUXpYSWtEa29tXzVwMWxCRXBGVDlnNzVWSERhWXpOMVg1U2JZUlNqX19aTmRuRzYwSko5SHppU2JCWm1LY3d5RE5FblR5Nk13N2ZmaVkyX1QtaTdXM0xCWnVLXzhfbDQ1M1ZiLXY4bXl2WXprYXlvTGNFeWtUQ2E1VE9DbE5oSUc3N1hKMHNE",
-    "CBMi0gFBVV95cUxPZ2xWRkFxVlJLcDVqdjlDbmNlLW9CRHcxQi1ydTFndkhVWng5UkJib0lTbDlBZDN4OXpLSXFKcHhMNm9lRzhNQ19oSllQWXk5bV9odVhLYWcwWk11RVdqUkNGamRYcE5UUXlOR2VsUUVFa25wRmNaS2lDY3E5YUh6S1VGRndTVURBZTdyaTFhVzZtVFQxckp2cVFFOVFWTHEwR0p3cnc4ZFlYbkRUMGg2NFN0S2pMZ1J2UHZ3QU1YaldOVWgzQ2pxR3VldlgzZGw1dEE"
+    "CBMi0gFBVV95cUxPZ2xWRkFxVlJLcDVqdjlDbmNlLW9CRHcxQi1ydTFndkhVWng5UkJib0lTbDlBZDN4OXpLSXFKcHhMNm9lRzhNQ19oSllQWXk5bV9odVhLYWcwWk11RVdqUkNGamRYcE5UUXlOR2VsUUVFa25wRmNaS2lDY3E5YUh6S1VGRndTVURBZTdyaTFhVzZtVFQxckp2cVFFOVFWTHEwR0p3cnc4ZFlYbkRUMGg2NFN0S2pMZ1J2UHZ3QU1YaldOVWgzQ2pxR3VldlgzZGw1dEE",
+    "CBMizgFBVV95cUxQWFZjdjhxZFZDTmhLTXl4NklVOFdiOXF6YVVKRzFYT21aalJLam5wcnYyblAxZHNkcUlJVy0yZ3FaQk55QmJiU2lYSUx0bWYtbmsxNG1WVmpWR0tnWFpoLWtTNVltYUN4YUhmOHBtUTc2bjZTQzdQaS1NbkpGdUdTUDZQMi1rVnU4UkFNX0VRY2Mxa2s4aXZzRGhJemVyN180a3JOeGlTbmVqWE5vcEthYmtpcEJUaHZPS1JrZFRlN0NIZHJ2T0ZjQ2ZlZVR1Zw"
   ],
   "https://en.yna.co.kr/RSS/news.xml": [
     "https://en.yna.co.kr/view/AEN20260804000400315",
@@ -2114,10 +2114,6 @@
     "https://en.yna.co.kr/view/AEN20260807005000315"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1785901681",
-    "https://www.aljazeera.com/?t=1785897758",
-    "https://www.aljazeera.com/?t=1785900353",
-    "https://www.aljazeera.com/?t=1785894211",
     "https://www.aljazeera.com/?t=1785888068",
     "https://www.aljazeera.com/?t=1785888799",
     "https://www.aljazeera.com/?t=1785848861",
@@ -2413,7 +2409,11 @@
     "https://www.aljazeera.com/?t=1786222799",
     "https://www.aljazeera.com/?t=1786194459",
     "https://www.aljazeera.com/?t=1786220480",
-    "https://www.aljazeera.com/?t=1786227124"
+    "https://www.aljazeera.com/?t=1786227124",
+    "https://www.aljazeera.com/?t=1786230920",
+    "https://www.aljazeera.com/?t=1786228264",
+    "https://www.aljazeera.com/?t=1786230718",
+    "https://www.aljazeera.com/?t=1786226592"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
     "https://allafrica.com/stories/202607150084.html",
@@ -2759,7 +2759,6 @@
     "https://en.mercopress.com/2026/08/08/de-la-espriella-sworn-in-before-congress-in-cali-delivers-first-speech-to-the-military?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss"
   ],
   "https://www.abc.net.au/news/feed/2942460/rss.xml": [
-    "https://www.abc.net.au/news/2026-07-17/melbourne-storm-injury-crisis-deepens-in-loss-to-rosters/106929508",
     "https://www.abc.net.au/news/2026-07-18/glasgow-commonwealth-games-future-relevance-swimming-athletics/106772774",
     "https://www.abc.net.au/news/2026-07-18/tour-de-france-stage-13-mauro-schmid-wins/106930986",
     "https://www.abc.net.au/news/2026-07-18/lucas-herbert-british-open-birkdale-equals-lowest-major-round/106930418",
@@ -3058,6 +3057,7 @@
     "https://www.abc.net.au/news/2026-08-09/saimoni-vunilagi-dies-aged-26-from-suspected-heat-stroke/107013866",
     "https://www.abc.net.au/news/2026-08-09/nfl-hall-of-fame-roger-craig-announces-dementia/107013916",
     "https://www.abc.net.au/news/2026-08-09/tour-de-france-femmes-demi-vollering-reclaims-yellow/107013888",
-    "https://www.abc.net.au/news/2026-08-09/jorge-messi-dies-aged-68-after-short-illness/107013946"
+    "https://www.abc.net.au/news/2026-08-09/jorge-messi-dies-aged-68-after-short-illness/107013946",
+    "https://www.abc.net.au/news/2026-08-09/isaac-beacroft-breaks-u20-5km-race-walk-world-record/107014044"
   ]
 }
