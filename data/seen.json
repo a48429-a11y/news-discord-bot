@@ -906,10 +906,6 @@
     "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko#1"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
-    "CBMimwFBVV95cUxPejV5NEdoc3dyRHhtTTZXUVlOQXI0a0JIMjhOOWtGZ2xvNzlPS2h6WnJ0d25LejIwNDB4TzFYZWRFNk1CaUVQVXp1ZTdpXzNieFFRVUFYUHNfa2tKRGwzRWwwbElHa0dDcmc4Xzl1Y2hfN1JjYkpoVEhsZ2dEbkQweWk0RUxueW5JcW1ybGY0RUZUUFhGRzNadXJ5WQ",
-    "CBMirwFBVV95cUxOZEt0cnJtMEtGdXh5eFZFLXZzQjFFb2huWnhDYlJvUERHaGMyazAzY0lHcFlMcjRiaDVRZzR5WUtvLUhMV2xUT0cyY2lXY1V3UmlZcmRjcm5Gd19FeHJXTmxyU0lEOXFNc3dEaG9MRE91U2FiYi1oRU9hemJtVGo5UVZFd1FKS1ljcnN3YTVvUFJncTVYNzFzaVBxbmh4ckxiaU9yY2xfMDg4MFF2RUpB",
-    "CBMikgFBVV95cUxPcjNlN0twaEJvLW4yZF92LWYxcGhrZjZ5cVE3Q1ktZDIybDk3ZlpHOGl0M0o0NHRWWXBiV0NzZ1hBaUJyWXhocFVfZk5xbjR4VlNueFNPZ0poakQxS0VLU0dOV0pEdnBreVk4cW5zMGZRWDhDcTk2cWRxanJZNnVXdjBSZG1fbF9rb01mX19seW9Pdw",
-    "CBMiugFBVV95cUxOWGgtekZvTlZXWGNlaDNEZFFCcXhpX0RYT1h4eGVCOEVBVWxNTFJMUjFDWG9EdmtvbXpQNUhDM0tSM1FwQ2k2MVU4M3NUM3BZeUZJTm9fLWRzUVNuNUN6SGlmd011ZjlEeFgxRWMzaTBPaXcyMkpteVNSTWVWa3hJR3RVNWFDc1hCRWNMQ3pFcTNOMDJjMDhFcHpXQ0p6djZnTzRTVzAycXJXRy1RdkNXazBIdTRrUHpkN3c",
     "CBMioAFBVV95cUxOY01iSzdNeWo1VWZEOXhRZ0pTSEctbjVlWnhNSFpxU0tnRnZQZDd5aHVCaGY4RjJzRGZjN2pRSURaLWU2QlFONFV3c3A0aDFqTHhETm14WnBTMnZNdkFqcXFXcTNfenBQUzJiQ2pIRkVOa1RVMVZFcW8tdUJNa2ZfOTIzenBLNGE1R20zdl9Fa0NJQzY2ZUFDSTFNLUZKeDhs",
     "CBMipwFBVV95cUxNdjdiZU1CVmhFWmRaYWtqRW82NnNUMEZjRzNlR293WTljQW1McXpnY3BiLXdWbVdobmRIdUJDVmVuWngwUHRVSUtyMkJjejRkQTl4WU0xc2xfcFpwaHBKamZGdUNqd1RIblhERllZY01hYjlmVUdOblVIVGxjTjVqVndGSURnTGJ5M2U5Vkp6dDVIRHZPZW8wTmRYaXl4WmQtejR6SzFBaw",
     "CBMiqwFBVV95cUxNYlFydGsxbUlUZ0h4OHNiOGtpUkxxS2E2ellheDRoNFlMVy1pX0d0dHJoelZNdUh6X0E0cm1HVGtpajFWM040UWhnbGV0ZWNNV0Rkc2tEclBaWnVhX0Zsa2xaWTA2SjRSVHZZWUlRRnVUcEs0UG1oRGhEZjl0REFzNlliRUlqX1Jvb3VPNkYxWkJxVGtDaDBEMTFfUjJUNnoyVzF6TGNlTS1memM",
@@ -1205,7 +1201,11 @@
     "CBMiugFBVV95cUxOQ1JyMTYtLUFjNVItSGJDcE9fbWZ0eHNqR0h1ZUstUDROYXI5aXBQdklfMVNfRkN3V05kMUJwNXhLdzNsQTBnN0FSQnNYWGVXRVJ1bEtxRFh2Yk5URnltUHk2a29kN1BTNE05OVYwQ1d0SEtwYnhtMGtMQm5uakJQSVhmR0k4SVZtVS1kVW9Jb1RTdjZGSFE4b1NWSk04Z2ZuU2xxNm1BNHE5WXozc3VvTTc0aXBzUkZFOGc",
     "CBMioAFBVV95cUxPWHdaOFBncl8wQnFHNWVtbzFDSWNmMERyMHNETERIRzBWZm1pU3lKRTAtMHc1dkhjY05QRUpEOG1pWm9ibHZRUm5nS3NaUGd4OFFVOFN6dHhUNm95dFZzdFFrLWsxYk4xamh3b3RCNGxGSlYzYUpacWNvaktMTk50dUtkOFF1RmtkR2E2LW5kTWduLXU3N0otaTlLYklybmRH",
     "CBMisgFBVV95cUxQRWFHcGZLTElaS2tjME10OWxDWE9aM3ZHeXpMVzJIUVhLeVMzY0Y1LWxZODh1SmRrdDJvRHVHR09TOEV3STlXNVc1YnRtbFdSYWdpR0E5alVOMDB5QWdBdmw1U3VzZkVQYU5oalA4cU9NNk5CZ0EtZ3dlRDV4R0xkRWNGR1MzTDVVVTd3UWpTcW50QkdjZkFhY0hVbGRmZWtVSmZycjAzcTBHRmdMYTYyT2pB",
-    "CBMisgFBVV95cUxQdDJRN1VtN3BjamtTandUNHQ5dmJYVUZfTmx2RmJrdjhKS3h0V2FwNUFpcTZiLWdKT0l5U3ZHY1ZRLW9Gc3lHRU5qWUhKUGdMb2hJTFRHTkVZTTFEYXVnM1hJMk0wbUN5WjFUdXhXemRpR25Rc2xvYk9Ob3VRWmh3M3FLMHN5anBJdm4xd3E0Q0wtYk8zd2xudFZZby1RbzdQcDdUS2NXX0c3dnk1UlRXQUx3"
+    "CBMisgFBVV95cUxQdDJRN1VtN3BjamtTandUNHQ5dmJYVUZfTmx2RmJrdjhKS3h0V2FwNUFpcTZiLWdKT0l5U3ZHY1ZRLW9Gc3lHRU5qWUhKUGdMb2hJTFRHTkVZTTFEYXVnM1hJMk0wbUN5WjFUdXhXemRpR25Rc2xvYk9Ob3VRWmh3M3FLMHN5anBJdm4xd3E0Q0wtYk8zd2xudFZZby1RbzdQcDdUS2NXX0c3dnk1UlRXQUx3",
+    "CBMiqAFBVV95cUxPdHdjMXFHeUM1REdDNnZONnZ6WU1DM190YkFIYlUxUEt5ckJWdVNQZU1ramthb01ZSFAyYUpoNzgxN1BYZFU3ams5WmZrRVU5OUlVcGlCbVNPLXNQRkc1Vk1Cay1yYnd3ak9rM3F4RTg5UzNwZE5wa2tqVnJMNC1ncFh5aFZzTVNXRzB1VkRVUWFYUDZUdVpKczlzaVZpUXpGbFVPX01xclI",
+    "CBMihgFBVV95cUxOQ29OWVVpM1NLQVJBSk9XYTI5a3ZwYUpob2JRMFg0b2J4ME9TcjBwMHU4R2lBZ1lEWklJRnVqcTJRWUt5UF9LZkl3MzgwOVlqWnNUYmU3YmltRERyZVpIbDEyMW1pMzI1bEkyTHFBM3ZPRVJNUlRkM1paWVFya1BDYnN4d3Y0Zw",
+    "CBMijgFBVV95cUxNM2hsUkw2Zkw4Q3dRTnFBMEFzZWhKMUhiS0d2NkM0dmhTNVRMLWhoOExzSUZncENvdy1NOEJkRUlNNm9CRlR6ZnFPQ0dsM1VFM2V2ajVRS1VTZlJKcWZPVzc1bEtlWjVTdl90V1NKV3pndXVFQUZEMFJjSDRUcUlGdVJaMUctejZUYWVCQ1FR",
+    "CBMipAFBVV95cUxPeWR4UU03c2Q4b0ZHWlNtcHRWSlgydk1xZjdMeXNqX0o2dF9sUXpjSzhEdk9vVE56TW1TTjhzQ2FrMzZvWkFiMGF2WGdFZms0ZmtJaXJNZzBKWDJQZ2QxYWcwdl9qZFRWa0lHNG5VdUJVM0RPa2hEWVRzd1o0R3FXSDZMUDg2andYSW5Ca3dnYU9UeE1PZ2l5eVhDSmdNMWh6bEdQZA"
   ],
   "https://www.scmp.com/rss/4/feed": [
     "https://www.scmp.com/business/china-evs/article/3361258/hungary-investigates-deal-chinas-byd-after-ex-foreign-minister-takes-job-there?utm_source=rss_feed",
@@ -1812,7 +1812,6 @@
     "CBMizgFBVV95cUxQWFZjdjhxZFZDTmhLTXl4NklVOFdiOXF6YVVKRzFYT21aalJLam5wcnYyblAxZHNkcUlJVy0yZ3FaQk55QmJiU2lYSUx0bWYtbmsxNG1WVmpWR0tnWFpoLWtTNVltYUN4YUhmOHBtUTc2bjZTQzdQaS1NbkpGdUdTUDZQMi1rVnU4UkFNX0VRY2Mxa2s4aXZzRGhJemVyN180a3JOeGlTbmVqWE5vcEthYmtpcEJUaHZPS1JrZFRlN0NIZHJ2T0ZjQ2ZlZVR1Zw"
   ],
   "https://en.yna.co.kr/RSS/news.xml": [
-    "https://en.yna.co.kr/view/AEN20260804007700320",
     "https://en.yna.co.kr/view/AEN20260804007600315",
     "https://en.yna.co.kr/view/AEN20260804007251315",
     "https://en.yna.co.kr/view/AEN20260804005851315",
@@ -2111,10 +2110,10 @@
     "https://en.yna.co.kr/view/AEN20260809000800315",
     "https://en.yna.co.kr/view/AEN20260809000700315",
     "https://en.yna.co.kr/view/AEN20260809000600320",
-    "https://en.yna.co.kr/view/AEN20260809000500315"
+    "https://en.yna.co.kr/view/AEN20260809000500315",
+    "https://en.yna.co.kr/view/AEN20260809001100320"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1785848861",
     "https://www.aljazeera.com/?t=1785891224",
     "https://www.aljazeera.com/?t=1785885414",
     "https://www.aljazeera.com/?t=1785881431",
@@ -2413,7 +2412,8 @@
     "https://www.aljazeera.com/?t=1786230718",
     "https://www.aljazeera.com/?t=1786226592",
     "https://www.aljazeera.com/?t=1786239635",
-    "https://www.aljazeera.com/?t=1786231445"
+    "https://www.aljazeera.com/?t=1786231445",
+    "https://www.aljazeera.com/?t=1786238298"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
     "https://allafrica.com/stories/202607150084.html",
@@ -2759,9 +2759,6 @@
     "https://en.mercopress.com/2026/08/08/de-la-espriella-sworn-in-before-congress-in-cali-delivers-first-speech-to-the-military?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss"
   ],
   "https://www.abc.net.au/news/feed/2942460/rss.xml": [
-    "https://www.abc.net.au/news/2026-07-18/tour-de-france-stage-13-mauro-schmid-wins/106930986",
-    "https://www.abc.net.au/news/2026-07-18/lucas-herbert-british-open-birkdale-equals-lowest-major-round/106930418",
-    "https://www.abc.net.au/news/2026-07-18/sir-garfield-sobers-dies-aged-89/106930718",
     "https://www.abc.net.au/news/2026-07-17/rohan-dennis-pleads-guilty-to-driving-while-disqualified/106926944",
     "https://www.abc.net.au/news/2026-07-18/nrl-live-blog-raiders-rabbitohs-warriors-dragons-bulldogs-tigers/106928426",
     "https://www.abc.net.au/news/2026-07-18/afl-rd-19-live-ptad-frem-kang-melb-coll-carl-wc-bris/106918214",
@@ -3058,6 +3055,9 @@
     "https://www.abc.net.au/news/2026-08-09/tour-de-france-femmes-demi-vollering-reclaims-yellow/107013888",
     "https://www.abc.net.au/news/2026-08-09/jorge-messi-dies-aged-68-after-short-illness/107013946",
     "https://www.abc.net.au/news/2026-08-09/isaac-beacroft-breaks-u20-5km-race-walk-world-record/107014044",
-    "https://www.abc.net.au/news/2026-08-09/gianni-infantino-denies-reports-of-alleged-affair-while-at-uefa/107014076"
+    "https://www.abc.net.au/news/2026-08-09/gianni-infantino-denies-reports-of-alleged-affair-while-at-uefa/107014076",
+    "https://www.abc.net.au/news/2026-08-09/nrl-live-updates-raiders-knights-dragons-sharks/107014254",
+    "https://www.abc.net.au/news/2026-08-09/wallabies-debut-isaac-henry-test-debut-japan/107014262",
+    "https://www.abc.net.au/news/2026-08-09/afl-rd-22-live-gws-suns-wce-coll-stk-carl/107008342"
   ]
 }
