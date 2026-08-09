@@ -604,9 +604,6 @@
     "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html"
   ],
   "http://feeds.bbci.co.uk/news/world/rss.xml": [
-    "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo#1",
-    "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo#1",
-    "https://www.bbc.co.uk/news/articles/cn0nqv05g0do#1",
     "https://www.bbc.co.uk/news/articles/cwymkgenv2ro#1",
     "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po#1",
     "https://www.bbc.co.uk/news/articles/c8x274xxxpwo#2",
@@ -903,7 +900,10 @@
     "https://www.bbc.co.uk/news/articles/c2elpkg1l0jo#2",
     "https://www.bbc.co.uk/sport/football/articles/cj03drn965do#0",
     "https://www.bbc.co.uk/news/articles/c62qd5plzp6o#0",
-    "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo#1"
+    "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo#1",
+    "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o#0",
+    "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo#2",
+    "https://www.bbc.co.uk/news/articles/cqx7q17531do#2"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
     "CBMiogFBVV95cUxOQ2RidE56LW16bEJ1dV9JTXBPc3dCazAtc3lxM3NQZ0d3ZlhfdE5IZ2hiU0JsU1o0NjJxTnRoWHNGVzZFaW45di1yWDBxNm9Ld1VFVEhXeC1qRzFNaHY3SmJRbTRjMnEyMWpmUHBQMGtzTTlma0NDamFOYTdzNUFzVERqVGtOZkhkZnhNV2cwZmNkQlRLb3Z2TkJIT1laUF90dlE",
@@ -1208,7 +1208,6 @@
     "CBMisgFBVV95cUxNS05uS1RyLUd6dmFHSkt1bUxJUzA2RnVrZlhwZDFJQmVrQ19wRmd2RFNJRWQ5RGVoZDRGeXlIWi1laXQySGUxaERfQkszMGdOVElVdmFfRDYzNWdrU2ppQU1DS2VULWtsUnNMTTZXMVAzV1VTdnMzaG5VLW1kMUlScndvenRpaVhGQUxVSFdmb1VqR2thZm15LVZoMlBSYTc0THFQV3RRLXJXaXdhb0V0UFhR"
   ],
   "https://www.scmp.com/rss/4/feed": [
-    "https://www.scmp.com/news/china/diplomacy/article/3361269/brazil-widens-lead-chinas-soybean-market-us-shipments-fall-despite-trump-xi-deal?utm_source=rss_feed",
     "https://www.scmp.com/news/us/politics/article/3361267/trump-order-targets-china-linked-military-mineral-supply-chains?utm_source=rss_feed",
     "https://www.scmp.com/opinion/china-opinion/article/3361162/win-chip-war-china-needs-multinational-strategy?utm_source=rss_feed",
     "https://www.scmp.com/news/china/politics/article/3361329/perfume-ban-no-fly-zone-apec-summit-looms-shenzhen-ramping-security?utm_source=rss_feed",
@@ -1507,7 +1506,8 @@
     "https://www.scmp.com/news/china/military/article/3363386/how-chinas-hypersonic-carrier-killers-could-distract-us-forces-taiwan-conflict?utm_source=rss_feed",
     "https://www.scmp.com/news/china/politics/article/3363407/chinas-party-newspaper-carrying-more-stories-highlighting-womens-role-mothers?utm_source=rss_feed",
     "https://www.scmp.com/news/china/article/3363428/red-alert-shanghai-cancels-60-flights-typhoon-dolphin-closes?utm_source=rss_feed",
-    "https://www.scmp.com/news/china/diplomacy/article/3363433/how-chinas-magic-rice-seeds-are-transforming-fortunes-nigerian-farmers?utm_source=rss_feed"
+    "https://www.scmp.com/news/china/diplomacy/article/3363433/how-chinas-magic-rice-seeds-are-transforming-fortunes-nigerian-farmers?utm_source=rss_feed",
+    "https://www.scmp.com/news/china/science/article/3363444/matter-pure-force-us-israeli-physicists-hail-chinas-glueball-discovery-triumph?utm_source=rss_feed"
   ],
   "https://news.google.com/rss/search?q=site:euronews.com&hl=en-US&gl=US&ceid=US:en": [
     "CBMiowFBVV95cUxQRHlGUkFOSjcwU1Z1X2J2bVBLU1liMUtDQkU1V2E5OURoOFU4clB4WFFKQWppNkpNbVVFVk9YNFJNVEVUUFFPUjRPY01OZmdxOWZydnM4Ul8wcF9WczdOZjlzc1VZaUxDSEJoZTVDRkZoZUd3dUhZa05xZjFCUUpvbEkyeXVXUGp1TWRXZzhTX0dUcTU2cWp5enk2NjZfd1BJMm5j",
@@ -1812,7 +1812,6 @@
     "CBMiuwFBVV95cUxPR1FaZUJRRU9aeGZvWEFPRXdmTy00TTFFVHRNekRhY21Jb1o4alNvTEUzZWJfaWVuY01BWDU5TXI5amJCM1gtYjNlX0JBX3VkVFVnUm9lTVA2T18tYkp5MVQ1QVU3c0RiektFWGdLLVJqTTk4ZXNIaGxfdGw2N1JLWTdBU0FmRmV4UUE2aE1ndV9WemZEalo0bFR4cDItalRURVl2NDJGNUxDVkY2bS10Wm50N0tOV2dIM1gw"
   ],
   "https://en.yna.co.kr/RSS/news.xml": [
-    "https://en.yna.co.kr/view/AEN20260804005000320",
     "https://en.yna.co.kr/view/AEN20260804002755315",
     "https://en.yna.co.kr/view/AEN20260804006100320",
     "https://en.yna.co.kr/view/AEN20260804006000320",
@@ -2111,11 +2110,10 @@
     "https://en.yna.co.kr/view/AEN20260809001700320",
     "https://en.yna.co.kr/view/AEN20260809002000320",
     "https://en.yna.co.kr/view/AEN20260809002100315",
-    "https://en.yna.co.kr/view/AEN20260809002600320"
+    "https://en.yna.co.kr/view/AEN20260809002600320",
+    "https://en.yna.co.kr/view/AEN20260809002800315"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1785918595",
-    "https://www.aljazeera.com/?t=1785907730",
     "https://www.aljazeera.com/?t=1785916526",
     "https://www.aljazeera.com/?t=1785911311",
     "https://www.aljazeera.com/?t=1785899229",
@@ -2413,7 +2411,9 @@
     "https://www.aljazeera.com/?t=1786260664",
     "https://www.aljazeera.com/?t=1786263237",
     "https://www.aljazeera.com/?t=1786109534",
-    "https://www.aljazeera.com/?t=1786257810"
+    "https://www.aljazeera.com/?t=1786257810",
+    "https://www.aljazeera.com/?t=1786267628",
+    "https://www.aljazeera.com/?t=1786257607"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
     "https://allafrica.com/stories/202607150084.html",
