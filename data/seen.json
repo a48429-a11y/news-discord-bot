@@ -604,7 +604,6 @@
     "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html"
   ],
   "http://feeds.bbci.co.uk/news/world/rss.xml": [
-    "https://www.bbc.co.uk/news/articles/cwymkgenv2ro#1",
     "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po#1",
     "https://www.bbc.co.uk/news/articles/c8x274xxxpwo#2",
     "https://www.bbc.co.uk/sport/football/articles/c9984d9x1eyo#2",
@@ -903,7 +902,8 @@
     "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo#1",
     "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o#0",
     "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo#2",
-    "https://www.bbc.co.uk/news/articles/cqx7q17531do#2"
+    "https://www.bbc.co.uk/news/articles/cqx7q17531do#2",
+    "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo#0"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
     "CBMitwFBVV95cUxNdzluRlJCVm1mQ2YycEFJOUFaXzJwMWNWTVBtOTVsb2JjVUo5OVJleGtEaW1iVzNIREVHaGFwQlhEcVdKUkw2U1lZQWRObGhnMGp2cHNsN1FIMXJocGh3Ymw4WUZ2X2hILXVzaVpLelBWSFRiMGpPemYtVFl2eWRYTVRFR1A1NjBGM0xKZ1VjSXJ0bGk3YXFPRHhTVlZ2OHpzbEFSS09Qay1KTm5NV2NKQUFRN25sOFE",
@@ -1208,7 +1208,6 @@
     "CBMilAFBVV95cUxQczJKQlNxb05hS05Zc0hoUC1HTjJ2ZlpoWHRRVzlXTDNyTDFWQ3BKVnZhM1hmb1FZb0NiVkp3aDF6ZW5qWW9CU2Fyd1BiTTFmVTEzNmdpbkxRd0pOLVNqRTZyOWJVVVdLSWRrdW1uSDA3bWoxV0RyUlhQUzc1ZHlDUUctbFpQbnJWV3NpZGY2b3d6bzdJ"
   ],
   "https://www.scmp.com/rss/4/feed": [
-    "https://www.scmp.com/opinion/china-opinion/article/3361162/win-chip-war-china-needs-multinational-strategy?utm_source=rss_feed",
     "https://www.scmp.com/news/china/politics/article/3361329/perfume-ban-no-fly-zone-apec-summit-looms-shenzhen-ramping-security?utm_source=rss_feed",
     "https://www.scmp.com/news/china/diplomacy/article/3361325/china-lodges-protest-philippines-after-latest-clash-near-second-thomas-shoal?utm_source=rss_feed",
     "https://www.scmp.com/news/china/science/article/3361173/how-chinese-police-infiltrated-and-monitored-dark-web-help-ai-tools?utm_source=rss_feed",
@@ -1507,7 +1506,8 @@
     "https://www.scmp.com/news/china/article/3363428/red-alert-shanghai-cancels-60-flights-typhoon-dolphin-closes?utm_source=rss_feed",
     "https://www.scmp.com/news/china/diplomacy/article/3363433/how-chinas-magic-rice-seeds-are-transforming-fortunes-nigerian-farmers?utm_source=rss_feed",
     "https://www.scmp.com/news/china/science/article/3363444/matter-pure-force-us-israeli-physicists-hail-chinas-glueball-discovery-triumph?utm_source=rss_feed",
-    "https://www.scmp.com/news/china/diplomacy/article/3363427/chinese-vloggers-are-taking-youtube-set-record-straight?utm_source=rss_feed"
+    "https://www.scmp.com/news/china/diplomacy/article/3363427/chinese-vloggers-are-taking-youtube-set-record-straight?utm_source=rss_feed",
+    "https://www.scmp.com/news/china/article/3363450/chinese-boy-9-missing-after-being-swept-away-wave-typhoon-dolphin-approached-coast?utm_source=rss_feed"
   ],
   "https://news.google.com/rss/search?q=site:euronews.com&hl=en-US&gl=US&ceid=US:en": [
     "CBMixwFBVV95cUxOckNFQ3lXY2JTT2lZdmpmMGFnRVl4N1BtOExZY0l4cVJRc3NudFFFQzlkSEs2TWlsOXdIQ1IxWWp5ZGdra1N5ZjBqS3l4WkZRTjN2ZFh5QTZiQkUtVl8tamZmSVZtVEhYX1hWYVM3TlE5QUlEUW1LZWZRNm92ZHJldjRhazhvWVhPTGFOdDBTaUdXRTN0dVFaeU5zYU9jbEk2b2ZhRTZSZzhVekd2eGhhZXZ3WkMyMVdjbFV3aWJ2bXJaQVo2dDFv",
@@ -2114,8 +2114,6 @@
     "https://en.yna.co.kr/view/AEN20260809002900315"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1785840180",
-    "https://www.aljazeera.com/?t=1785827207",
     "https://www.aljazeera.com/?t=1785910819",
     "https://www.aljazeera.com/?t=1785835444",
     "https://www.aljazeera.com/?t=1785907311",
@@ -2413,7 +2411,9 @@
     "https://www.aljazeera.com/?t=1786262993",
     "https://www.aljazeera.com/?t=1786272264",
     "https://www.aljazeera.com/?t=1786265145",
-    "https://www.aljazeera.com/?t=1786267674"
+    "https://www.aljazeera.com/?t=1786267674",
+    "https://www.aljazeera.com/?t=1786275006",
+    "https://www.aljazeera.com/?t=1786274918"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
     "https://allafrica.com/stories/202607150084.html",
