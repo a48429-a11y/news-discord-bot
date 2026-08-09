@@ -906,8 +906,6 @@
     "https://www.bbc.co.uk/news/articles/c2elpkg1l0jo#2"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
-    "CBMisAFBVV95cUxNdVltVTN1VjZFdU05eU9fdEF4aXU3WDVTSVg4blgwRzBNeWRZdll3NmN1ZHNkYy1lUm5jOHBqSHQxRWtPY1g2d29nOFZiU2J5YU44VjZnZkg1cTcyaTBzVXg2eU1oY0xHYVpNdGxPODZJa29ScnJkbUt5OFI4UTRIdWUwOTZreVBiamhzbVV1ZGpXcjRCOElNUV9qTFZGTUtKdlBkSWJURU9VQVphVl9vMQ",
-    "CBMipgFBVV95cUxPbjhCR3dBbTcxdjZORDhaRVZoWklneU10UFYxVjc4eUFTR1ZFaDlaMWdWVWRRV243MnJoRXJjRXotRkRQUDRtNGRDU0tpM2lxZndFczlqcjhxQ1VWcGtXeEpudjRfSFVieDB1WGlNcVNGTlVUNmk0dUZrLWh5RjhFOTNoaW9Ubmg5TzgwT2xVWEZKUE11bldaYWZubkN6Q3BlOWFGZ1RR",
     "CBMipgFBVV95cUxNNXotazUtdXc1cWk4WXhob0swYURLa1hWdHdfZGIwUS1hZWhZdVdtRS14WjZubVdUa0RzX29CekZUdUdIeWZnMi10d19iWVRFT0tpNUxaS3A4eGdaRC0yZTEtT29rYXY5bHVHLWxJZ1hMWlBHSjcxWDFHRDFHcFUyYWNHNzN5ZzBLaS1YRVdCMHpWTk9iMWctcTVTUWlZRDg3TWdncVVn",
     "CBMijgFBVV95cUxNYW9uN0pxS05KdmgwSlBrYXdBTjBJTDY2N05QS2FSbUIycnRaR3ZnYTdBVTU5OUxpWnpGZnJUS0tVUWR0dFJIbGNKZGVYZEdxS3RfZjk1bHVnc3h3TTRHN2g1TUFMRU8yZHk3NnE0elkzZXFtUEwxRWNuZjktOTdmcGpCbUxYQW9vM05nZUZ3",
     "CBMinwFBVV95cUxOWUxMdnNIZ1MzaWNwNXBYV19IbUpVbUo2LTBiR3BiS05fVE1fOUczeVM1MVk3TEJWbjA5cmVZZmlNZ2ZLdnp6NlNLRlBmanlpTnhVbFZPc0RicnVJRjFBUS1uNU1kMldjb2F3ZnN3QTRkZGVLNW8wSklmVjZIcG52dks0TE5kXzlmdkF1d01SUW9TemFEQ09DSGlZdkxON1k",
@@ -1205,7 +1203,9 @@
     "CBMipAFBVV95cUxPeWR4UU03c2Q4b0ZHWlNtcHRWSlgydk1xZjdMeXNqX0o2dF9sUXpjSzhEdk9vVE56TW1TTjhzQ2FrMzZvWkFiMGF2WGdFZms0ZmtJaXJNZzBKWDJQZ2QxYWcwdl9qZFRWa0lHNG5VdUJVM0RPa2hEWVRzd1o0R3FXSDZMUDg2andYSW5Ca3dnYU9UeE1PZ2l5eVhDSmdNMWh6bEdQZA",
     "CBMimwFBVV95cUxPejV5NEdoc3dyRHhtTTZXUVlOQXI0a0JIMjhOOWtGZ2xvNzlPS2h6WnJ0d25LejIwNDB4TzFYZWRFNk1CaUVQVXp1ZTdpXzNieFFRVUFYUHNfa2tKRGwzRWwwbElHa0dDcmc4Xzl1Y2hfN1JjYkpoVEhsZ2dEbkQweWk0RUxueW5JcW1ybGY0RUZUUFhGRzNadXJ5WQ",
     "CBMirAFBVV95cUxPUUxNMmFvaEpiMzJzRndsM3NRSWpLZkNtMjVBaUd6dXBkOTNZVjIzZnpYNTBjQmVzWGpnNURRWmF0WWhySUl6MHR1ZzhxUU5ZT0JfZmlRNTg5c3Z4Zlp0Z055RWJrWmsyakRNaUpRSW9WMl8tM1BHWHRQLW9PVkduaU9oTzlNMXNkSkh4SVlxSXlYUC1jbkpLY2VvMHQ0aEc0eEFQOU1EQk1RV2Rf",
-    "CBMinwFBVV95cUxQVTdTN1d6QXBpZThEdm9LTE8zbkt5VkpMQWphRDRJT0RYWlpKb2FWeXJyQXhkMkVjYXBseGpvSFNnUmtnVkEtZ1poaGVNOEdVWTlxZmh5ZHkyRDJBUHBndEc3RGxhcjJwS1hLRGFOendWTkNVemtHMlp0X1RXd1BMU0szRWVZRjRGbW5JQW1ZTmp2MXRaRUM4M3lRY2tuSms"
+    "CBMinwFBVV95cUxQVTdTN1d6QXBpZThEdm9LTE8zbkt5VkpMQWphRDRJT0RYWlpKb2FWeXJyQXhkMkVjYXBseGpvSFNnUmtnVkEtZ1poaGVNOEdVWTlxZmh5ZHkyRDJBUHBndEc3RGxhcjJwS1hLRGFOendWTkNVemtHMlp0X1RXd1BMU0szRWVZRjRGbW5JQW1ZTmp2MXRaRUM4M3lRY2tuSms",
+    "CBMiuwFBVV95cUxPR2o0VUlpb29Rc2VGaHlCUjhCZlkzTVFDdnBXRHJJZldaUGJodWpCZ0c2YXJNaFFPeWxnc0g4UnFPUk1CVUVYRndDNkNtNkRnR1dReXhVaGp6bUkyYUZTLWdlY3FIRE92RFRwWTJJQnVJZ0hEN1ZUS21VdlNvcVd0S0d0ZFZXclVzX2N5UG5JLUU0UlpZTGVJUm1ROFd3R1V3MkhwRjhUbUF2NEFaQjVuX1dra3owQmRXZi1V",
+    "CBMilgFBVV95cUxNRGNIY1BsR0JoQzRvbEZaeTRhYlNWZ20ySllCS2JCWTdza20wRFJ3Z3NSRUYzdmVONVBnMzJyUFh2NUs3THpxdGpoWVhPbTZQYUZocWZfUndLR3NZTllMNGtHTkFQTTlKa3R0SVQzMTlaUEdHVGpramp6T3dEdS1fWVM0SlpaLW82TVJWSjBtOG5BSmRsSEE"
   ],
   "https://www.scmp.com/rss/4/feed": [
     "https://www.scmp.com/news/world/united-states-canada/article/3361270/us-justice-department-investigating-whether-harvard-aid-programmes-are-discriminatory?utm_source=rss_feed",
@@ -1812,7 +1812,6 @@
     "CBMijwFBVV95cUxQRVJPemYzeTVrTXBVYWJtZzJNVl9kS3MyUXVsUXRsNnB3cEtCdXpLOVVIVVZ5ZHhJUWp2bFhURnBmZUNsWUFnVGtiZnE3aUtvQXVOaTZYUnliTUNRTS1OZzhiaDBUNUlXaTRTaU5TZGlwYVBLbzBieF93VEdmTTREb1hfTWVQaGp3UWxVNHNQMA"
   ],
   "https://en.yna.co.kr/RSS/news.xml": [
-    "https://en.yna.co.kr/view/AEN20260804005851315",
     "https://en.yna.co.kr/view/AEN20260804007200315",
     "https://en.yna.co.kr/view/AEN20260804006151320",
     "https://en.yna.co.kr/view/AEN20260804005000320",
@@ -2111,12 +2110,10 @@
     "https://en.yna.co.kr/view/AEN20260809000500315",
     "https://en.yna.co.kr/view/AEN20260809001100320",
     "https://en.yna.co.kr/view/AEN20260809001900320",
-    "https://en.yna.co.kr/view/AEN20260809001700320"
+    "https://en.yna.co.kr/view/AEN20260809001700320",
+    "https://en.yna.co.kr/view/AEN20260809002000320"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1785881508",
-    "https://www.aljazeera.com/?t=1785876799",
-    "https://www.aljazeera.com/?t=1785877287",
     "https://www.aljazeera.com/?t=1785877841",
     "https://www.aljazeera.com/?t=1785875181",
     "https://www.aljazeera.com/?t=1785876637",
@@ -2413,7 +2410,10 @@
     "https://www.aljazeera.com/?t=1786238298",
     "https://www.aljazeera.com/?t=1786249740",
     "https://www.aljazeera.com/?t=1786248551",
-    "https://www.aljazeera.com/?t=1786113493"
+    "https://www.aljazeera.com/?t=1786113493",
+    "https://www.aljazeera.com/?t=1786252513",
+    "https://www.aljazeera.com/?t=1786239469",
+    "https://www.aljazeera.com/?t=1786250907"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
     "https://allafrica.com/stories/202607150084.html",
