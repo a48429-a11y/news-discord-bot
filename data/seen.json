@@ -906,7 +906,6 @@
     "https://www.bbc.co.uk/news/articles/cpvw8vmmgrwo#1"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
-    "CBMingFBVV95cUxQV1dVOXhnRXI2M3NoSHgwTFZTUnFzZDdfdEM1ZkpnQXQ2cS1ycXJtNkFkQkN4R3hRVUdjWnpKWTZ5cUF3TFRQT3FGaGx6YkhNejZpem9hcTdlVzhPRFdhSUVJbFRSWEFsaGtQQUxKTGVuQ0E1cFYxZElnSlJZRnhiRnl6ay10Nk1GWXFDYmtKeGtWaEFEREpFclhPYU9wdw",
     "CBMiggFBVV95cUxNWGF2YWpUT3FIZFlnYUZOXy1FbHVGVW9pdUc1aEpWTTlHTDc0dkNiaUE3XzRWNFg5VWRoUl9fZWRTZDc0UHF2emF5LTc0aC1uanctTjZ1aU1ZZGczb29jMVl6TVJfVS1qQmRZQ21MNENfaFpicmx0b05TTHFpUk9tdXZB",
     "CBMiqgFBVV95cUxQeV9iRmVWNXhWXzBIek9ReFZxMUh5WVJVdmZLdnBaV2Z5THd0WDZkNDZ3YVJyUDY2R0prUktxYkQxQmRXNlNyR1JxWnJyYWozMjNWa1lNSGhjc0trZVRqcHQxVmtKZVZ4OHJlYkd5cW00NVVfMGhxMnNFTFZiOXlzanFJM1lTaDRreXZuYjhyTHp0UkoyZzBZd2o1ZnlRdFdNaG9JSW1sMklRUQ",
     "CBMihAFBVV95cUxQYlJsZEp0Y2RPcDVDaVlJdjg3eGtNU1JYa1JwQlZQUzd1WldoX0Y1Q20zVnFfWTM3UF9RS2FNVUdvZVRhRUZvNFEyYm9fUW5PakVNUkxqS1pZZ1ZycDlQekxKMWdsZE5xUmRTcWx5SlpTaFBEZEdiV0xhNGVBNEJEc3ltNk0",
@@ -1205,11 +1204,10 @@
     "CBMiowFBVV95cUxNU05teTUxck9vNEhwYXl1UGRVYnJjb0xLVkc1bjdhXzktckFicDlCaUc5T0ZvVlA3U3B4ZV8tUjE1Vkk2Y1d2U0hmOHpoeUlSNFBTaDVUMEZtbTQ5NERyU0cycGFiM1gyNWRoSlU5U2hTaGZDOVQwQ041Y29LU0ZWTExyOXVVdjdEeVZTUWN0OE5zU2RZLVBOaVUzc3RObUpWaWxR",
     "CBMimAFBVV95cUxNMk5kR3hfSE02c2Z4RVZ2WUF3VWJkN2I4RW5tbjJQZmFJamcxeVZDR2pmRXlRNUJfNmFTc0cwQ2FRV0p4d2FRQlJnemw5ODlNNDl3YURhR0w2bUZVRVNWZ0F1aUFWeWg2MkJ0eEZQUHpkY2tUR2hCbVJJU1dtNzg2TGYxSXR4UXNIUlRJcENyMHNKazdIR2hPMw",
     "CBMisAFBVV95cUxOcUpUOU9hYmtTNTVWYWo5dHRzR1owQjZ6dGdndWlyWmF0cUowcVZjbUkzUE94QTFZeDVQUHBLME83VFhxT2JHcElDZTZmS1BrbUFBaE9pazVPQVhGOEx5OWlrTGMydjFlTll6ZXhZb1hJNkFiN0RBUW1oSXFabXFlbXQ0S1FvZksyT1AzV00zR3pEdHRQcjBWc2R3VGNwd3ZlZUNBcGFHNU5uWjBnME5sSQ",
-    "CBMisgFBVV95cUxPNE94c2ZmUkRKTlhIRTg0Q3lqamFVYzRHZktxU1ZqbENhS2s0U2xMUVA0U2Zyc1VYM3FQTkg3OVFMbTB2X2kxalMwanhIQmRhTlJaVFo2ZWhpZmc5V2E5Njc5S3lOTjNUWlo4b201bVpkaGFXUEkxb29iWmVzRUdWRFhwd1o1cS1CTlU0SDk4dHBUc21PTERWQlNfTnROM01RQUFsU1ZoUTY0cXYyR2RuRUx3"
+    "CBMisgFBVV95cUxPNE94c2ZmUkRKTlhIRTg0Q3lqamFVYzRHZktxU1ZqbENhS2s0U2xMUVA0U2Zyc1VYM3FQTkg3OVFMbTB2X2kxalMwanhIQmRhTlJaVFo2ZWhpZmc5V2E5Njc5S3lOTjNUWlo4b201bVpkaGFXUEkxb29iWmVzRUdWRFhwd1o1cS1CTlU0SDk4dHBUc21PTERWQlNfTnROM01RQUFsU1ZoUTY0cXYyR2RuRUx3",
+    "CBMinAFBVV95cUxOdTRxS3J0TlV5NTRrN1o4ekxuQXh2RjVZejBHLTBjek5HVWJ0ZGZXajNFRlJaVnVCRzRpLWh6ZzhKd2hka2pPcTB6a2g3dno3eEl1SE9GWkl5amhrRkZjYkFVMHNWTVNtUjlfZlNjcFAzM1p2aUNmV2xlU00yNEsyNDRPS0x6dS1oX2JQcmxrY0JfaUgyUWhDWVNmR1M"
   ],
   "https://www.scmp.com/rss/4/feed": [
-    "https://www.scmp.com/opinion/china-opinion/article/3360533/why-chinas-low-cost-business-model-resists-reform?utm_source=rss_feed",
-    "https://www.scmp.com/news/china/diplomacy/article/3361500/china-eu-pushing-ahead-joint-research-despite-trade-tensions?utm_source=rss_feed",
     "https://www.scmp.com/news/china/military/article/3361476/why-chinas-polar-expedition-arctic-ocean-has-drawn-us-ire?utm_source=rss_feed",
     "https://www.scmp.com/news/us/economy-trade-business/article/3361513/us-not-getting-enough-critical-minerals-china-greer-says-xi-trump-meeting-looms?utm_source=rss_feed",
     "https://www.scmp.com/opinion/china-opinion/article/3361235/how-china-and-indonesia-can-build-truly-sturdy-partnership?utm_source=rss_feed",
@@ -1507,11 +1505,11 @@
     "https://www.scmp.com/news/china/diplomacy/article/3363555/china-india-and-pakistans-dangerous-nuclear-triangle-just-became-more-complicated?utm_source=rss_feed",
     "https://www.scmp.com/news/china/military/article/3363574/chinas-long-march-7a-rocket-explodes-after-launch-satellite-lost?utm_source=rss_feed",
     "https://www.scmp.com/news/us/diplomacy/article/3363579/trump-demands-iran-pay-compensation-hopes-fade-hormuz-agreement?utm_source=rss_feed",
-    "https://www.scmp.com/news/us/politics/article/3363583/us-visa-revocations-hit-175000-pace-new-record-under-trump?utm_source=rss_feed"
+    "https://www.scmp.com/news/us/politics/article/3363583/us-visa-revocations-hit-175000-pace-new-record-under-trump?utm_source=rss_feed",
+    "https://www.scmp.com/news/us/article/3363585/china-moves-join-brazils-wto-fight-over-trumps-forced-labour-tariffs?utm_source=rss_feed",
+    "https://www.scmp.com/news/china/diplomacy/article/3363584/chinese-national-pleads-guilty-trying-export-us-military-equipment-china?utm_source=rss_feed"
   ],
   "https://news.google.com/rss/search?q=site:euronews.com&hl=en-US&gl=US&ceid=US:en": [
-    "CBMitAFBVV95cUxQYldUa2ZZUzRyZjFxTjVHNGNhdWQ3VFk0UzU5aGFiRlNiRnJMekF0aHh3YmRoOURTYWFNOWtFLWJvZFNwTi1JUHluNWVDR0RHcmpKRkloZ3BneTVaYWR0VUN2TkRFRGVvOEM1eHJULU1fMTBPWk83YnF6akJITkpjZ2ttMHNQWnY5Y1JhYUxIUkdhT0dod3hIYnp0RDl6bTNBMFM3djVtZVg0R2w1ampkai1mLXg",
-    "CBMiswFBVV95cUxOdnZUdy1reU8xWFN1cV9fcjlndURxNWNicGQtRDFkdzNjNndidl9GdXZleV92U3dBZ3Vzd2p2YndWdUZvdzdZcng1c1VXN1FLODc1eHkxR0ZoWERNMURNNHhlS1YzSDVHMFFjNGdGYWR5SmpDMFZSWWU5NnVNbEh1YXRuN3VCcmxQaFlNandUMzJnZllvdU8wMnh5aXNjSW1veGkxMDg5QTdiT05QQktSOFpjWQ",
     "CBMisAFBVV95cUxQZkV4aXVHNEh6UWNfZHd1aGxHTXdsV1FwaGVXR0FYQTUzcWJLZ3pjdi1DcTBQNGV3THIzQ29FMDlSRGxYUWFQSTJDWk5Qd1VFX2JnUUcwNTZVY3paS2VTVnBkdGx1QXdtb2UwWTMyWDNmd09PSXBFZHhJZHphTjdpcTVfVnFlZVVkLWN4ZVB0UkEybnJtc0lVT3Q3RWJNdXl6TlpmUDRYQzVRMjFvb0lQMQ",
     "CBMikwFBVV95cUxPWFBhZTNLNmRXamV0Y2V5dVR5NEc0TDRtZEFTTDFtTmRmanpWSGZlLS1wanVfM2pjUHNGQUFFWkd4akxjYWNmVFhtbTc4WFh0VnJQVUZBNFI2UGFOM3RZVllfbENzajRvYWFrajItbzdxbnE5VUxpcDc4M0dlZVU0WHdiRjBxdXl4dVZTczFVTFhZNGM",
     "CBMikAFBVV95cUxNdjFPWFJJZTVEX01xMG1FQmZnSVJBSmhna1VrTjlza05nb0Ixajl6ZE0xNFZFeV93emxrQXhDYkxxbk9vdDVKTVA5bkpmaXNTMEtjUjVXUFM3OGdQcnQ0QmhCblpPUldUNTZzanU0X0N5OVZGcndjSjR4am8xd3FqZnJuU2VoWXNiY2RwVVFoOUc",
@@ -1809,13 +1807,11 @@
     "CBMiygFBVV95cUxOQkdUYnE3S05rY3ZCeG9BQkNfOTJGazJYVnpoNloxbFdlRTZqZnpDVWduVzZ2MXZNdVcwRmdxdl93YlNKRkJ1TXpTTjViWWZReFBTNjc4bV8wOXNSSThyR0w0R3ExSDVjc1BxOTdoUkQ5bnVGNmYwSzhlYkFyM0NCczBtYWtNTzAyREdxSHRHWHFxbEpiRjBLVVExVlV1QXFseURGVXMzWlFJNFB3bDNtTlI4d0ZvbHBWWDNWbkxBZ3BCdmJGQWRpdEdn",
     "CBMiqgFBVV95cUxPTEY4aVYtbm8wb0Ruak9TOU1EU1FhN3QwMEVaQmRUZ0dKOVpGeUx4MGJQcTI2VE82NEpqaTk0TGVFLVh1bkFPV0lDbnBPdERQSEUxeWZ2a0dCankxM0Q3RkZwNElkZFhhdGlRQTVvdk9BeFJnY0dZUmZJX1J1SVJCQVJrOS1Xa0FNXy1ZcFVMNUpkUHpEUmRLNFJQZXowMVRqTFN6UWhzUExrUQ",
     "CBMivAFBVV95cUxPRGctMjJsZU5SVU94bFd3OVpvdG5TMDhDRnpBZ05ISWhKMG52a0RpY2U2eDFZb1FaUnJfNktXckF5MW9SdktWS2xIcVFVeUo5M3JFR1JGTXBBbVV4VFZRQ0RVeEs4enVwdHRsMjJoR01ieHRhN2xfakliaXBHSWhSNGtmNFc3OEpKcm51MGNWOGJSM2pmOFNTTGstOVVUUEZfMnJJT21WazFWOFU1UUNWVjJJOXJoLWF5NEpJdA",
-    "CBMirwFBVV95cUxNQVdRUlVhOF9NeTZuNnZkZlo0R1lGWV9ndmtDUnFnQnNJZHFmSmNtMFhwZkZmTmZoVDNTUGFMMUNUMFQzS3E5SWtwZWRXRUp5UXFKaHc0R1RfZ1VTVy03c3BReW1UQlBiSXVkWDR2S1d3NWhrQWxYV29QdGx6OHlMYmw4bDk3elpTRTloODNiZVptaW83VTR5ZmUxbE5MMkt5S3ktZWJCVFB5UFZzOXh3"
+    "CBMirwFBVV95cUxNQVdRUlVhOF9NeTZuNnZkZlo0R1lGWV9ndmtDUnFnQnNJZHFmSmNtMFhwZkZmTmZoVDNTUGFMMUNUMFQzS3E5SWtwZWRXRUp5UXFKaHc0R1RfZ1VTVy03c3BReW1UQlBiSXVkWDR2S1d3NWhrQWxYV29QdGx6OHlMYmw4bDk3elpTRTloODNiZVptaW83VTR5ZmUxbE5MMkt5S3ktZWJCVFB5UFZzOXh3",
+    "CBMivwFBVV95cUxPeFZESDU2dWdSSWJVNnVxWWc2LTZFVWJ4TTZRN1ZsZ19SY1RYU1BZNTZGUlM0cmZfcEZTczB4OWk0RFFQdmwzcGZmU2kxTjFYT3BSSWJFb29rVUM3UjJKall1emZNQzNmYUlsY0dFTktaanl5MkgwRHM1WWhPX3NZdXFRZVQxeWtyMUY3ME1CeUZrLXlJRzRsbkoyeFZnZE0xYkcyaWJVelBzSzcwTlFkSms1QW1SdnhLTkY4SkhQNA",
+    "CBMiowFBVV95cUxPRnhDSlVIN0JDMnJacWNRV25jLU1ORHh0Y2RiaFcwc05PS0QzVGJPYTRsTDlGOUYtaVQ0OVF1YVh0NS00T053MWJzU3FKN09TSUNBWXZ6anNBcHZUeFlZa3VpVExrejh3V3RWdHJhYkp6VUdYVFVFUjBwNnpUYnAtQk9BTzV5blozZDBjQnV3Z2ZHcFRWbGNodGdoMHRJeGNKX3BF"
   ],
   "https://en.yna.co.kr/RSS/news.xml": [
-    "https://en.yna.co.kr/view/AEN20260805003000315",
-    "https://en.yna.co.kr/view/AEN20260805003700315",
-    "https://en.yna.co.kr/view/AEN20260805003600315",
-    "https://en.yna.co.kr/view/AEN20260805003300315",
     "https://en.yna.co.kr/view/AEN20260805003200315",
     "https://en.yna.co.kr/view/AEN20260805003400320",
     "https://en.yna.co.kr/view/AEN20260805002452315",
@@ -2111,10 +2107,13 @@
     "https://en.yna.co.kr/view/AEN20260810005700320",
     "https://en.yna.co.kr/view/AEN20260811000200315",
     "https://en.yna.co.kr/view/AEN20260811000300315",
-    "https://en.yna.co.kr/view/AEN20260811000500315"
+    "https://en.yna.co.kr/view/AEN20260811000500315",
+    "https://en.yna.co.kr/view/AEN20260811000900315",
+    "https://en.yna.co.kr/view/AEN20260811000800315",
+    "https://en.yna.co.kr/view/AEN20260811000700315",
+    "https://en.yna.co.kr/view/AEN20260811000600315"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1785573815",
     "https://www.aljazeera.com/?t=1786054605",
     "https://www.aljazeera.com/?t=1786059094",
     "https://www.aljazeera.com/?t=1786054733",
@@ -2413,7 +2412,8 @@
     "https://www.aljazeera.com/?t=1786391826",
     "https://www.aljazeera.com/?t=1786369499",
     "https://www.aljazeera.com/?t=1786390080",
-    "https://www.aljazeera.com/?t=1786394495"
+    "https://www.aljazeera.com/?t=1786394495",
+    "https://www.aljazeera.com/?t=1786398032"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
     "https://allafrica.com/stories/202607150507.html",
@@ -2767,7 +2767,6 @@
     "https://en.mercopress.com/2026/08/10/de-la-espriella-gives-the-first-earthquake-toll-and-entrusts-colombia-to-jesus-christ?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss"
   ],
   "https://www.abc.net.au/news/feed/2942460/rss.xml": [
-    "https://www.abc.net.au/news/2026-07-19/f1-2026-belgian-grand-prix-kimi-antonelli-pole-oscar-piastri/106932726",
     "https://www.abc.net.au/news/2026-07-19/aussie-leo-inspired-messi-growth-hormone-deficiency-world-cup/106928654",
     "https://www.abc.net.au/news/2026-07-19/f1-belgian-grand-prix-live-blog-antonelli-piastri/106932990",
     "https://www.abc.net.au/news/2026-07-20/world-cup-live-updates-spain-vs-argentina-world-cup-final/106785590",
@@ -3066,6 +3065,7 @@
     "https://www.abc.net.au/news/2026-08-10/western-united-cut-from-a-leagues/107021526",
     "https://www.abc.net.au/news/2026-08-11/tas-greyhound-injured-in-nsw-we-stand-with-tasmania-race/107016384",
     "https://www.abc.net.au/news/2026-08-11/football-federations-including-uefa-open-letter-infantino-exit/107022498",
-    "https://www.abc.net.au/news/2026-08-11/retiring-crow-taylor-walker-went-from-broken-hill-to-afl-star/107016246"
+    "https://www.abc.net.au/news/2026-08-11/retiring-crow-taylor-walker-went-from-broken-hill-to-afl-star/107016246",
+    "https://www.abc.net.au/news/2026-08-11/bird-flu-unexpected-badminton-shuttlecock-impact/107003336"
   ]
 }
