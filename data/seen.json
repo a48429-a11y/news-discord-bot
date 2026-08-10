@@ -1208,8 +1208,6 @@
     "CBMiogFBVV95cUxPTXVkbTA3M0Nvd1RSZjc2aDRJV1VOT01vTlJ0anlYNUJwQWJnUjYwMmllSmZyLV91QjUwazI3U2swc3hiNjNtZFowTUQxWVVaaTRiTWstcGp0cWsydjFJYlRjR3F2NlN0TmZUaDlHcnVyMkgyLVN5M1VMYTIwYUplamNqenZ1Tk9zWmdNMHIwWm1Ma2IxdWJ5RG1CVUtDU1lyQ1E"
   ],
   "https://www.scmp.com/rss/4/feed": [
-    "https://www.scmp.com/news/china/diplomacy/article/3361395/crawfish-soup-mars-fears-over-chinas-scientific-ambitions-raised-senate-hearing?utm_source=rss_feed",
-    "https://www.scmp.com/news/china/diplomacy/article/3361432/australia-raises-chinas-missile-test-meeting-top-diplomat-wang-yi?utm_source=rss_feed",
     "https://www.scmp.com/news/china/science/article/3361343/chinas-unique-high-orbit-satellite-using-rare-metal-us-struggles-obtain?utm_source=rss_feed",
     "https://www.scmp.com/news/china/diplomacy/article/3361372/can-us-and-its-allies-break-chinas-grip-rare-earths-and-ai-technology?utm_source=rss_feed",
     "https://www.scmp.com/opinion/world-opinion/article/3361013/russias-grinding-war-ukraine-shows-impotence-nuclear-weapons?utm_source=rss_feed",
@@ -1507,7 +1505,9 @@
     "https://www.scmp.com/plus/news/china/diplomacy/article/3363530/islamic-nato-may-create-china-opening-middle-east?utm_source=rss_feed",
     "https://www.scmp.com/news/china/politics/article/3363523/how-guest-list-beijings-summer-retreat-reveals-its-tech-priorities?utm_source=rss_feed",
     "https://www.scmp.com/news/china/diplomacy/article/3363541/why-indias-new-himalayan-border-map-threatens-fragile-thaw-china-ties?utm_source=rss_feed",
-    "https://www.scmp.com/news/china/politics/article/3363538/lightning-hits-china-southern-airbus-a321-while-taxiing-20-strike-marks-found?utm_source=rss_feed"
+    "https://www.scmp.com/news/china/politics/article/3363538/lightning-hits-china-southern-airbus-a321-while-taxiing-20-strike-marks-found?utm_source=rss_feed",
+    "https://www.scmp.com/news/china/diplomacy/article/3363529/beijing-official-hails-china-and-cuba-good-brothers-show-solidarity?utm_source=rss_feed",
+    "https://www.scmp.com/news/china/politics/article/3363551/why-taiwan-conducting-its-first-ever-mobile-network-throttling-exercise?utm_source=rss_feed"
   ],
   "https://news.google.com/rss/search?q=site:euronews.com&hl=en-US&gl=US&ceid=US:en": [
     "CBMipgFBVV95cUxOWTR5UjJRWWRCdWxublRsTTVCVWE0WVgxMVBUQnB0UF80MmFHa0Y1VlBBdzE2engwRzA1M183bW43LWRuaFJvYUlraEZRZTA1UG1PVnd4UFVyMGtUdUh6SEhmcGFmYnJiaVBRdnZjeGFMMzRsWldfaVRkak1VWm50cjVEWTY3bjRUT3pzXzh0ZnJvMENtVm4wSmtzWEdpNElSTWplQjl3",
@@ -2114,8 +2114,6 @@
     "https://en.yna.co.kr/view/AEN20260810008400315"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1785973802",
-    "https://www.aljazeera.com/?t=1785970091",
     "https://www.aljazeera.com/?t=1785974355",
     "https://www.aljazeera.com/?t=1785971476",
     "https://www.aljazeera.com/?t=1785970166",
@@ -2413,11 +2411,11 @@
     "https://www.aljazeera.com/?t=1786355399",
     "https://www.aljazeera.com/?t=1786344662",
     "https://www.aljazeera.com/?t=1786347148",
-    "https://www.aljazeera.com/?t=1786351698"
+    "https://www.aljazeera.com/?t=1786351698",
+    "https://www.aljazeera.com/?t=1786348152",
+    "https://www.aljazeera.com/?t=1786349307"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
-    "https://allafrica.com/stories/202607150299.html",
-    "https://allafrica.com/stories/202607150219.html",
     "https://allafrica.com/stories/202607150508.html",
     "https://allafrica.com/stories/202607150506.html",
     "https://allafrica.com/stories/202607150507.html",
@@ -2715,7 +2713,9 @@
     "https://allafrica.com/stories/202608100019.html",
     "https://allafrica.com/stories/202608100002.html",
     "https://allafrica.com/stories/202608100079.html",
-    "https://allafrica.com/stories/202608100108.html"
+    "https://allafrica.com/stories/202608100108.html",
+    "https://allafrica.com/stories/202608100321.html",
+    "https://allafrica.com/stories/202608100318.html"
   ],
   "https://en.mercopress.com/rss/latin-america": [
     "https://en.mercopress.com/2026/07/11/four-held-in-ecuador-over-migrant-smuggling-network-to-the-united-states?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss",
