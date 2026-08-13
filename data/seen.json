@@ -604,8 +604,6 @@
     "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html"
   ],
   "http://feeds.bbci.co.uk/news/world/rss.xml": [
-    "https://www.bbc.co.uk/news/articles/c4g43l251vyo#2",
-    "https://www.bbc.co.uk/news/articles/cx27p32jzj2o#2",
     "https://www.bbc.co.uk/news/articles/cly5kvdkyjro#0",
     "https://www.bbc.co.uk/news/articles/c0kmd4xpr46o#0",
     "https://www.bbc.co.uk/news/articles/cq56qejll6vo#0",
@@ -903,7 +901,9 @@
     "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo#0",
     "https://www.bbc.co.uk/news/articles/c9q9351yp1xo#0",
     "https://www.bbc.co.uk/news/articles/cn5n399n6zvo#1",
-    "https://www.bbc.co.uk/news/articles/cn0npjkqrleo#1"
+    "https://www.bbc.co.uk/news/articles/cn0npjkqrleo#1",
+    "https://www.bbc.co.uk/news/articles/cn0npn249qvo#0",
+    "https://www.bbc.co.uk/news/videos/cjej4y3gvzlo#3"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
     "CBMirAFBVV95cUxPd3R1ek1NVGttOHhoeDFOU0d2LWpWbFdxSnBYRHAxSnFYZk5hV1NXdWdiMXFzMURWUXR4ZzA1UFhfRUxiRHVfdVJyY1V1X2tmczJ6Mi15SEEtUnhPMERJRUJQNmV0MlVQVS16TFpHdUxSN3M3ZTBISURzZW5iMVhrUjlzUU9fUXZoLWlOd1NGY3Y1RkZlOUdvbWlQSlJnVEZqTzVTVS04WWdTbVhN",
@@ -1208,8 +1208,6 @@
     "CBMiqwFBVV95cUxNOFB6UWxyVng3Q0Z1RlE5NmIzV3FxbUI2U2NMbVE4b0tIcFJManZwWHZidWtqQi0zMXA5QXJmWDl3WkpQSDlYOElWN0NDbTUzUW5LYUJsQ3FMVHZrYzZjeG04RjdXUU1yaGJHdk9HT2xmdkkzcnVMNkxqY0hWcDJTb1BkVERxX3dOV1VaTWdIR2plaEFLSGdCVkpYUlFnMjgzamEwT2RzTFByWXc"
   ],
   "https://www.scmp.com/rss/4/feed": [
-    "https://www.scmp.com/news/us/article/3361811/fbi-director-meets-chinas-public-security-chief-beijing-crime-crackdown?utm_source=rss_feed",
-    "https://www.scmp.com/news/china/politics/article/3361828/rail-and-air-services-cancelled-and-schools-shut-southern-china-braces-typhoon-noul?utm_source=rss_feed",
     "https://www.scmp.com/news/china/military/article/3361802/can-chinas-aerospace-industry-overcome-execution-gap-modernisation-goals?utm_source=rss_feed",
     "https://www.scmp.com/news/china/science/article/3361762/long-silk-road-silkworm-cocoons-already-existed-uzbekistan?utm_source=rss_feed",
     "https://www.scmp.com/news/china/diplomacy/article/3361638/china-tests-central-asian-land-corridors-bypass-maritime-chokepoints?utm_source=rss_feed",
@@ -1507,7 +1505,9 @@
     "https://www.scmp.com/news/china/science/article/3363873/chinese-yeast-factory-boosts-cancer-drug-production-speed-1000-times?utm_source=rss_feed",
     "https://www.scmp.com/news/china/politics/article/3363887/chinas-travellers-raise-alarm-over-error-filled-tourist-signs-public-spaces?utm_source=rss_feed",
     "https://www.scmp.com/news/china/politics/article/3363913/11-key-achievements-chinas-iron-premier-zhu-rongji-his-own-words?utm_source=rss_feed",
-    "https://www.scmp.com/plus/news/china/politics/article/3363910/zhu-rongji-reforms-fuel-chinas-economic-transformation?utm_source=rss_feed"
+    "https://www.scmp.com/plus/news/china/politics/article/3363910/zhu-rongji-reforms-fuel-chinas-economic-transformation?utm_source=rss_feed",
+    "https://www.scmp.com/news/us/article/3363925/us-accuses-chinese-exporters-masterminding-great-transshipment-scam?utm_source=rss_feed",
+    "https://www.scmp.com/news/china/diplomacy/article/3363871/saudi-turkey-pakistan-mecca-pact-falls-short-nato-style-defence-alliance?utm_source=rss_feed"
   ],
   "https://news.google.com/rss/search?q=site:euronews.com&hl=en-US&gl=US&ceid=US:en": [
     "CBMi0gFBVV95cUxQaGNsV3RmS0U0aGJlOUxmdmstV1dCTnc4Z21KSmlWenQ4YUs4dEZrSkRXWS1CV192TmIxYTI4TUpxbHgwcXBpX1duVHNfcFNjaVZiTU5UZWVXcDVmSWUyOXFfQWxrbFVVTnF4NVItTnhMT2lPdFJ2Si1jMGkxeWQyUzlBeVFYT1JfLUUzXzFLbm5rTjcwTlVSOG9VMG9PVDZIMDNjU0FHdmVFM01jWnFwRmxyZjJQWGhkLWR2dGFIeGp0NzZOYXhrMGFnRWZRMXBxWUE",
@@ -2114,13 +2114,6 @@
     "https://en.yna.co.kr/view/AEN20260813011000320"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1786299140",
-    "https://www.aljazeera.com/?t=1786301466",
-    "https://www.aljazeera.com/?t=1786284779",
-    "https://www.aljazeera.com/?t=1786305346",
-    "https://www.aljazeera.com/?t=1786301539",
-    "https://www.aljazeera.com/?t=1786314915",
-    "https://www.aljazeera.com/?t=1786312723",
     "https://www.aljazeera.com/?t=1786316639",
     "https://www.aljazeera.com/?t=1786324186",
     "https://www.aljazeera.com/?t=1786265948",
@@ -2413,10 +2406,16 @@
     "https://www.aljazeera.com/?t=1786605505",
     "https://www.aljazeera.com/?t=1786606330",
     "https://www.aljazeera.com/?t=1786604461",
-    "https://www.aljazeera.com/?t=1786604665"
+    "https://www.aljazeera.com/?t=1786604665",
+    "https://www.aljazeera.com/?t=1786615755",
+    "https://www.aljazeera.com/?t=1786017577",
+    "https://www.aljazeera.com/?t=1786613894",
+    "https://www.aljazeera.com/?t=1786609705",
+    "https://www.aljazeera.com/?t=1786613712",
+    "https://www.aljazeera.com/?t=1786606418",
+    "https://www.aljazeera.com/?t=1786424564"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
-    "https://allafrica.com/stories/202607170711.html",
     "https://allafrica.com/stories/202607200097.html",
     "https://allafrica.com/stories/202607200010.html",
     "https://allafrica.com/stories/202607200009.html",
@@ -2715,7 +2714,8 @@
     "https://allafrica.com/stories/202608130034.html",
     "https://allafrica.com/stories/202608130024.html",
     "https://allafrica.com/stories/202608130027.html",
-    "https://allafrica.com/stories/202608130030.html"
+    "https://allafrica.com/stories/202608130030.html",
+    "https://allafrica.com/stories/202608130117.html"
   ],
   "https://en.mercopress.com/rss/latin-america": [
     "https://en.mercopress.com/2026/07/11/four-held-in-ecuador-over-migrant-smuggling-network-to-the-united-states?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss",
