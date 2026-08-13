@@ -1,6 +1,5 @@
 {
   "https://news.google.com/rss/search?q=site:reuters.com&hl=ja&gl=JP&ceid=JP:ja": [
-    "CBMiekFVX3lxTFByUWVnZWgyVmFFQm1ON01rQmNTM0o0ZVoyX2F2MkhoM3hCZjk1M054VWlOb0VfRzdHQlAzODNSUzN1TEZsV0l5VHdMaWtUVjFnbVFQLWJSZ0gyckhHN0JkbkE3WHpwUHBhS29sODRXNWp5RFRuOFd6UVdB",
     "CBMieEFVX3lxTFB6UXBhY3BMZngyVjB4N2ZzaVpVS1dmTjM3bkF1V0RTZTBnV0dRVjZDLWF2RHU4Z0U0MTlOa1pRb2Q1Wm4tTWYySUFBenJWMTk2SklSV3NJRWl1ckE5cEFqOFRteGp5NlBUZDJueWN2ektEOEt3SW5HeQ",
     "CBMidkFVX3lxTE5xOEg2NnZNdFR1MVB6ZWxXSnZ0V3p1TDBUaEQ2U2lvWHF0VENsNTlqTGZhVTJGOXBCZXNjb3VKT3N3dE1kejh4a2FoY1F0S0J5cDJ4ZThNWG5JMEtONHNZZG9ncWNTeDJjeDZYaHBwUEdUaW0yMXc",
     "CBMiekFVX3lxTE9MTnpJOUJkeWZpV2pGM1lRSWVKQXRZOE5YOEUtNXUwTDdOMmxud1BRcjF3R002ZGRXbDhtMzBNQm93LXJhSnhTS0ZGZG9mdWRjQU93c2pKNjhtZUx0MTJrZW0yLXJlWWJUWWJaOU9PejB6MnoycmhkbUdB",
@@ -299,7 +298,8 @@
     "CBMieEFVX3lxTE45RkZVUmRySmtNakM5NFlyNjBDS21lT1U3WXF5WjAxWmJad1NwM0Zhc3o5QnFKNkZ3TUtqWFlFQkNfQzM5ODlnTENVVWhHR3F3WG53WUF0NWhrS2hsQ1BOcUlDSkFrLUt0OEZUMmJRaUhLVjJ0TzhnQg",
     "CBMigAFBVV95cUxNY0hPSE53ZVVaWlFIVWtJS18yam5CcE1hd3N6Y1ZZaGlkQjNQNWJLbFlNNmNaM1hWZW16UkR0eXdfVGl5NFpZMDBtMUlLM1VhRE1vRHVqRm8tQ25OTXNqZ0pRMmEzSzdVaTRqSjRYWExtWmtSS2liRzl6NVl3QmJ5Yw",
     "CBMidkFVX3lxTFBFT3R5R1lfN2U3UzVwdENUem1rNk1LeW9XVjAwT21RRi1Qa1NjZmhjYXhzYnE1bTBtOWJ3YnZsOThMSWdjQ2ZUMDU2ZGdOUmdLdVRMNW1WTmhJcVMwMDVoZ3hiYk9KSEdWMHkxaVJfVlVtcXYza0E",
-    "CBMieEFVX3lxTE5LSWIxNzgycE5vbmVKclRBLW9ZS0ZzOGpfR0dqVW5jOWFyUzFZUjJSa25GMU9tcFl3dW04RVhQNmVQUnB6WkRLUzgwMWpnVDY0Qm1GYldSNUY0dVA1RURDTVJrdkVITGQyOEYxc0llWTMyWERSNmlmUg"
+    "CBMieEFVX3lxTE5LSWIxNzgycE5vbmVKclRBLW9ZS0ZzOGpfR0dqVW5jOWFyUzFZUjJSa25GMU9tcFl3dW04RVhQNmVQUnB6WkRLUzgwMWpnVDY0Qm1GYldSNUY0dVA1RURDTVJrdkVITGQyOEYxc0llWTMyWERSNmlmUg",
+    "CBMiggFBVV95cUxNOFV5ck9NY0hHZF83cUJHd2k2YUVyVHR6Y0xLVnFwTjY0eTNQcVRGYldIMUFhdU5zeG9rTzlMMTk3ZDl6WkNndEpMdS02eTNWMzVhV0VpRkgxN1dkUDdMcDIxbnA5UEJfdkJabzg2NDdVNnozOGtxR3hpTmpFeWQ4Uk9R"
   ],
   "https://www3.nhk.or.jp/rss/news/cat0.xml": [
     "http://www3.nhk.or.jp/news/html/20260724/k10015185791000.html",
@@ -604,8 +604,6 @@
     "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html"
   ],
   "http://feeds.bbci.co.uk/news/world/rss.xml": [
-    "https://www.bbc.co.uk/news/articles/c1e14lj7vg7o#1",
-    "https://www.bbc.co.uk/news/articles/cn0n9w95n70o#1",
     "https://www.bbc.co.uk/news/articles/cp309ng0xq1o#2",
     "https://www.bbc.co.uk/news/videos/c935ng9n2klo#3",
     "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo#0",
@@ -903,7 +901,9 @@
     "https://www.bbc.co.uk/news/articles/c2352jyvm5xo#1",
     "https://www.bbc.co.uk/news/articles/cqlxpq5q799o#0",
     "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o#1",
-    "https://www.bbc.co.uk/news/articles/ce85p80nn2yo#1"
+    "https://www.bbc.co.uk/news/articles/ce85p80nn2yo#1",
+    "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o#0",
+    "https://www.bbc.co.uk/news/articles/cly8p8lpyvmo#1"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
     "CBMioAFBVV95cUxNcHl4R1ZMTVEwZzlDaHBiQmE0S3pRdHFGd3ZTZlBDOFkwbE9ld3hrMk4yZVBoZWpIOVBtT29vX2dQTE4xUVc4V25SZGhZazgzRzluZnR0aVZkX2hIN2o3eTJLRHRRYWkyWFNneGdVTDlwbzRUTmg1dnhjaFp6c2ZERWZialpsTkJub0t3aEtGQXpHZGpiRTMzdFNGOEM3WjQx",
@@ -1208,8 +1208,6 @@
     "CBMiogFBVV95cUxPRFFIczBaNVdaX0VtUU9zOEZienY4Uy1YYzgtVjVrelZfRGxMRTBaMFlxbWU2VDU2cEN2cnFyRXdzYnVka0RKWUlLUFNNbmIwLUZBemU4eTcweUs4X0ROV3ZvZGhTRVphSFlZWW9qa0Z4dGRGZmxnZ0JWYy1zRkkwZGsyRkdPYkdjeTJoZFAxX29ZaW5RcmVqSnJvc21zbkstVGc"
   ],
   "https://www.scmp.com/rss/4/feed": [
-    "https://www.scmp.com/news/china/military/article/3361835/what-helicopters-flight-taiwan-strait-says-about-beijings-war-plans?utm_source=rss_feed",
-    "https://www.scmp.com/news/china/politics/article/3361842/china-completes-first-high-speed-rail-tunnel-under-yangtze-river?utm_source=rss_feed",
     "https://www.scmp.com/news/china/diplomacy/article/3361763/how-china-using-film-diplomacy-project-better-image-across-africa?utm_source=rss_feed",
     "https://www.scmp.com/news/china/article/3361843/how-americas-250-year-china-dream-became-its-greatest-strategic-challenge?utm_source=rss_feed",
     "https://www.scmp.com/news/china/politics/article/3361867/typhoon-noul-chinas-strongest-storm-year-hits-tech-and-manufacturing-hubs?utm_source=rss_feed",
@@ -1507,11 +1505,11 @@
     "https://www.scmp.com/news/china/diplomacy/article/3363926/malaysias-anwar-looks-back-relationship-well-beyond-affairs-state-zhu-ronji?utm_source=rss_feed",
     "https://www.scmp.com/news/china/diplomacy/article/3363926/malaysias-anwar-looks-back-relationship-well-beyond-affairs-state-zhu-rongji?utm_source=rss_feed",
     "https://www.scmp.com/news/china/military/article/3363894/satellite-images-show-50-cent-boost-chinas-type-054b-missile-capacity?utm_source=rss_feed",
-    "https://www.scmp.com/news/china/science/article/3363843/chinese-missile-ai-tracks-f-22-f-35-heat-signatures-over-90-accuracy?utm_source=rss_feed"
+    "https://www.scmp.com/news/china/science/article/3363843/chinese-missile-ai-tracks-f-22-f-35-heat-signatures-over-90-accuracy?utm_source=rss_feed",
+    "https://www.scmp.com/news/china/diplomacy/article/3363892/chinas-stem-students-turn-singapore-western-study-options-shrink?utm_source=rss_feed",
+    "https://www.scmp.com/opinion/world-opinion/article/3363663/what-mecca-military-pact-means-china?utm_source=rss_feed"
   ],
   "https://news.google.com/rss/search?q=site:euronews.com&hl=en-US&gl=US&ceid=US:en": [
-    "CBMixAFBVV95cUxOZVVzc3FuUmk2ZXcwZ004NW4xTTB4dURnU3ZpNFBCcjVlaWN0Z0dLWWpQSllkY1JMbmRPVURxVGNoVVRSY29VcFJWdm4yaFlzWGxSSDhCYXlWLTlYeXpOYXk5MzNyNHpVYTRadHcwOTNfMWxONk8wbHF4ak1TVUtBcVBCUGlMR3h5MmowakRTaVFsbkkwdkFKWi1oZnNxdnBMVWtzbDI4b3pJVmZNN3VPbEx2bk9sekljakc1cGYxTXhJSFFD",
-    "CBMivAFBVV95cUxORnVsYjJiaDh4UmpIRTJEbkhhYTZObXdNekc1NlFoWVF0NFlKS29uNzJYb2dSRFlCZGs4MENUajM2N0dJcmc1bk5xOUk3M3hQMTRiZHE5dlFIUUE0cnVUdGxUQUlUNGNfWXBSYUJpd2FZM1VleXBMWTNydUFyUjEyY0dvRWwxWVFpelZWZ2t4WGZhTUhuaU1aak9EekZzRy1Sa1ZLSWdJZEJ4VkRRTUlRNmlpOVExUlc5MDY0Nw",
     "CBMiqgFBVV95cUxPUlBYd2JiOV9Ud3dVVFpNeDdocmJDV0FSUE5GakN5U1ZwbmptOHpXeWlGdlNTajhBYlpJWm9jTXJVWlRPNXBlVjR0ZEswNUNCVE4tMWgyRGNydWs5OTVIMi1UaDFCMkFUUy1OY0JFdUtZZWZOcUxzSmoyWDgxTjVnaEtpd1Q2NUtnbWFKWjBGc09iQnJOMjBkQmZaUmdkLThkank1cGtSLUZjQQ",
     "CBMiswFBVV95cUxOU0FTck0zNTU2U3gwQU9ISktfb1VHbVNNWGxldXl3X0NwWGtzRmNIaElEQmxGalFXYnBvUUlZYUdFNG1BUk5LbW1FSllwdmtla1R0UXB1UllNRi1qYjdSTnluSVBEbGwyYy15TzE0UTNBRWE1UjVpT2Z5WHgwdnkxelloS3hHaHlERlFSR1hoenVOY3dIVmpfUnhyaldZYmt0WXQwZl9SVjhtdnFXYlIwSDU1cw",
     "CBMi0gFBVV95cUxNaWZfUmF1b2w5UldFLTE3OFdHT09MaWZERnZ4bUlfSDVJVVptR2ltWkl1VllHOHJKdGVtblJnTjdqbGNUaWRkRUpXM0pwR2huM1R1SEtROVBaelczNUI5UXdiVG8wZ01JRll2NVdLQmhCQ0NwR1JXNXIycy02S2FFdHJHNGdla2RoRGx4ZGVOVUM3azdxc1JVZFB1ck84aUNTQXgyVXJFT2RGVDZMeGtVSWZDdmJPdVJrX1ZMM0s5cFc5aE4zSHRaX0hXUEdza1cxd2c",
@@ -1809,14 +1807,11 @@
     "CBMizAFBVV95cUxOZWZtRUhwUWIyX0VnakJrZEJ0elZ5c1pxbkJqTlBWbHYwR1gzYjllVTAwTkViWFozZkxJbVY4RW1rRk84M2R4bHZGbnVfU3dXNkVqUVpnS2hENWY0VHF6UzlSMk9UOXE2VDBGVlZyLU5mREdQNk1VaHk4dl95Y21uUUFLUVUzT1dYWjdzSVJ3emNJalNCeXc5VlpJZG1NNU1oa1V4d1NLbWJOWGlEQ3plUWN6LWlxV1NMZF9GOGJDRG9hNDdiRVpxNUdFZ0Q",
     "CBMirgFBVV95cUxPZ2FVZW0xMnhMeHJucDNkNVdkeVMwYS03ay03VVZ1MzRzUmhSaHI0VjNSM2wwOUtyamtwelR3U1F4OWJhc2tCaFNwb1o2N1ZSa0JWX2xJTEVYLXo4bkUzY01lOG1Fa1JwN3FnYWdlSjBqX0dFLXd1eElwSDlHNlFidUUwaHpPSF85QjEwWDQ3T1NIRW84d0Vnbno3SU50ajB3ZFJqajBwXzVzbWh6TUE",
     "CBMiwAFBVV95cUxOT1pfOF9wWG9KZEFxUnRfSmJ0M2xCVjlCQWRGZXhWZUVRR1doZ1daaGZsWlJWanFJaHNkd2E2SEh5ZW8wQXJrazI1T1dGbzU1UGVwdVZmYjVMMV9jRVh5WllEbmxRZUh3TDJ2MzdmRHpHR0JDMUxIQ2NZdjdvWnBhZGVhOFZCZy00OHJHVDM0bVFRdUZaQzFEM0MyNXA4alhoZ0RKcHNFOTU0bE5kMVBzaEI1UG5wTnJWQmVvd2RMbUY",
-    "CBMizgFBVV95cUxQQjQ2eE1MUjF5VUdBOWhCTlZ5UmUzbG9rZlhIaU1VUENlckVUU3VCTVA3REVPY3l6cjV6SDVFc3RjVjdKeVZVSjJfTnRVbHJaV2RjekpRa1pHZWNvbFhWc3pVSy1ZR21Yc0FKbWd3TFVCa29YOUxnVGtqUGtqQUJBOWVkM29VbUxjUjdtVGFLaUVuY0gtcEt1UEtkSW50M1ladnlRZTJxaUpCVHYycDhMazJlSEhzWmtsNnRKYTU1anh3R2VoTlBmMjIxYnlRUQ"
+    "CBMizgFBVV95cUxQQjQ2eE1MUjF5VUdBOWhCTlZ5UmUzbG9rZlhIaU1VUENlckVUU3VCTVA3REVPY3l6cjV6SDVFc3RjVjdKeVZVSjJfTnRVbHJaV2RjekpRa1pHZWNvbFhWc3pVSy1ZR21Yc0FKbWd3TFVCa29YOUxnVGtqUGtqQUJBOWVkM29VbUxjUjdtVGFLaUVuY0gtcEt1UEtkSW50M1ladnlRZTJxaUpCVHYycDhMazJlSEhzWmtsNnRKYTU1anh3R2VoTlBmMjIxYnlRUQ",
+    "CBMiuwFBVV95cUxPMFdTNlFRcTFlWGtaR1U3UjVCRVExTkhSd3hyQkRaLWczSDZFejdpX3BhRTR2cjlQa0ROYjd6VElzVVp5OTV0ckFUblk4SG52NXhqdktuV2J2azBzSGdZc3NEUWpVa3RRZUdmOHZlYVV6ZElsQ01wUE1zOVdKOU4wYmFWRExTdWVpV0RnRmNrcTN3dDN2QVJ5V3pUbEh2cEZwbWREeldtNWZNVkZ5YXdHWGE0Z1QyQ1Y1azl3",
+    "CBMivwFBVV95cUxQR3dqdGhvNl96TVVvVENlT1JDRDFZdnBoTXN4QklNV1ZDT2c4aDllcTRpZ1FudnlSSExhWW9hekJ6OTlDcHJnYzFtaDBDUzNvTnBVMmlvNFNUVTlSRkZicnR3M2JCVWZ4T19tX1pjZGdXcUtHa21BVkFhWV9LY2Z0ckdEbkU1a3ZTeDBVU2V4TmJsemh5TDlqMVM2Mm1JS3F0dFc4ODNDUWhJZS0xa1JWRVVvc3UzS3Y1QWtYalVoYw"
   ],
   "https://en.yna.co.kr/RSS/news.xml": [
-    "https://en.yna.co.kr/view/AEN20260809002100315",
-    "https://en.yna.co.kr/view/AEN20260809002600320",
-    "https://en.yna.co.kr/view/AEN20260809002800315",
-    "https://en.yna.co.kr/view/AEN20260809002900315",
-    "https://en.yna.co.kr/view/AEN20260809003300315",
     "https://en.yna.co.kr/view/AEN20260809003200315",
     "https://en.yna.co.kr/view/AEN20260809003600315",
     "https://en.yna.co.kr/view/AEN20260809003500315",
@@ -2111,13 +2106,14 @@
     "https://en.yna.co.kr/view/AEN20260813011351315",
     "https://en.yna.co.kr/view/AEN20260813011700320",
     "https://en.yna.co.kr/view/AEN20260814000200315",
-    "https://en.yna.co.kr/view/AEN20260813009300320"
+    "https://en.yna.co.kr/view/AEN20260813009300320",
+    "https://en.yna.co.kr/view/AEN20260814000800315",
+    "https://en.yna.co.kr/view/AEN20260814000700315",
+    "https://en.yna.co.kr/view/AEN20260814000600315",
+    "https://en.yna.co.kr/view/AEN20260814000500315",
+    "https://en.yna.co.kr/view/AEN20260814000400315"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1786356102",
-    "https://www.aljazeera.com/?t=1786368122",
-    "https://www.aljazeera.com/?t=1786352551",
-    "https://www.aljazeera.com/?t=1786353002",
     "https://www.aljazeera.com/?t=1786364092",
     "https://www.aljazeera.com/?t=1786371205",
     "https://www.aljazeera.com/?t=1786265144",
@@ -2413,7 +2409,11 @@
     "https://www.aljazeera.com/?t=1786647852",
     "https://www.aljazeera.com/?t=1786653245",
     "https://www.aljazeera.com/?t=1786654065",
-    "https://www.aljazeera.com/?t=1786645595"
+    "https://www.aljazeera.com/?t=1786645595",
+    "https://www.aljazeera.com/?t=1786655631",
+    "https://www.aljazeera.com/?t=1786655323",
+    "https://www.aljazeera.com/?t=1786653184",
+    "https://www.aljazeera.com/?t=1786651745"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
     "https://allafrica.com/stories/202607200410.html",
@@ -2771,8 +2771,6 @@
     "https://en.mercopress.com/2026/08/13/the-main-land-crossing-between-argentina-and-chile-passes-its-winter-closure-record?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss"
   ],
   "https://www.abc.net.au/news/feed/2942460/rss.xml": [
-    "https://www.abc.net.au/news/2026-07-23/commonwealth-games-glasgow-2026-athletics/106947352",
-    "https://www.abc.net.au/news/2026-07-23/mens-netball-growing-in-popularity-but-barriers-remain/106943644",
     "https://www.abc.net.au/news/2026-07-23/water-polo-world-cup-sharks-underdog-tag/106944526",
     "https://www.abc.net.au/news/2026-07-23/tolu-arokodare-forces-wolves-training-cancellation/106947528",
     "https://www.abc.net.au/news/2026-07-23/sa-weightlifter-kiana-elliott-glasgow-commonwealth-games/106941030",
@@ -3070,6 +3068,8 @@
     "https://www.abc.net.au/news/2026-08-14/colin-oriordan-aflw-sydney-swans-coach-age-advantage/106884788",
     "https://www.abc.net.au/news/2026-08-14/steven-king-justin-longmuir-afl-coach-of-the-year/107034266",
     "https://www.abc.net.au/news/2026-08-14/nrl-makes-formal-investment-offer-to-super-league/107036218",
-    "https://www.abc.net.au/news/2026-08-14/australian-teen-golfer-jessica-bang-dies-in-thailand/107036160"
+    "https://www.abc.net.au/news/2026-08-14/australian-teen-golfer-jessica-bang-dies-in-thailand/107036160",
+    "https://www.abc.net.au/news/2026-08-14/melbourne-demons-defeat-hawthorn-by-19/107036246",
+    "https://www.abc.net.au/news/2026-08-14/nrl-2026-daly-cherry-evans-confirms-move-to-hull-fc/107036248"
   ]
 }
