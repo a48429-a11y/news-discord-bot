@@ -906,9 +906,6 @@
     "https://www.bbc.co.uk/news/articles/c9342wn2x27o#1"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
-    "CBMiowFBVV95cUxPakV1MHktZHRvNFVRcTlsYUpSVHhqMUFXOWFHT0Z0bjZMaGR0LUF2QXdxWXRLSVc3RDI3SFg4ZjBPak1sX0NIR0VjQ2tCOGstYWtrcXEtZHBaMkhhalBLYWlxdDJLLU5LV0xxYlpVRlNSTFItUGJ5cmg2djBmd242YnN0dlJxUllaNG9TTGJXTFRLOEhlcjQ0WnFZSEZGa0J2VUZZ",
-    "CBMiiwFBVV95cUxNZnRiSVNRSHdIUDhPWFZoMENOMnRKd1ctZ0M5ZzBsX3cycGtFLV9mWGY0Ym5Va1FEcHNyei1YSHJUblRqakJOaG1jVlJVTk1zaGFwNkh3d2xITG5jYXNvbEhhVlFWS0V6V2taOHpVa1c1S083U0pscnp0Wm03REY1MlFyNVJsR0l5OGZF",
-    "CBMiqAFBVV95cUxNelFKSjZMZTV3SVpjV3RDbk1LZi1RRkVWMWJON2F0bkZkUlFGY2taMk1ZdVNkeW8tV3lTaWJzUHN5azBtZGZ3Y05Hci1FN04tTEt5RzlmMm1VMmR3OHFkQ3RiTXp2bmdiQm9QV1cyWkdEYzFYTmR1YkFPbXhVbXRtaUtCVzdoVnYxMUVSQXNqNHltU0lVZ01HMUctakRqUzkybmRZc0Vfaks",
     "CBMiugFBVV95cUxNb3FOS0RyZ0JhZDRZUmhhMnQ4bkNDX3FHMVZ3bkg3RnItZEpYdUFINnVLY1dFNHNsdEdxS0JaS25veW43ZFllWlYxcUlNQzJ5OHNQODJmUHg0QkMzbGNNS09Ia1NOdm1zb2ZQNG9iV29aRGYzM0VZYUx2LTVFVFVmeHZKWnNJbXhiNnJ5YkNHbm9BS0g5SmtaMmc4LTBIajljWTQ4cFo2M2JFbnJFTWp0YTBOTkdEZTM5WWc",
     "CBMiwwFBVV95cUxNX0dWMC1SaXZZYnhVWXFfTlU4YmthWW9EMlVFSlIzaHFjbW9tM0g0MzlRQzJ2RFFKbzE1NXhhVDNrOEpMQXItbVprWkZCV2hQUXpmX0dYZ3VCWFdxZ1FvS0ZZcm9nS0tIY0FkWUdEeVFRQ2FEbGlpZk5UYXRNeHMyRGZRTllXOXRHSC1UR2RvR3FkR3FaRE9ybmdERmJ4dXdaVWJyeUl4M05XUGkzTmYzWXh3SGNNYlRlRlpYNlhNY2pJQjQ",
     "CBMivwFBVV95cUxNU2VkUEtRVkJCdTVlbmlza3h0bEx3Tml5VXpmNUN2dlQxcmI0dHZldVQzdWUtc3N6eHlMV19ldW5uWGhzcm9zZ1lxMUhYNklTWTZqblFpQzFBbGx0YlhpVWxWbW1lRnM4ZE1KWXRsRXM3Tm14c0lhVFo0TXVjQWp3cmFIY1kwM1NvQV9LTThyS2wtdGRaZS1SZzNhcW5tVy1MeU96NEdHaHh0eUN0NGNkNm91bndIMlUtMUt1Z2dabw",
@@ -1205,7 +1202,10 @@
     "CBMigwFBVV95cUxNa3lBb3V0ZktZWnAwNUx3S3pEaG4zUjE5ZHZ2b256N0lwOENNRjdLVlMxS0ZlcWVHRUJCQkF6aVZLeS1HVnZ6RTBmTVBMWUFqS19UaWJTdHM2X041Z2V2UlFqcVVrSWZ2ZGZhLXBrTDFydmhCenAtazZpbkhBVS1sZXQxZw",
     "CBMirgFBVV95cUxNUEtkMW85Ymsxd0pDX1ItdnpuckFtN3c2eVB5eHhLdkdIVHc1M1lXcVNCY1YybmMxWVNUbWxwRGE4MVdMVkJ6bVUyMDRlZUNLWWoteUhnOHZQaGUxb3VwM0tackFkaENzbUI1MHdoN1dkWjF3WWY5SHd4MEpsWjdkVUw5U0FlTFRDanhKa1VOZVh2WjA3ekw3UnV4T09OMTFSTmhjTmkyTXF2T09LMnc",
     "CBMioAFBVV95cUxPRVY0UXhLVGxQNngwZ3lKRjlhMVU0b01MLTVxQVBETlE2elRCc2U3U2t4SjVwVDMzd2hKWUFVUmo5MGZxMVNUTndLYkwzOTlHdy1lNkdMdncyOVQyNnoyOFhVQ2NOUERCWFNqNmloZXhwSzhBYkRuTk15UkJyM013RlJzd0p5MG9tX240eDVIUHg2dTY3RE94blZJMTV4NXRH",
-    "CBMinAFBVV95cUxNWWpFelBJVWYxY3pBdU1rSndPbXFNMFJQbm1Qemh3OUFlQThGNU5LQ2VwUmZ4OU9wSExWM3pCXzVHamh3TFRWelN4VlMtYmEyRFdPcFJOclFGR05TY25rUkNBc004STBkN1lMMi1qWTh1ZC1oRWRkXzhBN3pwVFJhdFlnV0FxVzlNaEhEcVhNb1hOWkRBZFN3a2tiYTk"
+    "CBMinAFBVV95cUxNWWpFelBJVWYxY3pBdU1rSndPbXFNMFJQbm1Qemh3OUFlQThGNU5LQ2VwUmZ4OU9wSExWM3pCXzVHamh3TFRWelN4VlMtYmEyRFdPcFJOclFGR05TY25rUkNBc004STBkN1lMMi1qWTh1ZC1oRWRkXzhBN3pwVFJhdFlnV0FxVzlNaEhEcVhNb1hOWkRBZFN3a2tiYTk",
+    "CBMipwFBVV95cUxQRWlYdXhZNFZRM01yMnJGVVdpeE84N2ZsV0JFa0k0ajYxV09SU094MXpxRTZTOVhKOS02SzhWTURZamJXN0VIb2NsZnlNMmJaOEtFRVhScXlCTUlLZDRlN2dmVGxhNE9zckVFMEhnaVdQdWZEMnhjUTlSRElVY09NNUl3aURhbVMxUTJkV1R2TDJEZ3ZVRWphN3Vnc21BX29zc01RbkNUdw",
+    "CBMihgFBVV95cUxPYzg0QjlwRW1ENHgyclE4TnQyUkFwR3FpN2RhdzhZUGRJWUtnQ3NTMXgzR0puek5oM0I5SXZCQm1rb1Z0bkp1Y3RxLVlJX3gwaVBYa1YzQUIteGgxRE9ZZFpKUFgwNzQtSEx5Z3k4LWhvTmxSdXgwWjVfQmN1aThHSzJ0bDIwZw",
+    "CBMimwFBVV95cUxPbTlxdHJMbVc0R0xRU1VNcFJIb0VIMEhnMlQ5d0d3MEFweEhjMDhWLTNOMEFla1RSRy1LM2FBakszM0dnaFY2NTlvMGJxTXNJWTVyTGZsSURHUWZMekJGUzhMU3AxRkRzMW5nWVktekxCMmZsVm0xR0ZhRDJqVjJyb0FDeTZYd0FURmJIZlFid1l5dVlpbURnUS1LSQ"
   ],
   "https://www.scmp.com/rss/4/feed": [
     "https://www.scmp.com/opinion/asia-opinion/article/3361385/americas-north-korea-strategy-needs-dose-reality?utm_source=rss_feed",
@@ -2416,8 +2416,6 @@
     "https://www.aljazeera.com/?t=1786726734"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
-    "https://allafrica.com/stories/202607210112.html",
-    "https://allafrica.com/stories/202607210126.html",
     "https://allafrica.com/stories/202607210081.html",
     "https://allafrica.com/stories/202607210049.html",
     "https://allafrica.com/stories/202607210027.html",
@@ -2715,7 +2713,9 @@
     "https://allafrica.com/stories/202608140052.html",
     "https://allafrica.com/stories/202608140179.html",
     "https://allafrica.com/stories/202608140175.html",
-    "https://allafrica.com/stories/202608140522.html"
+    "https://allafrica.com/stories/202608140522.html",
+    "https://allafrica.com/stories/202608140578.html",
+    "https://allafrica.com/stories/202608140571.html"
   ],
   "https://en.mercopress.com/rss/latin-america": [
     "https://en.mercopress.com/2026/07/11/four-held-in-ecuador-over-migrant-smuggling-network-to-the-united-states?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss",
