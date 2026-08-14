@@ -1,6 +1,5 @@
 {
   "https://news.google.com/rss/search?q=site:reuters.com&hl=ja&gl=JP&ceid=JP:ja": [
-    "CBMigAFBVV95cUxQNnAtRk9GeV9yenlGOWhQS0VvNl9JQ1RVamNrT0ZCdVlDUWY0NHI5aW5UX1E1d2tUTVVYQ1BBOUNESjk5cXBMZ0FGODBWb1phQkFrVGhmd3NSMVUwMTFUck9jcTBOaWlNMkNQQ1dKdXV3cEV1bmdkalYydTZxNklLNw",
     "CBMigAFBVV95cUxQMU5MbHlvWXNWRGxtTEdqLU5aNE1ZaVcxRW9ZNHJuM050Wk9PX0M2UURHRmI3eHd6bkN6cTdJYmh1eTNFQjNvbEhoUEF2bXpudXpTQUlURnI5R0pJZWlTRERmNTdFLUotcHJvUUJpUkd6MGlrQkdvWmpLZks5ckRURA",
     "CBMiiAFBVV95cUxOZzUyRTBsV21aMkxtUDUwS0dibl9Za2d5enkwenptaDhVX2tWQlUtbHZzR3ZEZG9NcTlaaFBOcTVwdkZzczdpZjg1U01wMkRZa0J6US1XOGF5TkdOdVhnNHhSZEhlLWRKZ0ZuVkNxbG11aW9weUp3dWdYWm5FeGcwNVpYbmdEY0xy",
     "CBMigAFBVV95cUxNODN5eEVQMmQxNy0tWjhPZVVhYVE5cjNfTDRkSFdUaldiRUlCNEd1S3QyajBkcDBET1lfTE44ZGtVTE01X05USV9ReFJiSVN0bHJpN051dUJRQzFfOXRQR3QwTmhyQ25sZzQ4alpHS081cURMRXJVYUtyRzVHZ0NCMQ",
@@ -299,7 +298,8 @@
     "CBMieEFVX3lxTE5yTXlDQTdUX1lmazBtTlJQdUhsckx2WV9hSkJpUEIzOXljblBHWEJmT0V4eTRRMURRa241STUycXBlUVR4U3NVcERacFNIcjhyVF8xN1RWUXVqYmg5STAtT2YxRUpWMFJHU2FVSlN5dTdFTmN1UUQ3UA",
     "CBMieEFVX3lxTE9pcXBrZmNoRFRGUzJuZ3kwVldRZkdpQXpNaDVaR3llbFc0NGxydHlEZXhRbDU0Q1c4WTdobmR6Q2p3Q2ZGZnd0VmIxbVp3RjBCbWw3cTR5aEJTMDhQbHZyVl9xUENwVjVEaFlLMzhIWUpUekFrRnNDUQ",
     "CBMieEFVX3lxTE54RkVTazNKRTZXcWRQS3Fhd1FlYXd0X0p4OTNMVEVWdkljRGZTYWpNUjlxaWtHZmZhSnZPdFh1LXZveE1EVGo1ZVkweWJIc1hJaWVjOFNtQm11VkpUVUtWWHo2alV1WlVlS1pSMGRJc0FSMVBqSEFNdg",
-    "CBMieEFVX3lxTE5lVTZvVThndVFBZDJQeW15RVktYUl1SEdVcXF0RFIzWnlYNWlkQnN1eFFGV25xNkNSaW92SXVLSE1fbDhmRTVkNWpZbFg2SmJGUkRCV3ktNzF3NTlDY3RzcjRqODc5UXRGV19HdTRDdHRGcThHY1NydA"
+    "CBMieEFVX3lxTE5lVTZvVThndVFBZDJQeW15RVktYUl1SEdVcXF0RFIzWnlYNWlkQnN1eFFGV25xNkNSaW92SXVLSE1fbDhmRTVkNWpZbFg2SmJGUkRCV3ktNzF3NTlDY3RzcjRqODc5UXRGV19HdTRDdHRGcThHY1NydA",
+    "CBMieEFVX3lxTE1wc1FoNGpMaWJpRTFMMk5FTVBUNWh5c0txT3VLX2ZsbDRWVEhjU2N3SUxCT09NQ0tPQXRvLVg4TkQ2TEQzMWhxaTJaUU95Mkh0MWlGNE1jeGVfWGNJX2g0NVJXa01LR3RJeGdyTnItbW1JMnh5YWpmMw"
   ],
   "https://www3.nhk.or.jp/rss/news/cat0.xml": [
     "http://www3.nhk.or.jp/news/html/20260724/k10015185791000.html",
@@ -1510,7 +1510,6 @@
     "https://www.scmp.com/news/us/diplomacy/article/3364118/chinese-drone-maker-dji-gets-another-shot-pentagon-blacklist-removal?utm_source=rss_feed"
   ],
   "https://news.google.com/rss/search?q=site:euronews.com&hl=en-US&gl=US&ceid=US:en": [
-    "CBMiwgFBVV95cUxPaFp2Z1dVOVBpOXQ1a2h4VWVhVncxeENTVTN0QjgtanY4MHBXVW5iREU4LXhFOE9CdnNqekJtM0tacHNXNHJ0MWhRZVdlY2lBc0Z3MUxldkg1NURTaHlfTDktM3ZwZ0N0by13Q1BqZ3Byd0NWUHhqR1pEc29WbzFKeVRySVdpLVI1T19CQUNSeWdGcGxhY1AtdnRlOEV2eTQ0N2NCVlp1X2gwcnNRZFV0STFSd0s5VTQ3MEc5MWItSGVTUQ",
     "CBMiuwFBVV95cUxOd0piZlktanJLS0QtYjBJMXVTMExYc1FwUkdQV1NkcWN5NXRIQnpMcnVLNkgzMncxZmxxdndnMkN2aXBtQmxnTXZDVUhRY3hDSktsaDFhOHM1MjJJMm9RYmZmU1JmaWFXRWNXQzMxcUJUZ2pLLUl5a1JRcUhPOFdIRHh4anIyVXRYeXo3Um5LZUlCMm15M2J5djNRV2t0SmtIcjRuR0JpX3paWGZoYkVIZ1N3VWFFaEpBaVI4",
     "CBMiuAFBVV95cUxQU0J3NUxYdWNjX2JRU3RLVjIxX1lPMGpJSzFVTU9GUkEtbVF4S3ZIams3VklCQXFZWmRxUGNHUWV3R2RLR3RzaXlfVUlDVlRZUTI1dm1TaEUydlFDeUtmQUQyNmVybmJQVF9mSDVvb01fenc3ZUk5OGhxLU5oWEZEZ2lybWZ4c1BDWGMzUUszMkUwdVFsVW83b01YYWJNU1RoVnZUODJqSk5vR0l6cnB0bV9KVTRCMVhy",
     "CBMirgFBVV95cUxQd19yam9BQU1tdHhQeG5WZERseXRCSlFKTjhIRnhBdkhwM1czelRUZFVKdWNaTVZOUloyaVIzZTJRbmZtOTBvMXdkdTdMZDF5YzduRUxjUG5nYldoLVk2MkNlYlhFeVZSSFROWWhpSmJqaTB6SEdMMG9OSUMwbUJZaFdiZ0UyeWNReHRHSGdYWXhRUDFmLUlOQ0Zqem51WjhfVXFoY05NSW5RUEdGUXc",
@@ -1809,7 +1808,8 @@
     "CBMiywFBVV95cUxPWTdET0dhcVdFTmZDZDBuQkVJTFFpVDA4UEdYTlI5TlZTVFF0SmZyS3lWV0tWMUs4aThDM0dXT2ZMNVhiRkZ6al9xNmJ5emg5VEpEZHBtUGRqcUFvY3FsRUlGVHNZNkVldmtPT3N4VkQ4NjZ0d3piaGk1Yi1RcFN6cjkwdU5EcDI4eGh4d2Rqd0tUd09vaV9pUS04T09XeDVSaUw0VVZzMWxINFp2aGZmbktURHZfLVBtRE5zV1FzbXJrb1dNc0MxSkxqSQ",
     "CBMivwFBVV95cUxPQjRCN19lR05sV2xJMXQtUnpmMnk4N1liQ05WRFRtME1kMVZnblhPa2RVX2lndjBGamQ0LWZjRnQ0ckdnU2t3SGtlM3VHeVRFQzM5dGI5Rjl1TDZjX1BBWUN5UGMwX01IQVAwMDlpQURDU01GV1lUVk5ya1hfWjdDekpNZ1UwTmVXNEhHNzV0d0lSa2oyYjJQeU9YYjFKd2FTckpBd3YxNktWVGxVTV90MkNWYml3cVM1alJoWGpjSQ",
     "CBMiogFBVV95cUxOeHlBbUFmTkNVc3dkX3RCSWhkMEVGLXdWNy1VSTFVc3NsTElJeU9fZFBPSmNWSFVyalpBRThCNFVXdXdqX2JlWTNFbWFDdnFpUGZvcER1dUFuMU9zZVFibDBFaGtkd043WTNabzFMS1psYWdlZGRNbEpzVFFoQmc1TzBkNndjajA2MU9lMjl4N25jZGQ2NEtITWw4Wnl1cG5CMEE",
-    "CBMivAFBVV95cUxPUlFSNWZVLWpfb1lOZjlGb1FpZWQzM2NGMFoyNHAxSGJ3T3Q3c0NnZ1Bsb3d2ZmZjSjhrZjRBMnBGSzdnbzJMSnNhYVMybi1HQTFhRUdmN1NLYlhtb0lDWjVOU05KT1lEMGxVNGQwNFJ6Sk5TMEh0eGxicTlSbGt6YnBXei03SDhfTHFhS2gtSjczZTFIV1dHaEx2aURMYkIxdUhWeU9kZ2huN25pZXFJeURYY1czeGNUeXdxdw"
+    "CBMivAFBVV95cUxPUlFSNWZVLWpfb1lOZjlGb1FpZWQzM2NGMFoyNHAxSGJ3T3Q3c0NnZ1Bsb3d2ZmZjSjhrZjRBMnBGSzdnbzJMSnNhYVMybi1HQTFhRUdmN1NLYlhtb0lDWjVOU05KT1lEMGxVNGQwNFJ6Sk5TMEh0eGxicTlSbGt6YnBXei03SDhfTHFhS2gtSjczZTFIV1dHaEx2aURMYkIxdUhWeU9kZ2huN25pZXFJeURYY1czeGNUeXdxdw",
+    "CBMi0gFBVV95cUxPLXhzSWFRY3BGcjVjd2xxaDlVMTh4cjhaLVVhY3c3OWhBSWUwYkd4S0h0dnFhYmIycmlRc21pSkxQamtwenZMem1tY1E1Q3BUNTRsenZ2eVFHNVJUNnZfWEcyYlpndURmbnVQTFJMZWMtdndTZHVFOUdKYW96cnJodDdnb203S3RhWUsxd0xWUHRZUUxoZ2pUb05MeEprNHoyZDhfaGJQbzE4dWlxTTZzd2tqVkItUmYxZ3BWczdVNUVFMzc4YS11emZFVC15NVJqVGc"
   ],
   "https://en.yna.co.kr/RSS/news.xml": [
     "https://en.yna.co.kr/view/AEN20260811001700320",
@@ -2769,7 +2769,8 @@
     "https://en.mercopress.com/2026/08/11/colombia-and-venezuela-quakes-are-unconnected-despite-similar-magnitude-experts-say?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss",
     "https://en.mercopress.com/2026/08/12/colombia-asks-for-supplies-but-not-foreign-rescue-personnel-after-the-earthquake?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss",
     "https://en.mercopress.com/2026/08/13/the-main-land-crossing-between-argentina-and-chile-passes-its-winter-closure-record?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss",
-    "https://en.mercopress.com/2026/08/13/colombia-faces-reconstruction-with-96-of-the-year-s-debt-quota-already-used?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss"
+    "https://en.mercopress.com/2026/08/13/colombia-faces-reconstruction-with-96-of-the-year-s-debt-quota-already-used?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss",
+    "https://en.mercopress.com/2026/08/14/peru-rehearses-its-response-to-a-magnitude-8.8-quake-off-lima-and-callao?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss"
   ],
   "https://www.abc.net.au/news/feed/2942460/rss.xml": [
     "https://www.abc.net.au/news/2026-07-24/nrl-live-updates-knights-roosters-rabbitohs-storm/106956510",
