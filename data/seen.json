@@ -1,6 +1,5 @@
 {
   "https://news.google.com/rss/search?q=site:reuters.com&hl=ja&gl=JP&ceid=JP:ja": [
-    "CBMieEFVX3lxTE5Hdkk0UDduX0pNQlJVRGEtUnZHMldHMlpZR2NxS1VXNFZYOWJhWkgwSkpXam5pV2stNExZajZ1clpWZnlwZ0Q2MmJlUXZUYjhDcUhURHRNb0EtaXRWSDBlNVRNZkRCd3FNUzdfenA0TlMzZkZQckIwQQ",
     "CBMigAFBVV95cUxQNnAtRk9GeV9yenlGOWhQS0VvNl9JQ1RVamNrT0ZCdVlDUWY0NHI5aW5UX1E1d2tUTVVYQ1BBOUNESjk5cXBMZ0FGODBWb1phQkFrVGhmd3NSMVUwMTFUck9jcTBOaWlNMkNQQ1dKdXV3cEV1bmdkalYydTZxNklLNw",
     "CBMigAFBVV95cUxQMU5MbHlvWXNWRGxtTEdqLU5aNE1ZaVcxRW9ZNHJuM050Wk9PX0M2UURHRmI3eHd6bkN6cTdJYmh1eTNFQjNvbEhoUEF2bXpudXpTQUlURnI5R0pJZWlTRERmNTdFLUotcHJvUUJpUkd6MGlrQkdvWmpLZks5ckRURA",
     "CBMiiAFBVV95cUxOZzUyRTBsV21aMkxtUDUwS0dibl9Za2d5enkwenptaDhVX2tWQlUtbHZzR3ZEZG9NcTlaaFBOcTVwdkZzczdpZjg1U01wMkRZa0J6US1XOGF5TkdOdVhnNHhSZEhlLWRKZ0ZuVkNxbG11aW9weUp3dWdYWm5FeGcwNVpYbmdEY0xy",
@@ -299,7 +298,8 @@
     "CBMiekFVX3lxTFBWLVNyX1BORDRvMFJIY3dPRDAxS3d6TVJHeG5tWWRIS1hBanJXQy1BYTIxREg1WnQtLTVqQTBOaE1YNGp4ajJPOXZFUGQwWGZ0OU45OVVmRjFoWjJMYjg0Qy1VRGJsZEtpcFByc1RuZE9UNG9BQnZuYVlR",
     "CBMieEFVX3lxTE5yTXlDQTdUX1lmazBtTlJQdUhsckx2WV9hSkJpUEIzOXljblBHWEJmT0V4eTRRMURRa241STUycXBlUVR4U3NVcERacFNIcjhyVF8xN1RWUXVqYmg5STAtT2YxRUpWMFJHU2FVSlN5dTdFTmN1UUQ3UA",
     "CBMieEFVX3lxTE9pcXBrZmNoRFRGUzJuZ3kwVldRZkdpQXpNaDVaR3llbFc0NGxydHlEZXhRbDU0Q1c4WTdobmR6Q2p3Q2ZGZnd0VmIxbVp3RjBCbWw3cTR5aEJTMDhQbHZyVl9xUENwVjVEaFlLMzhIWUpUekFrRnNDUQ",
-    "CBMieEFVX3lxTE54RkVTazNKRTZXcWRQS3Fhd1FlYXd0X0p4OTNMVEVWdkljRGZTYWpNUjlxaWtHZmZhSnZPdFh1LXZveE1EVGo1ZVkweWJIc1hJaWVjOFNtQm11VkpUVUtWWHo2alV1WlVlS1pSMGRJc0FSMVBqSEFNdg"
+    "CBMieEFVX3lxTE54RkVTazNKRTZXcWRQS3Fhd1FlYXd0X0p4OTNMVEVWdkljRGZTYWpNUjlxaWtHZmZhSnZPdFh1LXZveE1EVGo1ZVkweWJIc1hJaWVjOFNtQm11VkpUVUtWWHo2alV1WlVlS1pSMGRJc0FSMVBqSEFNdg",
+    "CBMieEFVX3lxTE5lVTZvVThndVFBZDJQeW15RVktYUl1SEdVcXF0RFIzWnlYNWlkQnN1eFFGV25xNkNSaW92SXVLSE1fbDhmRTVkNWpZbFg2SmJGUkRCV3ktNzF3NTlDY3RzcjRqODc5UXRGV19HdTRDdHRGcThHY1NydA"
   ],
   "https://www3.nhk.or.jp/rss/news/cat0.xml": [
     "http://www3.nhk.or.jp/news/html/20260724/k10015185791000.html",
@@ -2114,9 +2114,6 @@
     "https://en.yna.co.kr/view/AEN20260815000351315"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1786451607",
-    "https://www.aljazeera.com/?t=1786437408",
-    "https://www.aljazeera.com/?t=1786439979",
     "https://www.aljazeera.com/?t=1786449956",
     "https://www.aljazeera.com/?t=1786050882",
     "https://www.aljazeera.com/?t=1786448690",
@@ -2413,7 +2410,10 @@
     "https://www.aljazeera.com/?t=1786726734",
     "https://www.aljazeera.com/?t=1786734944",
     "https://www.aljazeera.com/?t=1786735023",
-    "https://www.aljazeera.com/?t=1786737617"
+    "https://www.aljazeera.com/?t=1786737617",
+    "https://www.aljazeera.com/?t=1786739399",
+    "https://www.aljazeera.com/?t=1786742108",
+    "https://www.aljazeera.com/?t=1786740536"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
     "https://allafrica.com/stories/202607210049.html",
@@ -2772,7 +2772,6 @@
     "https://en.mercopress.com/2026/08/13/colombia-faces-reconstruction-with-96-of-the-year-s-debt-quota-already-used?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss"
   ],
   "https://www.abc.net.au/news/feed/2942460/rss.xml": [
-    "https://www.abc.net.au/news/2026-07-24/have-the-afl-s-rule-changes-worked/106954180",
     "https://www.abc.net.au/news/2026-07-24/nrl-live-updates-knights-roosters-rabbitohs-storm/106956510",
     "https://www.abc.net.au/news/2026-07-24/grafton-bmx-world-champion-tahlia-marsh/106955034",
     "https://www.abc.net.au/news/2026-07-24/isaac-quaynor-booing-mitch-brown-crows-matthew-nicks/106954668",
@@ -3071,6 +3070,7 @@
     "https://www.abc.net.au/news/2026-08-14/nrl-live-updates-manly-dolphins-bulldogs-rabbitohs-/107038814",
     "https://www.abc.net.au/news/2026-08-14/afl-round-23-fremantle-dockers-adelaide-crows-live-blog/107040456",
     "https://www.abc.net.au/news/2026-08-15/afl-what-went-wrong-for-the-suns-in-2026/107037598",
-    "https://www.abc.net.au/news/2026-08-15/hockeyroos-kookaburras-tackle-world-cup-fresh-perspectives/107039264"
+    "https://www.abc.net.au/news/2026-08-15/hockeyroos-kookaburras-tackle-world-cup-fresh-perspectives/107039264",
+    "https://www.abc.net.au/news/2026-08-15/epl-liverpool-jeff-bezos-and-eduardo-saverin-buy-stake/107041580"
   ]
 }
