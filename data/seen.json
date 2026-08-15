@@ -604,11 +604,6 @@
     "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html"
   ],
   "http://feeds.bbci.co.uk/news/world/rss.xml": [
-    "https://www.bbc.co.uk/news/articles/cn4n1e8159yo#1",
-    "https://www.bbc.co.uk/news/articles/cdrvn686dljo#1",
-    "https://www.bbc.co.uk/news/articles/cr7kldz4djno#2",
-    "https://www.bbc.co.uk/news/articles/c39ep3p0ld1o#2",
-    "https://www.bbc.co.uk/news/videos/cvg01dy7yn9o#3",
     "https://www.bbc.co.uk/news/articles/c0ejdj22zq9o#1",
     "https://www.bbc.co.uk/news/videos/cly83vm923go#3",
     "https://www.bbc.co.uk/news/videos/c89n8940vq8o#3",
@@ -903,7 +898,12 @@
     "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro#0",
     "https://www.bbc.co.uk/news/articles/cd69ely319eo#1",
     "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo#0",
-    "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo#1"
+    "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo#1",
+    "https://www.bbc.co.uk/news/articles/cj4kk8kz271o#0",
+    "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo#0",
+    "https://www.bbc.co.uk/news/videos/c62e1v8p07go#1",
+    "https://www.bbc.co.uk/news/articles/cy0j60p0d29o#1",
+    "https://www.bbc.co.uk/news/articles/c171yp5zdrxo#1"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
     "CBMimwFBVV95cUxPMmZ6Z01kclNFSVd6V09LUzVGYVNIb3EyWTl5YW01eXBGLXI1SjExZ0NXbHZXdXVDN2hVNXNiNUlpSFgwNFozTWhFNnF2SWU1djBZUkdzWXBhdEY5S3FRS1BuX0RFcUJJQTlLNmdfWEI0QXJMWGRISVpBSHB6blc3cE1PaDA0YkR3UW1GREkybmhJc2hzNDgxdzBLYw",
@@ -1510,7 +1510,6 @@
     "https://www.scmp.com/news/china/military/article/3364142/taiwan-drone-defences-fall-short-against-beijings-evolving-technology-audit-reveals?utm_source=rss_feed"
   ],
   "https://news.google.com/rss/search?q=site:euronews.com&hl=en-US&gl=US&ceid=US:en": [
-    "CBMirgFBVV95cUxQQmpfMmQ0X0twZ21DM3lCZ2xTdmZ5d3FCcGhvcTRQMVpIdm1aQ0lxaFJqRXZPMnFSdVRhQlVsX18xZ3FLSHl6a1N0ang0OTA5cDhLRFlhQ0wtdUZZdWVVNHZlcjgzakV3YnFySkJNSkxQU0xSRFllV05COHJYX180MkxHdGV0SW9RLWthS3V6Ry1yS29GRGNmTkNqZ3VfRVpiUVcySnd6S2x2Y0tXNnc",
     "CBMiygFBVV95cUxOQkdUYnE3S05rY3ZCeG9BQkNfOTJGazJYVnpoNloxbFdlRTZqZnpDVWduVzZ2MXZNdVcwRmdxdl93YlNKRkJ1TXpTTjViWWZReFBTNjc4bV8wOXNSSThyR0w0R3ExSDVjc1BxOTdoUkQ5bnVGNmYwSzhlYkFyM0NCczBtYWtNTzAyREdxSHRHWHFxbEpiRjBLVVExVlV1QXFseURGVXMzWlFJNFB3bDNtTlI4d0ZvbHBWWDNWbkxBZ3BCdmJGQWRpdEdn",
     "CBMiqgFBVV95cUxPTEY4aVYtbm8wb0Ruak9TOU1EU1FhN3QwMEVaQmRUZ0dKOVpGeUx4MGJQcTI2VE82NEpqaTk0TGVFLVh1bkFPV0lDbnBPdERQSEUxeWZ2a0dCankxM0Q3RkZwNElkZFhhdGlRQTVvdk9BeFJnY0dZUmZJX1J1SVJCQVJrOS1Xa0FNXy1ZcFVMNUpkUHpEUmRLNFJQZXowMVRqTFN6UWhzUExrUQ",
     "CBMivAFBVV95cUxPRGctMjJsZU5SVU94bFd3OVpvdG5TMDhDRnpBZ05ISWhKMG52a0RpY2U2eDFZb1FaUnJfNktXckF5MW9SdktWS2xIcVFVeUo5M3JFR1JGTXBBbVV4VFZRQ0RVeEs4enVwdHRsMjJoR01ieHRhN2xfakliaXBHSWhSNGtmNFc3OEpKcm51MGNWOGJSM2pmOFNTTGstOVVUUEZfMnJJT21WazFWOFU1UUNWVjJJOXJoLWF5NEpJdA",
@@ -1809,7 +1808,8 @@
     "CBMiwgFBVV95cUxQclp1VVZkenJlQWp3VXcyQ0RoOThVb0RyNjhDbko0c1QwZ2cxcjNBWEhvWGhSaU1xUXJGMFlJWFVfSWxTQlhHMWYzQ3FzZHNMc2ppUlFJWVV2STZUYUR0RVhERXdjOGFHNFI2Ym1kcEEtc0t0T24zQWZkd1hmSGdqUFlIMXpRS0xkeUZzMThMUl84ak9rX0N3bVNSNEpXTFhOV0xUR2RHdE9NVXhCbjMtWGgyQ1hrdVoyQjVIMmFXNlNmdw",
     "CBMiwgFBVV95cUxOOWJwbDJ4a3MxQm9DZWlZa2dnMUt2ZU9IWWdYZkY1SXJmbmg2ZTI5ZFZSU0V3Q3FXQlFiMEp4Wk0zSm9kOUV1U1NUajgxeFZGVmRlbEdROWZ3ajVmUGdLek1oYlcwWFU4cWlSQ19WeUdGTGZMb1B1aVp1ZV9VRTNqNDhCUmctQVU4QXhza2xaMEIwSXFtMng5clBmQndZM0V3MnR4NjNkbm9TNEdPUGxxbFpMWGI1VXVHR1FxdFRTNU94Zw",
     "CBMirwFBVV95cUxPb1FfdmQ4Z0Y0YmhsZ1I4MHRSNUVfck9PLXVObHoxNFlBOUVFY0pUNWhEbWdvREVTbmdMQ29GQ3hieGY2R09jWUZDcEtwYUVkV2NPR09GeGdiZkh4aTN2UExrOVR2aHhBN1lCVVNUS0ZLYTNVbXVlbGU2SmY1N2pjV0ZRZ3JELXpycVlMOW43M2lMZkJ1eTVvRUM4bEQ5aFJ3ZEdIbXEzSHljamQ4Y0F3",
-    "CBMiqgFBVV95cUxOak5sbHpjZUJFX1VIeGwxTWFpNGJNYkhWdVc5WTJPMERFRWJqclBkM19wY2Q4dkNhenVSaDJtaWVVTUxjSUFQRWh0WDYyQlowRDA3NUxpV0RRcDZxczQtUE9IQTNZXy1sY2tJWE13SE5uYVlyN0R6TjZudy1Fbll2NDBpUHRkSTdrS0lBVU1LOFFRWjZhUm5qc2FoeWtHSE56a2phVG9CMWc3QQ"
+    "CBMiqgFBVV95cUxOak5sbHpjZUJFX1VIeGwxTWFpNGJNYkhWdVc5WTJPMERFRWJqclBkM19wY2Q4dkNhenVSaDJtaWVVTUxjSUFQRWh0WDYyQlowRDA3NUxpV0RRcDZxczQtUE9IQTNZXy1sY2tJWE13SE5uYVlyN0R6TjZudy1Fbll2NDBpUHRkSTdrS0lBVU1LOFFRWjZhUm5qc2FoeWtHSE56a2phVG9CMWc3QQ",
+    "CBMizgFBVV95cUxNNFdjMGJTeWltZUoyUEVjb1NCYkRmemlZemNFNWdSeFV5UkV4Q0x4NWFlM3RSbFlUeEc5RXdrdUg5U1Z4TFc1NHA0X25uTkZuaTRXWEtfc1NicVlrUV9oMDRyMExZSzFiYXhrSjFUUlEtRmxzeXhUTnl0dVdqVGtzTG45LXlfWmY3VEdoRDRjRXE1eEhTQXRGbmg1dTN3VDh2Yl9NUnB3X1BLcFpMakYwOTZ3RmpzMnZDZzB1U09HdmF1OHRhNUx2TERzZkI4Zw"
   ],
   "https://en.yna.co.kr/RSS/news.xml": [
     "https://en.yna.co.kr/view/AEN20260811005200315",
@@ -2114,7 +2114,6 @@
     "https://en.yna.co.kr/view/AEN20260816000200315"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1786499120",
     "https://www.aljazeera.com/?t=1786519448",
     "https://www.aljazeera.com/?t=1786516427",
     "https://www.aljazeera.com/?t=1786513184",
@@ -2413,7 +2412,8 @@
     "https://www.aljazeera.com/?t=1786815966",
     "https://www.aljazeera.com/?t=1786816022",
     "https://www.aljazeera.com/?t=1786824259",
-    "https://www.aljazeera.com/?t=1786818959"
+    "https://www.aljazeera.com/?t=1786818959",
+    "https://www.aljazeera.com/?t=1786821737"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
     "https://allafrica.com/stories/202607210049.html",
@@ -2774,7 +2774,6 @@
     "https://en.mercopress.com/2026/08/15/colombia-de-la-espriella-calls-the-situation-in-pereira-apocalyptic-after-touring-the-city?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss"
   ],
   "https://www.abc.net.au/news/feed/2942460/rss.xml": [
-    "https://www.abc.net.au/news/2026-07-24/motogp-adelaide-motorcycle-culture-superbikes/106946342",
     "https://www.abc.net.au/news/2026-07-24/glasgow-2026-axed-sports-anabelle-smith-melissa-tapper-hockey/106551098",
     "https://www.abc.net.au/news/2026-07-24/afl-round-20-live-demons-cats-dockers-eagles/106940694",
     "https://www.abc.net.au/news/2026-07-24/commonwealth-games-day-1-live-blog/106953152",
@@ -3073,6 +3072,7 @@
     "https://www.abc.net.au/news/2026-08-15/nrl-updates-sharks-raiders-eels-cowboys-broncos-warriors/107041866",
     "https://www.abc.net.au/news/2026-08-15/quick-hits-australia-vs-bangladesh-day-three-first-test/107037432",
     "https://www.abc.net.au/news/2026-08-16/warming-climate-forcing-marathon-changes-to-keep-runners-cool/107037266",
-    "https://www.abc.net.au/news/2026-08-16/micahel-maguire-says-brisbane-broncos-were-not-good-enough/107043080"
+    "https://www.abc.net.au/news/2026-08-16/micahel-maguire-says-brisbane-broncos-were-not-good-enough/107043080",
+    "https://www.abc.net.au/news/2026-08-16/nrlw-wrap-roosters-broncos-eels-bulldogs-titans-dragons/107043130"
   ]
 }
