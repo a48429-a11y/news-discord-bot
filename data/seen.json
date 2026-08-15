@@ -604,8 +604,6 @@
     "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html"
   ],
   "http://feeds.bbci.co.uk/news/world/rss.xml": [
-    "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo#0",
-    "https://www.bbc.co.uk/news/articles/cj63966j95yo#0",
     "https://www.bbc.co.uk/news/articles/cqjxgx5y51lo#1",
     "https://www.bbc.co.uk/news/articles/c8rnmdy4enpo#1",
     "https://www.bbc.co.uk/news/articles/cn4n1e8159yo#1",
@@ -903,7 +901,9 @@
     "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o#2",
     "https://www.bbc.co.uk/news/videos/c39eekgv79ko#3",
     "https://www.bbc.co.uk/news/articles/c0l5583903yo#0",
-    "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo#1"
+    "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo#1",
+    "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro#0",
+    "https://www.bbc.co.uk/news/articles/cd69ely319eo#1"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
     "CBMimgFBVV95cUxNN2pTRnJBaDVrWU52Uk81S2tEUWNDNW1mUHluVzFUSFQ4R2ZlRlZSWmdfVzVfWWIxX0F5YzZPbkNtTDJRNEJ2bnp6dDVva1laNTVwRUQ3ZWhOY21PRHQwakRBWjJiNHZudmUwbmpuZjFqZHo5SWtQR1dGOHZTeFcwbUF2ZXhmOHpwMWEyZkRWdDg2OEN1NFBBcmZR",
@@ -1510,7 +1510,6 @@
     "https://www.scmp.com/news/china/military/article/3364142/taiwan-drone-defences-fall-short-against-beijings-evolving-technology-audit-reveals?utm_source=rss_feed"
   ],
   "https://news.google.com/rss/search?q=site:euronews.com&hl=en-US&gl=US&ceid=US:en": [
-    "CBMilwFBVV95cUxNUFJzT2hEWTc1dDV4S1dRZTdHalp0eTBoeElaNTgtbnhiZTFuRjQ5b1NOWkw5Q0JaTldpS1lHWm11aTF6d2NQM3NjYngxRld3YVhJZ0xRU1ktd3dMam9iRHJLMEpvLVZOMktyUEVXejFnOGZnVHlQdXVnZG9zbUdpczUyak5vUjFaVF84SEo5dk1WNHBsTDBr",
     "CBMiswFBVV95cUxQNGNGbFRubVc0WEtWQmN3b2VKZ3QwaS1rVnBGS3VaZjI1Y0twUDAybkpJRllJbEpKQ0REZUxNeFNKQ3prNFozTUhFSkg1ck9TN2xFOEpJOHkwRWdhR3YwbjZYVUFVZE1DZFA1Tk5idDZYMEgzUXpucTJiZkZySDVwMk1tQzhXU25xSkQ4MlhoS1l5V0VzWGNJX1Ayd3NvVnZURVViRnJVOU9zVzhLanVtQjRldw",
     "CBMirgFBVV95cUxQQmpfMmQ0X0twZ21DM3lCZ2xTdmZ5d3FCcGhvcTRQMVpIdm1aQ0lxaFJqRXZPMnFSdVRhQlVsX18xZ3FLSHl6a1N0ang0OTA5cDhLRFlhQ0wtdUZZdWVVNHZlcjgzakV3YnFySkJNSkxQU0xSRFllV05COHJYX180MkxHdGV0SW9RLWthS3V6Ry1yS29GRGNmTkNqZ3VfRVpiUVcySnd6S2x2Y0tXNnc",
     "CBMiygFBVV95cUxOQkdUYnE3S05rY3ZCeG9BQkNfOTJGazJYVnpoNloxbFdlRTZqZnpDVWduVzZ2MXZNdVcwRmdxdl93YlNKRkJ1TXpTTjViWWZReFBTNjc4bV8wOXNSSThyR0w0R3ExSDVjc1BxOTdoUkQ5bnVGNmYwSzhlYkFyM0NCczBtYWtNTzAyREdxSHRHWHFxbEpiRjBLVVExVlV1QXFseURGVXMzWlFJNFB3bDNtTlI4d0ZvbHBWWDNWbkxBZ3BCdmJGQWRpdEdn",
@@ -1809,7 +1808,8 @@
     "CBMiwwFBVV95cUxOSW5ySi1HZmhFbTV4S0E5VVlEYUlrYlV1T1RNU09JUFdmNjRkZkhfSUdWR1BmWGtxbkVhSWphcUtWYmhuUWhwTVVEZ0g3TDlmSGxoajJJcUZ1T2RLakZjcjRtWXZEd1VkeDVLYXp4a2d0UC1IWmF6eWplcWh2LXpOSVYzRkdYVS1yajEtNURGQlE0OXRGV2J3dWxRdi12QURjam5WNUU5SG9UTmNiMnRpQjA4b3pKSGFLeE9vRTZMbkx2SWM",
     "CBMipwFBVV95cUxNY0t2RjdRLVdiZXF5Y1pmeXViV295dFpUa3F3NXBSR3hOd2xGWmtBTE03WUk4MDRIeEpvN2RVejRnS25xNm43dmE5cDlkZ3pMWFlEbks3YWI1VDFlRXNNMXlGMGdIeGtXQmEtb1Bkcnp3amp6OVdPN2hZcU1UUTBIYjZMSlk0OER4WFo5dDUyWGhyNHdPR0JNNkxMYUswUzJiYWU2R3piVQ",
     "CBMiwgFBVV95cUxQclp1VVZkenJlQWp3VXcyQ0RoOThVb0RyNjhDbko0c1QwZ2cxcjNBWEhvWGhSaU1xUXJGMFlJWFVfSWxTQlhHMWYzQ3FzZHNMc2ppUlFJWVV2STZUYUR0RVhERXdjOGFHNFI2Ym1kcEEtc0t0T24zQWZkd1hmSGdqUFlIMXpRS0xkeUZzMThMUl84ak9rX0N3bVNSNEpXTFhOV0xUR2RHdE9NVXhCbjMtWGgyQ1hrdVoyQjVIMmFXNlNmdw",
-    "CBMiwgFBVV95cUxOOWJwbDJ4a3MxQm9DZWlZa2dnMUt2ZU9IWWdYZkY1SXJmbmg2ZTI5ZFZSU0V3Q3FXQlFiMEp4Wk0zSm9kOUV1U1NUajgxeFZGVmRlbEdROWZ3ajVmUGdLek1oYlcwWFU4cWlSQ19WeUdGTGZMb1B1aVp1ZV9VRTNqNDhCUmctQVU4QXhza2xaMEIwSXFtMng5clBmQndZM0V3MnR4NjNkbm9TNEdPUGxxbFpMWGI1VXVHR1FxdFRTNU94Zw"
+    "CBMiwgFBVV95cUxOOWJwbDJ4a3MxQm9DZWlZa2dnMUt2ZU9IWWdYZkY1SXJmbmg2ZTI5ZFZSU0V3Q3FXQlFiMEp4Wk0zSm9kOUV1U1NUajgxeFZGVmRlbEdROWZ3ajVmUGdLek1oYlcwWFU4cWlSQ19WeUdGTGZMb1B1aVp1ZV9VRTNqNDhCUmctQVU4QXhza2xaMEIwSXFtMng5clBmQndZM0V3MnR4NjNkbm9TNEdPUGxxbFpMWGI1VXVHR1FxdFRTNU94Zw",
+    "CBMirwFBVV95cUxPb1FfdmQ4Z0Y0YmhsZ1I4MHRSNUVfck9PLXVObHoxNFlBOUVFY0pUNWhEbWdvREVTbmdMQ29GQ3hieGY2R09jWUZDcEtwYUVkV2NPR09GeGdiZkh4aTN2UExrOVR2aHhBN1lCVVNUS0ZLYTNVbXVlbGU2SmY1N2pjV0ZRZ3JELXpycVlMOW43M2lMZkJ1eTVvRUM4bEQ5aFJ3ZEdIbXEzSHljamQ4Y0F3"
   ],
   "https://en.yna.co.kr/RSS/news.xml": [
     "https://en.yna.co.kr/view/AEN20260811001800315",
