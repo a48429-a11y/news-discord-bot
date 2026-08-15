@@ -604,7 +604,6 @@
     "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html"
   ],
   "http://feeds.bbci.co.uk/news/world/rss.xml": [
-    "https://www.bbc.co.uk/news/articles/cx2v551w9v8o#1",
     "https://www.bbc.co.uk/news/articles/c4gwvvw9k1xo#1",
     "https://www.bbc.co.uk/news/articles/cn5nlgxv6vdo#1",
     "https://www.bbc.co.uk/news/articles/ce3e4enkrqro#2",
@@ -903,7 +902,8 @@
     "https://www.bbc.co.uk/news/articles/c8jnwnw22ngo#2",
     "https://www.bbc.co.uk/news/articles/cm2gp5g0xngo#2",
     "https://www.bbc.co.uk/news/articles/c87nwq9qe24o#2",
-    "https://www.bbc.co.uk/news/videos/c7vg06pjdmqo#3"
+    "https://www.bbc.co.uk/news/videos/c7vg06pjdmqo#3",
+    "https://www.bbc.co.uk/news/articles/c9982znvyk4o#0"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
     "CBMilAFBVV95cUxPTm0za0swNG1VbTNRVnl3M0wxMkJTUnA1RXh1aXhIZDhkZmltX0dObFFlUnRhQUVvRXVZVkNJOEQ5aThzaVhlalNoazVna2F2OVNlbUJyZG1FazhMWTJXeHJ0djcwdFkxUDhuNjZfMzZpaGJTcEJCNndMaEd0ai00aTh3T3hDRml5Yi1pRlZrNkoxUHg3",
@@ -1510,7 +1510,6 @@
     "https://www.scmp.com/news/china/diplomacy/article/3364135/china-blasts-japanese-officials-visit-yasukuni-shrine-wwii-anniversary?utm_source=rss_feed"
   ],
   "https://news.google.com/rss/search?q=site:euronews.com&hl=en-US&gl=US&ceid=US:en": [
-    "CBMioAFBVV95cUxONXAxdDZiWXpwbWVlOTlPNW5ZVFpPZ2t2c0F3eEVzY3NkUDlMZk1XeWE0SUd4d2F4dlRPeXBEZUIwTHlZeG9LWU9nSllNUkZZVDNIcks1cEFkNmJtZ0hSQS1RTmFORWlVS2NhRjdpaGVVbHBjVlhrbEJYRDRLY1FoYnoxRFJUQ2VPVHlIdjNicVlVUHlDVVl6LXVwalRUMVJY",
     "CBMiqAFBVV95cUxQYzFhSVVQUGpjYVJGN0NtZVdSVWtjQTYydEhMWjNNT0VhU254QzVXM3ptd21TQUlQa1RPSUphUG05d054Y1ZYUnN0SUw2N1ltcF9xeFIwcHpHQVFyajdvT0ZtVnN5Y2VrYk9HZl85NXRXZXdCTmpEMDA2OHJXYS03cVlnbW1MR29zbVlJVVR4TjJEMmY1b3BPZlpNWGR1Y0ZwWXlmMmp0Z3I",
     "CBMimgFBVV95cUxPRUFSZzlTc2tDZEN2ZUJLSjNCeGlPVUpZam9kZmM4bXBuaVY2Y0dXRlMtS0NOdTVtejVGSFRaa2lxZXptSEN6X1pOMTY1cGRSMHZ4SjNkcWpkZ3NPSlFuejBBZllldGo0bWRjLWVjVFhWcHhQRmNLN3V2dlYwUnkwNkJnekp5UG8tZjhTRTBDZ3ZaNkEtdW16SDln",
     "CBMipgFBVV95cUxOOGJrYzRITVhtczdLVjZCUTRWMWV0Yko5STRuWm9mdnVxeGF1ZUpEUW1NdFVDZUpUMjh4clVMbjRnNnEyWG84azJSd1UtQTg0Ym5aMl9CWWRDUG5IU2lYam5zbDFmNkl4cjd6TE9vQVpEcnNWZmFqUkwwQTQzWmNLcko3bHpQbHFzRmlPUzB4NVlaZW1weld0aDFjTEVRRXg4cGVRRFJn",
@@ -1809,7 +1808,8 @@
     "CBMitgFBVV95cUxQOGxrMjJYQlpDX0hzMVM2ay1pX0UzTWJfZC05dWVwX1E4Z0lYRm0tUl82R0dqal9yUzFudlRfazQtb3Rzc1g2SUJLSTE0R2NNV2NSUTFTdGZwU1dXUkZMNmZ0SC1QRm1jTzJOblB6d3l1eUNVOWdXMnVLbmppTDNrVUlYZ2J4dzF4NlM1WGo5aE1PaTY4d0kxVjFUZFhjYkVuM1l5cHF0OVItSUkwZ00wc3oxcE5BUQ",
     "CBMitwFBVV95cUxQb0tGSl9Nb3ltZjFLelg5WFBsTUFTWWpfalBiX1plNUJrLVlINW9yQ1ZON3VpNk9sTi13T3d2VksxTXM4c2lvd0xhUHdvSE45Tmw0QnVhR1FDcE5YZ3FPYVZpSUdZU1E4aEY1M21GdmxVdHNQa0tfbmlxWTVoTl9DSS1QSVJKemMyQVIweFVBTE5sS0w5UGdOVW52S3dHVzJTVll0T0pOanMxallBdTlSMThuNWFqZTA",
     "CBMiuwFBVV95cUxOd0piZlktanJLS0QtYjBJMXVTMExYc1FwUkdQV1NkcWN5NXRIQnpMcnVLNkgzMncxZmxxdndnMkN2aXBtQmxnTXZDVUhRY3hDSktsaDFhOHM1MjJJMm9RYmZmU1JmaWFXRWNXQzMxcUJUZ2pLLUl5a1JRcUhPOFdIRHh4anIyVXRYeXo3Um5LZUlCMm15M2J5djNRV2t0SmtIcjRuR0JpX3paWGZoYkVIZ1N3VWFFaEpBaVI4",
-    "CBMiqgFBVV95cUxPYUYxb1FTb1MzSHJIUWdRU3BnX2xoNHcyZEVyejJLZXZDNC1QUzdTemJqVDl3cHdZV0tNSzFOekhZQy1fY1A2MXVIdFozZGVPSnhpbHFIa3E4ZERGdnh0ellfdGxMLVhVeXE2Q3RuN3JMcGxFR1UtalY0MXJuUHdJQUVKYm80TGVrQ0JlRkV3by04TWoyRURyVkRJRXc5MmJELTBWY0V0MUFtUQ"
+    "CBMiqgFBVV95cUxPYUYxb1FTb1MzSHJIUWdRU3BnX2xoNHcyZEVyejJLZXZDNC1QUzdTemJqVDl3cHdZV0tNSzFOekhZQy1fY1A2MXVIdFozZGVPSnhpbHFIa3E4ZERGdnh0ellfdGxMLVhVeXE2Q3RuN3JMcGxFR1UtalY0MXJuUHdJQUVKYm80TGVrQ0JlRkV3by04TWoyRURyVkRJRXc5MmJELTBWY0V0MUFtUQ",
+    "CBMi0gFBVV95cUxOdFdxbEs4eTRrZVpNcE5qaHlEa3p6YmtEOGMxQnQ1eG12MUJmZjdYaDVVVlphUGRTdzZ1dHpNUlpfQnBxLURheC11amcyWERFQ21KaGxqaldYazVYSUdCRkJ3MFh3MVZKSFB2N0hoUmZRdFJieG10dFZ4TFBua3NXUE1KMnIwMkQtRHZwenJWMnRJZy1GNmJFRm5hX0lKdjB1VEdpd2h2S043NFVOQkVOMG14NTJpMmlDVzd2OG1aSzl4eXNSWk4zZ0kxTTNOb1JKUHc"
   ],
   "https://en.yna.co.kr/RSS/news.xml": [
     "https://en.yna.co.kr/view/AEN20260811003200320",
