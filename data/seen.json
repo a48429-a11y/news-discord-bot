@@ -2114,7 +2114,6 @@
     "https://en.yna.co.kr/view/AEN20260816000200315"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1786516427",
     "https://www.aljazeera.com/?t=1786513184",
     "https://www.aljazeera.com/?t=1786467514",
     "https://www.aljazeera.com/?t=1786477555",
@@ -2413,7 +2412,8 @@
     "https://www.aljazeera.com/?t=1786824259",
     "https://www.aljazeera.com/?t=1786818959",
     "https://www.aljazeera.com/?t=1786821737",
-    "https://www.aljazeera.com/?t=1786830360"
+    "https://www.aljazeera.com/?t=1786830360",
+    "https://www.aljazeera.com/?t=1786824854"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
     "https://allafrica.com/stories/202607210049.html",
@@ -2774,7 +2774,6 @@
     "https://en.mercopress.com/2026/08/15/colombia-de-la-espriella-calls-the-situation-in-pereira-apocalyptic-after-touring-the-city?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss"
   ],
   "https://www.abc.net.au/news/feed/2942460/rss.xml": [
-    "https://www.abc.net.au/news/2026-07-24/afl-round-20-live-demons-cats-dockers-eagles/106940694",
     "https://www.abc.net.au/news/2026-07-24/commonwealth-games-day-1-live-blog/106953152",
     "https://www.abc.net.au/news/2026-07-25/hani-watson-wins-commonwealth-games-para-powerlifting-bronze/106957608",
     "https://www.abc.net.au/news/2026-07-25/nrl-live-updates-raiders-tigers-bulldogs-warriors-broncos/106958244",
@@ -3073,6 +3072,7 @@
     "https://www.abc.net.au/news/2026-08-16/warming-climate-forcing-marathon-changes-to-keep-runners-cool/107037266",
     "https://www.abc.net.au/news/2026-08-16/micahel-maguire-says-brisbane-broncos-were-not-good-enough/107043080",
     "https://www.abc.net.au/news/2026-08-16/nrlw-wrap-roosters-broncos-eels-bulldogs-titans-dragons/107043130",
-    "https://www.abc.net.au/news/2026-08-16/jacob-van-rooyen-facers-afl-mro-wait-after-hit-on-aliir-aliir/107043148"
+    "https://www.abc.net.au/news/2026-08-16/jacob-van-rooyen-facers-afl-mro-wait-after-hit-on-aliir-aliir/107043148",
+    "https://www.abc.net.au/news/2026-08-16/socceroo-nestory-irankunda-signs-for-sporting-cp-portugal/107043186"
   ]
 }
