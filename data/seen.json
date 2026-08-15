@@ -604,8 +604,6 @@
     "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html"
   ],
   "http://feeds.bbci.co.uk/news/world/rss.xml": [
-    "https://www.bbc.co.uk/news/articles/c4gwvvw9k1xo#1",
-    "https://www.bbc.co.uk/news/articles/cn5nlgxv6vdo#1",
     "https://www.bbc.co.uk/news/articles/ce3e4enkrqro#2",
     "https://www.bbc.co.uk/news/articles/c78g3glpl8wo#2",
     "https://www.bbc.co.uk/news/articles/ckg9dwz8p30o#2",
@@ -903,7 +901,9 @@
     "https://www.bbc.co.uk/news/articles/cm2gp5g0xngo#2",
     "https://www.bbc.co.uk/news/articles/c87nwq9qe24o#2",
     "https://www.bbc.co.uk/news/videos/c7vg06pjdmqo#3",
-    "https://www.bbc.co.uk/news/articles/c9982znvyk4o#0"
+    "https://www.bbc.co.uk/news/articles/c9982znvyk4o#0",
+    "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo#0",
+    "https://www.bbc.co.uk/news/videos/cj4kg74ndggo#3"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
     "CBMipAFBVV95cUxOVndsM1ItQXZiWkIwUU9rc1JmRDNZVXZsenNsM3BUN0JqSlZMcTFoMHk0RTN1U0xRUjVtNnQzSzVUMWdhY1Z4T1N1bkpqUFRSR2U5M2NoU1JpaU9LZnVBWmJEZEozQ1JMbXVpcHl1c3JLb2s1Q0k3UU4yS2NPanBjMWZjeXFpUnA4ZUpEX09sNUdrR29jMlFRMjN0ZDhWM1Q1UVpVbg",
@@ -2114,7 +2114,6 @@
     "https://en.yna.co.kr/view/AEN20260815002751320"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1786469753",
     "https://www.aljazeera.com/?t=1786472961",
     "https://www.aljazeera.com/?t=1786472364",
     "https://www.aljazeera.com/?t=1786465434",
@@ -2413,7 +2412,8 @@
     "https://www.aljazeera.com/?t=1786541338",
     "https://www.aljazeera.com/?t=1786780400",
     "https://www.aljazeera.com/?t=1786695725",
-    "https://www.aljazeera.com/?t=1786778202"
+    "https://www.aljazeera.com/?t=1786778202",
+    "https://www.aljazeera.com/?t=1786782901"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
     "https://allafrica.com/stories/202607210049.html",
