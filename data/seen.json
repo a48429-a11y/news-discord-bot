@@ -2114,8 +2114,6 @@
     "https://en.yna.co.kr/view/AEN20260816000200315"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1786507860",
-    "https://www.aljazeera.com/?t=1786499180",
     "https://www.aljazeera.com/?t=1785914289",
     "https://www.aljazeera.com/?t=1786499120",
     "https://www.aljazeera.com/?t=1786519448",
@@ -2413,7 +2411,9 @@
     "https://www.aljazeera.com/?t=1786779850",
     "https://www.aljazeera.com/?t=1786817320",
     "https://www.aljazeera.com/?t=1786815598",
-    "https://www.aljazeera.com/?t=1786815966"
+    "https://www.aljazeera.com/?t=1786815966",
+    "https://www.aljazeera.com/?t=1786816022",
+    "https://www.aljazeera.com/?t=1786824259"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
     "https://allafrica.com/stories/202607210049.html",
@@ -2774,7 +2774,6 @@
     "https://en.mercopress.com/2026/08/15/colombia-de-la-espriella-calls-the-situation-in-pereira-apocalyptic-after-touring-the-city?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss"
   ],
   "https://www.abc.net.au/news/feed/2942460/rss.xml": [
-    "https://www.abc.net.au/news/2026-07-24/world-cup-2026-norway-set-to-file-official-complaint/106953060",
     "https://www.abc.net.au/news/2026-07-24/motogp-adelaide-motorcycle-culture-superbikes/106946342",
     "https://www.abc.net.au/news/2026-07-24/glasgow-2026-axed-sports-anabelle-smith-melissa-tapper-hockey/106551098",
     "https://www.abc.net.au/news/2026-07-24/afl-round-20-live-demons-cats-dockers-eagles/106940694",
@@ -3073,6 +3072,7 @@
     "https://www.abc.net.au/news/2026-08-15/live-wallabies-japan-second-test-townsville/107027060",
     "https://www.abc.net.au/news/2026-08-15/nrl-updates-sharks-raiders-eels-cowboys-broncos-warriors/107041866",
     "https://www.abc.net.au/news/2026-08-15/quick-hits-australia-vs-bangladesh-day-three-first-test/107037432",
-    "https://www.abc.net.au/news/2026-08-16/warming-climate-forcing-marathon-changes-to-keep-runners-cool/107037266"
+    "https://www.abc.net.au/news/2026-08-16/warming-climate-forcing-marathon-changes-to-keep-runners-cool/107037266",
+    "https://www.abc.net.au/news/2026-08-16/micahel-maguire-says-brisbane-broncos-were-not-good-enough/107043080"
   ]
 }
