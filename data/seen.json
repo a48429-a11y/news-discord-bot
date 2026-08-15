@@ -604,7 +604,6 @@
     "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html"
   ],
   "http://feeds.bbci.co.uk/news/world/rss.xml": [
-    "https://www.bbc.co.uk/news/articles/ce3e4enkrqro#2",
     "https://www.bbc.co.uk/news/articles/c78g3glpl8wo#2",
     "https://www.bbc.co.uk/news/articles/ckg9dwz8p30o#2",
     "https://www.bbc.co.uk/news/articles/cy8ev4y172yo#2",
@@ -903,10 +902,10 @@
     "https://www.bbc.co.uk/news/videos/c7vg06pjdmqo#3",
     "https://www.bbc.co.uk/news/articles/c9982znvyk4o#0",
     "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo#0",
-    "https://www.bbc.co.uk/news/videos/cj4kg74ndggo#3"
+    "https://www.bbc.co.uk/news/videos/cj4kg74ndggo#3",
+    "https://www.bbc.co.uk/news/articles/cy0j60p0d29o#0"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
-    "CBMiowFBVV95cUxNTWExbm9XZElnSDJPRjBmZ1pyTW50V2REa0hDWXpxR2FxLVRSUHVZTm5DYVZLYlkwTnN0ZWRLMDBwaGc4QlprU293SkRkQVVIZV9sNjJNTDZ3c1VaWU1DRDQ0enZ2c0xBdzVxdVFQdEdpamVucUFSNW1qR19scVVWemhJWDg1dUdQSGFrOTJHWmpNQzF4T1N0Qm5pb2FZRllEQ3Vn",
     "CBMif0FVX3lxTE9PMmlaYU5Yc2ZlZTBMd2ctX0lFdDlMTWpQMHJvdlNIT3lKVWkyWGZfeWljUm5CeElsRElBMG1uZ05wTGlZTHY2ajVhUWVmSk9WOUVQalhlR2tjcy02ZUVqVFNGSU1TS1NMcUEwR21nY3JSRC1pbG9mQ2pDN2U4REU",
     "CBMirwFBVV95cUxNVVFqcS02ZHV5ZjlaeVFZdTlteEs3VjRqcVhQN3hxZHRQYjFjNUhKenE5MnVQR1J3R1d0cTA2NXJGTHZfcjU0RXM0T0dvSHFUUWItbktmV3JLMVFPaURkMzh5RUhCQmRyY3JUb3NNWGJqSlZvYXhBdzFfeU5hY3d6YVRMRkg5SWt4ZVJSVUpJZWxuYi0tZ2ExbXd5SGdmQzVWWnRvOE5JUm9HOXk4LUVV",
     "CBMiqAFBVV95cUxNcFVjUWlQRWxQVk1KR2xvem0zOEJkUFVGcjBaNjdCU3dxQkU5Wml4VURmVDRHcVgxekM3ejFLa1Utc1YzRlhhaVJCd0FqWEJGaEQwRGwxbGpYTjdUejlxbXBhQ3hHMmUxaFgyTEgtOEh1LWhhZ2xRQW9oaVBDdUY3TEhpQkxRNjEzdExucFBIWms5OTlqYjlQaWlXcTZ4eThjZHg2MmxlMlA",
@@ -1205,7 +1204,8 @@
     "CBMinAFBVV95cUxNN05uTi1tNEFfUXhxNklUMTU5b3dfaVhiR0xkTDU4X1F3VE1tS2d5SHNPbmhjLXBJTVJSSDNDZ19WNWtoVlNhTFVmdWk1bXVqLTRFejlUVlJCTlRGVkhqOTV5VERGeW1nVG53SDBrbmMweDNDRlBydVBHamZDMDdUQno4OEVtc0hkMkQ4VnBfWEtRS1RqZjYzWmRmVlI",
     "CBMirAFBVV95cUxOU0NBVmpueWNUWGJ1ckoxSW1wR1dkX0ZHRzk3bWFUcUlGamk0NjBjMEo2LXVRNTlUUkxibVdSbHdLS245VF9Hc2hzbE9JYld3WEt4VnBPSWVwMjFoTlQyc2RSYjdzLU5ZN0FoZ1dSaVVGUGIwbU1XbzlCY256ZnloUFBuNnlPakV3RFlFWHpqRERKa3lIblRReG80R1hyN1RCczFLdXYtRmJQNlo3",
     "CBMisAFBVV95cUxQOGxaOGRkOFZLTl95VkppWlA5eUpBZkJFNHdxWmhVTTdtT21Ya1JCSVQ3UlJBajNNanc2enhKZWRCQlAtLWdxV3RMMm1NcTJRVXNGME1MdDQwb0NyNU5sN2YySkU1R2lJc05OSFUtUVFVMDZUbWNJMjM4V0UwWGNYeWNTeVQ3RlpfQlN1VDhISHVtSmdpZW1xejZib3FKbG5pRmdPRGt2MzlSbDZDMXpjdg",
-    "CBMirgFBVV95cUxOM2ZQVVlqRk5iM210SWJnOEZIYVF4TnR0YzFCS2NvbGZGSGF1a1NIQ09NbHFoQ0hjWjUyYVo4d3F0YlVkU1hEREd3ajczbWg4V1lSdFdmT24xdnZNYnBoTHBpM25UY1lXWWFGU2t3VldwUUtFQkpGbU5yYUUxRjZqRGVRdXpBVnBjdVpTdTB0UkNnWWdpOHdFcndJZzlQdDJSdXFHUnU4LUVYQVU3a3c"
+    "CBMirgFBVV95cUxOM2ZQVVlqRk5iM210SWJnOEZIYVF4TnR0YzFCS2NvbGZGSGF1a1NIQ09NbHFoQ0hjWjUyYVo4d3F0YlVkU1hEREd3ajczbWg4V1lSdFdmT24xdnZNYnBoTHBpM25UY1lXWWFGU2t3VldwUUtFQkpGbU5yYUUxRjZqRGVRdXpBVnBjdVpTdTB0UkNnWWdpOHdFcndJZzlQdDJSdXFHUnU4LUVYQVU3a3c",
+    "CBMitgFBVV95cUxQaDljR3hTX255Nmx3U0YydXJ4VjNxZ2VOOW9aMUo5bkFhLVY3RjNndEIwR1JMRFFZLWxuOFoyS2ZRWHo0MW9LYURTQ0xsekozeEVjZ1NubDJISTlzNTdnWnB5dE84WUxlclZoRV9ienBUczBNTV9tQUZQaEwwTHpuR180NFlRSjBZcHJucmhsY19xV2RWR1pheEpDZU1KOWI2OE03Q25CZWxOQ1VXUEVTOGx1bHhEdw"
   ],
   "https://www.scmp.com/rss/4/feed": [
     "https://www.scmp.com/news/hong-kong/article/3361910/black-lake-ceos-strategy-sell-ai-solutions-factories-turn-food-couriers?utm_source=rss_feed",
@@ -2114,8 +2114,6 @@
     "https://en.yna.co.kr/view/AEN20260815001651320"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1786472364",
-    "https://www.aljazeera.com/?t=1786465434",
     "https://www.aljazeera.com/?t=1786472313",
     "https://www.aljazeera.com/?t=1786480408",
     "https://www.aljazeera.com/?t=1786464122",
@@ -2413,7 +2411,9 @@
     "https://www.aljazeera.com/?t=1786695725",
     "https://www.aljazeera.com/?t=1786778202",
     "https://www.aljazeera.com/?t=1786782901",
-    "https://www.aljazeera.com/?t=1786788905"
+    "https://www.aljazeera.com/?t=1786788905",
+    "https://www.aljazeera.com/?t=1786790125",
+    "https://www.aljazeera.com/?t=1786706818"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
     "https://allafrica.com/stories/202607210049.html",
