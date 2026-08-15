@@ -1,6 +1,5 @@
 {
   "https://news.google.com/rss/search?q=site:reuters.com&hl=ja&gl=JP&ceid=JP:ja": [
-    "CBMiiwFBVV95cUxQSlJfOEEyQVFSUFhGcFlhZmVMS1ktV0lWUGZld2tpV1B4SkxWZTI2ZXJXdzFqZHhveW1CODMzRDdvaTVBOVhYNDJYLXVHQWE5UFRqNVF6enlvU1NaOFNEemZReUx3enRZWDdDRnQ3NWZVbEliTmw0a3Y2dV9tbzZqcGtlMXRkWnFuODdF",
     "CBMigAFBVV95cUxONlloQ01OOWgwRGU1ZG83WXpqX1l3enNnM2FwbXRzbHZ2SGUtay11M0tOMFZDWm82REhlTFNNV0dienZ2MXVzaHVSMzlCV0N3aEpvRGxSa253THlKTjVzdld5Z3R6NE1UZ3RRTkVXYWVWVEVONHhVVmhYckNlMHk0bA",
     "CBMiggFBVV95cUxPTHB5NDczejkySzdfcDFLZHdDTTdpNFRSLVhMMVRkYVZ6SE9SdjEwQzM5b01BZ1JLWXAzdEpOYldvdWlMcG0tSzZCWlBQQ0MwZ195RjdLQ2FYUV9sU2hlaXJtUTREeUV1QlBMU2NGdHdYVmItc3Q2dk9mZnp0TllIdEZB",
     "CBMiggFBVV95cUxOd1puRWNaWk40QU9qVEVtVHYtLTRqSXBjbVBYNzhRd3AzYUg2UkVIMmI5bmlYOHpxUjJPYmJDbG5KbGRVbHliOFFnTlBheFlaRzZCLVN4TE4tbS0xUTZqVlRvVTJqZ1doUnB4b1U3NjctVndNYzdqYVVPNUUwY05KaldR",
@@ -299,7 +298,8 @@
     "CBMieEFVX3lxTFAzTjhGR3YyazZzZEtLYWltd1YyQlp3a2pyS0lMLWZKS3FCMDAyZUJjTXE0eHRxNnpKRUpudk9IcXAtdnAwMjBnOU53WHl5MzNJUkVQQU1pbmRmUUdFbzQwY2UwTG9UQnUtU3Z2S283ZmhPOHhGUlVEcg",
     "CBMidkFVX3lxTE5SSkJDSU10ZHFLbTlkU09GREdySVBzS2d0Qnh5MGNocjEybWVNUFBkZFU3cXZqMnUxYTE0WTJHUlF5NDVNcW1vYVlfSU9zQ0d0bXlCMEFKbFVLUHlTS0JkOUM0Q1pXSmNiUUFSd3p0X3pZY2dnT1E",
     "CBMigAFBVV95cUxNaUJFWVBiTHNQZTRNVWxtSDJzTFVaSEYwdFZqcjh6enBHc1VSMm11Q24yeEtobDEwcTFzaDl6bS1MTHRfU25vWjIwdHVzNWVNOS1Xd3JWYlFaWGNFMWViVnhZRUhxVGtNSGMwZjl5ZDVtUnl2VGh3eUxwb3lSbHd6dw",
-    "CBMieEFVX3lxTE5iMHpRZE1LVzlLcUhBUlNVUkRmVUUwSE9BUzg2MFN5Tk5pYVdqMVJibXI1T2REX201dmRJclFfdjVCemFsRmxDSzVxamZiWXZUNWQ0bnBMNkdQZlRYYzBQS2prcjRPNkFZeklnaDlUMzIwSzBoT3NmaQ"
+    "CBMieEFVX3lxTE5iMHpRZE1LVzlLcUhBUlNVUkRmVUUwSE9BUzg2MFN5Tk5pYVdqMVJibXI1T2REX201dmRJclFfdjVCemFsRmxDSzVxamZiWXZUNWQ0bnBMNkdQZlRYYzBQS2prcjRPNkFZeklnaDlUMzIwSzBoT3NmaQ",
+    "CBMigAFBVV95cUxPRTVSLVRVRDFZdm42T0J2R1I2MUljMjFYLWFaRHJxTXNKNWlyN1NpNTRjV3VSbDllTmNRbWR0YmhwVnhYRllMQWQ0d2RHaGJVSUJnNDYzcW51cGVyXzRWaXpCUnp1M3VLWThESVJEa2JKNDhHd091enpXc3pRRnBfYw"
   ],
   "https://www3.nhk.or.jp/rss/news/cat0.xml": [
     "http://www3.nhk.or.jp/news/html/20260724/k10015185791000.html",
@@ -2114,7 +2114,6 @@
     "https://en.yna.co.kr/view/AEN20260816000200315"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1786513184",
     "https://www.aljazeera.com/?t=1786467514",
     "https://www.aljazeera.com/?t=1786477555",
     "https://www.aljazeera.com/?t=1786515936",
@@ -2413,7 +2412,8 @@
     "https://www.aljazeera.com/?t=1786818959",
     "https://www.aljazeera.com/?t=1786821737",
     "https://www.aljazeera.com/?t=1786830360",
-    "https://www.aljazeera.com/?t=1786824854"
+    "https://www.aljazeera.com/?t=1786824854",
+    "https://www.aljazeera.com/?t=1786831853"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
     "https://allafrica.com/stories/202607210049.html",
@@ -2774,8 +2774,6 @@
     "https://en.mercopress.com/2026/08/15/colombia-de-la-espriella-calls-the-situation-in-pereira-apocalyptic-after-touring-the-city?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss"
   ],
   "https://www.abc.net.au/news/feed/2942460/rss.xml": [
-    "https://www.abc.net.au/news/2026-07-24/commonwealth-games-day-1-live-blog/106953152",
-    "https://www.abc.net.au/news/2026-07-25/hani-watson-wins-commonwealth-games-para-powerlifting-bronze/106957608",
     "https://www.abc.net.au/news/2026-07-25/nrl-live-updates-raiders-tigers-bulldogs-warriors-broncos/106958244",
     "https://www.abc.net.au/news/2026-07-25/commonwealth-games-2026-every-australian-medal/106958160",
     "https://www.abc.net.au/news/2026-07-25/afl-r20-blues-suns-hawks-dons-giants-swans-wb-tigers-live-blog/106957878",
@@ -3073,6 +3071,8 @@
     "https://www.abc.net.au/news/2026-08-16/micahel-maguire-says-brisbane-broncos-were-not-good-enough/107043080",
     "https://www.abc.net.au/news/2026-08-16/nrlw-wrap-roosters-broncos-eels-bulldogs-titans-dragons/107043130",
     "https://www.abc.net.au/news/2026-08-16/jacob-van-rooyen-facers-afl-mro-wait-after-hit-on-aliir-aliir/107043148",
-    "https://www.abc.net.au/news/2026-08-16/socceroo-nestory-irankunda-signs-for-sporting-cp-portugal/107043186"
+    "https://www.abc.net.au/news/2026-08-16/socceroo-nestory-irankunda-signs-for-sporting-cp-portugal/107043186",
+    "https://www.abc.net.au/news/2026-08-16/johannes-liebmann-breaks-world-record-mens-1500m-freestyle/107043220",
+    "https://www.abc.net.au/news/2026-08-16/blind-surfer-steve-fox-stuns-at-agnes-water/107032884"
   ]
 }
