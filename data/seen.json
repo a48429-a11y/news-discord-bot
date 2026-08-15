@@ -1208,7 +1208,6 @@
     "CBMiowFBVV95cUxPXzZzMXhFMHpnX3pzYVRBUTRyMDFlZzJNQkpoN1QwX3VseEJPdVJELWhtdnc1T3ZpNF9YWHp6T0t0dk51YUJrZHg1M1RGYUthMjdNNi0yWkNDSnZjNVozZHBMMEJmVDVfdXYtQjFmcWM2ZlhZejA0MzlPU1pudFhWZDdGRXpQOGpncFRCVG9MSGhobkpBdVg1Vm1RRFprcURPWnVv"
   ],
   "https://www.scmp.com/rss/4/feed": [
-    "https://www.scmp.com/news/china/diplomacy/article/3361990/beijing-fires-new-salvo-tokyo-documentary-disputed-diaoyu-islands?utm_source=rss_feed",
     "https://www.scmp.com/news/china/science/article/3361945/chinese-scientists-turn-bamboo-strengthen-great-green-wall?utm_source=rss_feed",
     "https://www.scmp.com/news/china/science/article/3361924/food-security-can-drones-and-beidou-put-end-paper-farming-china?utm_source=rss_feed",
     "https://www.scmp.com/news/hong-kong/article/3361910/black-lake-ceos-strategy-sell-ai-solutions-factories-turn-food-couriers?utm_source=rss_feed",
@@ -1507,7 +1506,8 @@
     "https://www.scmp.com/news/us/diplomacy/article/3364118/chinese-drone-maker-dji-gets-another-shot-pentagon-blacklist-removal?utm_source=rss_feed",
     "https://www.scmp.com/news/china/diplomacy/article/3364122/delcy-rodriguezs-castro-tribute-tests-venezuelas-balancing-act-between-us-and-china?utm_source=rss_feed",
     "https://www.scmp.com/news/china/diplomacy/article/3364025/china-rattled-trump-white-house-chaos-weeks-ahead-xi-visit-it-has-happened?utm_source=rss_feed",
-    "https://www.scmp.com/news/china/diplomacy/article/3364108/us-future-policymakers-are-questioning-standard-china-threat-playbook?utm_source=rss_feed"
+    "https://www.scmp.com/news/china/diplomacy/article/3364108/us-future-policymakers-are-questioning-standard-china-threat-playbook?utm_source=rss_feed",
+    "https://www.scmp.com/news/china/science/article/3363975/chinese-magnetic-sensor-breakthrough-may-help-smartwatch-detect-submarine-500-metres-deep?utm_source=rss_feed"
   ],
   "https://news.google.com/rss/search?q=site:euronews.com&hl=en-US&gl=US&ceid=US:en": [
     "CBMiowFBVV95cUxQRXhmVk9iNWhQVWZ2WlJTekVPTjBwMnhfMmRKYW1sa3AyT200VTNoLUwxbDhtQmRydjdEQm1YUURIN0RPVVJuUWxfVElLUUZzMFFqU1dvSGdlTUJNSzNNbnZ2VXhrTlhCTzVCU080b0lSUGtKRnJYdU1MT3pERTQ5cDN5NGpscGZwN18wRE1IOFlJbE55bGVWVVZHLXhoQ1E0MFNV",
@@ -1812,8 +1812,6 @@
     "CBMirgFBVV95cUxQd19yam9BQU1tdHhQeG5WZERseXRCSlFKTjhIRnhBdkhwM1czelRUZFVKdWNaTVZOUloyaVIzZTJRbmZtOTBvMXdkdTdMZDF5YzduRUxjUG5nYldoLVk2MkNlYlhFeVZSSFROWWhpSmJqaTB6SEdMMG9OSUMwbUJZaFdiZ0UyeWNReHRHSGdYWXhRUDFmLUlOQ0Zqem51WjhfVXFoY05NSW5RUEdGUXc"
   ],
   "https://en.yna.co.kr/RSS/news.xml": [
-    "https://en.yna.co.kr/view/AEN20260811003300315",
-    "https://en.yna.co.kr/view/AEN20260811001951320",
     "https://en.yna.co.kr/view/AEN20260811001151315",
     "https://en.yna.co.kr/view/AEN20260811003100320",
     "https://en.yna.co.kr/view/AEN20260811003000315",
@@ -2111,12 +2109,11 @@
     "https://en.yna.co.kr/view/AEN20260815001000315",
     "https://en.yna.co.kr/view/AEN20260815000900315",
     "https://en.yna.co.kr/view/AEN20260815000800315",
-    "https://en.yna.co.kr/view/AEN20260815001500320"
+    "https://en.yna.co.kr/view/AEN20260815001500320",
+    "https://en.yna.co.kr/view/AEN20260815002300320",
+    "https://en.yna.co.kr/view/AEN20260815001452315"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1786448296",
-    "https://www.aljazeera.com/?t=1786453743",
-    "https://www.aljazeera.com/?t=1786448317",
     "https://www.aljazeera.com/?t=1786379462",
     "https://www.aljazeera.com/?t=1786434779",
     "https://www.aljazeera.com/?t=1786448723",
@@ -2413,7 +2410,10 @@
     "https://www.aljazeera.com/?t=1786746956",
     "https://www.aljazeera.com/?t=1786754368",
     "https://www.aljazeera.com/?t=1786756626",
-    "https://www.aljazeera.com/?t=1786751033"
+    "https://www.aljazeera.com/?t=1786751033",
+    "https://www.aljazeera.com/?t=1786760451",
+    "https://www.aljazeera.com/?t=1786753864",
+    "https://www.aljazeera.com/?t=1786759139"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
     "https://allafrica.com/stories/202607210049.html",
