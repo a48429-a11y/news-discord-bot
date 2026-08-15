@@ -1,6 +1,5 @@
 {
   "https://news.google.com/rss/search?q=site:reuters.com&hl=ja&gl=JP&ceid=JP:ja": [
-    "CBMigAFBVV95cUxNWkMyandIdTluSHhmMjE3UzBwSTVGYnlIS09MQkJfN1EwLW9fQzlpOHQzWGptOGoyLXJxdWltd1RzSjFNVTF0RFNaODNla2NNQlJ6VS1zdXBIXzNJdldFeFdCSklVMFdMby1XRWRkQVRQcnBnZ3lzbFRSRnQ5dm5uSg",
     "CBMigAFBVV95cUxPSnRaVHdLeXZqU3kwMU9GeXBGNGtwWkszcGYxeEFYTlF2dVBhcVhPZFZKV1pZZzRfU0doRGduUXgtRWFrckZkLWpXTmk1R2ZSSEFLV1N1VGU4dE9DRzRlWXBUY0FhMWx4U1h5cGtZbnh1cTFlLW9iNXd5ckNEd05IYQ",
     "CBMiggFBVV95cUxNTjZHS3BNeThfTmJhUTZrRm9XZzRYRDhqN3pSM05Ldm1DYmV5WHN1aFdyaEpOeWhieGFKMDIxMEVJTmg5YkJQcGFjV2c0bm5odkpGMHU3ZXN5c2pNZUJrQUtUY3lWUkFpbzNUdi1rSEt0Y290bTBxeUgzMmhEQ2Nzc0Nn",
     "CBMieEFVX3lxTFA1UFFfSFJ2d01qQjMzamFmQm9ZU1NENzFmVjhweHliY3k4TFdzOVdNQXFhQzdTazRFQXVKQk5jNWdUNmFVS2pKWlpCeF9BS1BNQnd0Q080RllaOGpFQVB0RXdWeUp3UlZNWGVpWFVuX1AtU1hSOXlrRw",
@@ -299,7 +298,8 @@
     "CBMigAFBVV95cUxPSEFCSUFUZUttX2VPTktzTl9VZkI3cHhmWHE2VDZvVzhTQ2RiRUpGMHcwcnE2R0trSGlMb3lFSTVDV0hXZ1Z1aFdkLV8zejNSZXFvMVBHWEgwLXpnUTVTT1c4TVNfcGl0VTFEcmpxbUQ3SmV2aEJRaFZUSXNlM29ndg",
     "CBMiggFBVV95cUxOSEJYbzY0Tm5xY3pGZ25yb0dfa2NJRzFsQ2RIYkJ6ZmRwTXpuZ1dnb0o0VlprZDJxTHdDUWtLeEdNd212ejItNzJCWDNMak5ZM2FUa01ObGdFUy15YW5BbHNBQnhlZHRuOXhzRGd1dEJtd0V2ejAxVnpsUFVQVDlhSGtn",
     "CBMifkFVX3lxTE1jSFdzTmFMMjVTTDR6ejhtcXM5ZjlMeU91LUlmQU1jemRPT1hpbmp3UENZSzZ4RHZJZHdSMG1hYmpuYWYwdElITmQzbDFZX0pncklxTHIwTmc2M0FvNkRKbWJ0Tmw3ZTI5cFpjZV9fN0cyeTFVNmwxZUZUME1UQQ",
-    "CBMigAFBVV95cUxPWDZSQkhDTjI0SjlibDJQdUI0LUVnLVQ3UnVfQlhZR3NIOUZlZG5DRGlHRkkxdVhLckVBSEszeFpFa0wwT25DX2IydkIzTkUySUJsU2RwdGllYjZZMEtfNFl0LWNtU216dXNMblpCaTc2MzVkeU41ZG9DbzRmN3dWZw"
+    "CBMigAFBVV95cUxPWDZSQkhDTjI0SjlibDJQdUI0LUVnLVQ3UnVfQlhZR3NIOUZlZG5DRGlHRkkxdVhLckVBSEszeFpFa0wwT25DX2IydkIzTkUySUJsU2RwdGllYjZZMEtfNFl0LWNtU216dXNMblpCaTc2MzVkeU41ZG9DbzRmN3dWZw",
+    "CBMieEFVX3lxTFAzTjhGR3YyazZzZEtLYWltd1YyQlp3a2pyS0lMLWZKS3FCMDAyZUJjTXE0eHRxNnpKRUpudk9IcXAtdnAwMjBnOU53WHl5MzNJUkVQQU1pbmRmUUdFbzQwY2UwTG9UQnUtU3Z2S283ZmhPOHhGUlVEcg"
   ],
   "https://www3.nhk.or.jp/rss/news/cat0.xml": [
     "http://www3.nhk.or.jp/news/html/20260724/k10015185791000.html",
@@ -2114,8 +2114,6 @@
     "https://en.yna.co.kr/view/AEN20260815003000320"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1786490543",
-    "https://www.aljazeera.com/?t=1786487407",
     "https://www.aljazeera.com/?t=1786492386",
     "https://www.aljazeera.com/?t=1786506594",
     "https://www.aljazeera.com/?t=1786496723",
@@ -2413,7 +2411,9 @@
     "https://www.aljazeera.com/?t=1786524029",
     "https://www.aljazeera.com/?t=1786564282",
     "https://www.aljazeera.com/?t=1786801337",
-    "https://www.aljazeera.com/?t=1786808770"
+    "https://www.aljazeera.com/?t=1786808770",
+    "https://www.aljazeera.com/?t=1786811405",
+    "https://www.aljazeera.com/?t=1786794074"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
     "https://allafrica.com/stories/202607210049.html",
