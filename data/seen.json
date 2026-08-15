@@ -604,7 +604,6 @@
     "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html"
   ],
   "http://feeds.bbci.co.uk/news/world/rss.xml": [
-    "https://www.bbc.co.uk/news/videos/ce8l6x3r9gjo#3",
     "https://www.bbc.co.uk/news/videos/c1e145p5xw5o#3",
     "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo#0",
     "https://www.bbc.co.uk/news/articles/cj63966j95yo#0",
@@ -903,10 +902,10 @@
     "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo#0",
     "https://www.bbc.co.uk/news/articles/c4gkyez7195o#2",
     "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o#2",
-    "https://www.bbc.co.uk/news/videos/c39eekgv79ko#3"
+    "https://www.bbc.co.uk/news/videos/c39eekgv79ko#3",
+    "https://www.bbc.co.uk/news/articles/c0l5583903yo#0"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
-    "CBMipgFBVV95cUxNTzdhM1U5ZjhQcHJMZTl3TFlYSEVSeFp2cW1GLWN4QzJ4dHd6S1BXSGZRUGFCQU9ZMEtaRkwtOE9KODRmZzFyYWhNVGF6RmtCaTFTT1BVOU1KRWtqNDJKUEFYSUpTRW11R21jTFFMR0s3ZFZxRGF1U0V5ZkRnNkx5ZXhKVmtkQ0xiaUlfaFpfdHBoOEEzNmdJUFJ0VngyTFI0QkFWem53",
     "CBMimwFBVV95cUxNOFNFX1NIa2tfR0ZnVXRwRm5PV2pYY0FkSmNiVzFhQzhuOUdDdnNsZHQ1dkZUcFk5RnVDazUweEhyYnJaalU4bnp4RmtKQWZXX2tXRi1oYVlzRmpNUlJJcVRTUThuSXZHaHd5Q19qVTJyWHF2Y1Q1bVpPMU1HZnpZcGlXZF9MaDViYXFwRzQ5azR3TDR2ZUE0RmZYQQ",
     "CBMimgFBVV95cUxPb2lDSDVIamFRRWdzU0tlSjVrOHAxN3EtNzItQmVZbmtaZ3VPaHNsVUs1TEl4OFNtaGxDanBQMERJVHh6SWJqN0w3VnhtR2RNZmxNWEsyWkF4dG5iQ3lvU0wyOUhJLWlOWV9wQVhGOUhQMlZDdG5fYU5lMkJWLXRrX1NmYlFaTURXa0xrdE1NamZ4dlBSTjFQYzh3",
     "CBMimAFBVV95cUxNN3phUHJkbktCRHUybzdwUHhMLXRGNnN5U3FLeW14RkhjZnZvLTZvX3VyMUtIZkhFQWltOHdNa1g2QjVLcnRyRVl5RDhTSGphUVZSZElFYnlZTThKTE12YVZOM2NMWVVuakU1TVVmOTg3cDBMMHducnpOUVppTktqMW1vMEpNWmt6MW1CUkVjZEdzV1VXd3pnUw",
@@ -1205,7 +1204,8 @@
     "CBMitgFBVV95cUxQaDljR3hTX255Nmx3U0YydXJ4VjNxZ2VOOW9aMUo5bkFhLVY3RjNndEIwR1JMRFFZLWxuOFoyS2ZRWHo0MW9LYURTQ0xsekozeEVjZ1NubDJISTlzNTdnWnB5dE84WUxlclZoRV9ienBUczBNTV9tQUZQaEwwTHpuR180NFlRSjBZcHJucmhsY19xV2RWR1pheEpDZU1KOWI2OE03Q25CZWxOQ1VXUEVTOGx1bHhEdw",
     "CBMiogFBVV95cUxNX0dMUWR0N1NCdC1lR3hzYVI3UG9ZUFRVWWdEMEpXV1RzLWZrWTN5VjI1dVFKYmo3YzRvUU5YYVkwTjZXdTdUU0FyamN2cTZvUmRqLWwtc2NnYzFoUDNZczRqSEUxc1hjZlJfbGZZcTZOSXRzMWYybzhaQjFjWmZ1NkhLa3hrRGNqallzZlY0cHVkMmo3alZnb3dyb0ZpMzU0cVE",
     "CBMijgFBVV95cUxQb3NFdF9tNVJidGNhMjlXVVRPN1RIM29BeEZFWjhYOVlxTUFmRFBiNENkdlNuNXo1WDVYTGhfM0lfNGxfTHBUcHJ5VUg4QTBmU0xxNWNnQXlqWFNMaTBNbllWTnc2TU04ZGs3ZTBiQ2kzQzNhZTdhRzVuRDdDLVdaUWFpY2hnNzFSM3I2blB3",
-    "CBMirwFBVV95cUxNVVFqcS02ZHV5ZjlaeVFZdTlteEs3VjRqcVhQN3hxZHRQYjFjNUhKenE5MnVQR1J3R1d0cTA2NXJGTHZfcjU0RXM0T0dvSHFUUWItbktmV3JLMVFPaURkMzh5RUhCQmRyY3JUb3NNWGJqSlZvYXhBdzFfeU5hY3d6YVRMRkg5SWt4ZVJSVUpJZWxuYi0tZ2ExbXd5SGdmQzVWWnRvOE5JUm9HOXk4LUVV"
+    "CBMirwFBVV95cUxNVVFqcS02ZHV5ZjlaeVFZdTlteEs3VjRqcVhQN3hxZHRQYjFjNUhKenE5MnVQR1J3R1d0cTA2NXJGTHZfcjU0RXM0T0dvSHFUUWItbktmV3JLMVFPaURkMzh5RUhCQmRyY3JUb3NNWGJqSlZvYXhBdzFfeU5hY3d6YVRMRkg5SWt4ZVJSVUpJZWxuYi0tZ2ExbXd5SGdmQzVWWnRvOE5JUm9HOXk4LUVV",
+    "CBMirwFBVV95cUxPMUl1eTVsMHVkaVpUS0Y3SXVicEl6T09oUkNrNE91cWtqUi1qeXVKLVlRdEZyUE1uY0lQcmowckFWbjMzTVpreHYtMWVNbkRORXNuQ3FGdXViT3NZMjRCQWVYRFk3ekZyeWQzQnYyUW4yLVVBS0lMNkRsWXV0ZUxMNjdWMTVhNENtZVBvLW4wbEhVZ1c2WFBKM2FFay1xYjQ1Y2d6VnBKY0dtNWphUU5B"
   ],
   "https://www.scmp.com/rss/4/feed": [
     "https://www.scmp.com/news/china/science/article/3361704/why-use-rare-earths-rubber-production-chinese-scientists-are-engineering-tougher-tyres?utm_source=rss_feed",
