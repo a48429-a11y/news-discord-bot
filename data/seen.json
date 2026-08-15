@@ -604,10 +604,6 @@
     "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html"
   ],
   "http://feeds.bbci.co.uk/news/world/rss.xml": [
-    "https://www.bbc.co.uk/news/articles/cn4ndd8nr8lo#1",
-    "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o#0",
-    "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo#0",
-    "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo#0",
     "https://www.bbc.co.uk/news/articles/cqjxgx5y51lo#0",
     "https://www.bbc.co.uk/news/articles/c0ejdj22zq9o#0",
     "https://www.bbc.co.uk/news/articles/cn4n1e8159yo#0",
@@ -903,7 +899,11 @@
     "https://www.bbc.co.uk/news/articles/c9342wn2x27o#1",
     "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo#0",
     "https://www.bbc.co.uk/news/articles/c171yp5zdrxo#0",
-    "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo#1"
+    "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo#1",
+    "https://www.bbc.co.uk/news/articles/cd69ely319eo#0",
+    "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no#1",
+    "https://www.bbc.co.uk/news/articles/cd0xk82mrpyo#2",
+    "https://www.bbc.co.uk/news/articles/c74gdgly3g3o#2"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
     "CBMipAFBVV95cUxNQlVoRW0ydkdWaXlpMS1wa0RUUGg2N25NRlRZZFpMS3V5a1JwZVQ0RUZVUG1vVXE3NUxNck5TVHNuTl9YaUk3NDNSdXFmeHRuOHBJWlRJelhma1pXcjFHeDRXbWtIN3FCcEhCOVh3YnFPMDNabW1Db2kycGZRbHgxZXMyOW1faTdQWDdnNVczRUZfQVhmMWpuYWMyZ2xvMndOTlZJZQ",
@@ -1812,7 +1812,6 @@
     "CBMiugFBVV95cUxPWlpLT3lSZllVMDJMWUgzQU1sZGJNVFJoa21xZXd2OVNLMmlZdVpMdUdJNk5iUXg2dnczNzlJWW1rMGJHS0R3X24wQjRoYkF3SXUwZS10V1ZnLUE3UVNuZEhrenJSMGI3Y1F6aWZBMHVCdVBtb19ZTHZnbFJOVDRoWjdtQjlSZi1MVTZmbmpYeDdFcjFxa2h0N2pPaXhjLUNuT3ZxdUxsRUVtcF9TUUJIZ1ZuTlR2OUFYZHc"
   ],
   "https://en.yna.co.kr/RSS/news.xml": [
-    "https://en.yna.co.kr/view/AEN20260811003000315",
     "https://en.yna.co.kr/view/AEN20260811001451320",
     "https://en.yna.co.kr/view/AEN20260811002900315",
     "https://en.yna.co.kr/view/AEN20260811002600315",
@@ -2111,7 +2110,8 @@
     "https://en.yna.co.kr/view/AEN20260815002300320",
     "https://en.yna.co.kr/view/AEN20260815001452315",
     "https://en.yna.co.kr/view/AEN20260815002600320",
-    "https://en.yna.co.kr/view/AEN20260815002500315"
+    "https://en.yna.co.kr/view/AEN20260815002500315",
+    "https://en.yna.co.kr/view/AEN20260815000700320"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
     "https://www.aljazeera.com/?t=1786460211",
