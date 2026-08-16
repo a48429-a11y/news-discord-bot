@@ -906,7 +906,6 @@
     "https://www.bbc.co.uk/news/articles/cj4kk8kz271o#1"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
-    "CBMiswFBVV95cUxOU2ZWdEdSQzNIY2dJaXQxWUk3YjJZTGUza2xUYVFhejBPVnpReENiMmZnb3MtZFVPVTJFS0JRVGFfaVJNTUtVOUNwSFRuZkx3dEFzUzNMQThrNjF5UVpsNmlxLVdXZ2t0N0tubHJFTVFFR2RlUGNZcm5fMFhYUGZIVzdkQmd4TTk4NHJxZllNN3ZGRGhMeEtlelVXakdfN1QwMWVvUlNKVWg5c1U3akhYMHJQMA",
     "CBMiqAFBVV95cUxPSVZRakpVR1RtaEpUbG1NR0M2OFhYRzZxOV83bFh5WDVCLTVicGFDUkxrWUJmUTh4UTBCYjAxakQ2MVJSMVlMUDY2V05lMWVicFFyWS1ieGVEOEtRSlZ1Zzh1YlY5UTUwT3ptRlBKN2Z0N1AtSnJWM3J1OTJkZk5LYnhydGlYVC15a25uWWw4dkNBNlhLNERzMmhxX1FZS2lxZU9KY05iYXA",
     "CBMimwFBVV95cUxQY3ozYU5WMW5HQTZ6cTJUaWk1dWxtRmVmQXhFOTBxa25rWUpZYVZPTHBsaXRwcFE5d3hCX2NtLU42cWk5Nm9LVHhhaDN4VWFKSWl5cHBNQUI5MFQ5U2JKUHh4cVF3Zk1MeTRrMndfenkyZmJqQ2RyTWsxYkRGTXJJUk54UndCak5BQXVVdmZtdDRsbWhpaENHS1lsWQ",
     "CBMipAFBVV95cUxOMEU4bzR2R1UzMXJsa1hoMTRxczkzR0VGZlVhOF9wTjduVEowdTlGZnlrdmgxalZjelBySENVN2dNZTNsUWItZ2ZqSDZuODRnOHFXZzB2QmhfZWlGRWF2Q2g1M1hPdy1ad3FveDRENkptYkE2SWxSand4bDNLaHZacFZ5VDBMWE0tOFRyTFBXME8yQjJFNDRqZmZXZmg4bFlUYUpGSg",
@@ -1205,7 +1204,8 @@
     "CBMinwFBVV95cUxNOC1kd19wN1hwS2Z0YWlGNzZTMzVSNzZXNE1NZmtHM0RZNVRkVVYtQzJadEIwWmZFWVNkTHhqbDFvb2hTS3BaZTVEWU5UVi1aYlhYVlpnTXdMTmxuWDgyN0FmY08yVElKWmxQdml0NGJfUWwyNlJ1Y2x0QUJySk8ya09rYnlxdXBkYTIyaXJnUS1ldDJVUFNZUXpnU1E5TU0",
     "CBMioAFBVV95cUxNSGREOWZvM3dnTXVqZVJOelAtcjhKdWxfci1KSFRSTkc1cEJFTkZZWjU2OTFuZTdEZ2xQLTM5UmxpWE5EUl9MR0ZuY241R2M4OVdhR2JpV1NPRlJRbXdQbVh5dnNjOG1DSEJXWVZ5OE9vLWg1bkI3ZWZ1T2NtX3ZVbjF3RTVwSTJaUVFrYTRyY3pOY294clhWQldwMktpSXNa",
     "CBMioAFBVV95cUxOSTJuQ0hCM1lDUUZWQTd2N3AxQmdWZFpDSWFLSzhpT0s1Y1pTakg3eGRBZ0FrVzA4a2ktaE9EcEpVS1pJaGdDczVWUDVsZFEzYVQ2Zm56MU81b2hIRERFSkpmcThBZEhId19aSm1oTHE2OFRndVhJTkM2OWZabGZ5U21MejhTTTd0Zzg0UVB6eTJEX0t2QVV2RzJwWWU4OWVk",
-    "CBMiiwFBVV95cUxQLUV6T2ZubnZMWG5VQVI1QkhGdzdQTEpEelYxVk1fTWJSX2YzUHJnV1RpZmRMMkdlYUNpd25WQnN4Um5QQlFBZjk2SHVKdDMteUVDYmEzUjl2UTd4UndiMFFkQ1dfcXBvUThWdTQ0ODZxbTRuS0hITFhsNVdldkl2M04wc2U0THdXdGFr"
+    "CBMiiwFBVV95cUxQLUV6T2ZubnZMWG5VQVI1QkhGdzdQTEpEelYxVk1fTWJSX2YzUHJnV1RpZmRMMkdlYUNpd25WQnN4Um5QQlFBZjk2SHVKdDMteUVDYmEzUjl2UTd4UndiMFFkQ1dfcXBvUThWdTQ0ODZxbTRuS0hITFhsNVdldkl2M04wc2U0THdXdGFr",
+    "CBMisgFBVV95cUxOdkZfWnlndmVHeExqMHo3OTBSTG5mYTlxdjA4c3RqUWZuYWd4X2dvS0otT2pwQjBscHE3QTNkVWRzbWNOaXhBX2t2bmloeHlSV3dEXzdMZldBdFlDa2FMTHVJTzlnenQxbmNpMVdBR0t2YnNjamg2djlReHhCNkktY3lyVkNvclhxMllZQ3BreGxScXFVeFJlb3BxQXhrZkRmeWpTTmhud3Z2ZXQzeVVoSEd3"
   ],
   "https://www.scmp.com/rss/4/feed": [
     "https://www.scmp.com/news/china/military/article/3362153/china-cracks-down-sales-decommissioned-military-equipment-protect-plas-image?utm_source=rss_feed",
@@ -2114,8 +2114,6 @@
     "https://en.yna.co.kr/view/AEN20260816003400315"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1786568424",
-    "https://www.aljazeera.com/?t=1786568196",
     "https://www.aljazeera.com/?t=1786553810",
     "https://www.aljazeera.com/?t=1786568018",
     "https://www.aljazeera.com/?t=1786562270",
@@ -2413,7 +2411,9 @@
     "https://www.aljazeera.com/?t=1786895283",
     "https://www.aljazeera.com/?t=1786898816",
     "https://www.aljazeera.com/?t=1786886658",
-    "https://www.aljazeera.com/?t=1786877218"
+    "https://www.aljazeera.com/?t=1786877218",
+    "https://www.aljazeera.com/?t=1786902017",
+    "https://www.aljazeera.com/?t=1786891789"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
     "https://allafrica.com/stories/202607210049.html",
