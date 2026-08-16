@@ -604,8 +604,6 @@
     "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html"
   ],
   "http://feeds.bbci.co.uk/news/world/rss.xml": [
-    "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo#1",
-    "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o#1",
     "https://www.bbc.co.uk/news/articles/clylejzkkx4o#0",
     "https://www.bbc.co.uk/news/articles/cj63966j95yo#1",
     "https://www.bbc.co.uk/news/videos/c0ejrdzx98wo#3",
@@ -903,7 +901,9 @@
     "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo#1",
     "https://www.bbc.co.uk/news/videos/c8dnn05e90lo#3",
     "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo#0",
-    "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro#1"
+    "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro#1",
+    "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo#0",
+    "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo#1"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
     "CBMitAFBVV95cUxPOHA1VHp4QlRGdm1rZVR5clVHX2x5M1N0TDhzaE5WNjJFYTdsdXEzOFVFVW8tRHB6V0xIUk5NM3o2Mlljb1A0V3ZVLW1PTTNRZ1ViNjMxaFRTNUMtWjlScjN5LTdWVko0bFlZWGFkVHNIX1VOaFh2RTlWNVN0bHZsUlY3WEFUNXFheVppdWY3U1UtN2xzRUkyWjlUN2M0OXZLR2xQWGpKUE0ycmZXS2c2Vl9tSVU",
@@ -1510,7 +1510,6 @@
     "https://www.scmp.com/news/china/article/3364211/how-rough-and-crude-chinese-cartoon-ox-went-box-office-zero-hero?utm_source=rss_feed"
   ],
   "https://news.google.com/rss/search?q=site:euronews.com&hl=en-US&gl=US&ceid=US:en": [
-    "CBMiowFBVV95cUxNbVF3cHRaam9PWkI4UWc3Vk5zeVQtSUN6SmZRdTQtYU1LdmEtMG5hMVI0T1F4ZnJUemc2WnMyaUl5a2VrOFJZT25JZDF4NkRRaXNSVDhPWDdlRk9kXzU1a01NMTE4NXl5cWpMT1VOeVJIWTlGdkpDX0JkWUxydWR4Szh3bXh6ZWROR1NoUVBZZllZRFJwdU9DckZmeFJhRnB1bDFj",
     "CBMiiAFBVV95cUxPa0NteUtXTHFUeWk3T2JMb0pIX2NGVUlYNXNoMVRBNzAzTnpxSkU5aDBNMkE0R2VGdENuejdick9oRXMxZXdTZUpoY3BuN2RNY1NSc0RPZlRjZTVSZHRsM2ZpQ0h2TWMwNlVOelljOVFyVnprcnc0TFZKbHpLcloydTRqSkJZZTdt",
     "CBMipgFBVV95cUxPUTB5aW43SVdlR3docVIyeHNWb2FHb19xdkFYOTh3Yi1HTEhyRTUydE5STk5seVV1cm5Kbzhfb3pBTU9iTWV2YVhuLXh1TlV3LWVNNjYzaURNTkdwaUFRcU1yWUVnVGdKSGd5NGIwbUdzd3ZoVDNQcHpGVHBJbTZxZmtqODZSZE9RYktyT0dHcHVrZG10UUEta2paYkI5Y0YxaGpocnR3",
     "CBMixAFBVV95cUxPc3JxRGgzV2VQcDZOOGpaSm9MeURlRG1yNUNqMkZibkE0ZG1PR3VLb0lkdVU2OEZfZFNObmxpYmZVLUhNV3h2d3dRZk5uSGFRa190Ql9Ha1czTE9LUkxuMkt4b0RJMXpKWTdjRDRyYzFwUzU5U0U4RTRnT1M3MEdReko2bTJibHgzbkJtZjdKUU52SzhFTktIVlhIdFNvQmhsQW1qajZ1dWc3Q2RkRGlQWFBVb0loWFFiaTlRX0tZUkRia0Ex",
@@ -1809,7 +1808,8 @@
     "CBMisgFBVV95cUxQVjRhRThYZWQycjVsNkxDYkVtQzRGQTcyaEhaQ2JUUGM3bThnY1pHT1RUOVowSGx5OTh4THBqMDNfQmtxT05BSTdSWUNoX1lUck54M05sbFg3LWRtZXo3YWlhdThiRkRBTzBKVGJqMjM1d1BRQlgzMTk5czdIRENwVVVuQ0hFR3hwLXpVQWtUaTNSd29mVUpBLVFsUVY1eG8yeHdhazJOU1lWUjFfZFkxeXVn",
     "CBMipwFBVV95cUxORnNYU2k1Yjk1a2d3VXlUbU95MUV5aWVmZ3I5MlpQNmpoX2xqYUk0Q2s0RXhDcXdDOWMzRTNzTnhKSGxVVUpjTlpWcTdEbUhSdnZuNWV2Y3VhTWFaTm9fUTIwX2pld2hRaFhxcGpGUE5pRm52ZnpQd0w1UUNKMWFzNlV6VzVTQ1RHTHZhYXl2RXd1TEV0UENPNUR5b005NzFHZC1VNi1CUQ",
     "CBMizwFBVV95cUxPUndlTDFFX09mMlcxZ3hTdDRIZHZXbUx3WTNvcm9iMWZFVFJqcS1XWmNQcFJva2NLMlBkYjlyWm9rWTBOczB0b3ZqXzNRWmtQUkUtMEx1Ri1nOUhoN3RCSUtxQ3FrVGkxejBjZkJXaVJQUTBKYlBLOTZ4MEY0bDRxYUdIZnozM2g2QlNIS3pPLTlSRmhLUERXaXAxQzFCZUNmYW5yazI3XzZYYnMzcE9jVHRCbktudjdHb0JfZ0F3Z2NzZ3B5ZUp4U2xrWFU0TDA",
-    "CBMipwFBVV95cUxQWVQ3UjlSN2d1OUtwd2hTY2tHLWp2dVdyeTNJTXhwc2M5M3psWnd0dEM4SENLYk1ycWl4NldUdDBHeFZ4bWpuWnVVM0MzMkhrYUI1OXQ3b3J5MGRsQlpaYTJLVHA5Y2VzNUx6UTdnUVFiVVBiQ0QxMWktaFJDVXBlTnZFeVRKb3l0VzhSUWZ5UlVSSXFBSlpKT0tycW9OM19zWHgydVVORQ"
+    "CBMipwFBVV95cUxQWVQ3UjlSN2d1OUtwd2hTY2tHLWp2dVdyeTNJTXhwc2M5M3psWnd0dEM4SENLYk1ycWl4NldUdDBHeFZ4bWpuWnVVM0MzMkhrYUI1OXQ3b3J5MGRsQlpaYTJLVHA5Y2VzNUx6UTdnUVFiVVBiQ0QxMWktaFJDVXBlTnZFeVRKb3l0VzhSUWZ5UlVSSXFBSlpKT0tycW9OM19zWHgydVVORQ",
+    "CBMizAFBVV95cUxPMFplVkF1NGVwQk1fcDY5VVE3SXVLRWFuWDZ6bUwybHdBbnB6NkZUMnVoVUFPQXZENXJTUGlrOFV2dlhlNnd2NUtyUWM2TFFmTW0yRHpXSVRGdE1KWGp2RjBwVHJSeUQzYzRyVzh3NndOMTF6NXh2VjVlcVJWNGwzQnNfcnVFbDR1WG9QS2daeDZRTzNPMm5ycVA0UkpJN0k3dEpFTGFlZXNZd1N2QVBoU0xfUXlsRkd0c3ZzcUtfQ3RqbmgtR2dhZVZUdE8"
   ],
   "https://en.yna.co.kr/RSS/news.xml": [
     "https://en.yna.co.kr/view/AEN20260811006000320",
