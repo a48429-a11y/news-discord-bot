@@ -1,7 +1,5 @@
 {
   "https://news.google.com/rss/search?q=site:reuters.com&hl=ja&gl=JP&ceid=JP:ja": [
-    "CBMieEFVX3lxTFBabld1UDQyTVRjdnBQRWx5RFFuQW92WmtndXYxYWxYSlI1MHVZMUxudjdmaWZqVUZOaGJjWGgwZ3B0RVNEaTlCODRJTUhmSEoxZTNqNTlQTnA1RmZ4eUNhNVZSaElBYnl0d1A1djBwcE5XcHVkY2lpNw",
-    "CBMieEFVX3lxTE9CWEpqMXJjdlUtMnhSZHBra1A5bDlFVG1NN1Q1ZXJNZlRhNnpkclF1YXBfRFVfY05nTVJ1a04yazJYTDMxTXhIc3BBZ3B1eURTQzJjdmwyYXB6azdwNlk1d0hGWlUydmZwdWNLVVg5R05XeFNTOEt5Ug",
     "CBMiekFVX3lxTE1ZRWJDU1M1TVhzSzEtSEtCRWZQM1h4cXRjcmYtbHlNWEFVRHpsQklIdDN2Z3lGcUtxMWp6Y05MNWFMVUhlSXVTemNhTUJ0VkRVUTlXQWxnMjg4cVF3SjdENDNKN0RITEhaMENIaDE1ejFtVTlvRTVCNy1R",
     "CBMieEFVX3lxTE1vRXdtd0FvVVZnTHZLRnNLSF9seHFzTlZPbFZjNjJOQk5GYjlZaXdoUDIyWEJISkRMOUZFV0V4dnMyQ3FhNkpabWl2S292SG5wTkpadmVDekhkS3hBaE9BcThOQmV4WGpPOVBoM2pRcVpKUlBTNWkzRw",
     "CBMidEFVX3lxTE4zNk9ybFpEWjFCSjlrS3IwMXhtTVR6c3lCN0dhLUFnSEdGM2dyZEdLR3g2T0RyaUk4WW9KaGYzTW00X0xXRDQ0dzNVZzFUSkl5ZFRDWDg2d2RETm1GRlYyNDljc3NUaUs4bDNsQU5Td1FjMTV3",
@@ -299,7 +297,9 @@
     "CBMifkFVX3lxTE5mX0k3aEF6VTZWdmFCYTJYRHZ0RFF4czdKaHFlWjJMSzdOUlNqOWxEU2lhUzlrVlhuaE9OWTY0R2pkdGVrZF84bzFOdGl5YjBRQy15WWdUc0NpNjFHTDM1Q3FyWHd6QW1BZWVYWEF6bFhySGRkMnJpQl9GZkktQQ",
     "CBMiggFBVV95cUxPeFJOa2JXMENTd3hrTGRNV18tb253UXdieXdjYzN6ZXdFWXNDWkU4R1JHUmFQaGZDWXdHMkptUDJsUjAwMUttYTRHUmNTTng1a1pTTkgzOW9ISmF0Tmd2OUhyNzZBcEtMMUxncmg4V0w1SVdZMWcwWUw3amRnM2RDMXBR",
     "CBMifkFVX3lxTE43c2EwZUxFOTBaX2ZIWjhzZjFQcTU3MlNvOUFuWXItVWRiS21SVDNHYmNuTy14V0hkaU1KbGdaRDNPbUEzb1pmeDZwc28xWFQwbXpLWEt5NmlONldydnNxU0g5Zjl3bjNZSVRmVVFaZG44MTBLNFZEN0lzREM5Zw",
-    "CBMiekFVX3lxTFByejc2MjJndy14Z2loSkJ2Q0Q5dUxmVzd5NUpMSjZvaTQydnlZQXhESlFYbXBENng4NzZERmZsY21HY0oydUpQdG9Ca0p3VkpSbGtwUXIxeXN4UHdvSnhFMVlpbVg3NlItOEhZY1ZidVdjTW9xWGkxUmRR"
+    "CBMiekFVX3lxTFByejc2MjJndy14Z2loSkJ2Q0Q5dUxmVzd5NUpMSjZvaTQydnlZQXhESlFYbXBENng4NzZERmZsY21HY0oydUpQdG9Ca0p3VkpSbGtwUXIxeXN4UHdvSnhFMVlpbVg3NlItOEhZY1ZidVdjTW9xWGkxUmRR",
+    "CBMieEFVX3lxTE1acEhaV3VoZVRmelBMeFFEMWJEenNIelpxV05MaDVWN3ZRcFhHLU9tZ2JZYWtLeC1jekZLbHQ0TFJVOGdJaGE5Wm5pTDR5RUFVQWZISmNrUVlER3I4RFl3a3FEUEFQUkFXMnpqVjFoeEluNkVsZ2tOeA",
+    "CBMiekFVX3lxTE1IajVfb25MLWU0MDdmOEJZd3YyRkFpMW5QcDJyRVdmTmNuZWJ2Q3FFa2tXazEwMnlPQ1otWm8yUy1wOWozOVEwaGdfS0xpTHVNWlpYMHE2bXRRTTVsUjB3MFFMT0pfUzM2aElwaF9IbFBzVUVJQlcxMGNn"
   ],
   "https://www3.nhk.or.jp/rss/news/cat0.xml": [
     "http://www3.nhk.or.jp/news/html/20260724/k10015185791000.html",
@@ -2771,7 +2771,8 @@
     "https://en.mercopress.com/2026/08/13/the-main-land-crossing-between-argentina-and-chile-passes-its-winter-closure-record?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss",
     "https://en.mercopress.com/2026/08/13/colombia-faces-reconstruction-with-96-of-the-year-s-debt-quota-already-used?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss",
     "https://en.mercopress.com/2026/08/14/peru-rehearses-its-response-to-a-magnitude-8.8-quake-off-lima-and-callao?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss",
-    "https://en.mercopress.com/2026/08/15/colombia-de-la-espriella-calls-the-situation-in-pereira-apocalyptic-after-touring-the-city?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss"
+    "https://en.mercopress.com/2026/08/15/colombia-de-la-espriella-calls-the-situation-in-pereira-apocalyptic-after-touring-the-city?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss",
+    "https://en.mercopress.com/2026/08/16/colombia-asks-washington-to-suspend-12.5-tariffs-over-the-earthquake-emergency?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss"
   ],
   "https://www.abc.net.au/news/feed/2942460/rss.xml": [
     "https://www.abc.net.au/news/2026-07-25/commonwealth-games-glasgow-day-one-quick-hits/106953018",
