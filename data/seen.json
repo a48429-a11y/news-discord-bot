@@ -906,8 +906,6 @@
     "https://www.bbc.co.uk/news/articles/c0l5583903yo#1"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
-    "CBMiowFBVV95cUxQMWJ3Rmo5ZUFmak53NEMwWVpmN2ZVQnBpaW82WVl1UjFTYWsxY0gtUllWRlRzSlh4ZEN3Nm1MUnZwUm56RmRhT2VmZ2M2enE3Q0xxWHRSaUJQTFhZYmpqRGc1WmJremZIYW5mU2hvMjhxS3Bha0hZbEE5QTV2bnhrVjB0eXNab0xpMVpiUTdBSUNZSnBfbWZ6S2loOU00R2pIaTZJ",
-    "CBMingFBVV95cUxPYnFxLWl1TmJSY0t6R25JNHBBSjNOWEpjOERRUWhfSGVwRXdhWnBVMVFKczhFd1poVWFDWW5PTHczWUFZajRraVVQOFcyMC1sOGJ6WVBWdmJDTlloLWlzSzMxWWFPbEZJeUlFNTVPMVhZaGEwTzBidEpXd3FDal9Xb1ppME1DMEdFVGxBS3JNUU1raWN1VkNsUThUWE5Fdw",
     "CBMikAFBVV95cUxQRXhZRWFUSkhWMDBoeW5Yd2YzSUlhVXNFb2F4eU14dUlwRzl1Q0JFQ2lNVS0ycHZQRy1TSjJvdkR2aUdDejhCYUgwWVItd3lSaHUySFpEZUtDRUNGMVRIQnpTX2FDTV9wMk5aN181a0phVXFFNmFRYzVnN3RTa1A4YTF3YzdkVGw4eHJkVFZGNHk",
     "CBMinwFBVV95cUxPQlhmbU96ck1xdDlnd0lONHdDZGRYSTlVa3M2RDVTZ3RPLVAtX05lQzhOdXdxR3BpSmdFVDlDRzQzeWdBRU0yU0RBSjRQRi1UV0N4RllDeHlUUXVyeWpxTDhpVFZMS2VGZ3NRbk9MckVvdl9yaUt3SmpBMU5BNmN0djk1aFJjbHdyc0VUdWxxM0NOb3dQZ3o3ODNudUh0QXc",
     "CBMikwFBVV95cUxNRHZWdENHOFlLNEdUbFU0T3dGWklNRG1qOXdLaHZUN0x5MzNkSExOd3M4cFNEZFhQMENUTHhRQXlsQVBIdks2WkN0aG4tMkE3SVFXVFdrcmdkVjU3WGNTYTBROGFtNGk0SnhrSUlqWFROZllIa1Jqc3hrZjZ5aktVU0I4SUZkcVlKejlqclZqcXhoenc",
@@ -1205,7 +1203,9 @@
     "CBMisAFBVV95cUxQZkM4WG9NMkF4Y3Iyc0U1dEZtclh2bTQ1LXg0X2ExRTJYdG10NE1ZdzhaX0N3UE43U0ttdDJ6eldIZThCWkZnNHY5RW43MTNscFFrMVFjWEFLRWhNeVViN3JIeHJVeEU5cnljOE5SV0c5UkZNV2tNa3RBRG0yRjNCT1d4XzFiaDZEcFIzUVgwTWREdzcwVjhoTWplWDBTbEk4ejJUUVN5S1Foay1yR2ZFRw",
     "CBMiowFBVV95cUxPbUp3OW5Xa2o2US1WWENZVGRsLXFMQi1FQW9Kall0aUllUEFUbjFPZW1CMzdxWnEzN25FVlppRmY0V1JMSXFCdUhtRFlUSGVLUWZBYktFTE9Jb1JSbEdNLVByMnh6blFuVG9QR1lhNVV1VEJoLVp2M0h1N0hFSlVZQXpZVmVEMWlWUlBKUkh0cWpYZWhhTFlLVktuaWRoTEppSmFV",
     "CBMirwFBVV95cUxPODF3bVBFSlJyeXI5bVFaUnBRT1Y3VHh5Q3dmdlBWOVUtNm1SNzN4bEhEWU9TNWFvcnFWcnhyRjdwTWFmMmtpeW9mbFZ4WWIxaE5Obm96Nm5RbEZ0U29ZRmQ2bHpkcVFPQmgyU3E4MFQxcDdsZEFXWlpiZ3hvY1ZxMFdVdzI1LVAyUElFNVdtS0tsQ3J2LWFDZ3F4UGN6a1ZoblFjclhEQXpOWTVwZ2Rj",
-    "CBMitgFBVV95cUxQcDRiUzJHaUNXTnFMWU9OY0FQbGttV1YxdnFTMlBDZGd2ZThRcFlaWnZaTTcxV215SUxEelRudzU3UUIxS0JxU1BLOUhvemJMc3Q2T2N0YmFTcERyNGx1WTZldGNvYmR4VGd1N2MzSXhUSWloUXlsREZ0bHI3Tm9YVS1kNjlkRnRRdUZ6UXZ2ckczMmJfMFJjeUQtMDliMEoydlBpSnVZUm1VT0hqYTJWYUNlLV92QQ"
+    "CBMitgFBVV95cUxQcDRiUzJHaUNXTnFMWU9OY0FQbGttV1YxdnFTMlBDZGd2ZThRcFlaWnZaTTcxV215SUxEelRudzU3UUIxS0JxU1BLOUhvemJMc3Q2T2N0YmFTcERyNGx1WTZldGNvYmR4VGd1N2MzSXhUSWloUXlsREZ0bHI3Tm9YVS1kNjlkRnRRdUZ6UXZ2ckczMmJfMFJjeUQtMDliMEoydlBpSnVZUm1VT0hqYTJWYUNlLV92QQ",
+    "CBMiogFBVV95cUxPX000N2RLX0NtNkFUdm5iZmJXTVF2RmFDOGRmQ0I5SnRVWnMzWncxNlBTTy1mSU5FWVdXMF9qWF9HZmxYRXdBVDNjMlZBRUswU1BNV2s0LXByVk9oZ1pQMnBRTnhaUDloMEtmRmhvQkpPOWxJRFBxNkpHMG1EWHlKal9GeTdxdXlKUElvNXdLNTA1WUg0ZVhVUXNGVU1HVU5icWc",
+    "CBMinAFBVV95cUxOTFpiZXpQUGQ2V2RoaE1zUkp2S3lDYlhJVC1RektxbWRfR1hrQkdfVV8yamlQRkxLVXhIOEdqQUcwSElXaDVTVk1CSWVHWGxmMjFsU1FPRlN2UWZmdzlmdVdyaDBGem1XaDhXZ2NHV0RHYTlscDJDd3JEWWpiOXk2QklWMmZvSWJjSUVzVEZGX3VVM0prNlpUSTdnNWs"
   ],
   "https://www.scmp.com/rss/4/feed": [
     "https://www.scmp.com/news/china/article/3362056/1976-earthquake-chinas-tangshan-kills-over-240000-people-scmp-archive?utm_source=rss_feed",
@@ -1812,7 +1812,6 @@
     "CBMiqAFBVV95cUxORUVrbGpuRkJoS1dpbjYzTVZTWFZseklPSG9oMUQ5RlpWUTVBRVg3cWJDUGhfMVU4bWUwLWh3bUVJMXFjZWsycUtleEFQbHRmcTNlM1AwSXBYNDU3ZWx0R1BpNlJsTFhWTjhSWmJuMXQ2dkc1OG9xclV4cjl3RnlrRkxHU2Rnb0ZKN0tLWkczVVJ6X3FCcExnUjB0ODZKSW9PaUJ1YTJNZ0s"
   ],
   "https://en.yna.co.kr/RSS/news.xml": [
-    "https://en.yna.co.kr/view/AEN20260811007000315",
     "https://en.yna.co.kr/view/AEN20260811007200315",
     "https://en.yna.co.kr/view/AEN20260811006800315",
     "https://en.yna.co.kr/view/AEN20260811006200320",
@@ -2111,10 +2110,10 @@
     "https://en.yna.co.kr/view/AEN20260816001800320",
     "https://en.yna.co.kr/view/AEN20260816002600315",
     "https://en.yna.co.kr/view/AEN20260816002700315",
-    "https://en.yna.co.kr/view/AEN20260816002800315"
+    "https://en.yna.co.kr/view/AEN20260816002800315",
+    "https://en.yna.co.kr/view/AEN20260816002900315"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1786547758",
     "https://www.aljazeera.com/?t=1786534584",
     "https://www.aljazeera.com/?t=1786540996",
     "https://www.aljazeera.com/?t=1786465270",
@@ -2413,7 +2412,8 @@
     "https://www.aljazeera.com/?t=1786858482",
     "https://www.aljazeera.com/?t=1786865031",
     "https://www.aljazeera.com/?t=1786872127",
-    "https://www.aljazeera.com/?t=1786870622"
+    "https://www.aljazeera.com/?t=1786870622",
+    "https://www.aljazeera.com/?t=1786870375"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
     "https://allafrica.com/stories/202607210049.html",
