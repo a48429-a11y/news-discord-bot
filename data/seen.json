@@ -1,6 +1,5 @@
 {
   "https://news.google.com/rss/search?q=site:reuters.com&hl=ja&gl=JP&ceid=JP:ja": [
-    "CBMieEFVX3lxTE9JU0xMQVA5MmFObUR3N1RKbkg5a2Jackx3VEFYSGUzMmFrdVJCVERMT3BJNHJ0dVRKU3Q4dmU0eUdaTGNlaVVWeG9zbWFyY0g5RHhrSlZHU2l1MzJFZFNtbG1BUnBsS3BzMWlfbV90N0RjczEzLXRTWQ",
     "CBMigAFBVV95cUxNdV9DTlI5NFBBRVY0SEN1VHlERTdtOThEaGdkV2VzT09fMFNWMnZHZUxob3llTWs1MU1HSEk0Si1zQmdGaEtJT0h1TmlRRHlGeWtPMUd5czVVNGFHbnAzUU1wQVliSWVPZE03azB6M2c5R3ViZk9hOTJjNkY5ak1zSA",
     "CBMigAFBVV95cUxQVU1NS3VSVTI5T3E0Tl82YTlsN0E5eXFwTGdhTmYxcU9oV055MGNuY2Q2TFg3NTRqdTZENU9PWU5kcmJNNnF1cDJKMTF5cEpXeUJLcUtNM2VJOGVqQ1BHRzFIdVJpQkZvY1UxV3g4ZXNrUGRDNnNOUmVOanU4bDJ3bg",
     "CBMiekFVX3lxTE9UVll0LXl1YTIwMmkzYjJEMVdILUFfcERBUFhJU2lZQ2pFOEdrdzNKMEJrZERsV0YzXy1McGpHVU4tYmgzTWwtYlZvVk9wMEFGNFV3X01Ya000aVA0RnlZamp4Mmo3cGVUTGZfZDFsSC1pamxQTlNpZXJn",
@@ -299,7 +298,8 @@
     "CBMifkFVX3lxTE9PU1lSalZEaGxUWG9FMGRkRWNNeDN2SFZBa05kQ2ZjYjJHNTM1bjltUHFlWkRDalhqMU5mZlJad0dBNmFUNGNpMnJUT3g1bVNpQVRoYTZoanR6X3V6ajJadnhtUEx5M294WmpJUklYTHNwRkdMS3Z1LUpRaU9BUQ",
     "CBMiggFBVV95cUxQcFFqNGFiN2pkaUJnZFdNZGlYN1NUTzRxSDk0V2pDUTZWaWJHZFJ6eE1adG5RR3ZsNmJtYjdobDFtUmJ0UmlnNElDMjE4R05uMkRQVm9kV1dYOFNCX1J2Uy1kcTAtNzg3bklWcEVJLVhCQ1JzZ2RtNHJqRjQyTVpOeWl3",
     "CBMidkFVX3lxTE9oUVl3WEY5N0RReTNXZkxNcVVrdEFFRWZSblVRMm5pRm5IRXMyaWhNWXhjYVRWRnF2eTZ1eU12Vk1LRFZ6Tl94Tlh0MXdGV21VTHlsUXk2TWlIUU5wSjQ1Z0RybG1TVGV1OGdzazBjRWdQOFN5YUE",
-    "CBMieEFVX3lxTE0tLUZHWFJ0Tzl2Z00wRzh5M1dDN1hQaGFvQjFyTWN0eTRSUGhQVUdvc3VibTZuT0hrSF93c2VCS2RhclU1U2QxeFNrZUJReEdnYm9vYk5WNkNLRWN5b1MtY0dCVllmbXdvMGNxamF1ZmNKUnBEY2tPLQ"
+    "CBMieEFVX3lxTE0tLUZHWFJ0Tzl2Z00wRzh5M1dDN1hQaGFvQjFyTWN0eTRSUGhQVUdvc3VibTZuT0hrSF93c2VCS2RhclU1U2QxeFNrZUJReEdnYm9vYk5WNkNLRWN5b1MtY0dCVllmbXdvMGNxamF1ZmNKUnBEY2tPLQ",
+    "CBMiggFBVV95cUxQaTlsbWFsVWl2ODRNLXB5ckVVd0F1RDhwbC12MWgycnp3NXl6d1p4UkZLYXFMN0JfOUM3dmxycTZmUWE1Ti1yNEhQQ3g4LTZ0dWYzMDBpRVhtRm9zZFdDMVpQd2xvUmNCWldXZGZ1Q0JHM2pfT3NyYnc2aTBLSXBicmRR"
   ],
   "https://www3.nhk.or.jp/rss/news/cat0.xml": [
     "http://www3.nhk.or.jp/news/html/20260724/k10015185791000.html",
@@ -604,8 +604,6 @@
     "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html"
   ],
   "http://feeds.bbci.co.uk/news/world/rss.xml": [
-    "https://www.bbc.co.uk/news/articles/c07rxz03034o#0",
-    "https://www.bbc.co.uk/news/articles/cy8ey458pv5o#1",
     "https://www.bbc.co.uk/news/articles/c4g305dz0y9o#1",
     "https://www.bbc.co.uk/news/articles/cz7dy1l3e77o#1",
     "https://www.bbc.co.uk/news/articles/cn9nz5qwl8jo#2",
@@ -903,7 +901,9 @@
     "https://www.bbc.co.uk/news/articles/c77gg5vn44yo#0",
     "https://www.bbc.co.uk/news/articles/ckg4424zd7go#1",
     "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o#0",
-    "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo#1"
+    "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo#1",
+    "https://www.bbc.co.uk/news/articles/ceqeeendz42o#0",
+    "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo#1"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
     "CBMinwFBVV95cUxNRkdnNzFkUkJ2VGx1cE1kSGoteEtCd2dFR25Dc2hEYVdfdDNna2ZnQ0x3MmtOaVJlTTZBMk5fWXl6NmZEUzVoeHhySUZvOXlzWGRPZEVqVDNPbjZmbVVlVHBmcWF1Q1R4cFRCNGEtWlFxV1BMRmhQTVNVX0N5UERaS3NDUzQ0M0lkYjJqdzJlQ2ttUDJIVlhDR2tjdm9USDQ",
@@ -2775,7 +2775,6 @@
     "https://en.mercopress.com/2026/08/16/colombia-asks-washington-to-suspend-12.5-tariffs-over-the-earthquake-emergency?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss"
   ],
   "https://www.abc.net.au/news/feed/2942460/rss.xml": [
-    "https://www.abc.net.au/news/2026-07-25/tour-de-france-stage-19-tadej-pogacar-wins-in-stunning-surge/106957688",
     "https://www.abc.net.au/news/2026-07-26/australia-diamonds-tonga-commonwealth-games-netball-uneeq-palavi/106958488",
     "https://www.abc.net.au/news/2026-07-26/commonwealth-games-leigh-hoffman-matthew-richardson-team-sprint/106958932",
     "https://www.abc.net.au/news/2026-07-25/commonwealth-games-day-two-live-blog/106957766",
@@ -3074,6 +3073,7 @@
     "https://www.abc.net.au/news/2026-08-16/quick-hits-australia-vs-bangladesh-day-four/107043378",
     "https://www.abc.net.au/news/2026-08-16/australia-bangladesh-darwin-defeat-problems/107037438",
     "https://www.abc.net.au/news/2026-08-17/formula-1-returns-for-dutch-grand-prix-after-mid-year-break/107000532",
-    "https://www.abc.net.au/news/2026-08-17/lani-pallister-beats-katie-ledecky-in-800m-at-pan-pacs/107044782"
+    "https://www.abc.net.au/news/2026-08-17/lani-pallister-beats-katie-ledecky-in-800m-at-pan-pacs/107044782",
+    "https://www.abc.net.au/news/2026-08-17/cameron-green-extended-run-after-bangladesh-test-century/107044844"
   ]
 }
