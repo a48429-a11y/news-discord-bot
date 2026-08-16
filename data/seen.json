@@ -1,6 +1,5 @@
 {
   "https://news.google.com/rss/search?q=site:reuters.com&hl=ja&gl=JP&ceid=JP:ja": [
-    "CBMigAFBVV95cUxQVU1NS3VSVTI5T3E0Tl82YTlsN0E5eXFwTGdhTmYxcU9oV055MGNuY2Q2TFg3NTRqdTZENU9PWU5kcmJNNnF1cDJKMTF5cEpXeUJLcUtNM2VJOGVqQ1BHRzFIdVJpQkZvY1UxV3g4ZXNrUGRDNnNOUmVOanU4bDJ3bg",
     "CBMiekFVX3lxTE9UVll0LXl1YTIwMmkzYjJEMVdILUFfcERBUFhJU2lZQ2pFOEdrdzNKMEJrZERsV0YzXy1McGpHVU4tYmgzTWwtYlZvVk9wMEFGNFV3X01Ya000aVA0RnlZamp4Mmo3cGVUTGZfZDFsSC1pamxQTlNpZXJn",
     "CBMigAFBVV95cUxNeVRhcGtZWmZOem1oYWRJRnlCMlhJUmNMRl83SmpzSFB3UHJxVWI0T0Q4NW9FV3A4SVN6SmZQV0pWcGJkMTJXalIzY2ExZ3BKNklCMTgwUlRzY0NvVncwVmdmRGZXRVlUSHl2VlJYbGJ3NVVHU0NoXy1sQllFU2ZyVA",
     "CBMidkFVX3lxTE1aQ0lWTHZ5eWtRYU5xcGhPZnIxd2tIQnhtNHE0RWstckdWcVlfLUVOZERqc0xlZGNYXzZ6RU01ZmZFcnRjSmp4ZFVKXzFSdXNyNXVtNHJEd0NXdlBiNlFFOXE2clJpOFE5amFNcUtXSTZsdUJvQWc",
@@ -299,7 +298,8 @@
     "CBMidkFVX3lxTE9oUVl3WEY5N0RReTNXZkxNcVVrdEFFRWZSblVRMm5pRm5IRXMyaWhNWXhjYVRWRnF2eTZ1eU12Vk1LRFZ6Tl94Tlh0MXdGV21VTHlsUXk2TWlIUU5wSjQ1Z0RybG1TVGV1OGdzazBjRWdQOFN5YUE",
     "CBMieEFVX3lxTE0tLUZHWFJ0Tzl2Z00wRzh5M1dDN1hQaGFvQjFyTWN0eTRSUGhQVUdvc3VibTZuT0hrSF93c2VCS2RhclU1U2QxeFNrZUJReEdnYm9vYk5WNkNLRWN5b1MtY0dCVllmbXdvMGNxamF1ZmNKUnBEY2tPLQ",
     "CBMiggFBVV95cUxQaTlsbWFsVWl2ODRNLXB5ckVVd0F1RDhwbC12MWgycnp3NXl6d1p4UkZLYXFMN0JfOUM3dmxycTZmUWE1Ti1yNEhQQ3g4LTZ0dWYzMDBpRVhtRm9zZFdDMVpQd2xvUmNCWldXZGZ1Q0JHM2pfT3NyYnc2aTBLSXBicmRR",
-    "CBMiekFVX3lxTFB1dDNlbmdPYlhwYnNuY3NzcjBFWGtZLTJ0cmZZZDVwb09Ta2Z2Wm92bzVkRFZ2YjJRSHBnamJUaHlJN2FJSE1POXhqUW9DSzF2NV95SHRUYXBlam9XTDh4Z2VUVnZjN0E0UjBTcU04QlhRQi1LZUpCcmhn"
+    "CBMiekFVX3lxTFB1dDNlbmdPYlhwYnNuY3NzcjBFWGtZLTJ0cmZZZDVwb09Ta2Z2Wm92bzVkRFZ2YjJRSHBnamJUaHlJN2FJSE1POXhqUW9DSzF2NV95SHRUYXBlam9XTDh4Z2VUVnZjN0E0UjBTcU04QlhRQi1LZUpCcmhn",
+    "CBMieEFVX3lxTE1faXNxamhqc1dJVWxyb0RNUlcxbVl1NGFPaTB5RHJVVHJrSV9JNTZRWF95bko2MThBd0haWnE0THpRZFd1WjA3cTRLWTI0MDNtOG1xVGxMemlnWUZkX1hEbm53eHRNeGE2Vm93Yi1pSDhiNXc4UmdJLQ"
   ],
   "https://www3.nhk.or.jp/rss/news/cat0.xml": [
     "http://www3.nhk.or.jp/news/html/20260724/k10015185791000.html",
@@ -604,7 +604,6 @@
     "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html"
   ],
   "http://feeds.bbci.co.uk/news/world/rss.xml": [
-    "https://www.bbc.co.uk/news/articles/c4g305dz0y9o#1",
     "https://www.bbc.co.uk/news/articles/cz7dy1l3e77o#1",
     "https://www.bbc.co.uk/news/articles/cn9nz5qwl8jo#2",
     "https://www.bbc.co.uk/news/videos/c70glx1ww78o#3",
@@ -903,7 +902,8 @@
     "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o#0",
     "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo#1",
     "https://www.bbc.co.uk/news/articles/ceqeeendz42o#0",
-    "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo#1"
+    "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo#1",
+    "https://www.bbc.co.uk/news/articles/cevml4701emo#2"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
     "CBMilwFBVV95cUxObXlPZGdiS3BzbUNpUTFtVUNEUGxvbndpanNQbi16bFFmTy1MOUVCNnAwd3A0WXZmZ2ZkSlZiYnhlSGt4TWdRcjIzWExnc29BZmlLR09Jb2ZDZm9Va1FtWE1mMVdxUUxKSUNIamxOM1YwZFJOS0FBaTlpV2JxX2pRRk9JMUpwYTJydG41aTk3cWc2N2VMamlF",
@@ -1812,7 +1812,6 @@
     "CBMivgFBVV95cUxPd3YzTWpjRWRuaDBUZFpUUl9XLVd6WXBtanlEeVhwY3UyZFhCNm5LMFJGQ2FsdFhkVEZwaTNmcGFMRzc5eGx6VUJoMlh1SGpFdHdoVkd5N09XWHZYUV9OYTJ4OEN1LUV3amNrakM3VzQ4akpxeW1ic0k1eWwtdVR5QXhpOEhiQUtRNEJvUy05eWlDaFBlSXA2b3B4NHAtcXlXdkhTVktwTGI4ZUE1MXc5dkJNZ0pvQ09mZWIzRUlR"
   ],
   "https://en.yna.co.kr/RSS/news.xml": [
-    "https://en.yna.co.kr/view/AEN20260811006000320",
     "https://en.yna.co.kr/view/AEN20260811006900320",
     "https://en.yna.co.kr/view/AEN20260811006700315",
     "https://en.yna.co.kr/view/AEN20260811005151320",
@@ -2111,7 +2110,8 @@
     "https://en.yna.co.kr/view/AEN20260816002900315",
     "https://en.yna.co.kr/view/AEN20260816003300315",
     "https://en.yna.co.kr/view/AEN20260816001751315",
-    "https://en.yna.co.kr/view/AEN20260816003400315"
+    "https://en.yna.co.kr/view/AEN20260816003400315",
+    "https://en.yna.co.kr/view/AEN20260817000200315"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
     "https://www.aljazeera.com/?t=1786536174",
