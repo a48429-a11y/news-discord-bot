@@ -604,8 +604,6 @@
     "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html"
   ],
   "http://feeds.bbci.co.uk/news/world/rss.xml": [
-    "https://www.bbc.co.uk/news/articles/clylejzkkx4o#0",
-    "https://www.bbc.co.uk/news/articles/cj63966j95yo#1",
     "https://www.bbc.co.uk/news/videos/c0ejrdzx98wo#3",
     "https://www.bbc.co.uk/news/articles/cdewxgw69exo#0",
     "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo#1",
@@ -903,10 +901,11 @@
     "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo#0",
     "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro#1",
     "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo#0",
-    "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo#1"
+    "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo#1",
+    "https://www.bbc.co.uk/news/articles/c87nnwlpe5no#0",
+    "https://www.bbc.co.uk/news/articles/cj4kk8kz271o#1"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
-    "CBMisAFBVV95cUxOZDRVbmJYT1dkcjVDVFcxSUd1N3NQX05HcXVpR0lRRWo4RDVCTGpLTG5aVDRnSk5Yc3NoRi1VaENibDRldWRWZGo2WlFtdXBGZUdNV2RHVl9XWTEzTDIzWEwxNktuNEtUc09uY1FROTNyTWJ4LUo2VFhkcG50UlVaSkpYNTNTMFBQTFlld1I3TENoM3l3Y2RCekJJUnppdHhNMHB5SnpSb1ZmMF91QmdJOA",
     "CBMiigFBVV95cUxNa3U0b1pqNDV2cUpIT3dVVF9BMVJTNk9IUEtMWngzdlktVGd6V25KZy1DdW1sakJKZjdCMHJYWGpyemtpTVZjR2hXMmFtTVV6TTB4aVVWTFlSZURyZWNNVHhSc0Rna2JRTXpSRmxVeHA4NGNac1JLdGxOZ3Z6YzBrbjJEMW9Yb2paRkE",
     "CBMipAFBVV95cUxQZUUwZGVYSU5sMHpMazg3MEo2YkJ0RlJEOGloN2UxcXVNSENMSWYwdFM2aFdTa3g1ZjdER3FxS3ZDS3c1cWZoSy1nVUFWODlOM2g4VzRmN2VvYWZxaGJ3aHdvX2VSdTJlN3RyOVhsQW5NTllELTI5U1d0VmxwYWlsRWNVNnlQWk01eGtMQ09mYV9JLVFETDJncU4xaUpab0Vrc2lGVw",
     "CBMiogFBVV95cUxQZVBYMUVpSDhFSEhqZzF0SHdheDV1OG1pSkx6MHlJYkx0MlBuZU9kSHV1N0VSVkk4dVlINko5c1c2X2hXMWx2Z3AxTjFzQ2JHekFScV9fZFlnZjZPcTJwZmRNbVJLeENHYnJXMnpHcGNmLTBMNl9jVXh2bmNUcjZjQUtUVmk1RGYyVDlFTFptS1M5OFEzN3A3R2h0Tk5WTkJZSnc",
@@ -1205,7 +1204,8 @@
     "CBMihAFBVV95cUxPSW9mTFNZNmhNT3Rucy1OdzIyUzZxYlZVMk1oY2liVkNobXMtYXJPTUI2MFZfYWt3QkJwTVhaNnlEbzY2M0I4NWZtVFRyLVpwX3JQdUZXOVlkZVZXNThuQmRXMjFsOFN2QWRnX3ZCNk1DRlUyQWZIdUNrM0IwWGFRdHhIWHQ",
     "CBMingFBVV95cUxOekM5VXhLY1NEVEZnWUFWdzdpd3VnekF5UUkzdzQxSDFLWnJpbHlzN2ZQU2hwTDRVcWthLTJMWmNWUjVQdXRyejZwNllFMm1TNHFSZ05DQjBVQXc3Z01Tc3BiX29TVHVwNlhfakI5eHl5UTZmUm82VGtaR3o2eF9UODl3RHZQTHFwQ2RxdjJqLTJoaHVJSUFSdTBQV3VIdw",
     "CBMimwFBVV95cUxQUVZVMmZJcmhyXzFYanVTWXhvZUxtcGZUOFZSTTY1RkR4UGl3X1pGNExzdDVHY0FhbmJ3d3lFeTY0NmN0WWZ1R29DM05LZElFYXFfVUlGa3BubFhtLTFRQTNPcDJ2b29FYU0wd2stXzlicHVqOWFNaUVpYk1MYlRfbEFuOFNGVjB2djhMNFJZd29mYU54cjY3QVJZQQ",
-    "CBMijwFBVV95cUxPdXNyWnlhd1BjRGY5cjh6dmJ4RVJqSFZ5aTM1anRodEF3ZjJSQVMtR3BJRHNtaXlqVUNNX0ZDcktlX2pTenNtUVpCS19sXzhlLXo2bGpiR2dfVmhQd1FjNDlQY1Fqck9uYjlJZGZPNUxtRzR6SE9aRElicXJ4RWtoUUxoOGhKRmtMQV9HZ1NEQQ"
+    "CBMijwFBVV95cUxPdXNyWnlhd1BjRGY5cjh6dmJ4RVJqSFZ5aTM1anRodEF3ZjJSQVMtR3BJRHNtaXlqVUNNX0ZDcktlX2pTenNtUVpCS19sXzhlLXo2bGpiR2dfVmhQd1FjNDlQY1Fqck9uYjlJZGZPNUxtRzR6SE9aRElicXJ4RWtoUUxoOGhKRmtMQV9HZ1NEQQ",
+    "CBMijAFBVV95cUxNYktmWUtyRG1meHR2M1NtVDdScldwOVk4enpGWC1RUUJKUG5lUlNmekFhZGhpeElsaWgyUEQ3VnlTdldXX1A1enJHUXluZDRseHFfMG1VU0l3RHQ3LWhGS1dlTGx3aS1ORFhjYXEwTXRSVTZUYTlreFdkV2kxQ0tjQ1JONENqelJvSFp6NQ"
   ],
   "https://www.scmp.com/rss/4/feed": [
     "https://www.scmp.com/news/china/military/article/3362153/china-cracks-down-sales-decommissioned-military-equipment-protect-plas-image?utm_source=rss_feed",
