@@ -604,8 +604,6 @@
     "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html"
   ],
   "http://feeds.bbci.co.uk/news/world/rss.xml": [
-    "https://www.bbc.co.uk/news/videos/c1j1eg31y6no#3",
-    "https://www.bbc.co.uk/news/articles/c5ywv6egvx8o#1",
     "https://www.bbc.co.uk/news/articles/ckgdmrxxkdxo#2",
     "https://www.bbc.co.uk/news/articles/c30418m4mj4o#0",
     "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o#0",
@@ -903,11 +901,11 @@
     "https://www.bbc.co.uk/news/articles/c171yp5zdrxo#1",
     "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o#0",
     "https://www.bbc.co.uk/news/articles/cgjee21eenvo#1",
-    "https://www.bbc.co.uk/news/videos/c62e1v8p07go#3"
+    "https://www.bbc.co.uk/news/videos/c62e1v8p07go#3",
+    "https://www.bbc.co.uk/news/articles/ckg4424zd7go#0",
+    "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo#1"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
-    "CBMilgFBVV95cUxNRGNIY1BsR0JoQzRvbEZaeTRhYlNWZ20ySllCS2JCWTdza20wRFJ3Z3NSRUYzdmVONVBnMzJyUFh2NUs3THpxdGpoWVhPbTZQYUZocWZfUndLR3NZTllMNGtHTkFQTTlKa3R0SVQzMTlaUEdHVGpramp6T3dEdS1fWVM0SlpaLW82TVJWSjBtOG5BSmRsSEE",
-    "CBMigAFBVV95cUxQdGtvcElBNThyOFktNjcySXRiVGJNaXBiMnZCNnFmQi1QaTc5MVRLck95ZjMtdGtvT0hUdms2dGV1WXJOekpxYm1sZkd1cmR4dzlkMDNJUGRWZzlMT0F1UENhRG5zQXZNc0NuUDlVMWFFTUpacnZNREItSTVaLUhBeQ",
     "CBMiogFBVV95cUxPSU0wZldIZF8taDhta1dVRmNMX2xZc1RuQ3k1YURndHlDTWEyTkYwcXJGUkNZZnNCMVhrb0k1RWd3M0p0TjdCN25NVHhBWFUyNTM1SFdMbG94X2kwakg0RU5BcjQ3eEVnblc5YjhnaGR4ZFFtZ3VzTGh1YUZNcDZ5OEpvZ1Z1Vkw4V1JYWldDekw4cnFjYlpuc0ZtdE9FSzlXT2c",
     "CBMiswFBVV95cUxNd05zU1dCM0JuVjFlLVJrYVlmcEI2a2FLekV0TjVOOTMzc2kwdmUtdU1nVjBVbHdaM214Ykx1YjNkaG41Y1ltc3pqajZ5bUlzT1Bpd3JzaWVZM3NYdHJSRnk3cFh5c2JkMW1wMUhrcTdhUVRZNHRGd1hfT2dfc0dLNkJneld6ZnpQQjhpaEV1bURuNFduREk2aDZjUXlwcGpEQk93UE9wV0NqMHo0VV9QZjhPSQ",
     "CBMijgFBVV95cUxNYW9uN0pxS05KdmgwSlBrYXdBTjBJTDY2N05QS2FSbUIycnRaR3ZnYTdBVTU5OUxpWnpGZnJUS0tVUWR0dFJIbGNKZGVYZEdxS3RfZjk1bHVnc3h3TTRHN2g1TUFMRU8yZHk3NnE0elkzZXFtUEwxRWNuZjktOTdmcGpCbUxYQW9vM05nZUZ3",
@@ -1205,7 +1203,9 @@
     "CBMiigFBVV95cUxNOHlKTU5mZV9URk9aR092d3pteDlhVUtkMzFnV2hpQVVNdWZvT2VjQzk2Sm5hQjNIOEhDaWVub3hwTnR1UjN0UDA1eU5SU3hySGoybENYZElaQ2ZMNjFlUE1EQmRUVVpzV3VuZkhWUXllMEs4MnhRUFhyMHoxTVoyaDBnMC1BTHYwQmc",
     "CBMisAFBVV95cUxNY2cyT0ZXaW1Eam0weEdMSjdKTHFhamk0U2dwaDJQSFRITnVyazFGZFFpdVJMeTJLUE1FY3hMZjZrbHlzbnpnUm9HaHBJdWZMSFlQTjBVTGYzWnZIQnlOQl8zdHhuY2tjWjVJVGs5TXZQbWRHVU9IcE1iMmlMRHJ0QzFHbE1zWVljY1luaUxvR0tVRWxraTZwbWFSSlF1c2hBQ2x1aWc0UVJSMlUzekVyRw",
     "CBMie0FVX3lxTE9yYzh0TnZzSUllczctOEVhSUhxUWZIZllmLTEwdzlxeXRBOTFqNHh3cEczT19RZzFfT0NoUTlJRlQyTlFNQkJYV1FCTFk5TTVJZGhVaWlZZDFPdFlDcXdpdGgwS2RCdWNEYmxhRG5jalQ1dTI3TWdWWm15cw",
-    "CBMinwFBVV95cUxOUjM0TjVURG5BYjNaZlhVS2J2VGtwV3p5WF9JeFZ5cFZWalR5bjBncE9DY3lQVEx6RnBUWU5wS3VwbzRrUmZVWGpGNzZZTVdhN1IyRUlqcVdsRnlHcnduUjNhWXl2M2pNY3NGRDFGaVBMbUxVdGVqV3pRZmpsZ1BBUjFSYk9JQ08wZEFyc2NaMFpSVzZSeW91Z3ZQYXRUeGc"
+    "CBMinwFBVV95cUxOUjM0TjVURG5BYjNaZlhVS2J2VGtwV3p5WF9JeFZ5cFZWalR5bjBncE9DY3lQVEx6RnBUWU5wS3VwbzRrUmZVWGpGNzZZTVdhN1IyRUlqcVdsRnlHcnduUjNhWXl2M2pNY3NGRDFGaVBMbUxVdGVqV3pRZmpsZ1BBUjFSYk9JQ08wZEFyc2NaMFpSVzZSeW91Z3ZQYXRUeGc",
+    "CBMimwFBVV95cUxPMmZ6Z01kclNFSVd6V09LUzVGYVNIb3EyWTl5YW01eXBGLXI1SjExZ0NXbHZXdXVDN2hVNXNiNUlpSFgwNFozTWhFNnF2SWU1djBZUkdzWXBhdEY5S3FRS1BuX0RFcUJJQTlLNmdfWEI0QXJMWGRISVpBSHB6blc3cE1PaDA0YkR3UW1GREkybmhJc2hzNDgxdzBLYw",
+    "CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ"
   ],
   "https://www.scmp.com/rss/4/feed": [
     "https://www.scmp.com/news/china/diplomacy/article/3362042/brazil-turns-china-trade-deal-after-trumps-tariffs-years-resistance-end?utm_source=rss_feed",
@@ -2114,8 +2114,6 @@
     "https://en.yna.co.kr/view/AEN20260816001800320"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1786541213",
-    "https://www.aljazeera.com/?t=1786528332",
     "https://www.aljazeera.com/?t=1786537993",
     "https://www.aljazeera.com/?t=1786521912",
     "https://www.aljazeera.com/?t=1786537730",
@@ -2413,7 +2411,9 @@
     "https://www.aljazeera.com/?t=1786848856",
     "https://www.aljazeera.com/?t=1786853367",
     "https://www.aljazeera.com/?t=1786798362",
-    "https://www.aljazeera.com/?t=1786455961"
+    "https://www.aljazeera.com/?t=1786455961",
+    "https://www.aljazeera.com/?t=1786861028",
+    "https://www.aljazeera.com/?t=1786859327"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
     "https://allafrica.com/stories/202607210049.html",
@@ -2774,7 +2774,6 @@
     "https://en.mercopress.com/2026/08/15/colombia-de-la-espriella-calls-the-situation-in-pereira-apocalyptic-after-touring-the-city?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss"
   ],
   "https://www.abc.net.au/news/feed/2942460/rss.xml": [
-    "https://www.abc.net.au/news/2026-07-25/lebron-james-announces-philadelphia-76ers-next-nba-team/106957848",
     "https://www.abc.net.au/news/2026-07-25/commonwealth-games-glasgow-day-one-quick-hits/106953018",
     "https://www.abc.net.au/news/2026-07-25/jenna-forrester-surprise-200m-backstroke-gold-medal/106957656",
     "https://www.abc.net.au/news/2026-07-25/tour-de-france-stage-19-tadej-pogacar-wins-in-stunning-surge/106957688",
@@ -3073,6 +3072,7 @@
     "https://www.abc.net.au/news/2026-08-16/australia-bangladesh-live-updates-day-four-darwin/107043280",
     "https://www.abc.net.au/news/2026-08-16/afl-rd-23-live-gws-wce-wb-carl-ess-syd/107037342",
     "https://www.abc.net.au/news/2026-08-16/nrl-live-updates-knights-titans-dragons-tigers/107043632",
-    "https://www.abc.net.au/news/2026-08-16/quick-hits-australia-vs-bangladesh-day-four/107043378"
+    "https://www.abc.net.au/news/2026-08-16/quick-hits-australia-vs-bangladesh-day-four/107043378",
+    "https://www.abc.net.au/news/2026-08-16/australia-bangladesh-darwin-defeat-problems/107037438"
   ]
 }
