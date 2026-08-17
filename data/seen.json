@@ -1,7 +1,5 @@
 {
   "https://news.google.com/rss/search?q=site:reuters.com&hl=ja&gl=JP&ceid=JP:ja": [
-    "CBMieEFVX3lxTE5idmtuakw1NG5tamlJLVVzbW1oS1Y1ZTAxdmIyWnpxU2VPaURwWmdzaWxQMzRFdEp5cC1sMmlJMXpIcHIxYklMNXYxUm5NTmxNRFpod2xlR3BVdDJENnkyeUl3LW9KWUF6b2FEOWdrTnc5Q0hIZ2RKbg",
-    "CBMigAFBVV95cUxNLXVFMXVsQzJGYnVqUGNJMDVHc2I2N21taEJkdTJwamRlOE1oeDN5Tlh6bHo5SE16S1oybnFVbjF4VUdzOGZEZ0xhSE1ja1d1X3VoRTZlREdUUEh1UGZVSmppZGJpNzlJaE4xT2E0V0o5YmZ5U1NsX3lacFdZRHR3dw",
     "CBMieEFVX3lxTFBZWk9aWi1xRUhibGlJbnVORlNLanVULWlFaTBnckVJM085ajJKbGNUalZCdGptRVA2UlQ2cEgtSkFXNkpkZXliUWQyYk50QktzZmVVUGhmYlR2R0ROckE5ajZfUUNDZm5rZGRHeVBUUHVvQVNtWW1PTA",
     "CBMieEFVX3lxTFBuWkx5WnhsdEFLT01rVkdnT3RJcXF3WFQwc0lfbXZCaFFVM3htM042ek9DVVZISTE0N1NuNTNJMWdXRzZnX1A1ZlJKelZLelIyUGsybVpncE80UW9Ec09LTDZUWV9Ub3BQeVB1XzFOdVVtSUFWSzMyWQ",
     "CBMifkFVX3lxTFBYd24xaTl5TTFVZmozdUxtUTA4aDJneEFiR0VtSmZwUjBoT2t5X19VRVBhbGxPNFVoUU9VYTVsZjZIWHlWeF9tdnhmSmdVZEFyT1BRZmpZYU1iSnNqX3RJMDVqemprNlVYb2ZqZjFSUmdyTndNWnJ0UEM2cms3QQ",
@@ -299,7 +297,9 @@
     "CBMigAFBVV95cUxNSkVNRERBeXJzUmRmWkVtSDIxcFJRaDU4blVyVXlJSS1DdDRUT3VQaWNSMkxxWUw1bXpQZ05kZExKcV8wT2xtZkFVZmMtUWtoZnRlWHByYmpUZ3VPaXROby1UQ3l5bEtmTWZ5MGNQbEYxdDRmd05CdTlaNWhNMnBPVw",
     "CBMigAFBVV95cUxNZkFCblQ5WEhsNFNrSWg4TWZUVjRVYmhwNG9NLWRpQ1dKeHhNaDZMUmdsQ1J2czN0SXA3bGd4eDZzckhURVJBRGhXSkxINW5tbGZ2NVlmLWxYRGlGTFc5MGowSC0tRm90S2l0U25sVHE3SzdNdmlLOXY1VVJOODA2ZA",
     "CBMigAFBVV95cUxNSWdzLVJZanFELXkwcl9EQTlpR29wTmpyUjQ5ZEpMVEZmdnVjV0xNa09BRXByTVgydTdtM3V6c0kxT2N4bVlTc1JCNGhmclBRYlpqcHo3dUlLVHRNNGZ0bkExTXBJWEJNaEpzaWNPOUJGYUpwMHFqOEFiQWFHUW5PdA",
-    "CBMiekFVX3lxTE9xQWktRHBkZTFZdEVIWGdwUElZbGRSSmRFQ0pMdmZSaUN0UnFjUE9JTEZuVjBwbFRITE9Nb0Y2dGtVOGJxTzhQNUJ5S0N6SjdRV0RNVC1lY0lPZTNOaWdRdGlUTFN0WGNPTU5FX0NWLVVTZU9pUDlldFVB"
+    "CBMiekFVX3lxTE9xQWktRHBkZTFZdEVIWGdwUElZbGRSSmRFQ0pMdmZSaUN0UnFjUE9JTEZuVjBwbFRITE9Nb0Y2dGtVOGJxTzhQNUJ5S0N6SjdRV0RNVC1lY0lPZTNOaWdRdGlUTFN0WGNPTU5FX0NWLVVTZU9pUDlldFVB",
+    "CBMigAFBVV95cUxQNy1FdklHSHNVUUdkZDM3Z2t6NHBmT0xRYVczV3RTZzhObW8zTmdLTnIyMVZqMmZfZ1FPbGpkUWZuSGI2eENyR1RKQndwdUVFTWxINHBLRF9vUmpsaTN1QzVnSE1SdkNib3psMDlDSm9DeDZ3aF9qWkI2R2tReWxvMQ",
+    "CBMiekFVX3lxTE9yWHBoeUlUbXNGVjVWU3RlbVM4NlIyZ2ItSXVNUHpBOVU1RTRjMkhNNk5fT05ZQjVrVkNIV0xpZmY3aVVDRF9TV080cENUX3hWTjdBOVZpeU5PMGlfNDFlSXpXbF83UlBXWi1yQW5yYW5adlhWRmlpUWNR"
   ],
   "https://www3.nhk.or.jp/rss/news/cat0.xml": [
     "http://www3.nhk.or.jp/news/html/20260724/k10015185791000.html",
@@ -604,11 +604,6 @@
     "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html"
   ],
   "http://feeds.bbci.co.uk/news/world/rss.xml": [
-    "https://www.bbc.co.uk/news/articles/c39eprxln0go#1",
-    "https://www.bbc.co.uk/news/articles/cdewxgw69exo#1",
-    "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o#2",
-    "https://www.bbc.co.uk/news/articles/cz05xn35xj7o#2",
-    "https://www.bbc.co.uk/news/articles/cvglpvgljzdo#2",
     "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o#0",
     "https://www.bbc.co.uk/news/articles/clylejzkkx4o#1",
     "https://www.bbc.co.uk/news/articles/cewr898jy8go#0",
@@ -903,11 +898,14 @@
     "https://www.bbc.co.uk/news/articles/c77ggpgrp2do#0",
     "https://www.bbc.co.uk/news/articles/ceqeeendz42o#1",
     "https://www.bbc.co.uk/news/articles/cq5665zgg1po#0",
-    "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o#1"
+    "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o#1",
+    "https://www.bbc.co.uk/news/articles/cvgll74vvydo#0",
+    "https://www.bbc.co.uk/news/articles/cvgww971nn2o#0",
+    "https://www.bbc.co.uk/news/articles/c87nnwlpe5no#1",
+    "https://www.bbc.co.uk/news/articles/c77ggpgrp2do#1",
+    "https://www.bbc.co.uk/news/articles/cg4dd420ezlo#1"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
-    "CBMimAFBVV95cUxOWkpfVU0zTnBZSEZnbmNLUUxSMzVoSzVTMk1xZVRyS1FaU1hHbXBlVlpIWHJsQ1owSndGU3hKS3Znc3RVUjFiS3VnUl9vWU54Y05JT1dWb19GeG50NkttOVZld1hNUndETHJOdzhBSnhsY3FtQml3dXRRWmZxbTVSOE0teE1wMldFVmtuS3F3RXdDM1JMU29DcA",
-    "CBMikwFBVV95cUxPQWlXMklpT2cyRS16eEZiZFBpTElONGRxeDd3NXhRY1VfX0RPai16b0loVXhpdENxYzU1QVhaOHh6X2dNNDRmaHRNeTFGVnNyajAwaVFpQ042bjhDU3ZpQVhGaUNVWEVBYTlwZUh4YmVMT09BOXllMnIxU0RNVnlpTi1WcFNYSVRNX2hCbllBMlVldms",
     "CBMikwFBVV95cUxOUUNmLWxickRLU05ySXVrTTR6U2Q4aTVSZExPY3ZaZnhCR01UcUtUMzhMU1c5Q0YwNFFCc0ZRVWpLYWo0RWZHWkhRc3Y2d1lLdDhwbTFNSmRZcXJ0SHV1VUtVWmdxQUZOei1iS1dwNEk3dkhyVTJvSWZiSjl6MXU1X01nQTZjenBZWkdUYmU4eG4tdUk",
     "CBMiowFBVV95cUxPVkI3UGpBZkg3d2ptZUUtcUJjbk5WQjlNVFdFcmZiSERjeUhVWEhLcjJhbS15UEtQdkVQMGpTR2pKMVoxR2tRdnFkOGY4RmpFeG5qZnRORHZ1anA3VnJTMXFhTzJxcjh2WkJGdGtyb3luWFlkcTVrVWxadEd6dktkVHBoaVFQcWdDVzF2VjNjc2V2eXZuTm1OaXo4OEw2UG16YUxJ",
     "CBMiogFBVV95cUxPTXVkbTA3M0Nvd1RSZjc2aDRJV1VOT01vTlJ0anlYNUJwQWJnUjYwMmllSmZyLV91QjUwazI3U2swc3hiNjNtZFowTUQxWVVaaTRiTWstcGp0cWsydjFJYlRjR3F2NlN0TmZUaDlHcnVyMkgyLVN5M1VMYTIwYUplamNqenZ1Tk9zWmdNMHIwWm1Ma2IxdWJ5RG1CVUtDU1lyQ1E",
@@ -1205,7 +1203,9 @@
     "CBMilwFBVV95cUxQTS1XUDY1NEp3RlJQdGxCVlRyWFVWckpxZlYtbENGQ0k5UmkzSFJNUTR4eWEtcDRZem5fZVVpNi1rcVRoYV9KZFFyRkg2SXpkVWhPVFIzLXdmN3EyWVJIUF9HQTF5R1FxeVU4aHktZnNEZlI4dkJneVhTYmRiVl9DaTZCN3JaSERHRE85VFBTeEtHT3cyYmd3",
     "CBMilAFBVV95cUxNb3RPcGlIdXQ3RU5USnlMN0tyQUxyT2c4NW1zekhhV0xubm9tTmhHLWE0c2RxTFdNWXJueVF4TXA5ODJDNFRhQTdCQllnaU51cTlCc0pqaHZNbmxIbnhxR01MNVZEOWdtaU90cWZjUU9RYlBITDBhMWdiNllIcGFoMHJXQWdlN0lQdWZ5dVVNT00wR0px",
     "CBMipAFBVV95cUxQRlhiS1NtSUhQR2ZjTmVzR2FwdTVzeXM3Tk80Q1owYzhVODdfSjIxajZLeDdMckRwVkxJZm1Ca2FJSk1ZZHc4dTdQaGFBbC1YWVpTaHNxWXhWX2pueUtXdlVkZHIyNEJ0ZUNzamZ2VDB2VUN5Zk11Nm9uWVlLRW1aTC1NOFRCZ1JTa19jeTQ1RFV5cmFIZU8wZWRSVndNU1FZQWJ5TQ",
-    "CBMingFBVV95cUxNSEFkQWJ4WnBlb3kwcXExVGhRclRsU1k4VEdFem52RzBxblJLRnNUemlLdmh1WV9PaDFBRFJGdm5rWk1QanZTU2pqUEl6T00xdFozaEtSaGhEZGxqU2hVbWl1aE5idHY2azNJc1JPSlI0NkQzMllaazhNU2luVjVON2dWUU9Ndmh4YUxtamcwNzA0ZHZRT2liSzdPVTJhZw"
+    "CBMingFBVV95cUxNSEFkQWJ4WnBlb3kwcXExVGhRclRsU1k4VEdFem52RzBxblJLRnNUemlLdmh1WV9PaDFBRFJGdm5rWk1QanZTU2pqUEl6T00xdFozaEtSaGhEZGxqU2hVbWl1aE5idHY2azNJc1JPSlI0NkQzMllaazhNU2luVjVON2dWUU9Ndmh4YUxtamcwNzA0ZHZRT2liSzdPVTJhZw",
+    "CBMiigFBVV95cUxOZ0VPOUpJN1VQNnRNNUV3U3dMWHc4TlpzbGNIc2l6OHBvVHVZWXdmc1JrNTVfVFdBemJMZGtRQnVkcUtnZjV4UzZ3UV9PR1o0ZzczSUh1UTh6M3owVC1xWS1NcjNLbmdOeXVwY0RyNmhjNTQxLXF0b2ttV1dCMHpuYS13bWhwQUZlVkE",
+    "CBMiqwFBVV95cUxPLVJJdjJ4Wk8wVFVLQk9nZU1qQzNJOGUxWS0xbGNsSG4tc0dCSnBrMFd3MUd2ZGMyaWRLc0NnbmxmamlWcjFVVnVFQWNTTzBvZmpibVo4TVVQdWpXc1lQRVUySU9uejFDLWoyN1dCQWkzT2VpOGU3LUx4T29idjhlbUhTeWpvNnlsXzBOVi02TVlwU0IySnNhZlNxMUd1X2hhSGQzMy1CUVh6UWM"
   ],
   "https://www.scmp.com/rss/4/feed": [
     "https://www.scmp.com/news/china/diplomacy/article/3362147/china-woos-slovakia-ai-robotics-pitch-eu-trade-friction-mounts?utm_source=rss_feed",
@@ -1812,8 +1812,6 @@
     "CBMisAFBVV95cUxOSVM5ajBPcTVBMmtLdUVibGE3VGVhWFlTZTYzQVQweGUzdmNxV0pxb0Z3TkFGU1E3VERSWXdIREkyWFNjbW5VVjg2TjZmU1hGNjhTR0xIX1NvLWhVd3dMWmZWenRIbmtZSGdHbVVCX0tBdDhYcEcySXhFYmc3eDEzSFIzT3h2YnhjUC0yUFdYcVUxNzUyMGlCR2FrQTJIUTI5SEhMb3B4Y0E0eVU4dUtlRA"
   ],
   "https://en.yna.co.kr/RSS/news.xml": [
-    "https://en.yna.co.kr/view/AEN20260811010600315",
-    "https://en.yna.co.kr/view/AEN20260811010900315",
     "https://en.yna.co.kr/view/AEN20260811010800315",
     "https://en.yna.co.kr/view/AEN20260811010700315",
     "https://en.yna.co.kr/view/AEN20260811001152315",
@@ -2111,11 +2109,11 @@
     "https://en.yna.co.kr/view/AEN20260817000900315",
     "https://en.yna.co.kr/view/AEN20260817000951315",
     "https://en.yna.co.kr/view/AEN20260817001400315",
-    "https://en.yna.co.kr/view/AEN20260817001200315"
+    "https://en.yna.co.kr/view/AEN20260817001200315",
+    "https://en.yna.co.kr/view/AEN20260817001700320",
+    "https://en.yna.co.kr/view/AEN20260817001300320"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1786599384",
-    "https://www.aljazeera.com/?t=1786521871",
     "https://www.aljazeera.com/?t=1786526040",
     "https://www.aljazeera.com/?t=1786602273",
     "https://www.aljazeera.com/?t=1786606206",
@@ -2413,11 +2411,11 @@
     "https://www.aljazeera.com/?t=1786922178",
     "https://www.aljazeera.com/?t=1786892818",
     "https://www.aljazeera.com/?t=1786935158",
-    "https://www.aljazeera.com/?t=1786928315"
+    "https://www.aljazeera.com/?t=1786928315",
+    "https://www.aljazeera.com/?t=1786934116",
+    "https://www.aljazeera.com/?t=1786937866"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
-    "https://allafrica.com/stories/202607210049.html",
-    "https://allafrica.com/stories/202607210027.html",
     "https://allafrica.com/stories/202607210025.html",
     "https://allafrica.com/stories/202607210009.html",
     "https://allafrica.com/stories/202607210146.html",
@@ -2715,7 +2713,9 @@
     "https://allafrica.com/stories/202608140522.html",
     "https://allafrica.com/stories/202608140578.html",
     "https://allafrica.com/stories/202608140571.html",
-    "https://allafrica.com/stories/202608140593.html"
+    "https://allafrica.com/stories/202608140593.html",
+    "https://allafrica.com/stories/202608170058.html",
+    "https://allafrica.com/stories/202608170065.html"
   ],
   "https://en.mercopress.com/rss/latin-america": [
     "https://en.mercopress.com/2026/07/11/four-held-in-ecuador-over-migrant-smuggling-network-to-the-united-states?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss",
@@ -2775,7 +2775,6 @@
     "https://en.mercopress.com/2026/08/16/colombia-asks-washington-to-suspend-12.5-tariffs-over-the-earthquake-emergency?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss"
   ],
   "https://www.abc.net.au/news/feed/2942460/rss.xml": [
-    "https://www.abc.net.au/news/2026-07-26/commonwealth-games-leigh-hoffman-matthew-richardson-team-sprint/106958932",
     "https://www.abc.net.au/news/2026-07-25/commonwealth-games-day-two-live-blog/106957766",
     "https://www.abc.net.au/news/2026-07-26/nrl-live-updates/106958596",
     "https://www.abc.net.au/news/2026-07-26/afl-r20-lions-power-kangaroos-saints-live-blog/106959530",
@@ -3074,6 +3073,7 @@
     "https://www.abc.net.au/news/2026-08-17/formula-1-returns-for-dutch-grand-prix-after-mid-year-break/107000532",
     "https://www.abc.net.au/news/2026-08-17/lani-pallister-beats-katie-ledecky-in-800m-at-pan-pacs/107044782",
     "https://www.abc.net.au/news/2026-08-17/cameron-green-extended-run-after-bangladesh-test-century/107044844",
-    "https://www.abc.net.au/news/2026-08-17/chris-oconnell-casper-ruud-injury-retirement-cincinnati-open/107044976"
+    "https://www.abc.net.au/news/2026-08-17/chris-oconnell-casper-ruud-injury-retirement-cincinnati-open/107044976",
+    "https://www.abc.net.au/news/2026-08-17/sydney-swans-afl-footballers-involved-in-incident-in-melbourne/107046058"
   ]
 }
