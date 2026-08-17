@@ -1,6 +1,5 @@
 {
   "https://news.google.com/rss/search?q=site:reuters.com&hl=ja&gl=JP&ceid=JP:ja": [
-    "CBMigAFBVV95cUxOSG0ya1dKb2syVWlJLVhvTXN4TXRUb3VvWTRadl9rQ0R5UXBHTjMzTHpfTHJQazYwTDVpam1mZ2x3cVpzQllDUFBhVnZ6bmZRbnFHbnA2eUxlWE9EVVQ3VlVTVGhCaU4yYU01QXc1aWJ5ZWoyczBLX2hEbjVHN1dWeg",
     "CBMieEFVX3lxTE1QczdpTWJkbUpVWFd3NHV3WHJvSGhtWlI2R0loTHRWU1FMNmpyLUEwWXp5MlRBaHZhOGkxcU1GeFhoOU5iZkQ3ZHlBNnhRSWJHM3lYWVllamU1OEJYM2NGaXhkZ19FWEdQd1plemFxM0FTQTJIWFdCTA",
     "CBMiekFVX3lxTE1keGdTWm1BSkxhTTFUdk5CY3pTQXlDMGRBNHZSSjNsZE8yV2M3X0I4cTl6SDd4c3lFM3FxZGY5cWpEbHFsdjVFTG15dkE2elM5bHMyX0VkMUdwNjVJeDhVY1lpMzRhcTNCZ0VhTEhUU1pYZ25jUmtpQ3pn",
     "CBMieEFVX3lxTE05NllPMkZhN2ZjQWd5dE5xT1RKbXFvRVp4UGRUdmlpSHlrV2VyaThRZnVVOVlkMWR0NVc2M1J6cjZ4VlVUQVRXeWk1LWVVY3pDcUNQVkdvZEtxekFrMkVDVi1DaGVwMkNoalJBbXFlcVFIVFhXaXprNg",
@@ -299,7 +298,8 @@
     "CBMieEFVX3lxTE9TR25ydVdkSmlDYm5GQWhZNEhUNWNQT2FabElCU2ZaSkxya1BhWGJ4OW8zel92Sk40elFsMmktRTQ1U19ETklFY1RPNkdNd2Z5NnNRQURVN0pYeGlfdXBfQTYzc0VPVG9wY0NJWGN1cm45S3FZcmJxUg",
     "CBMieEFVX3lxTFBCcS1BcWluaXZlSnozYlRzajJFX2dHQy0tejZIWDBJU1FsekQxR0xKZXhnaEtVQVQzdkhlMkVDeFRSSDltWUdDTmllc3Zqdk9FMmhvSkdSbUN1blRrbjI3WkZreWxzTFgxcGdkYkQtUkNnQm9vSkZWZQ",
     "CBMieEFVX3lxTE52Tlg3V3ByYmtVajZacjZFMnNyc0VNN2JGbi1IUmhxbVI3T3RkSEN5VlBRbXR2d1U4WU1jaGJxOVdFTEFiNUZlSkg2c1RVRmRCQWxTMEVpeDB4dlVVZnBFSnlESkhZaWxIcUFJM3M3dURJVDVqMkYxYg",
-    "CBMieEFVX3lxTE1OX0JhV0RTSjJ1cXlvd0dhT21hOGRnU0VVVnRKejFZSG52TjQ5WGpEbjhrYlVjNGxSeWlNaE94aXZ4V3VsYzg5WlVWOV9ycTRkdmRJNlJOdUlTcTdWbDVmYkIyekRwQ1FVQS1PQmNTaU1MeGM5b0ZwWQ"
+    "CBMieEFVX3lxTE1OX0JhV0RTSjJ1cXlvd0dhT21hOGRnU0VVVnRKejFZSG52TjQ5WGpEbjhrYlVjNGxSeWlNaE94aXZ4V3VsYzg5WlVWOV9ycTRkdmRJNlJOdUlTcTdWbDVmYkIyekRwQ1FVQS1PQmNTaU1MeGM5b0ZwWQ",
+    "CBMieEFVX3lxTE9XZ3U2SklLQkh4WTZJS3lJN2VjWnVBdEtVMmFvam1TWUdIWURhY0NyNmxrajVVVWtqVF9lQTRnQnd3VDN4cVBNSVVEZmI3V1BENEZJYmp2ZjhhSDR0bW5lSDBTXzlhaFBTbjZLYl93a21ONElqekZmZQ"
   ],
   "https://www3.nhk.or.jp/rss/news/cat0.xml": [
     "http://www3.nhk.or.jp/news/html/20260724/k10015185791000.html",
@@ -1208,7 +1208,6 @@
     "CBMiqwFBVV95cUxPOU5vVk54X1dmbDBBVXItdUpaZy1nM1doRDQ1TFh6WE9ibHBzdDFTMjh3aTVJa255TTlpZkNaNzY0NnAzSUJnVHJZM2FVOWhDcVh3MzU0UEdLQVhPLUtHVE14S1NLR182VXFRS0dlQjNpNzdES1BPUFJfbU0yT1ltN2tCVlZTcDFRLTUyUGI1akpDZzJDOUtKa0Z4YlJHbkVaUXpEdWFERGhHNWM"
   ],
   "https://www.scmp.com/rss/4/feed": [
-    "https://www.scmp.com/news/china/diplomacy/article/3362222/african-students-turn-china-amid-tighter-us-visa-rules-and-higher-university-costs?utm_source=rss_feed",
     "https://www.scmp.com/news/china/military/article/3362210/pentagon-official-hails-stronger-military-ties-pla-anniversary-event?utm_source=rss_feed",
     "https://www.scmp.com/news/china/military/article/3362193/us-posts-photo-coastguard-working-taiwan-after-beijing-starts-patrols?utm_source=rss_feed",
     "https://www.scmp.com/news/china/diplomacy/article/3362160/should-china-aim-lead-making-ai-rules-world?utm_source=rss_feed",
@@ -1507,7 +1506,8 @@
     "https://www.scmp.com/news/china/diplomacy/article/3364210/chinamaxxing-trend-really-about-china-or-gen-z-fleeing-western-fatigue?utm_source=rss_feed",
     "https://www.scmp.com/news/china/diplomacy/article/3364121/us-china-investment-chinese-schindler-dji-pentagon-battle-7-us-china-relations-reads?utm_source=rss_feed",
     "https://www.scmp.com/news/us/article/3364337/pentagon-orders-30-us-universities-scrutinise-ties-chinese-research-partners?utm_source=rss_feed",
-    "https://www.scmp.com/news/china/politics/article/3364278/why-arctic-sea-route-has-become-so-important-china-and-russia?utm_source=rss_feed"
+    "https://www.scmp.com/news/china/politics/article/3364278/why-arctic-sea-route-has-become-so-important-china-and-russia?utm_source=rss_feed",
+    "https://www.scmp.com/news/china/diplomacy/article/3364346/ecuadors-noboa-courts-china-shrimp-copper-without-threatening-us-ties?utm_source=rss_feed"
   ],
   "https://news.google.com/rss/search?q=site:euronews.com&hl=en-US&gl=US&ceid=US:en": [
     "CBMiugFBVV95cUxPZHU5cktEUm1LTGszcF9oYjNSa0NtbEhZa0F0UFp2M0JlaGpVM1NoUW1CaHdBd2c5d2JqUGtPWF9kaUdxbjVUZHR1OGQtOXFVTG9lbEdGOFNtVkVqRjVYbFJWRjVVN3lFVW5FXzBPZ25wVEFxNE50dGJJSlJLcHdSd3o3X2M5RGZlWHlhQ0k3YWktbUdRbE1saGlLeHR0Y1pPak9TS0VPZG5iU1dSTzdzZGNob2RaM0wwWEE",
@@ -2114,9 +2114,6 @@
     "https://en.yna.co.kr/view/AEN20260818000252315"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1786647852",
-    "https://www.aljazeera.com/?t=1786653245",
-    "https://www.aljazeera.com/?t=1786654065",
     "https://www.aljazeera.com/?t=1786645595",
     "https://www.aljazeera.com/?t=1786655631",
     "https://www.aljazeera.com/?t=1786655323",
@@ -2413,7 +2410,10 @@
     "https://www.aljazeera.com/?t=1786993641",
     "https://www.aljazeera.com/?t=1786994908",
     "https://www.aljazeera.com/?t=1786981949",
-    "https://www.aljazeera.com/?t=1786994509"
+    "https://www.aljazeera.com/?t=1786994509",
+    "https://www.aljazeera.com/?t=1786997799",
+    "https://www.aljazeera.com/?t=1786993391",
+    "https://www.aljazeera.com/?t=1786999017"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
     "https://allafrica.com/stories/202607210637.html",
@@ -2776,7 +2776,6 @@
     "https://en.mercopress.com/2026/08/17/cali-closes-the-rescue-phase-after-140-hours-and-moves-to-clearing-rubble?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss"
   ],
   "https://www.abc.net.au/news/feed/2942460/rss.xml": [
-    "https://www.abc.net.au/news/2026-07-26/commonwealth-games-georgia-godwin-gymnastics-team-final/106959212",
     "https://www.abc.net.au/news/2026-07-26/commonwealth-games-glasgow-day-two-quick-hits/106957754",
     "https://www.abc.net.au/news/2026-07-26/sir-garfield-sobers-sa-and-the-sheffield-shield/106956008",
     "https://www.abc.net.au/news/2026-07-26/tour-de-france-stage-20-tadej-pogacar-on-the-cusp-of-history/106959298",
@@ -3075,6 +3074,7 @@
     "https://www.abc.net.au/news/2026-08-17/golf-course-protesters-in-court-amid-adelaide-parklands-dispute/107045550",
     "https://www.abc.net.au/news/2026-08-18/austriathlon-high-performance-hub-gold-coast/107046056",
     "https://www.abc.net.au/news/2026-08-18/australia-cricket-batsmen-options-thin/107046784",
-    "https://www.abc.net.au/news/2026-08-18/fifa-sacks-senior-executive-kevin-lamour-after-criticism/107048594"
+    "https://www.abc.net.au/news/2026-08-18/fifa-sacks-senior-executive-kevin-lamour-after-criticism/107048594",
+    "https://www.abc.net.au/news/2026-08-18/liv-golf-ending-season-early-after-cancelling-final-event/107048632"
   ]
 }
