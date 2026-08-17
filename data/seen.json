@@ -1,6 +1,5 @@
 {
   "https://news.google.com/rss/search?q=site:reuters.com&hl=ja&gl=JP&ceid=JP:ja": [
-    "CBMieEFVX3lxTFBEelZQT0VabmtOdlFYRDBKMXJmTEdqYVpLaGU5aXpTQkhKeVJoQXg2aXVjQm9kZUp0V180M0tnV2VROWszNVNHSXQ1V1lDd3gxelgxeVYzZThCelVnVWI1SUVfZHBiRHJBaWxobTlIOS1TOHZ6dlFmLQ",
     "CBMifkFVX3lxTFBWZFpPdHBMbWtKcUNmWU9mdmlzaTlkMUpfcmtWYW5WeGdzVFk5NjJjTDhvMXRVTFlUbDZqaHg3bEd5REFaVllTbnJuZHk5eEdoSjlfQ3FDYmlXdlVyRmxXSzAxM0hOTk1RX0RQVDROS3dVZVVtbThKdmxUME9FQQ",
     "CBMieEFVX3lxTE41cnBrLW5iNkdRZ25jVVlqWUhCdzhONE1GY3F1aklUM3BaZ0pwZTZDNXdMMXJQaVJQU1dlYTNvak9uYkJ4QTZDYzBrWW9VYmpDQk8wTTFGMFRrTzNUU2xDUEhheS1MM2ExWnVDX0VHNmJTdFN0NUJBbg",
     "CBMieEFVX3lxTE5SdkVmTGhJcmxzYzEwcFlRdHVwUHZWOUpQY2pqT0hmS3RLeFV3dzhqZkNtSlYtekhRTW5oeHd0UmhMcjJhUXAtT09Oa3R2OThtYnBBWXZORWhaUlE5XzRGNDI1M1FjVk1YYlhDYVU4RnV4b3Q3Ulk0Vg",
@@ -299,7 +298,8 @@
     "CBMifkFVX3lxTE04RGtOOGd1TW5XOUJEcmVyOUhxRWxvNzJ6OFlGZzBrNGl3aXU1MURZTC1zZTVKdXp2T1ZwaFdzVG9aeFZrOXlFZzVWZndGM3pINkFwQ2hlUUNCazhENHI5eHloZnpGTWx6cmUzRGFxUl9tUUZkeXd2ZVNvZ2U2Zw",
     "CBMigAFBVV95cUxPUXlOV2dycjlZU2MxMGZXa3VRUDhhNm1WQzJiOGNNbFowTEJ1WVEySkRBX0JVRW4wQnFJWlVocDZERGVnV1dFWXM0SU9feVBxWnRTTDhDOE9mVkdzeTVXdWdYX1diY1loMDVmUExmNzlwZEtsSHBscnVQN0tDVUQyeQ",
     "CBMieEFVX3lxTFB0OXpueS16VmE0UTdPNFVnTjItUHJxTC1DdDZkcFc3azlaR1VlWFVHVFk5ZlB4VF81Nk1oVEd0djZhM09US293T05TQTFuazhLdnh4c3g0ZTlzTTRIR25uMHgyS0xBWDMxZG5FbTJtMUVqWnFCbzh5OA",
-    "CBMigAFBVV95cUxNZUxRZWllX2tXOTBKd0ZJS0t6MVVGQ1oyQW5aZ3dfOVN1T19HV3V0UENpQ0NYazVwRUN3Zkh5SzJpbFB2SDNnVVNuY0w5M1AwS3NoWjh1Mm5aTE9qZmFHbHJvb3lOTzBYd01VbzFFN2hFbG0zYllZSHVxeXhuTTltZw"
+    "CBMigAFBVV95cUxNZUxRZWllX2tXOTBKd0ZJS0t6MVVGQ1oyQW5aZ3dfOVN1T19HV3V0UENpQ0NYazVwRUN3Zkh5SzJpbFB2SDNnVVNuY0w5M1AwS3NoWjh1Mm5aTE9qZmFHbHJvb3lOTzBYd01VbzFFN2hFbG0zYllZSHVxeXhuTTltZw",
+    "CBMigAFBVV95cUxNSmd2S3EzZVRfZnNiODhMZVZWejZFT0dxVUlaall3bXBjQUNkWkpzbXZhSE90bVd0eUtvRkN3NHYwSU1TMTZ0UUhBYTkyTHE4OXlFbUdBWVg1T1BFUkNiVF9CclB2MmlSNERRWW9ERFBVOF9ZcTFxSTRSN0x4Tm9Bcw"
   ],
   "https://www3.nhk.or.jp/rss/news/cat0.xml": [
     "http://www3.nhk.or.jp/news/html/20260724/k10015185791000.html",
@@ -2776,7 +2776,6 @@
     "https://en.mercopress.com/2026/08/17/cali-closes-the-rescue-phase-after-140-hours-and-moves-to-clearing-rubble?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss"
   ],
   "https://www.abc.net.au/news/feed/2942460/rss.xml": [
-    "https://www.abc.net.au/news/2026-07-26/tour-de-france-stage-20-tadej-pogacar-on-the-cusp-of-history/106959298",
     "https://www.abc.net.au/news/2026-07-26/commonwealth-games-day-three-live-blog/106959386",
     "https://www.abc.net.au/news/2026-07-26/nrl-manly-sea-eagles-fozball-cronulla-sharks/106958596",
     "https://www.abc.net.au/news/2026-07-26/diamonds-channel-seven-commonwealth-games-netball-broadcast/106960198",
@@ -3075,6 +3074,7 @@
     "https://www.abc.net.au/news/2026-08-18/fifa-sacks-senior-executive-kevin-lamour-after-criticism/107048594",
     "https://www.abc.net.au/news/2026-08-18/liv-golf-ending-season-early-after-cancelling-final-event/107048632",
     "https://www.abc.net.au/news/2026-08-18/hockeyroos-netherlands-fih-hockey-world-cup-pool-match/107048694",
-    "https://www.abc.net.au/news/2026-08-18/sydney-swans-melbourne-police-investigation-coach-disappointed/107048672"
+    "https://www.abc.net.au/news/2026-08-18/sydney-swans-melbourne-police-investigation-coach-disappointed/107048672",
+    "https://www.abc.net.au/news/2026-08-18/cameron-smith-kevin-walters-qld-maroons-coach-search/107048868"
   ]
 }
