@@ -1,6 +1,5 @@
 {
   "https://news.google.com/rss/search?q=site:reuters.com&hl=ja&gl=JP&ceid=JP:ja": [
-    "CBMieEFVX3lxTE9sS1ZidmIwOFBYa2RhM2dpcmZhb3d3VklvR2dEYllDeXpGSTZYVTdtNXNsMUhjTGZFMGJtemZJN0NMdXNNdXBneFVOaFR6UEJaMnE2V3plRkdPang2bWxpa09KdmFEZ0lrTHZjQUZXR3RGeERDSDNUeg",
     "CBMieEFVX3lxTE5aRDNRSkJxZlg4S0ljMWdyNHVsQWJmcDF1X0tjYnliNHc5aFljQVdkUTRkT0dyTV84WFNEVi1ucS1DekxIeGgxWmdvRVdjUm02eFRxT2diWHFzQ1cyQkxtaGpta1MyR1pQUlhtX3JuaEpBNXQ2bGRtTA",
     "CBMieEFVX3lxTE9zZFB2QWFFbTN2ejhwT0JUbDhadktxelBWbGdPZ3FnNS1hQjVxUUZJZlVqSjlxMmdlczM1ajl0OGZyWnJGelVkRW4yWWpxLWs0NUtMU3U1UnczYUpIRkFtQl9YQ1hjRGtyQlcyejcxNXZCQU8wbHJIQQ",
     "CBMigAFBVV95cUxPb1F5ZU9PbkRnTWVLcTZURFZXeGd3b1VFY3Bac0dITFVjWVY1N09nTjlyLWMtQW5haHBfNlBrWFlxOGZobWp5MjZNRnBuTnN3MXZ1Y2RpZUZ1QVVtSjRfSDdVUnhlamdOTkVwVFhrVUpTQy1CQ3NfeWhpMW1XX0RSdA",
@@ -299,7 +298,8 @@
     "CBMifkFVX3lxTE1SUnhON2VHZm1PX2lpU2puRUNOczVQZUZSdTR0QUgteDZCdHdPQ1pTVGt3VEVxZ3RfQ3E3WVA1SERkV1ZDVmxxZktSQXFXTXF3ZENZakF1VFEySzMxRW50c3hTLUNydEtMMy12MWx6UEpOaG85TWRQYWVHaUNWZw",
     "CBMigAFBVV95cUxQbW14NmRaQlVFOHdzZzZETERKRjJFNUFaZWE4d0ozOUJXVFdqMGxkcFlnUER1WldZa2ptSVQ2ZVQwYnU3bmxCcC1SMjk4V3YzNVV6T0oxQ1JLYWJxZUp6ZGF0dVRNckRLWGs1Z3c5S3JwRmtHcjlselRWcnRQYWtJZg",
     "CBMiggFBVV95cUxNa0F2ZmlzNEVDZDU2c3V0Qmxtcl83MEpKdFhUOURMSmdnYk5ra0xpbTNHdjI1UnN2U2VNd3J5V3V1ajhGRWRzQVZGY3M5OVZrUHBEVlYzb25Rblo0QUxOVmE0a0xUU05tTjdTWm1rclIwLXM0VXh2amNQbGJhelpkSmhB",
-    "CBMifkFVX3lxTE12ejFTVnBfTERWSWFJeVJ1Q2dnc0taT0Uyc3FMY1VsemF1RkJ4X0EwVjJTbklQQl9tb1JDdko0SE1ZOHhZblZONDA3WkU5NENhMUdyQUtUQ2ZLdnVLQk5OZ2NUX3cxYjQ0UFpxQ2RTaDQwZWc1OWxtSzJhV2Y3Zw"
+    "CBMifkFVX3lxTE12ejFTVnBfTERWSWFJeVJ1Q2dnc0taT0Uyc3FMY1VsemF1RkJ4X0EwVjJTbklQQl9tb1JDdko0SE1ZOHhZblZONDA3WkU5NENhMUdyQUtUQ2ZLdnVLQk5OZ2NUX3cxYjQ0UFpxQ2RTaDQwZWc1OWxtSzJhV2Y3Zw",
+    "CBMigAFBVV95cUxQUkxBRlFTd29kdFQ1VVRfN081UDBTV0NmYXNxWTFQeExtR0ZHN09NMFNCVmRhZHQtOUlvQnBXMUZ0T0d3R1JVV2VEZVpNQVUxc3huQUdIanF2NUcxUE1RTmtzQXc1RTFFbWtDVHRRRnRKNW5pZFZIeDVsUTNZTC1uQw"
   ],
   "https://www3.nhk.or.jp/rss/news/cat0.xml": [
     "http://www3.nhk.or.jp/news/html/20260724/k10015185791000.html",
@@ -906,10 +906,6 @@
     "https://www.bbc.co.uk/news/articles/cj9dx03jrgjo#2"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
-    "CBMiqgFBVV95cUxOMDRXM1E2Z25Ta2tVMlJGVVFmbUFzLXRMc09IR1NWN3F2ZFNubFlVUERBcHliSEFQZFNEYUdRS29NdDc3NUFoclg1VmlEWTdUczY1NlpOQkszcVlTODRuX0dDa1NVeU5NRVVzRU90SlYwWVJxa2wyVENwNy10TmtHNlNJZ2JkUV9xbkFQY0pESFpWdjY1RUR4XzBwTmx4dDRZSHVsaUNmQTZXUQ",
-    "CBMiogFBVV95cUxQUVZYOXIzQjktcGoxYlBqbS01YkNxejVwd0JtWTNDMWJNLWtsczRyZWVkYloyTExOU3pvcFJWUkVZLTl6NXEwUi1JZUdGbEYzZGg4NTExTHlhZG5FVm5KRExKdmlfajdWdDJEZ0hfai1kZlhpamZmVjR4SHRaNGJmTUc4NW42SGZObUY1d0E3QXZDQXpmN0dYX1kwbC1VeXJqNXc",
-    "CBMingFBVV95cUxQUnpyMEFsbnFKMHRLMUZPWmcwV3o0bU9qLU4zRHNZd0YwXzh4NmRvNS1Xa3NkOVJJRGYzZXA5R0NNa19pandCVVNNODk0SFpPVE42MFpNUEhya2ZyaHVpTTVIbzdQMUFPSnBZQks5dEdvWWVHWGJpMWlvcjZOcjBDNklhWWFIN1J4OHB3QlhQNGtoeGM1WUREYVAxU1Zydw",
-    "CBMimAFBVV95cUxOQWxjaWdTQWYxVkJVMWY5ZndNbE9kcVBNV1ZzVEM4TDZaVW5wUmNXQXJYdzNjVUhLVVh1NUJKQm9Rbm5IXzlJWmtfclMwX1E2R0xyVGhuaDJ4RFBBNU1CRmVGR1d4T0d1WUlYYnlYZ1J2OXJpSlJqcGd3NnFjYU1lbllhWnlaOUJLbUhUOXJlbzhCRUhsZjVneg",
     "CBMiqwFBVV95cUxQaDd6bGxieFk3aHQ4ZnduTnNwMXlQclRjOXVoWnFpWmtxWjVHV1ZvQUhRU1B2cHNaQ2lPa2w1NUlpR09wc3dNSlJnc2lwalc1emZUZGZiNlZpVmd5aHk5TVRCUlowc21fLXhpaEZIeGdaRnk2NnFaUnotWGRuRHdITkZPNDBPNDFCZ1hDQ0trSVpJUVEyeUF1YmU4LTFSSmI2eGxMMV9RRHhZdUk",
     "CBMihwFBVV95cUxQZm1US05CR2dscjFVYXVxckszQzlrZUJMQ2N5TUJCb1Vka21vclZwRGdweDlDWE52UWtaWkhsMnlvX2lBVkdoWnhDS2oxeVdRdmtsUFZjdEZwYy01bVpxeFNOU2R6MGFsd1RxdFFxbkUyNlBxMU44eGh0ZUFGWGxUcTg2U0hjSkk",
     "CBMiogFBVV95cUxQODF0cjNlelY4NHdRNmpIWXFqaWJsUXNJTFlyVlBwSzF6SEQ3cFNSUHN4UFBVV3B3VlpTS1lHQkVMa1RTcGZCdlVzUzQ2WjJGRDhfUGh2cnRpZktBa2tNWnZ4eDNtWUlKTGlaMjZWcE4tRzJqSklwS0ZyUXF1RVRPZVJPSDZwUGZhOVVHYms3ZS1IQnlEQ2JXUEJUYU9vTk9KV2c",
@@ -1205,7 +1201,11 @@
     "CBMilgFBVV95cUxNZWR2aUlRQmFTbHJNN3kxYnlKaDF0TmhYeGlEaXVXWmNwWVFrM0F0TmtpU0N1WEZGbnpyZDhMSXkwQ2tKVHVMSjhTeXdYcV9WVWMyNGlSQU5VbnY4R21nNkUyLUxZNTJGaGYzcnBhQUZoZVEybFpYYmlvZVRidXAyNUZoMVNqRFVkU2dodTlQRFFsUkpMaXc",
     "CBMinwFBVV95cUxNZDQ5M3dkb2lOTFFPNE1KdkROTnk2UEJkQUdVWW1wRTJCUjhCYU5zZ1pQYnVGQS04VXBjWUpEaUxIR1pUT0ZHQjRKOGVDY2hpTEdYVmdFZ1lpRm9pS0IzRkdKS2s1LTk1NnY4V0JUOHdUNnVRSUJES0NNQ0daQ3FFQTdfTGZ5NGM1ZXBsTmdrdS1ibGo2M1V3clQ2QXRHd2c",
     "CBMinwFBVV95cUxNRGMxazQ3aC1nN2JTWmNzUGxNd1JaNXlUam9PQ05SVW44a2NCTlNNRzlwdnRBQkpEY0pIYTdpYk5DUzhnZG9XVWdwbUxNM3BJOEpJQzk4djduaTVHcl92NXFIS01kZ2lTcnplZE8teGdCaDhpdzQzLVZqeFVfTjl1ODJjcy1nRnlkZlBFOG5UaEszcXhFVTZ6U003ZlBfbWM",
-    "CBMikgFBVV95cUxPSG84WWREdXNyWXNGMGExaDNqMHlvSnpxMzhPX1hWZEZmMVpBQXNNUzNFbVhMU0dvOHBCNXd1STlYR2dNV1pkN0Y0VXZ0WF9sQXp3ZGc0Y050ZDlVd3ZZUi1XclYwNWRTX1N3YldWUTFzNzZLdk11cGFKRUZPV3BPZVVEQmhjVXdTSjZLYWQ3ejE2dw"
+    "CBMikgFBVV95cUxPSG84WWREdXNyWXNGMGExaDNqMHlvSnpxMzhPX1hWZEZmMVpBQXNNUzNFbVhMU0dvOHBCNXd1STlYR2dNV1pkN0Y0VXZ0WF9sQXp3ZGc0Y050ZDlVd3ZZUi1XclYwNWRTX1N3YldWUTFzNzZLdk11cGFKRUZPV3BPZVVEQmhjVXdTSjZLYWQ3ejE2dw",
+    "CBMingFBVV95cUxNOWJhMlJZekdIMG1VYmt2ZU5DZUR6N0RsR1BIekJsbXpJMzlSZDRBVmduRXd2RDVvY3MwbkljSVBzNTJLbGNuTnBiNGI1ZWw2Mm1EemJaRVEyTzF6ZHd6amplRG1mWGdUNnktMWRadkctM0gyajVVNk9oQVlmU3IxTmNESlNRRXBOV2JvMUxOOFc2ZmRDYld1OWxoSFF5QQ",
+    "CBMiowFBVV95cUxOTTZLOTI0LW9VekdVX1ZXR0dpd20xa0dLLWxQVjczeVhOWG5fNjZZT3dLMkQwSkZFUFVpbE0wUXpfUDR2WllVTmliVzgxNzRuX2M5V1AwMEtiTlhkWHZmcDcwNnJ3TC1DUFZUT1M5M0FKYWN2SXp5dldVN1hFamI2Y0g1RVl2cTk5eHRkVF81UkFaSENRWkwwWGFDQ1I0OHdraFNj",
+    "CBMipgFBVV95cUxOQk85aFc5OVpMc3pHdWFaS2xjYzQyUmJhRVdQd2ZVc1dIZGY2Szd3b0V0bEdUOG02RnZ4VDV1cnllejNQM203bmkxcG5sS3BYSHlMVXg3ZGNNUldOWVgyOHBHTDlQOFJlS2VGWmlLQmJib0VXM2czT3BQTDAwc05JQnZ1RjFEdG5ORWE2TXBhYVc5MXNOSUs0YU52UUF1eDBaS1Zhc0JB",
+    "CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ"
   ],
   "https://www.scmp.com/rss/4/feed": [
     "https://www.scmp.com/news/us/article/3362306/fauci-refuses-answer-questions-heated-senate-hearing-covid-19-origins?utm_source=rss_feed",
@@ -2114,8 +2114,6 @@
     "https://en.yna.co.kr/view/AEN20260818003951315"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1786663151",
-    "https://www.aljazeera.com/?t=1786673326",
     "https://www.aljazeera.com/?t=1786673132",
     "https://www.aljazeera.com/?t=1786659217",
     "https://www.aljazeera.com/?t=1786672330",
@@ -2413,7 +2411,9 @@
     "https://www.aljazeera.com/?t=1787018145",
     "https://www.aljazeera.com/?t=1787009703",
     "https://www.aljazeera.com/?t=1787016052",
-    "https://www.aljazeera.com/?t=1787015322"
+    "https://www.aljazeera.com/?t=1787015322",
+    "https://www.aljazeera.com/?t=1787016029",
+    "https://www.aljazeera.com/?t=1787020671"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
     "https://allafrica.com/stories/202607210637.html",
@@ -2776,8 +2776,6 @@
     "https://en.mercopress.com/2026/08/17/cali-closes-the-rescue-phase-after-140-hours-and-moves-to-clearing-rubble?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss"
   ],
   "https://www.abc.net.au/news/feed/2942460/rss.xml": [
-    "https://www.abc.net.au/news/2026-07-26/live-updates-formula-1-hungarian-grand-prix/106960176",
-    "https://www.abc.net.au/news/2026-07-27/luke-bateman-survived-gambling-addiction/106896866",
     "https://www.abc.net.au/news/2026-07-27/commonwealth-games-iona-anderson-scottish-glasgow-gold/106961028",
     "https://www.abc.net.au/news/2026-07-27/afl-confirms-state-of-origin-future/106961174",
     "https://www.abc.net.au/news/2026-07-27/tour-de-france-tadej-pogacar-wins-fifth-title/106960924",
@@ -3075,6 +3073,8 @@
     "https://www.abc.net.au/news/2026-08-18/cameron-smith-kevin-walters-qld-maroons-coach-search/107048868",
     "https://www.abc.net.au/news/2026-08-18/rugby-league-state-of-origin-headed-to-new-zealand/107048994",
     "https://www.abc.net.au/news/2026-08-18/alex-de-minaur-defeats-arthur-fery-at-cincinnati-open/107049642",
-    "https://www.abc.net.au/news/2026-08-18/josh-fraser-named-carlton-blues-afl-coach/107049324"
+    "https://www.abc.net.au/news/2026-08-18/josh-fraser-named-carlton-blues-afl-coach/107049324",
+    "https://www.abc.net.au/news/2026-08-18/tallis-duncan-world-cup-selection-australia/107049958",
+    "https://www.abc.net.au/news/2026-08-18/jake-weatherald-dropped-matt-renshaw-in-australia-test-squad/107050212"
   ]
 }
