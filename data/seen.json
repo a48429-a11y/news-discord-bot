@@ -1,6 +1,5 @@
 {
   "https://news.google.com/rss/search?q=site:reuters.com&hl=ja&gl=JP&ceid=JP:ja": [
-    "CBMieEFVX3lxTE5sVURWZ1h6TDZzcHZqNUgzTUhzLWhmeHdLbHBLUmdvOG5qcmFHbU1TZ2lCV2JYMi1DeEt2OFJqVFZfeW1CWGtwTkd4NGxRVTZBZ1ZncWZ4a3dWdDl5WjdJTlpvR2JnVkUydTBTcFQ2ZHY5VmJCZDI2Tw",
     "CBMigAFBVV95cUxOaENpRVlITm5VODh6SHAzZEl3ODFLdVBjTE5zX0ttcDhZNExFQmJXVWhTNGMzSDQ3NUlOSFRDaWxtZk53cFVOQmNHYXBzZmFJeUZveFM3eE5EaVBhVmx3TmZnbWhyT0M1VzdBbHgyd2p5Y05qWm5rWkltZ2ppTHpXcw",
     "CBMieEFVX3lxTFBDQVRPSmlHMldxMko5T3RFT2NQZWtGYlprT1J3QjJRNWNwYUtscE55SXFuei1XS3VveGM3SkVLMHk4d1AyUlpYdkpTajNrdjBPSDVaTHlJQzJIWG1hVENhX29QYk96ekcwQkNqTTVlcVI2ZUhMUWdNUw",
     "CBMigAFBVV95cUxQdEVNUGN1bTByUVMzOUJJNkMwZmc1WlRLLXBlbWdBd0JsUnhMVVpZTFNjcXVBSlZ3RzNpQUc0b3J4TmVVWHF2bFZKcmZOYU9zcm5TV24tLXg0OXd6TlJ6T2p5QmxOWklkNk1wd044R2JSYWhrdHRDMG5MRzJkdjBYXw",
@@ -299,7 +298,8 @@
     "CBMigAFBVV95cUxOX2YxRExyZTZlQWhMS0V3VFIxV2RsYThCNWFNQTVvRWp4cWdQZ0ZtTzZMbGVjRmFFMmRySW1pNGxYSzRHa1h2R1dzQ2QtUmFLOUZYejFST0wwWDExR0FyenBMc0F0YmsxYy1zXzZRdm5MTWd2RXBFeC05OHA2RGllUQ",
     "CBMieEFVX3lxTE9UbjVoT01yUEtVRGtjT2hTMm1Bb1FyczBxcDFHYXJ6b2xjcUpxUFJsdS1ZZ1MtN21GTnBsR0xtNXkwU2taX25sT1l6WFJldDNiYmRQSklWaTZEUHN6bWgwdnoyQ1NXUWdQSDJVTjltdmg2MzVnTnJaTw",
     "CBMigAFBVV95cUxNZGxEVnd2VEdzTTA1MHJXNE14MTJveDk3dnJ2ZHRlRXYzQ2JnU0NvakM4cFVEQ3RCYm1KV1NiSXVOUWFQeGhNU0dhLS1qZjVIc19qOV9NaXFkM0p5VHdfbGphUWE1Z3FSSFJSelRyaWJqdTJmak5qUUx6SmZROXJ3aw",
-    "CBMieEFVX3lxTFBBWktpNng5bTIyaWN4SnhjZUxrM3AwRXpVdXVCdXVKQ3dVZnBSVDVXdldrZmI0amJ6TU50Q1VpT1NRZVJRLWtNeXh1S1pmUUN0Tko5VmJ4dDg0d1J5dXVKR2laamVtNndwZmJOMkc3YnV0aFd6a205ZA"
+    "CBMieEFVX3lxTFBBWktpNng5bTIyaWN4SnhjZUxrM3AwRXpVdXVCdXVKQ3dVZnBSVDVXdldrZmI0amJ6TU50Q1VpT1NRZVJRLWtNeXh1S1pmUUN0Tko5VmJ4dDg0d1J5dXVKR2laamVtNndwZmJOMkc3YnV0aFd6a205ZA",
+    "CBMiekFVX3lxTE5nSmxvQ1dvd2VEOFY0UFF2aEFHVFJEYWVOWDM1aUNkTWNwaExyTThFS0I0eVRmX1ZjVlFkaTdxYy1KSF9lX1pYREkwOTNYVVRCSnJjLVpWR2RzbVhVMWhOVkplQUNwOTA2VEhsZUlSUmhfMFhGTlpGeWt3"
   ],
   "https://www3.nhk.or.jp/rss/news/cat0.xml": [
     "http://www3.nhk.or.jp/news/html/20260724/k10015185791000.html",
@@ -1208,7 +1208,6 @@
     "CBMiowFBVV95cUxNN2JFR0o3TWZVbGFqemxWTXhqaTc3cnp1MWF4WVh0T0VYZGN1YUR1bXhGM1BqNS1hdFZabnB1WWt6QXF2VkhCdHVLNUR4bzhvUVdHUTJ0TktOME8xN0FDUjZDa0xhMm05UV92d3VLa3FUZDhNR2dGTXJWNTgwUy1OaVlLeFdUOXB1Y2JQMk9MdnNibzVYc19LOGFtdW55SDFGY0pJ"
   ],
   "https://www.scmp.com/rss/4/feed": [
-    "https://www.scmp.com/news/china/diplomacy/article/3362353/china-envoy-makes-rare-response-after-nz-foreign-ministers-go-back-slur?utm_source=rss_feed",
     "https://www.scmp.com/news/china/diplomacy/article/3362329/surprising-disappointed-trump-has-warning-xi-ahead-september-trip?utm_source=rss_feed",
     "https://www.scmp.com/news/china/diplomacy/article/3362217/why-did-okinawan-delegation-visit-beijing-cemetery-amid-china-japan-tensions?utm_source=rss_feed",
     "https://www.scmp.com/news/china/military/article/3362301/how-trumps-call-asia-pacific-allies-raise-defence-spending-may-backfire-us?utm_source=rss_feed",
@@ -1507,10 +1506,10 @@
     "https://www.scmp.com/news/china/diplomacy/article/3364454/wang-yi-heads-seoul-trump-cuts-south-korea-drills-opening-door-china?utm_source=rss_feed",
     "https://www.scmp.com/news/china/diplomacy/article/3364465/xi-hits-out-outside-interference-latin-america-meeting-ecuadors-president?utm_source=rss_feed",
     "https://www.scmp.com/news/china/science/article/3364442/chinese-doctors-get-double-thigh-amputee-walk-again-world-first?utm_source=rss_feed",
-    "https://www.scmp.com/news/us/article/3364479/will-washingtons-tech-crackdown-test-fragile-us-china-truce?utm_source=rss_feed"
+    "https://www.scmp.com/news/us/article/3364479/will-washingtons-tech-crackdown-test-fragile-us-china-truce?utm_source=rss_feed",
+    "https://www.scmp.com/news/us/diplomacy/article/3364485/harvard-mit-among-30-us-universities-ordered-audit-china-research-ties?utm_source=rss_feed"
   ],
   "https://news.google.com/rss/search?q=site:euronews.com&hl=en-US&gl=US&ceid=US:en": [
-    "CBMitAFBVV95cUxOeTJNb1NILTNGdjUxZEFDR3RCSnk1TjlLbVZkeFZBazdQTkJkOEQxYTNTelByZmJtUmduM0FUWktPWmZhS29PRFJleV9yVDNQbDFjeEoxUGg2R0FNX29kOEd2TFR1MXBIVE85LXJjcHZoWG84WmxvemF5T21WX245bFplal9aem5XOE96V1VxOGRpM0M5X1VZNDh6TEEyT2lvQ0dfa2JUd2lVdWQ0eVJRaXVjUHk",
     "CBMixgFBVV95cUxQTS1PUU9aTzVGNXg4MzdRN3l2NWM4Z1dCVUxpeW5LeklmNVkzWDJ2RDEza1NLQTZEUUtlTWlBMUFwU2NYajdVYU1oem41TDB1ZEFyS3BwU0dvWVZ3aVU5WWNBdWNMQ3p2OEdmcHB1d21qTEdSUV9zQVZ6dnlMbE1IN1pqZ1NMMUdSVFRvN2IwZGFaZV9DS1FYMjJRcUlua2JTTkYwZjFaa0ZaYUtUaGd0eUJhMXZwbkhGMFdTQmMtUTFoN2NOUVE",
     "CBMiqAFBVV95cUxOeEl3T1FHdmhXREc5VktXeGd2RGI0SWVWY3RhdDVhV2M4TmJhYlZlV0hGVmJLNVJfNElkTjZiNmlkQmd0akY1dDIyWmVydmxBc1FwUGZjWkpBOHZOR3A1akRDLTNRWW13NFF5VVpRZmV2ZXFEbVBmeE9PZkpoY1R2NHJucmg5b0JES0xoOEtBc3Z6X1VYQnlPcEV1cHBleHU2QzJJSHpKOWM",
     "CBMirgFBVV95cUxOV1QtRzB6M29qdlo3VEtGdG1ETXZ0U0NmM29iQUROZEF3VVAxd21OOTh0MGE5blBhRElEeWlEWGd4WjhTTWluRS1CMWdkRFBQZmQ3NTRYYV9fbVlfeXl0dUNlX1FEVmx1WFJLZDlVQzVNeV9INU8tTFN2R2R6U3ZNUWtLeEpRLWhGekg0OFctSGZVblNyLVRwd2cwd29yY2FRZWZ6MURoc3hvX1NKT1E",
@@ -1809,7 +1808,8 @@
     "CBMiqwFBVV95cUxOLWJzUlZ4bWtGRVFLV2p5WHpCR0k4ekw0THFCWHVUQ0F0M0pVR25OYm5xdHpFNHFyTzBFdTNhTG43MWNrNW5fVkJ2MHRRaXpSSU40YU5QYzlFQUpvM3IxR1B2VVFtMXM0aTVPU1pkTkd1OUU3cFZ4QnpFdWFpV1NmdllURUlueFNBdkctSFRFU3IxNFg0S2U4Q0JLaUtNazZNeTVUc1B3QmlZcE0",
     "CBMiuwFBVV95cUxOWm9jcl9wQi1jTGdRaGVPT080SU5tNm9hdU1TOE5CZHJQZ0h3UWN2X1JSbnhURGF0UkVGY3dUN3dBWDBjbVl4MHoyZGJvU3JCcmp3MWNxLTVIWWFZd3BxN2QwblhUZHlnSFl4c1cyRU0tVWMwVS1iUF82QlQ0S01jLXJSd3d5UzRaN1V5UWdYVzFGc2diTXNmMC1QMjJRcmVEeERjbUlPd1Q2YW9rR0FYQWFlUmhaaUZjMGRR",
     "CBMizwFBVV95cUxQMDNvZmtKRUVlcTJKVXpXdzNxejJ0MXRjOWZZRFhiSEVQajNWT3hpdjh1N3R5TmlXcGU2WXRzcnBPSERmdTBjdTl0OV8zVXNwaUJLWUNuelhRNmJIOThucklzZ0thd3VtNGFpOWZ0Y0NZX2pvUVUtOWtYMTZ4STBpYWk4TmlZOW81Q3RmaGh3aVlDeUs4TUxZYk44dW8zYXBNVWdlNnc0Zm13eWVvMVBpbDBYak5id2l2QngtSkRzbEVYMEMtcUk5Z0ZrOE54eXc",
-    "CBMirAFBVV95cUxQUTdlRXY5NkhaOVAyLUFmY2UxcGZGeGFEUzdHSUZ3TkQwZVJYSmV1N3A1Q0VuUlI5LWxhU01RRmllcHZJcEZZVWpPdFhRSXItWnIyOTJhOFJQQ0hucTJnS1FJaW90ek8xQnk2amV1b3k3aGNXTzk4ZHExVjdfS3diM2hmYU1MeVlhUVgyV0VDQkdBcXdLMFphVVphMWIya2tDYU1mOTRJdzQwQXBf"
+    "CBMirAFBVV95cUxQUTdlRXY5NkhaOVAyLUFmY2UxcGZGeGFEUzdHSUZ3TkQwZVJYSmV1N3A1Q0VuUlI5LWxhU01RRmllcHZJcEZZVWpPdFhRSXItWnIyOTJhOFJQQ0hucTJnS1FJaW90ek8xQnk2amV1b3k3aGNXTzk4ZHExVjdfS3diM2hmYU1MeVlhUVgyV0VDQkdBcXdLMFphVVphMWIya2tDYU1mOTRJdzQwQXBf",
+    "CBMizwFBVV95cUxQY3VhYTZqZ1ItQmlFQ1JLbjEydTdSWVFiZ1M1ZTZKdGk0bmE1RXZ4NmRsUHk4WUk0bDJ4bjRORFVodi1ObEJVWEFacVVvdmFZME1zTm4zMUtUT3dncFd5dlp6Ymg2OG9wUVB6MTNMc2ZvclhkaUl1dVRnSHJuMGx5OHdLT3RFS0g0UDFCUzhHNE1sYmJ6YWVzRVVHSWlDRy1hY1M0ZEtwU2g2T0ZnU2dQTVpxOWRmMEM2Q2QxVjI3SnNoRndIdlhmLU1Oc1U3MnM"
   ],
   "https://en.yna.co.kr/RSS/news.xml": [
     "https://en.yna.co.kr/view/AEN20260813001200315",
@@ -2114,8 +2114,6 @@
     "https://en.yna.co.kr/view/AEN20260818010700315"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1786742108",
-    "https://www.aljazeera.com/?t=1786740536",
     "https://www.aljazeera.com/?t=1786744045",
     "https://www.aljazeera.com/?t=1786748082",
     "https://www.aljazeera.com/?t=1786737903",
@@ -2413,7 +2411,9 @@
     "https://www.aljazeera.com/?t=1787081610",
     "https://www.aljazeera.com/?t=1787075763",
     "https://www.aljazeera.com/?t=1787086321",
-    "https://www.aljazeera.com/?t=1787078646"
+    "https://www.aljazeera.com/?t=1787078646",
+    "https://www.aljazeera.com/?t=1787079699",
+    "https://www.aljazeera.com/?t=1787076098"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
     "https://allafrica.com/stories/202607220052.html",
@@ -2777,7 +2777,6 @@
     "https://en.mercopress.com/2026/08/18/colombia-s-president-hands-out-branded-footballs-in-an-earthquake-hit-port-city?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss"
   ],
   "https://www.abc.net.au/news/feed/2942460/rss.xml": [
-    "https://www.abc.net.au/news/2026-07-27/max-king-injury-update-st-kilda-hamstring/106963654",
     "https://www.abc.net.au/news/2026-07-27/adam-doueihi-wests-tigers-update-contract-/106963028",
     "https://www.abc.net.au/news/2026-07-27/works-begins-hobart-mac-point-afl-stadium/106961410",
     "https://www.abc.net.au/news/2026-07-27/sydney-shark-attack-hero-wins-world-paddleboard-championship/106961570",
@@ -3076,6 +3075,7 @@
     "https://www.abc.net.au/news/2026-08-19/sydney-swans-questions-afl-policy-sexual-assault-allegations/107051552",
     "https://www.abc.net.au/news/2026-08-19/new-mum-ella-sabljak-australia-wheelchair-rugby-world-champs/107046698",
     "https://www.abc.net.au/news/2026-08-19/ricky-henderson-genitals-exposure-lawsuit-afl-fox-sports/107050690",
-    "https://www.abc.net.au/news/2026-08-19/moranbah-darts-club-bought-back-to-life-after-closure/107029122"
+    "https://www.abc.net.au/news/2026-08-19/moranbah-darts-club-bought-back-to-life-after-closure/107029122",
+    "https://www.abc.net.au/news/2026-08-19/venus-williams-popyrin-receive-us-open-wildcards/107052864"
   ]
 }
