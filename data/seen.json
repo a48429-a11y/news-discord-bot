@@ -906,8 +906,6 @@
     "https://www.bbc.co.uk/news/articles/c3w03y2wgxeo#2"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
-    "CBMilwFBVV95cUxNMnk3enhDLU5PRHZPNVlfdkVRb0t5ZjFPYmExTFlGcmIzVnh3eDNWQ3loVVF6MEg4ejNZOE92YkxKc0lpNE5pcXRQYnhPRXFWV05QUnpmNE0tMXZkVVU3YndadUxkampNUWx0Q3JqdjY3aC1Wa0pYT0dwVzgyT2JpVDMwVnAteFdDT2NXTXFOLTUwR0x6X01z",
-    "CBMihwFBVV95cUxOSF9yUjNXX2h4OXJYMjN4LUdDRS03dGd6MmwzWXM4azBtY2FPMW0zcGsyRXNoRHBoZEhERXNUOTFfd3RYOEhvVEF0WEZuLVp1X0JtdUFFZWlVNlVyeXgtR05sUkc5c19CWW85WmZYRWRCNG9YSHVJVU4xUDZCWjEydDNpSHY1WGs",
     "CBMinAFBVV95cUxORXhISUZDNXVZTlFMeWpOeGVEUDVsYWZKYkFQV2tmaXVSSW45SW5RZmtyeGQtaVIxMlVGdVZVNm5vemI5Rm9yMS1xMFc4Q0kzcTN4UThPTnF1anVDd1FSdWlIdEY2SWM2bkRiZ0VQQVQxOUJ4dXl2U2pIZFZOWVJyQ0NrelJvSlJsUWlpOHhxeFBSa0V6Y1BYb3dvaXQ",
     "CBMimwFBVV95cUxNLXI4SnJwNkxsZzBrUnhWazdlaUhXa1FSNlNXN3paYWJZdWNlRF9zeDVwUFltYUd2blV3OEtLM2Q4R3RsM3BsYUx3Wlk4RTM2eFYwSFNYcnNhc2xiRXl2U3g5cU5XM1VsOEhmSVNrendIQWhHY3l4S3YtNkFQNkROdnBrSXNDOTIyc183cU1TZG1FS2VqN0trZjctNA",
     "CBMimAFBVV95cUxOZ3JUMFFydWtDTXluS0Z3VHcteFJTMWpscXFqcWNGRDhWOVU1RndmNUpKZ0ZFRTVPODFDVHFHMTVyLWE2eEk4WmZVMTZkNmNKcjR3UFJReF9Rem5RRkNzSS1BZHNRb2gzOHNSeGh4dXpXWk0zNHpGTzQtSkZYZnVpZkw5NGxrYzJDUzFQS0UycUp0enk1eDM4Sg",
@@ -1205,10 +1203,11 @@
     "CBMitAFBVV95cUxNWlZTbzV4R3BNYUhaSzZEMzRXdlhvQkVQZ3pXcWZhbGZXRXV0WFBNODNfN1BWcW9BS3kwOWtOXzB3OTI2a0ZuSHhPOEV0aGRTeHd3Tm83a0U3NEl3YlozMC1MVUZKdjhyOXRiM0U4ZlozQXVJRnF4eXozQm80UTdSMVlWOVVyX09FcjBpMmtCaHdhWEdjaXd1amdSYk1NSllfb09uT0ZQc0RjYWk5cDBBdjRMdDQ",
     "CBMipwFBVV95cUxPbU9TbzJ2ZG5Yb0h3QmRrTzJhMHdTVEU2Nzl2cGNlZ293alBfRzJxamZDTmc5c21JZEgxZGx0SU1adHNGXy11akpFSWxNc3F5WklaS2x2Z0xsTUtLSjB2Sk5FX1NqamhsQm5nNkN5X2IyQWtxMHB1Sjh0ZXV5amcwRlZvR2dSQjRZSGdQUkZVODdwZ3JmNS1XZWFiSno5R24tSDVBWXZYaw",
     "CBMitgFBVV95cUxOWTJGanpSbTFGQ3JFeXRVNlN3bHk1RExpaTA2cl90ek1WcVEwc2RkZVdCcWJDc0V2aDlxejN4MXYzeHY5UFc0UmNZOVFDRVJfWXBBdmExVVpndFRvRjAxVjJUVkRQVHU1eHRDTzZLVUo2a2hPbG5EY0dRMHJoTm9jM1NObkpMX1VjUjZyUHlPMUZDemVyZGlwSVdFYVoza2JUemUyR3A5OHVPVVROZV9rd1BGT21oUQ",
-    "CBMinwFBVV95cUxPRE1vVzA4NWdOVmhDdjVHT0ZoWTNvQWRpTmdXTVNjbmlROWNTbnBDYUpCeTI2bnctckRaWTM2NUwyVTJlN2M5UlNJdWYzZXRHdkJMNks3RkFVMmYzNklRMk1RblNGYXBuc2ZkRmd4aXFuRjJpRkxnMGU5OFNPWFVma3JwVzBXd1hzMHc0dkV0SXFuQWtock9PZG9iQVJSNzA"
+    "CBMinwFBVV95cUxPRE1vVzA4NWdOVmhDdjVHT0ZoWTNvQWRpTmdXTVNjbmlROWNTbnBDYUpCeTI2bnctckRaWTM2NUwyVTJlN2M5UlNJdWYzZXRHdkJMNks3RkFVMmYzNklRMk1RblNGYXBuc2ZkRmd4aXFuRjJpRkxnMGU5OFNPWFVma3JwVzBXd1hzMHc0dkV0SXFuQWtock9PZG9iQVJSNzA",
+    "CBMirgFBVV95cUxQaFBmSnllY3hNb2Q3UlhFcVFJTEZJckN0SkR0LWR4UnFGaHdSTm5UdFZ2Q3U2blVXTUhQbTU0S0RYRGtVSTVvajFwRmU1Y05hcXdhY1JtUUVBb3l3Z0Vsbm1Nb1lvMTRCam9kTDdTU2ZVcWprdlVfVkFCclh3SXdZRG9ieExmZ1N1b3p4dmFKTlJoR0NEalo3dnVmS1A5ZGRxazIzZ0VOUVpTMVBFQ0E",
+    "CBMilgFBVV95cUxPSjNCck1zLV8wXzEwR3dHX3hTcDlqY2taMkYxRW9NTU9DQ2ZveWRCdFpLSHpteWRVWGV2cTR3bmhKbDN2V2tyQko3bHo1YnRQeUxhMDk4YWNnVUxIOHNFMWJuZVdidWltNTdSUjhGTFIwbElqOWh4Q0tIMXAxc0dXQV9aY20xc2hCRlpkSTUxNjhGY3NiTVE"
   ],
   "https://www.scmp.com/rss/4/feed": [
-    "https://www.scmp.com/news/china/military/article/3362271/chinas-type-076-amphibious-assault-ship-sichuan-final-tests-drone-catapult?utm_source=rss_feed",
     "https://www.scmp.com/news/china/diplomacy/article/3362249/practical-young-africans-leaning-towards-china-over-us-and-away-ideology?utm_source=rss_feed",
     "https://www.scmp.com/opinion/china-opinion/article/3361895/china-should-lean-its-defining-ai-advantage-accessibility?utm_source=rss_feed",
     "https://www.scmp.com/news/us/article/3362307/us-sanctions-chinese-hong-kong-shipping-firms-over-iranian-oil-deliveries?utm_source=rss_feed",
@@ -1507,7 +1506,8 @@
     "https://www.scmp.com/plus/news/china/diplomacy/article/3364393/china-led-sco-counterweight-west?utm_source=rss_feed",
     "https://www.scmp.com/news/china/diplomacy/series/3364401/xis-2026-trip-us?utm_source=rss_feed",
     "https://www.scmp.com/plus/news/world/middle-east/article/3364424/iran-conflict-boosts-appeal-arctic-short-cut-asia-europe-ships?utm_source=rss_feed",
-    "https://www.scmp.com/news/china/politics/article/3364422/chinese-president-xi-jinping-leads-party-elite-final-farewell-ex-premier-zhu-rongji?utm_source=rss_feed"
+    "https://www.scmp.com/news/china/politics/article/3364422/chinese-president-xi-jinping-leads-party-elite-final-farewell-ex-premier-zhu-rongji?utm_source=rss_feed",
+    "https://www.scmp.com/news/china/military/article/3364423/pla-troops-sent-gold-new-taiwan-and-us-dollars-wartime-financial-support-drill?utm_source=rss_feed"
   ],
   "https://news.google.com/rss/search?q=site:euronews.com&hl=en-US&gl=US&ceid=US:en": [
     "CBMiuAFBVV95cUxPMVlsc2x2My1zbVExLTdPdzh2b3h0SkpGZU4wM0N3d3VXTDFoTk5KMFZBTllxcVZ0eEtXRDkxYjFRNnpVcHphWU5ocG5aOTBXZ0dSMnJWQkhHUXlCU0tqUjRoZWREVnpoZUxJeHFrb3luMmp5bkstdjEydk82akI1dkVudVZ0QUVoRHd5cHBpQ0V0YTI4S1JEVjlrd29mdk14cXhBNHAzTXNTSjNLTzgxb3hvUzRNeWI1",
@@ -2114,10 +2114,6 @@
     "https://en.yna.co.kr/view/AEN20260818010400320"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1786681928",
-    "https://www.aljazeera.com/?t=1786692859",
-    "https://www.aljazeera.com/?t=1786682295",
-    "https://www.aljazeera.com/?t=1786693822",
     "https://www.aljazeera.com/?t=1786692114",
     "https://www.aljazeera.com/?t=1786691223",
     "https://www.aljazeera.com/?t=1786611387",
@@ -2413,7 +2409,11 @@
     "https://www.aljazeera.com/?t=1786741104",
     "https://www.aljazeera.com/?t=1787031380",
     "https://www.aljazeera.com/?t=1787040653",
-    "https://www.aljazeera.com/?t=1787039844"
+    "https://www.aljazeera.com/?t=1787039844",
+    "https://www.aljazeera.com/?t=1786974453",
+    "https://www.aljazeera.com/?t=1787042266",
+    "https://www.aljazeera.com/?t=1787045338",
+    "https://www.aljazeera.com/?t=1787045293"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
     "https://allafrica.com/stories/202607220143.html",
