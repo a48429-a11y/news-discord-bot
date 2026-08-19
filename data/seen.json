@@ -604,8 +604,6 @@
     "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html"
   ],
   "http://feeds.bbci.co.uk/news/world/rss.xml": [
-    "https://www.bbc.co.uk/news/videos/cjd48zkg5n9o#0",
-    "https://www.bbc.co.uk/news/articles/c62vj8eywdlo#1",
     "https://www.bbc.co.uk/news/articles/cm2g90vvy62o#0",
     "https://www.bbc.co.uk/news/articles/c151dpzwnvxo#0",
     "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o#0",
@@ -903,7 +901,9 @@
     "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo#1",
     "https://www.bbc.co.uk/news/articles/ce34r0er75go#2",
     "https://www.bbc.co.uk/news/articles/c141605846jo#0",
-    "https://www.bbc.co.uk/news/articles/cjej8nze1wko#1"
+    "https://www.bbc.co.uk/news/articles/cjej8nze1wko#1",
+    "https://www.bbc.co.uk/news/articles/czjlxenlgkko#0",
+    "https://www.bbc.co.uk/news/articles/c1d1wgqqxp5o#1"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
     "CBMijAFBVV95cUxOM0tFY1BHY1BCS1haR2xZNnFCVUtjZlkzbmlNdEx1cVBLZXRIeE9ROXNqaVhsanpvTjNLVVVCYjlnS1BnQ1E5ZUNIbGlNTHpNUkhHYnJlTU1Wd3IxWGM4b1IxVW9BanNFMU1ENFg1cDBVc24ybjNLTzVwQTJST3RaT2V2SGNKM1RfYnF5YQ",
@@ -1812,7 +1812,6 @@
     "CBMiywFBVV95cUxNTXo0eWlINGtsOGJJeGhON3U1X01rNTVjemVmV2FneVA2b1BjaG9nNGhhX1JsdVJlZVdaUFpfQlpmXzVYaXFHOW9QTGJrWUxna1lUT3hPVHpmY1liWFNjcTYwQWtBS2FqSEozTFpNdGplWlZBaTlWZGYyc003cVI1bTJYbHFuSGhtX09nS19Tb3dfSDJZeHZ3QkJPVHlldlRMMXBSNlIzaHVqVVFTbDZ6UVRtT29hQkljUXdUbGdEMVRDSTBWMktGS0FRYw"
   ],
   "https://en.yna.co.kr/RSS/news.xml": [
-    "https://en.yna.co.kr/view/AEN20260814000900315",
     "https://en.yna.co.kr/view/AEN20260814001100315",
     "https://en.yna.co.kr/view/AEN20260814001200315",
     "https://en.yna.co.kr/view/AEN20260814002200315",
@@ -2111,7 +2110,8 @@
     "https://en.yna.co.kr/view/AEN20260819008700320",
     "https://en.yna.co.kr/view/AEN20260819008651320",
     "https://en.yna.co.kr/view/AEN20260819010100315",
-    "https://en.yna.co.kr/view/AEN20260819010000320"
+    "https://en.yna.co.kr/view/AEN20260819010000320",
+    "https://en.yna.co.kr/view/AEN20260819010700315"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
     "https://www.aljazeera.com/?t=1786777373",
@@ -2777,7 +2777,6 @@
     "https://en.mercopress.com/2026/08/18/colombia-s-president-hands-out-branded-footballs-in-an-earthquake-hit-port-city?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss"
   ],
   "https://www.abc.net.au/news/feed/2942460/rss.xml": [
-    "https://www.abc.net.au/news/2026-07-28/cabo-verde-stunner-gets-people-s-vote-as-best-world-cup-goal/106964928",
     "https://www.abc.net.au/news/2026-07-28/joint-spares-aussie-blushes-on-tough-day-at-memphis-open/106968374",
     "https://www.abc.net.au/news/2026-07-28/liv-golf-tour-asks-to-defer-payment-to-kooyonga-golf-club/106966932",
     "https://www.abc.net.au/news/2026-07-28/commonwealth-empire-games-scotland-vs-england-team-gb-glasgow/106928274",
@@ -3076,6 +3075,7 @@
     "https://www.abc.net.au/news/2026-08-19/fifa-fear-tactics-accusations-klaveness-lamour-infantino/107053144",
     "https://www.abc.net.au/news/2026-08-19/football-jamal-musiala-neurological-issue-behind-collapses/107053936",
     "https://www.abc.net.au/news/2026-08-19/ikitau-in-wallabies-squad-for-argentina-tour/107054022",
-    "https://www.abc.net.au/news/2026-08-19/socceroo-nestory-irankunda-hanson-monoculture-comments/107053054"
+    "https://www.abc.net.au/news/2026-08-19/socceroo-nestory-irankunda-hanson-monoculture-comments/107053054",
+    "https://www.abc.net.au/news/2026-08-19/we-are-deeply-sorry-swans-players-break-silence-alleged-incident/107055864"
   ]
 }
