@@ -1,6 +1,5 @@
 {
   "https://news.google.com/rss/search?q=site:reuters.com&hl=ja&gl=JP&ceid=JP:ja": [
-    "CBMieEFVX3lxTFBkZzNnanpPSW14UkVVQkJrbkdITUZPVVBTcjZOQjNrbklsd0puRlg0ZmR6SU53OWRBSFY1U0xHQWlFUkJkVnhpVDBiNjVzbEJUUzVhYlRVWUJVNjRaQ3AtTWZCdnBzNlR2WDJ3blRNa1F6WWlUZk9xUw",
     "CBMidkFVX3lxTE9DeVF2T3VCQVl2NXVGMW9seURPeTBvV3BKdUhmMkFGUjBOVThaQ2E4aHNLRWlZZVp1dUJNV1ViSUhtdkwtUG90aElXelpCbHBhamZoSkdNbjBabmMycUR3X1pSVGwzTWo1VUFUcXRRNV8xSzdDVFE",
     "CBMigAFBVV95cUxQWWNuRVdJdXZrbXotV1JtNExoMzA4VDFJRjFiaTNmUEJMZG5QU0g1QVNRcV9DS1FpbjVwM1NSS2tzTy03WXlHOVN2b1FBOXJYVlE2S2RXRkZ6QTNYUXJGa1RPb1hfNXRjR1ktaFJaMy1JOU5zZk5wNTlvSkZmSXNCZA",
     "CBMigAFBVV95cUxNX29fZWxPWXVtTGRlQWhFVE5ySHM4UXRlRElxWjgxNkZzUXBzc2ptUjFCbC1sSDBQUE90ZG8tMHJoSHpQNzFzZDh2d3FiWEQwMk44RXIwTTZsanZzUjMtOHY0WEUwM19oaHhQMC02X0VZcXBYdkxWYWlTd1pMUVEycA",
@@ -299,7 +298,8 @@
     "CBMiekFVX3lxTE14OGh5YUJ4M3I1OTN6Si1objc3YW5KMHA4Yi0wbnlWX0M5ZkhIQVBDbEZSTEUtaHRDSHBQTkR5SEljcW0wYl9yYTNOLUdHTHdpdmxVb3hFYnlmSWxmX1ZmY3ZPTzAxS3lVRXJSWkRvSzBOb3JDc0Y2ck53",
     "CBMigAFBVV95cUxOR19vUkwtcXRhNzV0N3JGcHFLV1pRMVVtUFRIOWV5M3BNLUtrQjZqR1VPZHh2QlR4RjJ3VlhDeGJGcVR0ZWNTZGJ0Y21VTHdYd0FxdEgxcGthWTNFenJSdUctalJReXNXaGNrUk1qWG1rOTdNTnI2NFVCZjBJWk0tcA",
     "CBMieEFVX3lxTE5YZHRlVlh1RkhkbUhKelZSN0MyTVJZaTFXbDhyWVpaNXdhYWlzeFVFQnpNeUtjLWUxcnF5T0Z6WEM5OUpKSEZrTEloX0RFczg1dDcweEZNUlQ0SDFjd05IRE1KOEE4b1BXa1hBTE5RZkxMN1hjc1FnQg",
-    "CBMiekFVX3lxTFB0NmdzeERSNUxsLVI1eFRxZHVVRTJGMmxFZ3hMZ000dW9RQlAwQms3ZWZ6emhyeUFVN0VSeUxaS0dEVm1idjRZN0pUQjFlQ0FSZEtaVWlpcHVLbU5zS2M1a056Umw1eDVNVk13TXMxSTZuR1I0enR0ZXZn"
+    "CBMiekFVX3lxTFB0NmdzeERSNUxsLVI1eFRxZHVVRTJGMmxFZ3hMZ000dW9RQlAwQms3ZWZ6emhyeUFVN0VSeUxaS0dEVm1idjRZN0pUQjFlQ0FSZEtaVWlpcHVLbU5zS2M1a056Umw1eDVNVk13TXMxSTZuR1I0enR0ZXZn",
+    "CBMigAFBVV95cUxNdFlpVnNnejZiWTQtcFQ4LXFoQ1hmV3ZRcl9HRGhzeEUtaGJULUgyNGgtNGFrYWJXX1Z6Y3JXdWZHNTNlbHpjNFktcWxOLTRvb3JfdTBXYU1yam9aMWZhMGF5TFNPOEx3VERtTl8wQ0NCOWVweTJTQUUwRHluNE5PTg"
   ],
   "https://www3.nhk.or.jp/rss/news/cat0.xml": [
     "http://www3.nhk.or.jp/news/html/20260724/k10015185791000.html",
@@ -1812,7 +1812,6 @@
     "CBMivgFBVV95cUxQYVBid2VLUlpGLW9NbDFNMXRRcXRFUllTR21ES0JSZE1XVWVvZXlWYVVINHFkS1FPUV9PU3ZNNWdxblFiUUx5Tk11eTAyalBFZmhydWlJNzltMHE0Xzk3QndsMUVWb3dwRDl1WFZHdkJBUDZJQklYTzQxLW5NQmdMRVR3MldFbXJPWVU2eUpqNUQzRl9jOGZQMnRaeFllTk9sMGwwNjkxZWNRLVZVYURILWhwbjJzNUYwN25pb1dn"
   ],
   "https://en.yna.co.kr/RSS/news.xml": [
-    "https://en.yna.co.kr/view/AEN20260814003800315",
     "https://en.yna.co.kr/view/AEN20260814003700315",
     "https://en.yna.co.kr/view/AEN20260814002800320",
     "https://en.yna.co.kr/view/AEN20260814003300320",
@@ -2111,7 +2110,8 @@
     "https://en.yna.co.kr/view/AEN20260820000351315",
     "https://en.yna.co.kr/view/AEN20260820000352315",
     "https://en.yna.co.kr/view/AEN20260820000353315",
-    "https://en.yna.co.kr/view/AEN20260820000354315"
+    "https://en.yna.co.kr/view/AEN20260820000354315",
+    "https://en.yna.co.kr/view/AEN20260820000400315"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
     "https://www.aljazeera.com/?t=1786868145",
@@ -2778,7 +2778,6 @@
     "https://en.mercopress.com/2026/08/19/an-argentine-consultant-who-advised-milei-s-campaign-detained-in-bolivia-after-a-shooting?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss"
   ],
   "https://www.abc.net.au/news/feed/2942460/rss.xml": [
-    "https://www.abc.net.au/news/2026-07-28/commonwealth-games-glasgow-2026-swimming-meg-harris/106964942",
     "https://www.abc.net.au/news/2026-07-28/commonwealth-games-glasgow-day-five-live-blog/106965170",
     "https://www.abc.net.au/news/2026-07-29/australian-gymnasts-win-gold-at-commonwealth-games/106969640",
     "https://www.abc.net.au/news/2026-07-29/very-bad-look-brisbane-defender-given-three-game-ban/106969204",
@@ -3077,6 +3076,7 @@
     "https://www.abc.net.au/news/2026-08-20/afl-players-association-labels-swans-allegations-serious/107055982",
     "https://www.abc.net.au/news/2026-08-20/brisbane-2032-olympics-rowing-venue-rockhampton-schools-regatta/107015974",
     "https://www.abc.net.au/news/2026-08-20/afl-john-longmire-reaction-sydney-swans-police-investigation/107056540",
-    "https://www.abc.net.au/news/2026-08-20/football-fifa-vice-president-withdraws-gianni-infantino-support/107056582"
+    "https://www.abc.net.au/news/2026-08-20/football-fifa-vice-president-withdraws-gianni-infantino-support/107056582",
+    "https://www.abc.net.au/news/2026-08-20/football-alessandro-circati-signs-with-benfica-33m-transfer/107056752"
   ]
 }
