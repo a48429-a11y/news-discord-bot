@@ -604,9 +604,6 @@
     "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html"
   ],
   "http://feeds.bbci.co.uk/news/world/rss.xml": [
-    "https://www.bbc.co.uk/news/articles/ce3q5vl581wo#1",
-    "https://www.bbc.co.uk/news/articles/cj6307x3wdgo#0",
-    "https://www.bbc.co.uk/news/articles/cpvw8vmmgrwo#1",
     "https://www.bbc.co.uk/news/articles/c20e360lx0vo#0",
     "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo#1",
     "https://www.bbc.co.uk/sport/basketball/articles/ckg3enx6rj6o#2",
@@ -903,10 +900,12 @@
     "https://www.bbc.co.uk/news/articles/cjej8nze1wko#0",
     "https://www.bbc.co.uk/news/articles/cgjeped6ewxo#1",
     "https://www.bbc.co.uk/news/articles/czdmzdnp3z0o#1",
-    "https://www.bbc.co.uk/news/articles/cdx755dyy1yo#1"
+    "https://www.bbc.co.uk/news/articles/cdx755dyy1yo#1",
+    "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o#0",
+    "https://www.bbc.co.uk/news/articles/ckg3j15v2npo#1",
+    "https://www.bbc.co.uk/news/articles/cg4d7q2ne7go#1"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
-    "CBMimgFBVV95cUxNcm4wTWJvdk8tSU5TcE51eDdzQXBVNUUtbzhoR1M5eGJZUDlQSUZjd19RMWlUZWJBZGxEM2pyR0hJeDh5VmNpaEctQWotUU1WM0pzVW5sZ1lIdDNXdU5wdk5DT1ppLWtOZlVYcE51M0tnbkJISEJNc09OM1ExTHZSSm1XTnR0V1NtV3Rray1BSFRtbGxRVTZuLTRR",
     "CBMirgFBVV95cUxPVUI4UlFnaFd1Y2d5c1JmZklxclp4ZXNHcXdpQlkzVW9MT3E2bjhXUFZWZVJXcjVpNnozdFBrSlZvcGNRWGxQbHFTX2U1bkZDQ0JDYWxGS3BJZEJDQ3FpM2hnT0g1S2dMcHVBSHNEcEEwaVdPdkZZT1lnMDhQb2lDeWtoX2NESThOb01HQjNUelRtUWlRMHlHdjQ1WldlNldWdzlleGpCR2tsUnBidmc",
     "CBMirgFBVV95cUxQLWZuZFpUQ0JKbW5uc3dBdFd0WUxfSlpDR3FTUElnWXJ0YjE2WFc3SWFLM29sRi1hX2J5WU94WTBhS3RvWl9vMFFWbzd4bF81QnZ3X19Ic04yLXgzbzBlQVZuX0JrRzh3UUJ1V1pQdld1R1pHc1duSWlkWXNkb3BSOUhCRXJPMmhMSmJYYVdsbDlsaU42cnN6dkVCdzhITHdabEZJXy1UbmFsdE5ZNUE",
     "CBMitwFBVV95cUxNRjFDMUI5eVYzTk9VRHJSRTYyQ1hvU3dpQXU3OVVGdW0wX0dWbkJWWldpRUVMeHdrdEVhOWRKQ2hneDgyYnB3eEtJbkhWRWhEbXZkRHprai1vRTlFSkcxSXg2VEI4TVJkMnIwbmJpazZVN3JXUkd3dzdteE9PQnRidnlWQnlsZWRxUFlPMnlCOFFpSkFPWW1vNlJDc3NBSFNuSk5SQnVYajVrZ2tnejJnMUdrOWRlWTA",
@@ -1205,7 +1204,8 @@
     "CBMiggFBVV95cUxOaVZmbWZYdjFCbktzdHEzVDhqNktlMEp3dW5DTTBTMnRIV3V0YW1HTTllUkhMaEhpbzJJb2J3bTdDNU9wX0NuZVZEaHVwOW9HT0ZaSzBwbnZIQ3Y3cldPU3RlaTMtUnBPR29rVjRsbUt2NHVKU3lWYmY1N1N3NjBDQTV3",
     "CBMikAFBVV95cUxOY0k1eHVvdHB1VFdtbGxuQXI0dGlHV2w4bkVoYTVTTVkzZ2V0UC10UXRTT29zOHZGN19BQWNOcF94OGNlQWJzTktWREw3X0tXVEVaRUFzd0xVamNLb3ZCZU5ScVdnU2JURVZwUUpGSWlUMTUtYVRQQXNmZHRxbEptb0lzZTgwSTM4ZmVzY25FeTA",
     "CBMirAFBVV95cUxOTTFETUJQZkVvNDNDajRVdEhmQktncnJKN0Rqa2o3U3ZZSDhzSTRKVV84YkwtOEx3Q0pDRHQ0cHEtYmhOcDQwTkVTOXdHWkpIVWZxenE5cDZOaFFxOXdwczcyU0JXR1A0cmhfWGx5cms4NU10bUV4a2l2ckZ0dmVMdVRyMjIzX3puVjlxRnJNZTZJWnJpb1h2R1ZUaTlhRW9OMWg4WVlOZTNVNnVl",
-    "CBMioAFBVV95cUxOTm9Za2V4OXJWODVZRENaWXhIQnRiTnBnWDJIanEyVGhWZGVlTTNQU3lrTEd4LU9ZcWxMRTN6S09nLVJJNGRCc1V1Si04OGo0d3U5WkNiYTlyc0dZbkQ2WEJnWjg1UjZnaUtMazRPd0tpN2dFNTd1NDYxNlluRllzcFNnb21rWkhoanBITEU5X3lfUTJMTF8xM0s3YUtDcF9l"
+    "CBMioAFBVV95cUxOTm9Za2V4OXJWODVZRENaWXhIQnRiTnBnWDJIanEyVGhWZGVlTTNQU3lrTEd4LU9ZcWxMRTN6S09nLVJJNGRCc1V1Si04OGo0d3U5WkNiYTlyc0dZbkQ2WEJnWjg1UjZnaUtMazRPd0tpN2dFNTd1NDYxNlluRllzcFNnb21rWkhoanBITEU5X3lfUTJMTF8xM0s3YUtDcF9l",
+    "CBMilwFBVV95cUxPbl9JNGxCeEUzV3FveVI0dmM1TGczaVFzem1RbDg5TWx6ck5naGlpQ0FWcmUyN0NQV2tqV2hZejNKWVVRUTNFRU9xWWJYWWJ2bGtGR3pnOEY2Uk1fSkFpazU0VVJfRWFBb0VmY3FISTJoNDBVU2g4N3F6NXl2YzJxOU4xenVOQTd0ZzFLNEEtUW5CLWJlUWQw"
   ],
   "https://www.scmp.com/rss/4/feed": [
     "https://www.scmp.com/news/china/science/article/3362341/triassic-fish-lunch-chinese-fossil-reveals-oldest-preserved-reptile-stomach?utm_source=rss_feed",
@@ -1812,7 +1812,6 @@
     "CBMiqAFBVV95cUxNUkcwU05MT0dSbGtzVm5lU0JMaDg1azdxRFhGYWFjUklkMUttZHpmYkVIYi1nNzNhVUc3MGFIWk5GZDdnZ3MwcTdPZnBCTzdCVWpfVDBQeXJTd25rTGFfU3VvTFpfVEFwY1BKUXVxdkRJTXBNbXhQd3ZYZGE4cHVaRU10cTBWRnZSWVYyME5aOFJVZldjenpLcnhhZzhXLUVYN3hIUS1MU0w"
   ],
   "https://en.yna.co.kr/RSS/news.xml": [
-    "https://en.yna.co.kr/view/AEN20260813005051315",
     "https://en.yna.co.kr/view/AEN20260813010700315",
     "https://en.yna.co.kr/view/AEN20260813010800315",
     "https://en.yna.co.kr/view/AEN20260813006151320",
@@ -2111,13 +2110,10 @@
     "https://en.yna.co.kr/view/AEN20260819002652315",
     "https://en.yna.co.kr/view/AEN20260819005600320",
     "https://en.yna.co.kr/view/AEN20260819005300315",
-    "https://en.yna.co.kr/view/AEN20260819005500315"
+    "https://en.yna.co.kr/view/AEN20260819005500315",
+    "https://en.yna.co.kr/view/AEN20260819006200315"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1786762177",
-    "https://www.aljazeera.com/?t=1786767514",
-    "https://www.aljazeera.com/?t=1786765760",
-    "https://www.aljazeera.com/?t=1786718070",
     "https://www.aljazeera.com/?t=1786769368",
     "https://www.aljazeera.com/?t=1786769187",
     "https://www.aljazeera.com/?t=1786764698",
@@ -2413,10 +2409,13 @@
     "https://www.aljazeera.com/?t=1787082981",
     "https://www.aljazeera.com/?t=1787089731",
     "https://www.aljazeera.com/?t=1787109438",
-    "https://www.aljazeera.com/?t=1787105974"
+    "https://www.aljazeera.com/?t=1787105974",
+    "https://www.aljazeera.com/?t=1787109944",
+    "https://www.aljazeera.com/?t=1787093232",
+    "https://www.aljazeera.com/?t=1787096811",
+    "https://www.aljazeera.com/?t=1787109681"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
-    "https://allafrica.com/stories/202607220052.html",
     "https://allafrica.com/stories/202607220025.html",
     "https://allafrica.com/stories/202607220019.html",
     "https://allafrica.com/stories/202607220240.html",
@@ -2715,7 +2714,8 @@
     "https://allafrica.com/stories/202608180379.html",
     "https://allafrica.com/stories/202608180564.html",
     "https://allafrica.com/stories/202608180565.html",
-    "https://allafrica.com/stories/202608180560.html"
+    "https://allafrica.com/stories/202608180560.html",
+    "https://allafrica.com/stories/202608190056.html"
   ],
   "https://en.mercopress.com/rss/latin-america": [
     "https://en.mercopress.com/2026/07/11/four-held-in-ecuador-over-migrant-smuggling-network-to-the-united-states?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss",
@@ -2777,7 +2777,6 @@
     "https://en.mercopress.com/2026/08/18/colombia-s-president-hands-out-branded-footballs-in-an-earthquake-hit-port-city?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss"
   ],
   "https://www.abc.net.au/news/feed/2942460/rss.xml": [
-    "https://www.abc.net.au/news/2026-07-28/kane-perris-luke-zaccaria-trust-behind-commonwealth-games-tilt/106947018",
     "https://www.abc.net.au/news/2026-07-28/cabo-verde-stunner-gets-people-s-vote-as-best-world-cup-goal/106964928",
     "https://www.abc.net.au/news/2026-07-28/joint-spares-aussie-blushes-on-tough-day-at-memphis-open/106968374",
     "https://www.abc.net.au/news/2026-07-28/liv-golf-tour-asks-to-defer-payment-to-kooyonga-golf-club/106966932",
@@ -3076,6 +3075,7 @@
     "https://www.abc.net.au/news/2026-08-19/afl-sydney-swans-ban-five-players-amid-police-investigation/107053398",
     "https://www.abc.net.au/news/2026-08-19/fifa-fear-tactics-accusations-klaveness-lamour-infantino/107053144",
     "https://www.abc.net.au/news/2026-08-19/football-jamal-musiala-neurological-issue-behind-collapses/107053936",
-    "https://www.abc.net.au/news/2026-08-19/ikitau-in-wallabies-squad-for-argentina-tour/107054022"
+    "https://www.abc.net.au/news/2026-08-19/ikitau-in-wallabies-squad-for-argentina-tour/107054022",
+    "https://www.abc.net.au/news/2026-08-19/socceroo-nestory-irankunda-hanson-monoculture-comments/107053054"
   ]
 }
