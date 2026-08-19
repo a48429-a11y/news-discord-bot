@@ -1,6 +1,5 @@
 {
   "https://news.google.com/rss/search?q=site:reuters.com&hl=ja&gl=JP&ceid=JP:ja": [
-    "CBMigAFBVV95cUxNaDdTLWlNVjZsdERwWE9LUXdSVzlEcWZaMUpUNks2LUR0czYyYXh6Vm5US3FHSkRkTHI3UHNJSlltSGJLUjlsT3JZRmk4SG1RV1hXSkhRMWFrMTc0OGJPUGo4a2xXbEdVclNGSmhKYklIdHNIdjR1Z1NPSnJKLS1vVQ",
     "CBMigAFBVV95cUxPWmN6VS1zSWhYTEVrY0JhcXpjVDdaLU9LcHJHUGk1NnBFbk9CeUdIam8teU5HVmxXREtFOVV1N2dra1ZQSnVVdVJsb0ctbE83bkpibjVLR2h1WW9YRU81UkUzMjZ6SzdSdlZUM0VOZlFUSHZPVVFFeVNjN2xPQXBYRQ",
     "CBMieEFVX3lxTE1LYW5sQUR5SUQ5TGw4TlJRZHF1d2gxTjJXUmFjVERETGljQXhpa05WWElfNzFNLXd5YmRCUlRLdUpiSFFRdkNWQkdoTzI3YWk1WjZTV0cxckNINU5nelllNHNUeTFUZHJMQXZUWmtkbXdWMi1xZGVOSg",
     "CBMieEFVX3lxTE9FRjhFWWZOSXhmY2FZTVJ6WTdVUVlLNl9JT3NKOW1SVEZRSzRZallueTYwbmZkNUlvQ1BzNUp2M2NkMmZVWnF2a1p4UGtIQkNNb3ZfVC05RHZnYVBzTVhOSVhUdUpHbWVfb29WV050QlpzT0laOTlEWg",
@@ -299,7 +298,8 @@
     "CBMiggFBVV95cUxPR3lXdDNjLUxiQmYzaUR0bmI2eExJUXVYRWpDX1ZtX1ZtSkNJOHJWQzhJWnphdEhpZ2I5NUdxWUdfU21GX3JzSlg2cXJOUDV3OGpHb2pwd2ZQQTVPenRYd0pqQjFwb0EyQkdhLXJ1RTVLYXdOWnhaOTJ2NGNZTHMzZzRB",
     "CBMiekFVX3lxTE80Y2NtZEdUMkxBVzNrWlo2Z0YwUzIyVkkwQllWTDc2dlVLZC0tMFJobGlSQ3ZqcHd4OE9BdDdUU2VmYzhnalFPMVBHSVB3UGh2SEI1ZVZBa3NfeEYyUFZnUFFzR1AwX3pGOWEtZXFMMGxfSXZ3SzFZUWdn",
     "CBMieEFVX3lxTE13bUpVaElUTzVMRFdURTRxbWpRN2N4a0ZhV01KSEUwcy1TejktOW01UUNIaGd4NF8zMVFsazBNU1VHLW1kU3AxcXgtSjBoaFd3LW1VR2YzVWFhQWdaTzB1SzNnR3JsQVVsNFpubTAzRHlneDBaMVE1Wg",
-    "CBMiekFVX3lxTE43c3BoUF9VSjZ1UmVwd3FIVUpFdEk2NVJnaG9PSVQ3QTUwc1RWV2RHdkZZSFlSSkJTblJOYzB6TmFxV2FueGM0MWpYTXpxdnhYbnF2ZlhLckh0eEE5b2hDV29iY0NMTUhCWTJNUmtuUTlDSEducDVQSExB"
+    "CBMiekFVX3lxTE43c3BoUF9VSjZ1UmVwd3FIVUpFdEk2NVJnaG9PSVQ3QTUwc1RWV2RHdkZZSFlSSkJTblJOYzB6TmFxV2FueGM0MWpYTXpxdnhYbnF2ZlhLckh0eEE5b2hDV29iY0NMTUhCWTJNUmtuUTlDSEducDVQSExB",
+    "CBMieEFVX3lxTE0tQjdNel9TVHU1QkpTVDQ0cXZ5VGt5MWt2elMwSEIzTWgxLUpuN2ZWQjdvQWJubi1qX3gxRlh5b2dmXzVUQVU1VFowRm9PRWxpdkNtSlBacF9Zc2V3YmhXckEyNjNmcDlzMGFzenRwVFJMUVhTRmpHcQ"
   ],
   "https://www3.nhk.or.jp/rss/news/cat0.xml": [
     "http://www3.nhk.or.jp/news/html/20260724/k10015185791000.html",
@@ -1812,8 +1812,6 @@
     "CBMixgFBVV95cUxOMElYSDBaellaWUNWczJqWVR2c2o2VUsyNXdzaEJoWUhHV3NCcklYLXdTSkJGM1M1VFRKY1dTTmx4VTdaTlZFMEhMSlpLM3BJdlJkS0RMUUtMeVRMclRnbDhOTXZBblQzd2VDR1pQM2g0M29EVlhmczNLZHZtZXk2ZVcyWWFDQzBRWXVVMU9pN2hJRnp1enIxZUUzVVFnaTcyUkxSQWFIVlBzcXVXQ0tHdWt3N21SV1hmTjBZTFl4R3BuWGItVGc"
   ],
   "https://en.yna.co.kr/RSS/news.xml": [
-    "https://en.yna.co.kr/view/AEN20260814003000320",
-    "https://en.yna.co.kr/view/AEN20260814003100315",
     "https://en.yna.co.kr/view/AEN20260814002900315",
     "https://en.yna.co.kr/view/AEN20260814002000320",
     "https://en.yna.co.kr/view/AEN20260814002600320",
@@ -2111,12 +2109,11 @@
     "https://en.yna.co.kr/view/AEN20260820000800320",
     "https://en.yna.co.kr/view/AEN20260820000700320",
     "https://en.yna.co.kr/view/AEN20260820000600320",
-    "https://en.yna.co.kr/view/AEN20260820000500320"
+    "https://en.yna.co.kr/view/AEN20260820000500320",
+    "https://en.yna.co.kr/view/AEN20260820001200315",
+    "https://en.yna.co.kr/view/AEN20260820001000320"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1786868145",
-    "https://www.aljazeera.com/?t=1786870123",
-    "https://www.aljazeera.com/?t=1786862765",
     "https://www.aljazeera.com/?t=1786858482",
     "https://www.aljazeera.com/?t=1786865031",
     "https://www.aljazeera.com/?t=1786872127",
@@ -2413,7 +2410,10 @@
     "https://www.aljazeera.com/?t=1787174035",
     "https://www.aljazeera.com/?t=1787173318",
     "https://www.aljazeera.com/?t=1787173277",
-    "https://www.aljazeera.com/?t=1787162754"
+    "https://www.aljazeera.com/?t=1787162754",
+    "https://www.aljazeera.com/?t=1787172759",
+    "https://www.aljazeera.com/?t=1787175835",
+    "https://www.aljazeera.com/?t=1787181046"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
     "https://allafrica.com/stories/202607230060.html",
@@ -2778,7 +2778,6 @@
     "https://en.mercopress.com/2026/08/19/an-argentine-consultant-who-advised-milei-s-campaign-detained-in-bolivia-after-a-shooting?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss"
   ],
   "https://www.abc.net.au/news/feed/2942460/rss.xml": [
-    "https://www.abc.net.au/news/2026-07-28/commonwealth-games-glasgow-day-five-live-blog/106965170",
     "https://www.abc.net.au/news/2026-07-29/australian-gymnasts-win-gold-at-commonwealth-games/106969640",
     "https://www.abc.net.au/news/2026-07-29/very-bad-look-brisbane-defender-given-three-game-ban/106969204",
     "https://www.abc.net.au/news/2026-07-28/wa-country-football-video-altercation-before-player-punched/106967656",
@@ -3077,6 +3076,7 @@
     "https://www.abc.net.au/news/2026-08-20/brisbane-2032-olympics-rowing-venue-rockhampton-schools-regatta/107015974",
     "https://www.abc.net.au/news/2026-08-20/afl-john-longmire-reaction-sydney-swans-police-investigation/107056540",
     "https://www.abc.net.au/news/2026-08-20/football-fifa-vice-president-withdraws-gianni-infantino-support/107056582",
-    "https://www.abc.net.au/news/2026-08-20/football-alessandro-circati-signs-with-benfica-33m-transfer/107056752"
+    "https://www.abc.net.au/news/2026-08-20/football-alessandro-circati-signs-with-benfica-33m-transfer/107056752",
+    "https://www.abc.net.au/news/2026-08-20/liv-golf-stars-returning-pga-tour-tough-road-ahead-mcilroy-says/107056794"
   ]
 }
