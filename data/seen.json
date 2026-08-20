@@ -1,8 +1,5 @@
 {
   "https://news.google.com/rss/search?q=site:reuters.com&hl=ja&gl=JP&ceid=JP:ja": [
-    "CBMigAFBVV95cUxNRkd0dWFfZUE0eGxQaklRaVNZUzhuc2FKYnp3YVRNMHd4ZHllc3YzYmF4SVVOWXZXcGlWS0xma2pvWWVtTlF1MDVwM2RxM2t4MWI2dlIyby1BaU1vVldQd1dzQld4a1lDVTVxdVpSSWxHSmNXdW1KQ1JhWjF4UExBQw",
-    "CBMiekFVX3lxTE52WFpZajNjTzZQRTNDSEtTX3RuaWdVRXBLTVg2ZDNCbDBIQUxBNzhubkY2ZVhQUjlMTUozYS1fYWhkQlJKZDhVX2g4OU44TkszUUlvTGUtOFgzVG1Ec3ltTDhtQ0Zwcml2djdJMEExZVJvYjRZSFhRWFRB",
-    "CBMigAFBVV95cUxPUXFiaUZEX2JMbFNfajJGZTVscXE1RGxtbEloVzVKWjBzSmI4MmpkMTk2aXN1SjE2V25aOG5CQi1EQkdCendIMEQ2REx6b1kyVWpzWXgweW5XNG43em9uMU5MRG9KcjJ0TDV1YjQ5b0tMQjJNWTJsRjc4SFZpU25kRQ",
     "CBMif0FVX3lxTE43dk1HSjBsSUIyQ191d1lnaWd5eWx3eldLZjZhOC1xSFF3WHdfaUJ5OHZueU5iV09nem9PSlJQVWRNcThwZjlpSWY2cTBfanRxSGI0QVU4VURvNTA1TlRrUmJfRUl2c01fY1BTOTM4a21ZX3dNMl9NcUR1Zllodm8",
     "CBMigAFBVV95cUxOVEZKd2EyOV9Gcndtc0Z3S3NGV3ZZYTd2WHZXSk9MeHFsVWdsM3YyWEd3T3NWTXRaWjhzbVJMS0g0aGdUclBjOVBlLUx1Y3lMNTQwSWpZVU41b0FKUTJaMmNmbDRyTVhmRW5JbjRJQUNUUkdVNVprZGFhQjl1bGFwRg",
     "CBMigAFBVV95cUxPNzdVazE5ajIzYk5XYUdPZkFNa09Semt4VVBJSXNLanktbUZ1OXNBZGJSdVJUcFZzb1JNLVJUNXlvRUpOb3NrTmZkTENuU1ZfcFgwNldKSUx1YWE3VWJDX2RYWmxDcG5lNEVFeE9Ua0ktMElHY2JaVWE4OG9idXdERw",
@@ -299,7 +296,10 @@
     "CBMieEFVX3lxTE5pVEVJMjJxU3hlWGtUdDJvUEZvQWkxNEJtVjFXQVluUjRpZ0hZVDNJelJOTDdyY2hjdDNwQWlqcm5xUWc3Y2JISFJKNXpzSzhGNFQwQWVnWWZXZ3RCWVdEQUF6OUY2RFg1bm1pLXAwYmRSTjFIc3N0QQ",
     "CBMieEFVX3lxTE84enFUcG1SZklLd3c0U1FOTjdsXzg3QXlmV1RFazBqMm5PSFNXbVhidllzZTBDVFV5RVhGcTVYTjV1TDl1dzcyTkRSdjNldFpWaUxNeHhLUWVTQmJ3ajR1dks2QU5kbXZtWmpVcWpVTUgtYnZMQTJicA",
     "CBMiggFBVV95cUxOdmJ4amxaczJwaUZpcUdtVXhEaFFpMGpHTGNPdGhBYVFha2U0Yy11QjJ5ZVhtM1NsVjV3aEdpVzZNSUQtaTFTYUpVTWlGYmtCTno3ZExXWmI4dy1zMGxReGR5YVAtZFA5NGJFSVYxVWZCbjVxZFJ5VDBDVndnTklTX0JR",
-    "CBMiekFVX3lxTFBRa3lER1BvVEdTLUhjM1dEdVQxdklSRGZQRUZnb0tLYV80UV94a2Rib25RUFJzSDNPbU9CMkY3OGdLejc4Q2lsOUJpbzRmWDhTVXE0djFBc05UX0hOR0FxWVpfMGMtUnByTzlSV24zc29UVG9YZ19aR3ZB"
+    "CBMiekFVX3lxTFBRa3lER1BvVEdTLUhjM1dEdVQxdklSRGZQRUZnb0tLYV80UV94a2Rib25RUFJzSDNPbU9CMkY3OGdLejc4Q2lsOUJpbzRmWDhTVXE0djFBc05UX0hOR0FxWVpfMGMtUnByTzlSV24zc29UVG9YZ19aR3ZB",
+    "CBMieEFVX3lxTE0tSGhONFlka1JvNFV1dnlwVmFzRWlia3l0QTA1YWtiWW9kcGFYQ1hROFNwa1pRRkU4Tzd3bHQ3QkVib01NR1plZ1RSR3pDTWlSNnpEcjVtMWlZZk9jN1RqM0xaU2g2dERRV2Q0Y2UzWW1kejhfMUptdQ",
+    "CBMieEFVX3lxTFB5WHUwX2N2d0dnOFVKM3YyMjNXZHlxRXVsS1k1eElVMXRYM2t3R3dqY3BDSk5hWkZkcG84eXdIVDh2Sk01Q0FVVEh2MDhyMDVqM1RZcHk2em1LWF9IMURKSlh0Z0l0Tm1PSFJsdzZzaFFXZFlQTDhQNg",
+    "CBMigAFBVV95cUxOR2tIR1YydzE2N09ZbWhTWGRyR05DeXFMaHBuRkZiTDdSN1FaUzE3ZmZKQXRIYWNvS3gxYVdBRkMzb1R2VjdrNEFNblhGZ2k4bnVzMW9XZ252YjJvQ3BLanlSWklRdHhzN1FkLVNkdTcxT2dhR2ZnQkpQVklnR1RHYw"
   ],
   "https://www3.nhk.or.jp/rss/news/cat0.xml": [
     "http://www3.nhk.or.jp/news/html/20260724/k10015185791000.html",
@@ -604,8 +604,6 @@
     "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html"
   ],
   "http://feeds.bbci.co.uk/news/world/rss.xml": [
-    "https://www.bbc.co.uk/news/articles/cx2kvlye1k5o#2",
-    "https://www.bbc.co.uk/news/articles/czxe2vyxd7do#1",
     "https://www.bbc.co.uk/news/videos/cvg7zrxknvno#3",
     "https://www.bbc.co.uk/news/videos/ckge0e0g95no#3",
     "https://www.bbc.co.uk/news/videos/cy4k1jldxnwo#3",
@@ -903,10 +901,11 @@
     "https://www.bbc.co.uk/news/articles/c78gp7l5348o#1",
     "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o#1",
     "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno#0",
-    "https://www.bbc.co.uk/news/articles/cdew8n9erlwo#1"
+    "https://www.bbc.co.uk/news/articles/cdew8n9erlwo#1",
+    "https://www.bbc.co.uk/news/articles/clyx028ryy6o#0",
+    "https://www.bbc.co.uk/news/articles/cly50gn1e54o#1"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
-    "CBMirAFBVV95cUxPOHJJVEZPSWl3bm1JQ2NRUTFSUWdKUS01QVJRUF90MTJCQWhtS3hhTEpTUW1SMEV6cXFySDJxOFRJN0UySHNabUN4cE40aTZqVk0wdVlqalNHc1Q1ck9Jd3lfdXd0dS14ME5walJWdlNidDJhREw3QzRESTFFRVhkaFVFeWtVdHp4SWtkM1hpS25oaGFkV1d0dXFENUZjWnZUenVXODBSeEhYLWdp",
     "CBMirgFBVV95cUxPX2xURUdxd3E4WWRRZkVmOFBCOWIzaXNSLTJZbTkyRVVHNXlXaEd5Sk4yQ3VHcFBFNjR5YW9wOUZMSkpRYkpJZHQwNzNUQ0dQUjZfS25iUTRFY1FFbHRBQWtZb0pVenFRZC1UNG0wZjR2aUZ5cEwzWGc2SjFJLUh4Ym16eTJhVG5JLU4xNVdhRUc3NnRsWHdjMGgtZ09UaHRLMjMzM2tvTDRzblNZd2c",
     "CBMiogFBVV95cUxPaGRSeTc4Ti02MC04UlFDZzdZV1NOd3NqdGRTNk82VXNVU0RTZ2g1dGUzcm9Dc3NHUm9BcC1OeE9hR1hiZERHMG84MTctLWZGSWJZV0xlZ0xoSUpqamFnZkxOUzlfeFhtem13TnVNQkpIbG5FY1lRNGk5dkdZc1pwS0lYQk9fV21fcWtWR1AxTnR2TXJRVXFjYkY4Qm1fYm90UWc",
     "CBMipgFBVV95cUxNMFpmYXlXQ1RWT2hkQjExNVRORGl6OGdpZl8xQmsweV8xYWRnRnhWY1FIMnhoTXBhQncxcWQybmFKNk1KT3BIc0VOdHd4T1BTTkVCQVd4Z3BYcnBzSTJSZHB2UzZuUWtfenVDSy00ZXhUUFJSNlpsUXJGNUdXQUx4MXVuSXRjZFg3X3pIX2hHV3BOdGNaeFo4dXZ3SDNUaHd6MXRQSy1n",
@@ -1205,7 +1204,8 @@
     "CBMikAFBVV95cUxQeFdjb3hCa2tnUnVJdWh0YWc2RWxIaUZQc2ZTTTJBV21TLWp2cDk3UkpId000ajBrU3UtaVZZNGNYYnFGaDdreVh4NXlrTWcwcHd0emZENG1lV2JCMzFzd09nQkVVc3lHRUpFZXJNVzJsT1BFMFA5cU5XVVdjLU9tZ3pWUmtoOTFWNGFfMUhpOS0",
     "CBMimgFBVV95cUxQVk02OF9KXzMzMFV3X3FiTGxqRDlGaG93MmpWbmdOenB1MXRYcXh1X0F3MmF4ZTE5N2hybUhMa1Qzcmp0LTBnYUx0c0ZMa3BWVDlOT0V3dFRBenNiZUM0dWhSckNrVFNROVFTZnJqY1V6ZjhTV2NsRHF6emNDSlVnMHY2NVFSTXpTb0o4Z21keThCRGtnRWEwQzdn",
     "CBMisgFBVV95cUxOMlZnc2VmZWEyZmpkc3NibGZuempNZVM0ZjhmMk1Ba0RhOV9yZThJVVd1S2dGX2czaTlsanhuVlJIRVhQMUVIU3NwRElfbEJNaFlwek92NnRnZEp6VllKZlhhbzFnY1JUaUNzZjc4bnVNVzJNMzNqWUluSGh3dzlvcjJtY0d5ejZ4cTgwYUpJU0FqdGdHMlBRR2RIclJlUGVkQkF1clhKNDFhc0s4ckJTYW1B",
-    "CBMinAFBVV95cUxPZ0UxQU5YQTJMeG9yVlNNTjNIQ2NxSTlGZ3U1eWUxbHVJRFRqbmpqbEN3blFNQVJqRGZkckVQZUw1Q3BWMkstLWZtWmU5TG5ialpwOXJET1NnbkxLYUZBNk1BR1hEU1NTUWItOERhcTN3clM1UlY3NVloRks4bGxUNzN0b1N5Ym44RHExQnFnTU85dGxHU1lNa2FEYkU"
+    "CBMinAFBVV95cUxPZ0UxQU5YQTJMeG9yVlNNTjNIQ2NxSTlGZ3U1eWUxbHVJRFRqbmpqbEN3blFNQVJqRGZkckVQZUw1Q3BWMkstLWZtWmU5TG5ialpwOXJET1NnbkxLYUZBNk1BR1hEU1NTUWItOERhcTN3clM1UlY3NVloRks4bGxUNzN0b1N5Ym44RHExQnFnTU85dGxHU1lNa2FEYkU",
+    "CBMiigFBVV95cUxQMmJ5dy1FMThNbHNWR2RIUGU1TEQ2NUNOTXF0ZGFxa3NTZ0ZBMXFKWFViY2o1Wk8wWWtCRkF1UGt5dDBDZFRrTHlsWmhKZTR4d2FBUldqakxxdnhYZDlmM3hYQ2tUNmN5VHZ3ay1fZmQ5cG01a3d2NkZvalllVDhQdUF1S3hEWTMwenc"
   ],
   "https://www.scmp.com/rss/4/feed": [
     "https://www.scmp.com/news/china/science/article/3362357/will-global-testosterone-decline-accelerate-shift-robot-warfare?utm_source=rss_feed",
@@ -1812,18 +1812,6 @@
     "CBMikAFBVV95cUxOb1Y3Wjd5Skg1LW8xT0ktMm54dTh1UHRjdm4ya1QtQnNFSmI5ZzlReFVtRVB5bmVzQUdxY3dhaDV4QW1HS1cyRUxzNTBBOGV3aWxYaGZIVHdrdHRpU0VDb0JBcXFmaFZtMkU3SlFrTWdtWUpNQjRERWVCTkJJa2h1ejBjX0tkXzl3X3lTTHNueUc"
   ],
   "https://en.yna.co.kr/RSS/news.xml": [
-    "https://en.yna.co.kr/view/AEN20260814007300320",
-    "https://en.yna.co.kr/view/AEN20260814007200315",
-    "https://en.yna.co.kr/view/AEN20260814007100315",
-    "https://en.yna.co.kr/view/AEN20260814004100315",
-    "https://en.yna.co.kr/view/AEN20260814006800315",
-    "https://en.yna.co.kr/view/AEN20260814008052320",
-    "https://en.yna.co.kr/view/AEN20260814010500315",
-    "https://en.yna.co.kr/view/AEN20260814010100320",
-    "https://en.yna.co.kr/view/AEN20260814010400320",
-    "https://en.yna.co.kr/view/AEN20260814008051320",
-    "https://en.yna.co.kr/view/AEN20260814006400315",
-    "https://en.yna.co.kr/view/AEN20260814006500315",
     "https://en.yna.co.kr/view/AEN20260814006600315",
     "https://en.yna.co.kr/view/AEN20260814006700315",
     "https://en.yna.co.kr/view/AEN20260814009300315",
@@ -2111,10 +2099,21 @@
     "https://en.yna.co.kr/view/AEN20260820002800315",
     "https://en.yna.co.kr/view/AEN20260820002700320",
     "https://en.yna.co.kr/view/AEN20260820002600320",
-    "https://en.yna.co.kr/view/AEN20260820001600320"
+    "https://en.yna.co.kr/view/AEN20260820001600320",
+    "https://en.yna.co.kr/view/AEN20260820004800315",
+    "https://en.yna.co.kr/view/AEN20260820003100320",
+    "https://en.yna.co.kr/view/AEN20260820003400320",
+    "https://en.yna.co.kr/view/AEN20260820004200320",
+    "https://en.yna.co.kr/view/AEN20260820004500320",
+    "https://en.yna.co.kr/view/AEN20260820004700315",
+    "https://en.yna.co.kr/view/AEN20260820004600315",
+    "https://en.yna.co.kr/view/AEN20260820003000315",
+    "https://en.yna.co.kr/view/AEN20260820003800315",
+    "https://en.yna.co.kr/view/AEN20260820003700320",
+    "https://en.yna.co.kr/view/AEN20260820003300320",
+    "https://en.yna.co.kr/view/AEN20260820003500315"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1786877429",
     "https://www.aljazeera.com/?t=1786886185",
     "https://www.aljazeera.com/?t=1786881359",
     "https://www.aljazeera.com/?t=1786870181",
@@ -2413,10 +2412,10 @@
     "https://www.aljazeera.com/?t=1787097129",
     "https://www.aljazeera.com/?t=1787175804",
     "https://www.aljazeera.com/?t=1787185455",
-    "https://www.aljazeera.com/?t=1787189561"
+    "https://www.aljazeera.com/?t=1787189561",
+    "https://www.aljazeera.com/?t=1787192000"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
-    "https://allafrica.com/stories/202607230052.html",
     "https://allafrica.com/stories/202607230412.html",
     "https://allafrica.com/stories/202607230409.html",
     "https://allafrica.com/stories/202607230189.html",
@@ -2715,7 +2714,8 @@
     "https://allafrica.com/stories/202608190419.html",
     "https://allafrica.com/stories/202608190473.html",
     "https://allafrica.com/stories/202608200026.html",
-    "https://allafrica.com/stories/202608200036.html"
+    "https://allafrica.com/stories/202608200036.html",
+    "https://allafrica.com/stories/202608200076.html"
   ],
   "https://en.mercopress.com/rss/latin-america": [
     "https://en.mercopress.com/2026/07/11/four-held-in-ecuador-over-migrant-smuggling-network-to-the-united-states?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss",
