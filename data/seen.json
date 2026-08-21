@@ -1,9 +1,5 @@
 {
   "https://news.google.com/rss/search?q=site:reuters.com&hl=ja&gl=JP&ceid=JP:ja": [
-    "CBMiggFBVV95cUxNTGpnX1B4YVAzQU1HZ190VFhneVJaSzkzNkNjemR3TEpXNzhJSEg4MU5RVVBsTndPVHVqbXJXV2swSnE5d215LXpBWGJ5T1pCM3UwVWRsdHBYc0tNOVZFa3o1ODlwdkhKU09jOWNiUTJoN0MybVRKUlo0dmpRRTAzcUtR",
-    "CBMiggFBVV95cUxNNG5MbUwxQTdFSGtKTllBQWdTN0JHcjdPMzF4aUtmdmQxQ1dOTThZOEJCNFBiVTI3aFlHcTg5cDNkeVBKMjdkcld2QUIwbjMzQ2Z0Y3F5M090NDJtWE1ldm9EYnZOX3FDMEFTQUtkaFNULS1UdUVhWl9STWplX0lpMW1n",
-    "CBMifkFVX3lxTE1XVVZrUmZMTS1BdVVCbWlRcmVDOUJic2tQU1YwR3NHWTE4Q2xBU2d5Nm5DaVJQb2ZBOGg1OGRMSmNkTWNVak9Gc0xTb2VkMTc0cnZoV3lQeFNFYzVOZ1BtYUxXOWQtVjlQNTBxN3JWNFBhQ2VLczZ1OExUS1RQdw",
-    "CBMieEFVX3lxTE9vVTY4aS0xSHJxek5NMlVWQ0xrUHZRd3AyVlFXRDJzd0x0dnZFTFhsdHh2RWFqR095VG5qUkMxR1BTZFNOX2JLbjdIanJob0s1QUFuN0ZVaFY1TWdZM24tdXBCbUhTa3YtMlBkVnJYTGlEVi1VTFJiNw",
     "CBMieEFVX3lxTE5fUDBXYkhCaFNvc0huX2dhQmNFNU5qOW1DbXRuelp5NUZWQ2dJQ3FRTUtnRnlLVnM2VkdhTU1lY205ZVNRRGJybGNITGRTc3VQZS00X1Zia2Z2eGM3MkNZdjBvX0hTRXpyYlhYdDV1OWhIZHA4b3lGcg",
     "CBMiekFVX3lxTE52STNBeURWOHJyVW9aN3pYdzdrOXluWFdfcjh3VU15UmhWOGtCX2doOWUzeHBEWU8yT3VwVFcxc0hfZXA4Mllmb2VPb0M2b1pKUzZyZlZiaWZLd3plOVBFZ09SdUVEczAwLWV2MnN5ZWFCSHpXRERNcWVR",
     "CBMifkFVX3lxTFBHMmhYT3pacTg0OGM1RXg0MlJoR1lmNGJsOGpmZzZRS0xSaTNraGl5ZGV2aDluVHJKUkllQmV5elJESU5EVHZXM1FGbTQ0dFZsR0loX2E0cW0zZnVsSTcwYmpwNmFoeDFlb2JuSnJ5dm5BUjNPVTF1b0JmMHZqZw",
@@ -299,7 +295,11 @@
     "CBMiggFBVV95cUxPZjBhM1dRWE9sU3ZvOFBBRi1DVVFWRVQyaklXNGQ3WjlQaF9yOGNJSGo1ckRKcVlNRVlRZ0RraVU5S3ZqNm9iVlRsQWdkcWNKRXZyN0k3QVBGWEt5SXMtVGpLVEQzOTU3SEg1dkg3RjlteU9EZWd3WmM3R1RpLTIyRDhB",
     "CBMieEFVX3lxTE5XSDZVMlBTZzdfMjFXU25vOXI2Qm54Vmg4Tll2VUUzZWFqcDdSUGU5TlV0ZkJUcUx4bzh1cGJYbWxWYlRIblpMMnhZbUQyaEZHSTEyRzZ6Qk0yMFpJV1RRdkJNVEVYQkNTZVNyTVoyZ1ZZbS1qcV92NA",
     "CBMilgFBVV95cUxPNTJ1d3c0d21NYUR0TFdLUS1tazRZOVhzekdzVHF3ZlZWaHpzN2lwWVZwS0JFX2gxdy1EeGtqWm9hUUM4akpBMjJwWXpxMlZpV2dHdHZ3R212clRxVVl6Z2U4SXdqX2NERHBuN3hTVWlESl9wRWUyU284REhuVWVVN3BHT2dMUEJXZzZDb1REdGhFallOUnc",
-    "CBMifkFVX3lxTE0tRWRfd1dZOWhQaW41ZFBuUnNxZmNfZXdCcGpXZ1hCRmtRRnExaGczT285NUJwWFZibHZxbzRvRFpsaGE1endUUFlTU2JfM2FNRXpZa3oxYUQ3STcyUi1iRVNNVGU3OXpESGpmSzh4UlE1MXMwMHg4bmlhUzR5Zw"
+    "CBMifkFVX3lxTE0tRWRfd1dZOWhQaW41ZFBuUnNxZmNfZXdCcGpXZ1hCRmtRRnExaGczT285NUJwWFZibHZxbzRvRFpsaGE1endUUFlTU2JfM2FNRXpZa3oxYUQ3STcyUi1iRVNNVGU3OXpESGpmSzh4UlE1MXMwMHg4bmlhUzR5Zw",
+    "CBMieEFVX3lxTE96endaOTZSaTNtSUJseXNXelRBdVNQRUlvbTg4X19iR3Q2b0piRHVOSEg1eUJOclpEUDlrMUFHZnhEejdzY3NqaUFnVnQxQ0FKc3BTT1VtcEV3TWdSQk80ZG5KQVRzNzJ0R1BGMmM1bGFCNWtQcUZfYw",
+    "CBMiggFBVV95cUxOYzdaWDFmejFKR3JjQmUwd2ZJaUdleWYyMXNETEY2Y3JSOWs2bGt3SjdVRDdqZ3BaazAzVjBvRWp0RHd4S3ZQZkRPZEk0b3h4LTdXcEhWVEpESmVZejZVMTFvS1lqX3FyVWFabjJ5dndIVzR5VEhpNlNVa3hHQy1hOF9n",
+    "CBMieEFVX3lxTE03M3BNWllqdGlJVzU1Xy1wVlY4N2dGYm42RlVaREp3U3R5eHE3S0dJU3pvZ2ctZlMwSTRHMjB2MFlxVjNnUDNfQ2pWZU5UTXF1Wkt0TlVyRzFiN0tqdFlUdWx1ZkJFRVA0UVZId1ZfU2stdldiUnFnUQ",
+    "CBMieEFVX3lxTE9SZzVqeU1NZ29aRlNKdHBocjBqT3R6X2Z6SlI4dlpiWERob2l4engwWjBGaWc1UllBRGRSdGNadENmSVAzMERpQnFBaXpDZDVyVXMtVVF5U1pXU1JaYXNnTmptQ1R2ck1KOEFySGlieUlaWnVBN0RBSw"
   ],
   "https://www3.nhk.or.jp/rss/news/cat0.xml": [
     "http://www3.nhk.or.jp/news/html/20260724/k10015185791000.html",
@@ -1812,11 +1812,6 @@
     "CBMivwFBVV95cUxOcTQ5N2hHSDdoOGhHcm5hZ01xVUI1YTZqWTQ3b2ZjYWtfVEdEN3VmdlNrWmhPQUlOOGRtY3MxR3dvNlVGd2NRelRKcmhtNG1VVEZvQVJCbXJVdE9OZXM5akpEbFhmRjlMUlBqbURaUnRqbXdzOGxPZEJBOGtOUDY3dFFRNURkX2RIdllRZm1HQ19WWnRMYWJ0MmZXcWFVTFppNWtBakNuSXFlRTgyejRzNDEtTzJaRXdoVVBXZjFoSQ"
   ],
   "https://en.yna.co.kr/RSS/news.xml": [
-    "https://en.yna.co.kr/view/AEN20260818000951315",
-    "https://en.yna.co.kr/view/AEN20260818001300315",
-    "https://en.yna.co.kr/view/AEN20260818001200315",
-    "https://en.yna.co.kr/view/AEN20260818001100315",
-    "https://en.yna.co.kr/view/AEN20260818001000315",
     "https://en.yna.co.kr/view/AEN20260818001400315",
     "https://en.yna.co.kr/view/AEN20260818002400315",
     "https://en.yna.co.kr/view/AEN20260818002200320",
@@ -2111,7 +2106,12 @@
     "https://en.yna.co.kr/view/AEN20260821005800315",
     "https://en.yna.co.kr/view/AEN20260821005600315",
     "https://en.yna.co.kr/view/AEN20260821001100315",
-    "https://en.yna.co.kr/view/AEN20260821005900320"
+    "https://en.yna.co.kr/view/AEN20260821005900320",
+    "https://en.yna.co.kr/view/AEN20260821001251320",
+    "https://en.yna.co.kr/view/AEN20260821006400315",
+    "https://en.yna.co.kr/view/AEN20260821006100315",
+    "https://en.yna.co.kr/view/AEN20260821004252320",
+    "https://en.yna.co.kr/view/AEN20260821006300320"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
     "https://www.aljazeera.com/?t=1786977779",
@@ -2416,7 +2416,6 @@
     "https://www.aljazeera.com/?t=1787281582"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
-    "https://allafrica.com/stories/202607240044.html",
     "https://allafrica.com/stories/202607240040.html",
     "https://allafrica.com/stories/202607240013.html",
     "https://allafrica.com/stories/202607240006.html",
@@ -2715,7 +2714,8 @@
     "https://allafrica.com/stories/202608210001.html",
     "https://allafrica.com/stories/202608210007.html",
     "https://allafrica.com/stories/202608210015.html",
-    "https://allafrica.com/stories/202608210009.html"
+    "https://allafrica.com/stories/202608210009.html",
+    "https://allafrica.com/stories/202608210023.html"
   ],
   "https://en.mercopress.com/rss/latin-america": [
     "https://en.mercopress.com/2026/07/11/four-held-in-ecuador-over-migrant-smuggling-network-to-the-united-states?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss",
