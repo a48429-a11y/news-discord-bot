@@ -1,6 +1,5 @@
 {
   "https://news.google.com/rss/search?q=site:reuters.com&hl=ja&gl=JP&ceid=JP:ja": [
-    "CBMigAFBVV95cUxPRTVSLVRVRDFZdm42T0J2R1I2MUljMjFYLWFaRHJxTXNKNWlyN1NpNTRjV3VSbDllTmNRbWR0YmhwVnhYRllMQWQ0d2RHaGJVSUJnNDYzcW51cGVyXzRWaXpCUnp1M3VLWThESVJEa2JKNDhHd091enpXc3pRRnBfYw",
     "CBMifkFVX3lxTE5KU0JGMnpucHZuS052RUFZSjFQTWxGYUhUX2ZOaXpuZU00dEdvSjIyZjVsalR6cGNwZU8tSnBmS1hibEZ0c1RiTktKWVM3Q1J4azlMNEw5eEVTQ0V2SXhIZ3VQeTlsVzd5YlZ1MzJCY0hLS1E5VmVpRVh6TVJtUQ",
     "CBMifkFVX3lxTE1nTkRDT0s4RFFGd2RsWnd1dmNvYVNPMnRRZ19MNVRCM2JHZmlTTk5fR2hsMGdCdnZpUVJEcjdHcDRHZzR6ZE5WU0Z0Q2NPcVYyWTgxOE5IQ2wyLWhWVE5zSGhtWEdRNmM1cUNIZlQzSG5PZUEwVGpNSXZVcWRmQQ",
     "CBMifkFVX3lxTE9qT2hValhmazZhdFc0YjlFQ2kwQ0ZTc2pYRHJYUE52ZU9yQnA3eDFGUk96YVZXTUE0RnozdnJ3X0xTQnFNeTdjbU9pT3Z0MUFTYl9jR0FGUFdPN3ZqY2NoM19uVjdsU2RVZTRwTlhJbDJ1MTFNcEUxbFlXU3JIQQ",
@@ -299,7 +298,8 @@
     "CBMigAFBVV95cUxNYlBuUjJCekQ1aEo2RjNhNnlfdDhYRS1WcFJWcXFjc1M5eFZxOUZHRkZwc0l6YUpoX3phR0Eyd2JPUXNNMXd2WHp2N1ZFUjhHOU1WOWtrb3NoVjFodTVFa0FiZDc3OVNfRG9iaVkydHY5TVB0RUFERmZ3YVp3czRSWQ",
     "CBMigAFBVV95cUxNbF8zMVZYLUU5VGwyT3o4S3hLYnVndkhUZTM5ZUFHd2UydGFuVGRSZlBlejk0cGZPZHk0cG5yU1dOMUljUHpJOXRNaFduUjJ2V0RTNEYwVHA4Y2w5ZDdfaERMaGQ1TEQzVElDZ0VQbGxieVl1c1Q1bVk3elp4aDJJeQ",
     "CBMigAFBVV95cUxPcVR3SE9jcXo4LXRXNVlHdUZLRlBIX3lKcDBPMTZmSkJBa0FaX3o0UGwzRkFvUzRfOW40U3d2TlVVVUZPMFowZE1XMmRqWEo1RmlhX196bm4td0lMb2NjQW1jLWlVdGxzS1BXQ2J3MmczSnZ1N0ZZRUU0TTRPNHo1eA",
-    "CBMieEFVX3lxTE5ZZ1REWXZDNUlJUlduYzNBdUY5Wk4zSXF3dC1WS3c0aTYwdTZpYTcxZEx5QnpISnZKcmliLURGVDJFeW5JTXZQZGw4WmNMU1RMWi1KQ1Vub09LQmY5dXduTWhEV09zUHZEdE9WOXZTQkJLS1JSeDJ2Tg"
+    "CBMieEFVX3lxTE5ZZ1REWXZDNUlJUlduYzNBdUY5Wk4zSXF3dC1WS3c0aTYwdTZpYTcxZEx5QnpISnZKcmliLURGVDJFeW5JTXZQZGw4WmNMU1RMWi1KQ1Vub09LQmY5dXduTWhEV09zUHZEdE9WOXZTQkJLS1JSeDJ2Tg",
+    "CBMigAFBVV95cUxQcFl0a1lMNmdpeXJjZGhqNHpIdEdQQ0RfdnJRd0ZMZmVxNGVnNlRBRzJZUGd2QXk0UUhyMzdobHVrNWM3S05ZaVhxcGJLRHc0ZWVwM0RfVm5VTWFrSFhlbHBBLTlKbXprREpwR2M1T1JsQlpQblVEOERaLXJtQ0tVag"
   ],
   "https://www3.nhk.or.jp/rss/news/cat0.xml": [
     "http://www3.nhk.or.jp/news/html/20260724/k10015185791000.html",
@@ -604,14 +604,6 @@
     "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html"
   ],
   "http://feeds.bbci.co.uk/news/world/rss.xml": [
-    "https://www.bbc.co.uk/news/articles/cx2v1893n3eo#1",
-    "https://www.bbc.co.uk/news/articles/c5yr8r04edvo#1",
-    "https://www.bbc.co.uk/news/articles/c9q9351yp1xo#1",
-    "https://www.bbc.co.uk/news/videos/cgewp4ep9dro#3",
-    "https://www.bbc.co.uk/news/articles/cx2k1r97vx7o#0",
-    "https://www.bbc.co.uk/news/articles/cj9dpdmr77do#0",
-    "https://www.bbc.co.uk/news/articles/cqx7pp3yd25o#1",
-    "https://www.bbc.co.uk/news/articles/cx2r179e232o#1",
     "https://www.bbc.co.uk/news/articles/c0l5273xjnlo#2",
     "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo#0",
     "https://www.bbc.co.uk/news/articles/c5yw71q9y00o#0",
@@ -903,10 +895,17 @@
     "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo#0",
     "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo#0",
     "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o#1",
-    "https://www.bbc.co.uk/news/articles/c9d8z72nn02o#2"
+    "https://www.bbc.co.uk/news/articles/c9d8z72nn02o#2",
+    "https://www.bbc.co.uk/news/articles/c79g28zxwzdo#0",
+    "https://www.bbc.co.uk/news/articles/ckgdr9vr50po#0",
+    "https://www.bbc.co.uk/news/articles/c4gdn2vmgvwo#1",
+    "https://www.bbc.co.uk/news/articles/cj4kr59r28ko#1",
+    "https://www.bbc.co.uk/news/articles/c0rdk5kg4r4o#1",
+    "https://www.bbc.co.uk/news/articles/c935rk91vg5o#2",
+    "https://www.bbc.co.uk/news/articles/c4gj1vje8dxo#2",
+    "https://www.bbc.co.uk/news/articles/c75gp1ppk6no#2"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
-    "CBMimwFBVV95cUxPbTlxdHJMbVc0R0xRU1VNcFJIb0VIMEhnMlQ5d0d3MEFweEhjMDhWLTNOMEFla1RSRy1LM2FBakszM0dnaFY2NTlvMGJxTXNJWTVyTGZsSURHUWZMekJGUzhMU3AxRkRzMW5nWVktekxCMmZsVm0xR0ZhRDJqVjJyb0FDeTZYd0FURmJIZlFid1l5dVlpbURnUS1LSQ",
     "CBMilwFBVV95cUxNbkt1NF9lQXZWbXU5NmdEdDZIR3lXZjVuaEk2Zklpc1RGaUNlTmwtNV8teEY0SDRwQjlxRkdKMGh6NTJXcTk2aXJaMW0wNUtmVXNmZHJDbU9JMXVFVTNIQ1lxb2dzSlVGNVF2Z1NybDNWcGFFUU5fTWdfTldkQlhUN3JiUGdtU1V6Zm9QUVFLV0MtQ3BDWVU0",
     "CBMiogFBVV95cUxOU19BM2l2RGhNUW5aWGxpdXJRU1QwVWtzekJ1ckw2bUdzWlhBSWcxX3U3T1JVblRkYW92MEhkaS1rakhweUN6MnlYc0xVbzVQcUtwdXRBbGFPUzV5T2Q5a3lmbVNqdE0zZFgyT0J3OGt6bzlwT1dWb2dtdVBieEtuOVFQXzdlNFdzUm8tU3FrV1JQS1hEUGpscjl3Q1BRczR4RlE",
     "CBMimAFBVV95cUxQUUtCYmtXZFVlZHF0Sl93Nkh1MDFadFJDNThMTGpMVERYZzhFVTJ0bjZTeWVvLXYxUEFsVVVfRlhUSG1xdEZCakdXOHB3UE1JMWVyYVFONVZxOTBqcUx1X09DNG9NLXUyc2cxZ3JPMEp1SGtvZXhRTVBqMzgyQVcwMTRQY3kyM2hienQzUGNMWFRqaVB6Um02dQ",
@@ -1205,10 +1204,10 @@
     "CBMijwFBVV95cUxPR2lLNnhWYlF0UWtrc0lGeEdZTTQxa1l6WEdmTnhib0tqbGsyYkxOZTVGcVppbGtUUUVqTndBcWxySExoM1ZYQmtZam5NOURVb2RHUXNJa0dqNExxMHBsRDU0SGhCQ3J1OXk1ZzhXRnB6eFE5ZWxkLVdsM1gtTzE2bVhrZnhta095YU05ZUFQTQ",
     "CBMimAFBVV95cUxPa2ZNdU5vN2M5VnVSb1pwODc0NXJTXzRHR2RIaTFhS09PODRMZVlsMThNblVMbjFFNlZwUU5vajZFSVVlbEJrV3hCenR6a0oxRjloQ2Qzd3VReUliNVdtOUw1cllvQXNUSmtha2k4eWJSYm5lQXB6OUctMVBlZUMybHkwWF9BVHNmdC1WZkE3S3htQ3dXVklpSA",
     "CBMikAFBVV95cUxQTHF5V2hJdGEwOHpyRTJDbTl2SFVBMl9UZzhuS0R2QWRERkwydk82Q2tybHo3Vlh1VzdWc1J6TWdPejg1ck01NGprV0pQTjFsWW0wVzZKMk9EbzJTS1VtdUZUN1JmeEEyb18xamw3TmNHMmR3ZFpwSEgxcEozUThrN2V6eEc2dTlEYjBCbVJVYTM",
-    "CBMimgFBVV95cUxNbWFIczR4czFBVUlITmNMenh5VkN6LUpDTzBOaXhhNko2X1k4QVBKdDRxLVlJTG1iNGsxOThRbC1RNzlxSHJqN05zV1ZFOGRNR2NpLW0xbG9QZU11M3paNXoxWmp1TGNSVjBPUXcwMVlUc3RVZC10QmxhMTUzREY2eHlCOGUyNU9zb2Z1UWF0RHVWQVRKY1gtU0p3"
+    "CBMimgFBVV95cUxNbWFIczR4czFBVUlITmNMenh5VkN6LUpDTzBOaXhhNko2X1k4QVBKdDRxLVlJTG1iNGsxOThRbC1RNzlxSHJqN05zV1ZFOGRNR2NpLW0xbG9QZU11M3paNXoxWmp1TGNSVjBPUXcwMVlUc3RVZC10QmxhMTUzREY2eHlCOGUyNU9zb2Z1UWF0RHVWQVRKY1gtU0p3",
+    "CBMikwFBVV95cUxQaVFHWktOcUxIbmgyRFotMW5JWnAwTHRXZkpFRmhHY1Y4dV8tRkpjdzN6VEg1SFozd3o1QTJma09fQ3JQT19KaWlJcHdQSndmT0k5c3AxTXRVQ28yQTFUQkgtdDRYRXBpMTh0U3RjdUdwRGZRU1U3a1ZHbnpzSVYta2cwMk9oNFZ5RzQ2U2V5RzZJdDg"
   ],
   "https://www.scmp.com/rss/4/feed": [
-    "https://www.scmp.com/opinion/asia-opinion/article/3362228/reduce-south-china-sea-friction-beijing-and-manila-need-it-writing?utm_source=rss_feed",
     "https://www.scmp.com/news/china/military/article/3362432/numbers-game-why-us-losing-ground-china-first-island-chain?utm_source=rss_feed",
     "https://www.scmp.com/news/china/science/article/3362637/chinas-catch-era-ends-whats-standing-way-tech-innovation?utm_source=rss_feed",
     "https://www.scmp.com/news/china/diplomacy/article/3362641/pain-or-gain-us-moves-decouple-its-defence-industry-chinas-rare-earths?utm_source=rss_feed",
@@ -1507,7 +1506,8 @@
     "https://www.scmp.com/business/china-business/article/3364770/chinese-regulators-slap-us78m-penalty-guotai-haitong-arm-amid-capital-flow-crackdown?utm_source=rss_feed",
     "https://www.scmp.com/news/china/science/article/3364792/international-students-comprise-majority-hiv-cases-detected-wuhan-port?utm_source=rss_feed",
     "https://www.scmp.com/news/china/politics/article/3364814/chinas-typhoon-maysak-death-toll-soars-159-region-tallies-catastrophic-losses?utm_source=rss_feed",
-    "https://www.scmp.com/news/china/politics/article/3364805/research-boosts-south-korean-chinese-links-wwii-resistance-against-japan?utm_source=rss_feed"
+    "https://www.scmp.com/news/china/politics/article/3364805/research-boosts-south-korean-chinese-links-wwii-resistance-against-japan?utm_source=rss_feed",
+    "https://www.scmp.com/plus/news/china/diplomacy/article/3364793/wang-yi-visits-south-korea-chinas-economy-cools-warsh-speaks-jackson-hole?utm_source=rss_feed"
   ],
   "https://news.google.com/rss/search?q=site:euronews.com&hl=en-US&gl=US&ceid=US:en": [
     "CBMirwFBVV95cUxPb1FfdmQ4Z0Y0YmhsZ1I4MHRSNUVfck9PLXVObHoxNFlBOUVFY0pUNWhEbWdvREVTbmdMQ29GQ3hieGY2R09jWUZDcEtwYUVkV2NPR09GeGdiZkh4aTN2UExrOVR2aHhBN1lCVVNUS0ZLYTNVbXVlbGU2SmY1N2pjV0ZRZ3JELXpycVlMOW43M2lMZkJ1eTVvRUM4bEQ5aFJ3ZEdIbXEzSHljamQ4Y0F3",
@@ -1812,8 +1812,6 @@
     "CBMirwFBVV95cUxPdHhrLURabFFmOEhXelcxVHpDb0stSHNGWFF5NVhLRlN1SWpnWU1ObEJLeXFnbFBvZ2J1dmFoWUYySlowenZMN28wSnQ5UjYtUHVvSlRvM2gyb0ZJYU14cTVEWGZFM202ekZBcm8xemNya1Rpc01mNjkzVGVIMXhXMjNiT2N2XzM4ZXp5Rkt6ZkUyMlJ6Ml9VZ1ZfVEo2RGpWS0FlZm10aFdhT3JDemtr"
   ],
   "https://en.yna.co.kr/RSS/news.xml": [
-    "https://en.yna.co.kr/view/AEN20260818004700320",
-    "https://en.yna.co.kr/view/AEN20260818003951315",
     "https://en.yna.co.kr/view/AEN20260818002300315",
     "https://en.yna.co.kr/view/AEN20260818005800315",
     "https://en.yna.co.kr/view/AEN20260818005900320",
@@ -2111,12 +2109,11 @@
     "https://en.yna.co.kr/view/AEN20260821002651315",
     "https://en.yna.co.kr/view/AEN20260821009100315",
     "https://en.yna.co.kr/view/AEN20260821008051320",
-    "https://en.yna.co.kr/view/AEN20260821008800315"
+    "https://en.yna.co.kr/view/AEN20260821008800315",
+    "https://en.yna.co.kr/view/AEN20260821006200320",
+    "https://en.yna.co.kr/view/AEN20260821010100315"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1786994509",
-    "https://www.aljazeera.com/?t=1786997799",
-    "https://www.aljazeera.com/?t=1786993391",
     "https://www.aljazeera.com/?t=1786999017",
     "https://www.aljazeera.com/?t=1786994679",
     "https://www.aljazeera.com/?t=1786988343",
@@ -2413,7 +2410,10 @@
     "https://www.aljazeera.com/?t=1787294130",
     "https://www.aljazeera.com/?t=1787244135",
     "https://www.aljazeera.com/?t=1787298949",
-    "https://www.aljazeera.com/?t=1787289962"
+    "https://www.aljazeera.com/?t=1787289962",
+    "https://www.aljazeera.com/?t=1787291101",
+    "https://www.aljazeera.com/?t=1787301507",
+    "https://www.aljazeera.com/?t=1787296527"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
     "https://allafrica.com/stories/202607240006.html",
@@ -2775,10 +2775,10 @@
     "https://en.mercopress.com/2026/08/16/colombia-asks-washington-to-suspend-12.5-tariffs-over-the-earthquake-emergency?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss",
     "https://en.mercopress.com/2026/08/17/cali-closes-the-rescue-phase-after-140-hours-and-moves-to-clearing-rubble?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss",
     "https://en.mercopress.com/2026/08/18/colombia-s-president-hands-out-branded-footballs-in-an-earthquake-hit-port-city?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss",
-    "https://en.mercopress.com/2026/08/19/an-argentine-consultant-who-advised-milei-s-campaign-detained-in-bolivia-after-a-shooting?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss"
+    "https://en.mercopress.com/2026/08/19/an-argentine-consultant-who-advised-milei-s-campaign-detained-in-bolivia-after-a-shooting?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss",
+    "https://en.mercopress.com/2026/08/21/eclac-trims-its-2026-forecast-for-latin-america-and-the-caribbean-to-2.2?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss"
   ],
   "https://www.abc.net.au/news/feed/2942460/rss.xml": [
-    "https://www.abc.net.au/news/2026-07-30/clicky-ponting-suspended-as-cricket-investigation-continues/106975696",
     "https://www.abc.net.au/news/2026-07-30/broncos-player-corey-jensen-announces-medical-retirement/106975182",
     "https://www.abc.net.au/news/2026-07-30/commonwealth-games-glasgow-day-six-quick-hits/106970000",
     "https://www.abc.net.au/news/2026-07-30/commonwealth-games-eilen-cikamatana-claims-weightlifting-gold/106974672",
@@ -3077,6 +3077,7 @@
     "https://www.abc.net.au/news/2026-08-21/nrl-panthers-jack-cogger-three-match-suspension/107063140",
     "https://www.abc.net.au/news/2026-08-21/australia-vs-bangladesh-second-test-when-is-it-where-is-it/107060464",
     "https://www.abc.net.au/news/2026-08-21/australia-names-team-for-second-test-against-bangladesh/107065120",
-    "https://www.abc.net.au/news/2026-08-21/nrl-live-raiders-broncos-dolphins-eels/107065550"
+    "https://www.abc.net.au/news/2026-08-21/nrl-live-raiders-broncos-dolphins-eels/107065550",
+    "https://www.abc.net.au/news/2026-08-21/afl-rd-24-live-magpies-lions/107063430"
   ]
 }
