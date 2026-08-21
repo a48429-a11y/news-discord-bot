@@ -604,9 +604,6 @@
     "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html"
   ],
   "http://feeds.bbci.co.uk/news/world/rss.xml": [
-    "https://www.bbc.co.uk/news/videos/c1m12m12nzzo#3",
-    "https://www.bbc.co.uk/news/articles/cq561gpen8lo#0",
-    "https://www.bbc.co.uk/news/articles/cx2k1r97vx7o#1",
     "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo#0",
     "https://www.bbc.co.uk/news/articles/c9v42m3430vo#2",
     "https://www.bbc.co.uk/news/videos/c36dyep3k1ko#3",
@@ -903,10 +900,12 @@
     "https://www.bbc.co.uk/news/articles/cj9dmw8183wo#1",
     "https://www.bbc.co.uk/news/videos/cy07x9ne871o#3",
     "https://www.bbc.co.uk/news/videos/cn4nk1915vxo#3",
-    "https://www.bbc.co.uk/news/articles/c24me64n31qo#1"
+    "https://www.bbc.co.uk/news/articles/c24me64n31qo#1",
+    "https://www.bbc.co.uk/news/articles/cvgl2pe09eno#0",
+    "https://www.bbc.co.uk/news/articles/cp9edjpvplpo#0",
+    "https://www.bbc.co.uk/news/articles/c0km6n3ng7ko#1"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
-    "CBMisAFBVV95cUxNT2tUV0pUa2lOMy0yZ1N5NzRhR0IzWmV5S1k2X1drUjRoNU13NWloWm5kbUFnLTBoYUQ1VG1oTEtxeHJ5Rm1uV2ZvLXgzUHU1N1dWeV84UXVPYVJKTDF0dkN0Z01IRlZNa2ZnOERLSEoyNXNwOEhJSjl6aWFBb2JpdEMxX2hHa3lKMXk3UnNkY3lOUGRXd3JFcE9FaVRBQ3EzYTBJYmhlUl9tdTZLamhVdg",
     "CBMisAFBVV95cUxPdXVvcWZIbkY5aDNaUWczOEFHWVBiRkJ4MlVkVzNqaE1yODh5cW5BLVROY3NpamtVS05uQ2JiYk9PVDdoMjlIOVZZc2tXV21CVUNQV3cxS0N6X2p0TUxmaWMtbk1GX2dpSmdvSEF5WGhNcXJkTEk1ZU9tanhSaTUxM2dwZXhpUnQ2ODA4OE1UQWwxbVVzLWpibF9OSmRRMlpDOWdWWnQyOXZqMmUtNDdUUQ",
     "CBMinAFBVV95cUxNN05uTi1tNEFfUXhxNklUMTU5b3dfaVhiR0xkTDU4X1F3VE1tS2d5SHNPbmhjLXBJTVJSSDNDZ19WNWtoVlNhTFVmdWk1bXVqLTRFejlUVlJCTlRGVkhqOTV5VERGeW1nVG53SDBrbmMweDNDRlBydVBHamZDMDdUQno4OEVtc0hkMkQ4VnBfWEtRS1RqZjYzWmRmVlI",
     "CBMirAFBVV95cUxOU0NBVmpueWNUWGJ1ckoxSW1wR1dkX0ZHRzk3bWFUcUlGamk0NjBjMEo2LXVRNTlUUkxibVdSbHdLS245VF9Hc2hzbE9JYld3WEt4VnBPSWVwMjFoTlQyc2RSYjdzLU5ZN0FoZ1dSaVVGUGIwbU1XbzlCY256ZnloUFBuNnlPakV3RFlFWHpqRERKa3lIblRReG80R1hyN1RCczFLdXYtRmJQNlo3",
@@ -1205,7 +1204,8 @@
     "CBMiogFBVV95cUxOU19BM2l2RGhNUW5aWGxpdXJRU1QwVWtzekJ1ckw2bUdzWlhBSWcxX3U3T1JVblRkYW92MEhkaS1rakhweUN6MnlYc0xVbzVQcUtwdXRBbGFPUzV5T2Q5a3lmbVNqdE0zZFgyT0J3OGt6bzlwT1dWb2dtdVBieEtuOVFQXzdlNFdzUm8tU3FrV1JQS1hEUGpscjl3Q1BRczR4RlE",
     "CBMinAFBVV95cUxPZ1VqMXNlMnp0alRkYnpKcDJPQ3RPbE5qOElKdFlySkFLQVFERk5SYWpUd0M2ejlDazNnbVI1b01yTGZkXzlKMExtaWM1VmtvLUp4TVdQd05kVVJfMmE2V2s5MGFFSEw2dTFJZWZCTG5CdXhkbWItaldsMi14Qk5ONk8yVGdwR3MzbE9jd3FRVmtJR3E1bXdvZXBQeFo",
     "CBMijAFBVV95cUxQUmpvb2RyS0NNdkQ0WGRJM1F6emQxMVNxU2I1ZlZKZkNmbmZhN251OXlkbmMxOFphTGcyanRoY1hxcHAzZjFLZlp4aVZUN0ZvWUhCT09oWFE1SjhmM25vYkw5NVVNZmh0Z0lUdGFqZ2RNRXJZUFlwYlJHbVVfY0dIWGVubEtIbEVmVDN5dg",
-    "CBMikAFBVV95cUxOdkRnRTdwVmJVMi1VSXFycVBET3c0Y1RjMU4yNUtxWU9GWGZSUGFaaUhkWE5PUVNmLXlnZWxsTG1TYWFfN1NvbnlIRDdyMl95bUNpbzR0T2w4Q0tIMUNWYjNGMHJUT0Rfc2xwY1FtSXU1Q1ljOWMxc2lFNWVITjJtVlppT3cxVjFSY0wxLVRFMzg"
+    "CBMikAFBVV95cUxOdkRnRTdwVmJVMi1VSXFycVBET3c0Y1RjMU4yNUtxWU9GWGZSUGFaaUhkWE5PUVNmLXlnZWxsTG1TYWFfN1NvbnlIRDdyMl95bUNpbzR0T2w4Q0tIMUNWYjNGMHJUT0Rfc2xwY1FtSXU1Q1ljOWMxc2lFNWVITjJtVlppT3cxVjFSY0wxLVRFMzg",
+    "CBMiigFBVV95cUxPTjZwX3pSa09hRERJMDJhaGwtOElESGtfNzRJRU5RMWRhQUp6Q1ZYcDlPVFJvTUZnZUg1d09WWTJZWUlWR3k3c08xZloxemZ6bFpFempaWDZ5bnBtdGVGeGtRUjRfc3NIMVk2SDlKZGF0TjlncTNpVUlET2ZaZF80dzJLODVnU20tSnc"
   ],
   "https://www.scmp.com/rss/4/feed": [
     "https://www.scmp.com/news/china/science/article/3362493/chinese-police-ai-algorithm-tracks-bitcoin-money-laundering-90-accuracy?utm_source=rss_feed",
@@ -2114,10 +2114,6 @@
     "https://en.yna.co.kr/view/AEN20260821010300320"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1787047447",
-    "https://www.aljazeera.com/?t=1787050368",
-    "https://www.aljazeera.com/?t=1787041329",
-    "https://www.aljazeera.com/?t=1786445083",
     "https://www.aljazeera.com/?t=1786638979",
     "https://www.aljazeera.com/?t=1787043436",
     "https://www.aljazeera.com/?t=1787032662",
@@ -2413,7 +2409,11 @@
     "https://www.aljazeera.com/?t=1787324820",
     "https://www.aljazeera.com/?t=1787231880",
     "https://www.aljazeera.com/?t=1787324421",
-    "https://www.aljazeera.com/?t=1787234698"
+    "https://www.aljazeera.com/?t=1787234698",
+    "https://www.aljazeera.com/?t=1787325910",
+    "https://www.aljazeera.com/?t=1787331331",
+    "https://www.aljazeera.com/?t=1787327436",
+    "https://www.aljazeera.com/?t=1787322003"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
     "https://allafrica.com/stories/202607240004.html",
