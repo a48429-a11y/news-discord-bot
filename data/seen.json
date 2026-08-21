@@ -604,9 +604,6 @@
     "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html"
   ],
   "http://feeds.bbci.co.uk/news/world/rss.xml": [
-    "https://www.bbc.co.uk/news/articles/c9q9351yp1xo#0",
-    "https://www.bbc.co.uk/news/articles/cn5n399n6zvo#1",
-    "https://www.bbc.co.uk/news/articles/cn0npjkqrleo#1",
     "https://www.bbc.co.uk/news/articles/cn0npn249qvo#0",
     "https://www.bbc.co.uk/news/videos/cjej4y3gvzlo#3",
     "https://www.bbc.co.uk/news/articles/cly8p8lpyvmo#0",
@@ -903,7 +900,10 @@
     "https://www.bbc.co.uk/news/articles/cly8k232mn7o#1",
     "https://www.bbc.co.uk/news/articles/ckg4q8kyxp7o#2",
     "https://www.bbc.co.uk/news/articles/cd7l1g8922jo#0",
-    "https://www.bbc.co.uk/news/articles/cn8n077vxd7o#1"
+    "https://www.bbc.co.uk/news/articles/cn8n077vxd7o#1",
+    "https://www.bbc.co.uk/news/articles/cy8e6g13497o#0",
+    "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo#1",
+    "https://www.bbc.co.uk/news/articles/cd7l1g8922jo#1"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
     "CBMipwFBVV95cUxQRWlYdXhZNFZRM01yMnJGVVdpeE84N2ZsV0JFa0k0ajYxV09SU094MXpxRTZTOVhKOS02SzhWTURZamJXN0VIb2NsZnlNMmJaOEtFRVhScXlCTUlLZDRlN2dmVGxhNE9zckVFMEhnaVdQdWZEMnhjUTlSRElVY09NNUl3aURhbVMxUTJkV1R2TDJEZ3ZVRWphN3Vnc21BX29zc01RbkNUdw",
@@ -1208,7 +1208,6 @@
     "CBMimAFBVV95cUxPa2ZNdU5vN2M5VnVSb1pwODc0NXJTXzRHR2RIaTFhS09PODRMZVlsMThNblVMbjFFNlZwUU5vajZFSVVlbEJrV3hCenR6a0oxRjloQ2Qzd3VReUliNVdtOUw1cllvQXNUSmtha2k4eWJSYm5lQXB6OUctMVBlZUMybHkwWF9BVHNmdC1WZkE3S3htQ3dXVklpSA"
   ],
   "https://www.scmp.com/rss/4/feed": [
-    "https://www.scmp.com/news/china/science/article/3362629/china-hopes-banish-blackouts-quantum-tech-puts-power-grid-superposition?utm_source=rss_feed",
     "https://www.scmp.com/news/china/military/article/3362628/pla-stages-south-china-sea-drills-days-after-illegal-philippine-territorial-bid?utm_source=rss_feed",
     "https://www.scmp.com/news/china/military/article/3362558/taiwans-political-parties-deadlocked-over-efforts-boost-military-drone-capacity?utm_source=rss_feed",
     "https://www.scmp.com/opinion/asia-opinion/article/3362228/reduce-south-china-sea-friction-beijing-and-manila-need-it-writing?utm_source=rss_feed",
@@ -1507,7 +1506,8 @@
     "https://www.scmp.com/news/china/diplomacy/article/3364723/japan-lawmakers-visit-china-bid-cool-row-thaw-unlikely-experts?utm_source=rss_feed",
     "https://www.scmp.com/news/china/science/article/3364721/international-study-finds-solar-panels-china-could-be-harming-birds?utm_source=rss_feed",
     "https://www.scmp.com/news/world/article/3364744/chinas-smart-diabetes-probiotics-life-sentence-hui-ka-yan-scmps-7-highlights?utm_source=rss_feed",
-    "https://www.scmp.com/business/china-business/article/3364770/chinese-regulators-slap-us78m-penalty-guotai-haitong-arm-amid-capital-flow-crackdown?utm_source=rss_feed"
+    "https://www.scmp.com/business/china-business/article/3364770/chinese-regulators-slap-us78m-penalty-guotai-haitong-arm-amid-capital-flow-crackdown?utm_source=rss_feed",
+    "https://www.scmp.com/news/china/science/article/3364792/international-students-comprise-majority-hiv-cases-detected-wuhan-port?utm_source=rss_feed"
   ],
   "https://news.google.com/rss/search?q=site:euronews.com&hl=en-US&gl=US&ceid=US:en": [
     "CBMilgFBVV95cUxObG9vbThZSVRfdEtFbWZnTHRpZ0g5ZC1LZmVKUnFSNU9SUVotRmJfWGRzcnBXS3lTUFdjdURZT1BsS3dXWHFLOEFXZ2Y2c0kyUnNReXlOSWRucmw3MnE5YzZtb2w1QWJmVGFNSjFDWUgxdW44VGhBU0lwUWJoeC1CN3BSYUhHQkYzd3hpRnNYOVgyVGROdUE",
@@ -1812,14 +1812,6 @@
     "CBMivwFBVV95cUxOcTQ5N2hHSDdoOGhHcm5hZ01xVUI1YTZqWTQ3b2ZjYWtfVEdEN3VmdlNrWmhPQUlOOGRtY3MxR3dvNlVGd2NRelRKcmhtNG1VVEZvQVJCbXJVdE9OZXM5akpEbFhmRjlMUlBqbURaUnRqbXdzOGxPZEJBOGtOUDY3dFFRNURkX2RIdllRZm1HQ19WWnRMYWJ0MmZXcWFVTFppNWtBakNuSXFlRTgyejRzNDEtTzJaRXdoVVBXZjFoSQ"
   ],
   "https://en.yna.co.kr/RSS/news.xml": [
-    "https://en.yna.co.kr/view/AEN20260818002400315",
-    "https://en.yna.co.kr/view/AEN20260818002200320",
-    "https://en.yna.co.kr/view/AEN20260818002100315",
-    "https://en.yna.co.kr/view/AEN20260818001651320",
-    "https://en.yna.co.kr/view/AEN20260818001700315",
-    "https://en.yna.co.kr/view/AEN20260818001600320",
-    "https://en.yna.co.kr/view/AEN20260818001500320",
-    "https://en.yna.co.kr/view/AEN20260818003700315",
     "https://en.yna.co.kr/view/AEN20260818003900315",
     "https://en.yna.co.kr/view/AEN20260818004100320",
     "https://en.yna.co.kr/view/AEN20260818003800315",
@@ -2111,10 +2103,17 @@
     "https://en.yna.co.kr/view/AEN20260821006100315",
     "https://en.yna.co.kr/view/AEN20260821004252320",
     "https://en.yna.co.kr/view/AEN20260821006300320",
-    "https://en.yna.co.kr/view/AEN20260821006500315"
+    "https://en.yna.co.kr/view/AEN20260821006500315",
+    "https://en.yna.co.kr/view/AEN20260821007900315",
+    "https://en.yna.co.kr/view/AEN20260821006951320",
+    "https://en.yna.co.kr/view/AEN20260821008000320",
+    "https://en.yna.co.kr/view/AEN20260821007300315",
+    "https://en.yna.co.kr/view/AEN20260821006900320",
+    "https://en.yna.co.kr/view/AEN20260821006700320",
+    "https://en.yna.co.kr/view/AEN20260821006800315",
+    "https://en.yna.co.kr/view/AEN20260821004253320"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1786977779",
     "https://www.aljazeera.com/?t=1786978417",
     "https://www.aljazeera.com/?t=1786993641",
     "https://www.aljazeera.com/?t=1786994908",
@@ -2413,7 +2412,8 @@
     "https://www.aljazeera.com/?t=1787226998",
     "https://www.aljazeera.com/?t=1787280340",
     "https://www.aljazeera.com/?t=1787287576",
-    "https://www.aljazeera.com/?t=1787281582"
+    "https://www.aljazeera.com/?t=1787281582",
+    "https://www.aljazeera.com/?t=1787230717"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
     "https://allafrica.com/stories/202607240013.html",
@@ -2778,7 +2778,6 @@
     "https://en.mercopress.com/2026/08/19/an-argentine-consultant-who-advised-milei-s-campaign-detained-in-bolivia-after-a-shooting?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss"
   ],
   "https://www.abc.net.au/news/feed/2942460/rss.xml": [
-    "https://www.abc.net.au/news/2026-07-30/irish-families-watch-aflw-back-home-in-the-middle-of-the-night/106913202",
     "https://www.abc.net.au/news/2026-07-30/storm-coach-responds-to-munster-png-ultimatum/106976728",
     "https://www.abc.net.au/news/2026-07-30/clicky-ponting-suspended-as-cricket-investigation-continues/106975696",
     "https://www.abc.net.au/news/2026-07-30/broncos-player-corey-jensen-announces-medical-retirement/106975182",
@@ -3077,6 +3076,7 @@
     "https://www.abc.net.au/news/2026-08-21/afl-dean-cox-callum-mills-address-sydney-swans-scandal/107062056",
     "https://www.abc.net.au/news/2026-08-21/sydney-swans-aflw-addresss-media-amid-club-scandal/107063448",
     "https://www.abc.net.au/news/2026-08-21/nrl-panthers-jack-cogger-three-match-suspension/107063140",
-    "https://www.abc.net.au/news/2026-08-21/australia-vs-bangladesh-second-test-when-is-it-where-is-it/107060464"
+    "https://www.abc.net.au/news/2026-08-21/australia-vs-bangladesh-second-test-when-is-it-where-is-it/107060464",
+    "https://www.abc.net.au/news/2026-08-21/australia-names-team-for-second-test-against-bangladesh/107065120"
   ]
 }
