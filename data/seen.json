@@ -1,6 +1,5 @@
 {
   "https://news.google.com/rss/search?q=site:reuters.com&hl=ja&gl=JP&ceid=JP:ja": [
-    "CBMifkFVX3lxTE9PU1lSalZEaGxUWG9FMGRkRWNNeDN2SFZBa05kQ2ZjYjJHNTM1bjltUHFlWkRDalhqMU5mZlJad0dBNmFUNGNpMnJUT3g1bVNpQVRoYTZoanR6X3V6ajJadnhtUEx5M294WmpJUklYTHNwRkdMS3Z1LUpRaU9BUQ",
     "CBMiggFBVV95cUxQcFFqNGFiN2pkaUJnZFdNZGlYN1NUTzRxSDk0V2pDUTZWaWJHZFJ6eE1adG5RR3ZsNmJtYjdobDFtUmJ0UmlnNElDMjE4R05uMkRQVm9kV1dYOFNCX1J2Uy1kcTAtNzg3bklWcEVJLVhCQ1JzZ2RtNHJqRjQyTVpOeWl3",
     "CBMidkFVX3lxTE9oUVl3WEY5N0RReTNXZkxNcVVrdEFFRWZSblVRMm5pRm5IRXMyaWhNWXhjYVRWRnF2eTZ1eU12Vk1LRFZ6Tl94Tlh0MXdGV21VTHlsUXk2TWlIUU5wSjQ1Z0RybG1TVGV1OGdzazBjRWdQOFN5YUE",
     "CBMieEFVX3lxTE0tLUZHWFJ0Tzl2Z00wRzh5M1dDN1hQaGFvQjFyTWN0eTRSUGhQVUdvc3VibTZuT0hrSF93c2VCS2RhclU1U2QxeFNrZUJReEdnYm9vYk5WNkNLRWN5b1MtY0dCVllmbXdvMGNxamF1ZmNKUnBEY2tPLQ",
@@ -299,7 +298,8 @@
     "CBMieEFVX3lxTE9mSDhpeFNrOVB2MUdvZ196WmpMUEh3MGpMQlF1OVQwaWtWdmVDNk50X3A2ZlYwLXJBelZVZGY5X09FUnZ0cVk0ZzFBVGdub1hOT3hNdzdZTnRpRmhaN01kSnd4UkhvT3VYWEFkTlNMT2plWG1mZDNrSg",
     "CBMieEFVX3lxTE44cmlkaC0xRHNtYVN1dFhPckNTdkJhTk5pNTVDUUxsUjg5WTBWZVJHNkl0VlRCeWE2c1FOWVpLMFgzZ2NicmZXQ01RWlRORWZGMllLOUVoNWl6a2tVMkFpWUx2OWdBMjZKLVRIVlFXWlREYkYta2tLVA",
     "CBMigAFBVV95cUxQR1dkRUlyeGtlZ0puY1d4Y3pNeTFQWEdpM0FfYmhYSFFRMUp3YXoyRkFwaHZMWFlFY0x5Njc4WnNON2dTVG1hb2JhRElMZnctelZRdGMwMFA0Z09YV2VYbm9VRDJqOVh3a3d1TEJEQTFzSUhmM2pZZ3o4X0xjOWFLRQ",
-    "CBMiggFBVV95cUxOUmdxdU1kQ2F1a1A1RUJmRnZDRGJhWld1TmYzYndtb19yUlhCN1BkOVdmM05zUzdrdVIxeXFuQnYwVGRmb0JhRVB4dWl0SmhoZXZ3NWY4bkExa2d3S09mbjN6U3BDMWtGNGdvVEtIZFpHdnV0cmdMb0Y3aU5taTBqRXJR"
+    "CBMiggFBVV95cUxOUmdxdU1kQ2F1a1A1RUJmRnZDRGJhWld1TmYzYndtb19yUlhCN1BkOVdmM05zUzdrdVIxeXFuQnYwVGRmb0JhRVB4dWl0SmhoZXZ3NWY4bkExa2d3S09mbjN6U3BDMWtGNGdvVEtIZFpHdnV0cmdMb0Y3aU5taTBqRXJR",
+    "CBMieEFVX3lxTFBIaWsySVJKci1YQW5VbXctVjRTVFRRMXVpR2lHZ3NKY3BxV0hBVFY2QlYwbG85Q3BzSmhkam5Ob2MtTmEyNTlnSUpiUjNDSmNjb0s5cnc3OGFwSDU5Y2NLQkNrZkw0cUJQeTFrNE41UUt4d0M2N2xlUw"
   ],
   "https://www3.nhk.or.jp/rss/news/cat0.xml": [
     "http://www3.nhk.or.jp/news/html/20260724/k10015185791000.html",
@@ -2114,7 +2114,6 @@
     "https://en.yna.co.kr/view/AEN20260822000400315"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1787065242",
     "https://www.aljazeera.com/?t=1787057333",
     "https://www.aljazeera.com/?t=1787043314",
     "https://www.aljazeera.com/?t=1787073678",
@@ -2413,7 +2412,8 @@
     "https://www.aljazeera.com/?t=1787338882",
     "https://www.aljazeera.com/?t=1787347274",
     "https://www.aljazeera.com/?t=1787345785",
-    "https://www.aljazeera.com/?t=1787344488"
+    "https://www.aljazeera.com/?t=1787344488",
+    "https://www.aljazeera.com/?t=1787330208"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
     "https://allafrica.com/stories/202607240003.html",
@@ -2781,8 +2781,6 @@
     "https://en.mercopress.com/2026/08/21/bolivian-prosecutors-open-a-second-case-against-the-consultant-who-advised-milei-and-paz?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss"
   ],
   "https://www.abc.net.au/news/feed/2942460/rss.xml": [
-    "https://www.abc.net.au/news/2026-07-30/afl-round-21-thursday-collingwood-geelong-live-blog/106978574",
-    "https://www.abc.net.au/news/2026-07-30/commonwealth-games-glasgow-day-seven-live-blog/106974778",
     "https://www.abc.net.au/news/2026-07-31/commonwealth-games-ridge-barredo-mafs-weightlifting/106979516",
     "https://www.abc.net.au/news/2026-07-30/michelle-jenneke-glasgow-commonwealth-games-cam-mcentyre-wind/106979514",
     "https://www.abc.net.au/news/2026-07-31/uefa-vows-world-cup-boycott-fifa-private-equity-plan/106980126",
@@ -3080,6 +3078,8 @@
     "https://www.abc.net.au/news/2026-08-22/wallaroos-100th-test-new-zealand-black-ferns/107055868",
     "https://www.abc.net.au/news/2026-08-22/f1-dutch-grand-prix-sprint-qualifying/106998462",
     "https://www.abc.net.au/news/2026-08-22/us-open-tennis-jannik-sinner-pulls-out-due-to-knee-injury/107066610",
-    "https://www.abc.net.au/news/2026-08-22/adelaide-crows-walk-wildcard-tightrope-on-eve-of-afl-finals/107058378"
+    "https://www.abc.net.au/news/2026-08-22/adelaide-crows-walk-wildcard-tightrope-on-eve-of-afl-finals/107058378",
+    "https://www.abc.net.au/news/2026-08-22/fifa-hands-argentina-star-leando-paredes-10-match-ban/107066632",
+    "https://www.abc.net.au/news/2026-08-21/sydney-swans-scandal-women-lawyer-speaks/107062612"
   ]
 }
