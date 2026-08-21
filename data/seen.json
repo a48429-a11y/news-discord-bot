@@ -906,7 +906,6 @@
     "https://www.bbc.co.uk/news/articles/c2lq5g4dedpo#2"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
-    "CBMiogFBVV95cUxNX0dMUWR0N1NCdC1lR3hzYVI3UG9ZUFRVWWdEMEpXV1RzLWZrWTN5VjI1dVFKYmo3YzRvUU5YYVkwTjZXdTdUU0FyamN2cTZvUmRqLWwtc2NnYzFoUDNZczRqSEUxc1hjZlJfbGZZcTZOSXRzMWYybzhaQjFjWmZ1NkhLa3hrRGNqallzZlY0cHVkMmo3alZnb3dyb0ZpMzU0cVE",
     "CBMijgFBVV95cUxQb3NFdF9tNVJidGNhMjlXVVRPN1RIM29BeEZFWjhYOVlxTUFmRFBiNENkdlNuNXo1WDVYTGhfM0lfNGxfTHBUcHJ5VUg4QTBmU0xxNWNnQXlqWFNMaTBNbllWTnc2TU04ZGs3ZTBiQ2kzQzNhZTdhRzVuRDdDLVdaUWFpY2hnNzFSM3I2blB3",
     "CBMirwFBVV95cUxNVVFqcS02ZHV5ZjlaeVFZdTlteEs3VjRqcVhQN3hxZHRQYjFjNUhKenE5MnVQR1J3R1d0cTA2NXJGTHZfcjU0RXM0T0dvSHFUUWItbktmV3JLMVFPaURkMzh5RUhCQmRyY3JUb3NNWGJqSlZvYXhBdzFfeU5hY3d6YVRMRkg5SWt4ZVJSVUpJZWxuYi0tZ2ExbXd5SGdmQzVWWnRvOE5JUm9HOXk4LUVV",
     "CBMirwFBVV95cUxPMUl1eTVsMHVkaVpUS0Y3SXVicEl6T09oUkNrNE91cWtqUi1qeXVKLVlRdEZyUE1uY0lQcmowckFWbjMzTVpreHYtMWVNbkRORXNuQ3FGdXViT3NZMjRCQWVYRFk3ekZyeWQzQnYyUW4yLVVBS0lMNkRsWXV0ZUxMNjdWMTVhNENtZVBvLW4wbEhVZ1c2WFBKM2FFay1xYjQ1Y2d6VnBKY0dtNWphUU5B",
@@ -1205,7 +1204,8 @@
     "CBMiogFBVV95cUxPWF96endSSklBQ0dCRVBNcjNPdEFVSS02dU5ybnNIeDdNOTlhZ0gyNVZuWm05YndRbTF6VkctQVFUdDRXeklSbDFJS3laNC1vaGt6NGZZWGNlREo4YXE0MXFuNzNzaU10NnVBTjRXS2MyX0RWNi1MRVBlYjZyVWNDZVVHdGV6cTg0WlItLTR0ZFFuUDFuMjlqV1JwRzBPZ1A2REE",
     "CBMihAFBVV95cUxNNDhjUUItSEFEc3plVmVWdEdUQk95RXJmeWFRQmpWdlZlUjVwWE1DcGhhQXhoYk5fRkhCU0RWbklwdC1FUnlmTF9KZGN2VkhJSXpsNUo5Vkc0UFFOMmxCZ2xHZzN2YVFfUWVzV3VjTzJHX1g0aWtIa2JIeU1vS3hYbGZjblA",
     "CBMinwFBVV95cUxQREdybUlDU0VLV0d5cmkxVFpfMjc1dnV6TTFuMGE1NkVwclpxbkpfeUV5b2UxenZleTVKeGstbHdEMzRBdUdDRG1VVUZEcUxGS2JGNEh5cFlSUDJ3em9LN21sclUwcUNnNG53d0Q3bHdLeHhiTC1hYUI4d3BndEc1cUFjTTQ1d1dROUR1UVROeXBZQkxpQW93RUhYcDYxMU0",
-    "CBMilAFBVV95cUxQTVp3TkxRTlg1ZnZiYzUxM0hZWDZYM056SlNRdDVjYl9fcHB5ZkdhNHVjcXVacWRyOVdxbFBGR2xvYXAtcHg5ZFQyUER5LWNhT2xWUjhucFc4R3FYZ3Z2YlZLMUUwTG5GczVWS05xY0Z1dzdzMk1RUmt6VWFzMHZqSnBILUlqVXROOWUzUUFtMEdmdm5h"
+    "CBMilAFBVV95cUxQTVp3TkxRTlg1ZnZiYzUxM0hZWDZYM056SlNRdDVjYl9fcHB5ZkdhNHVjcXVacWRyOVdxbFBGR2xvYXAtcHg5ZFQyUER5LWNhT2xWUjhucFc4R3FYZ3Z2YlZLMUUwTG5GczVWS05xY0Z1dzdzMk1RUmt6VWFzMHZqSnBILUlqVXROOWUzUUFtMEdmdm5h",
+    "CBMijAFBVV95cUxNZVBVMWVYTUY4ZWR3OXhZMEx2WTNtU1MzMnVhbjNLZjFSZ0t0b3pIMGNMWWpwZHZlT05HTXhzU0FHa29LenVOZENwaU0zRFJyVjZvN3oybXRTc0tLSzJCbzYwUWdJeWVPQjY0UEhldEdWbE9XX1F0N0dFYTA3RHJEcWtqT1JwbHpORTVteQ"
   ],
   "https://www.scmp.com/rss/4/feed": [
     "https://www.scmp.com/news/china/article/3362707/7-face-arrest-after-inner-mongolia-fatal-blast-report-exposes-string-failings?utm_source=rss_feed",
@@ -1510,7 +1510,6 @@
     "https://www.scmp.com/news/china/diplomacy/article/3364895/tiktok-bytedance-agree-us400-million-settlement-us-over-childrens-privacy-suit?utm_source=rss_feed"
   ],
   "https://news.google.com/rss/search?q=site:euronews.com&hl=en-US&gl=US&ceid=US:en": [
-    "CBMiugFBVV95cUxOSzFoNjhrMnJONTlZcHBjU2xYZkZZd055cDllYlN5RUxLSkw1SzBNMEhFTl9nS0dEUkFkRGpZcU9BeDJlX01tV1ZlZE9wN3BwZ3U1Q2w3Zm1KVWpLR2ltQ3VzZVhlVHh3T25vSkJ0U0FuM2hBWDJ5M0JZTUFNR3FxWWlkQTUzYVVZLUdlRnlHS2FyRnc3bzdtUXRzVHNHaHBGS2pYdkR5MHAtY3VhWXBBb282RTQ1R3h6MkE",
     "CBMi0gFBVV95cUxQaGNsV3RmS0U0aGJlOUxmdmstV1dCTnc4Z21KSmlWenQ4YUs4dEZrSkRXWS1CV192TmIxYTI4TUpxbHgwcXBpX1duVHNfcFNjaVZiTU5UZWVXcDVmSWUyOXFfQWxrbFVVTnF4NVItTnhMT2lPdFJ2Si1jMGkxeWQyUzlBeVFYT1JfLUUzXzFLbm5rTjcwTlVSOG9VMG9PVDZIMDNjU0FHdmVFM01jWnFwRmxyZjJQWGhkLWR2dGFIeGp0NzZOYXhrMGFnRWZRMXBxWUE",
     "CBMiwAFBVV95cUxPVGZQU2FvRTAxWHBLRzEweHcwRGRhUHBveE5CSDZ0N1ZNREVaZnp6eTM3amRrYWVJMmZKLTU4anhkY0NBQlUyOG10T3NxZVVicXhkdmZRVWtCSDNtRWM1ZWp0aDVRYjBTZmRySmlnUWdiVWVod18wS3hjaGRYM01lMGVpc0d1RFNET2phcGZteDI0eGY2WXUzYTN1SXVQeFVzS3ZIWTV5bEZFcVlXSTVhOG1EdnBnU3g3VHJ2dTlfNEU",
     "CBMizwFBVV95cUxOcHFsV0lGVDZVRmpZNFFLMXQ4T0pxaUJBYXlFZ05kVVVGSWtmY1R1a2lfYmY5eDhQc2FvTW1KNGNtdHBLV0V6My1RdENKSHR2ODRkOHhZQXZzbkVxX1BEV3B6dDJIWGdBYTJoSmNPZWF1ekh1TmgzUUNEaUFFckxUU2o1UkxfdlItMkpSbzByTlc5bjJtR0JmaENBcFBUc05YWGpTOGpMQW1SejJ3OUxfSnYzZnRDbkFZZkhkcG1BUkI2SlM4cGp3dkNTWVdUN0k",
@@ -1809,7 +1808,8 @@
     "CBMipwFBVV95cUxNMHBOaDZwOGFYWlZTQzAwNEo3UFBPNlNwTFU5YmZvbDlURmlIZ2RrMGg5ZFQwOGZvSjZJaHNRMDdpcVR5NUt3NEhGT3lTV19XMFJsanVKSXluanFDSFZ2WTRmVWdVNTg4dmxzbFZ4NnUyT3M3MFUydzV2eVBGVHUtUVQ5Z2s1SFhRZzZQOGlld2Y5Rzd2LU1VV2tUdnpJODZUVEJFQmhYOA",
     "CBMiqwFBVV95cUxOUW9haW5qQ2VHVkNkWm9hWlBWVnlOUmFhMF9mYVNackxRa3JyS0E3UlZWQnNWSHNwQ1J0VXM3dnhhaW11czNYWXZQbzNIeEV1UldFMFFRSWdWSlpHSDFYWEMtMXA2ZDdDMmpKMkhRci03Q053TUdlSEp6aTZXQThoNW9tYThiTTFLNWRKOGJrWjAwXzFlcVdLQnpXLU5xY3R5WmRISTVuUUY3aHc",
     "CBMivwFBVV95cUxOVWZFZUZLSjVlUnB0R19WMkN2bWRtbWNwNm5wc191TEIwdW9hNUxJdlBTdVJ5V2NoYWN6TEtjWkVqaENpSE84WXZsWFEyNXJIMGZvNlE2VkJHOENBZ2dtZm84MEFSTUExYjBjYUtRN3ZaaThZTFhObnh2cXNFYjh4V1NDQVVjNWNCdUsweG9wUmc4Z0ZNNlZxaDNHLTZueXJBUlcxeVViZ3JzQ01ZTExKaFNLalhPTnZuNUtRUm5TTQ",
-    "CBMipAFBVV95cUxQREx1V1JrbVhxdFhka2hSMEY1NUlqN180LWprczk3UFhRWHlBbHJrMlVEOENmLUFacnl4T2RMcDVDeXNpcGp1a0VxMDlxbU1XLVVXaS1HZDVxdjF1ekN1Y1FrS3ZBU19nODY1LXVmaHp4bFh5cFJFRE9FUnZUaS1lVTF5b3R1OU05bGFXZU9iWk1tRHJtYUdabE8tQU41c2ZXWXhQRw"
+    "CBMipAFBVV95cUxQREx1V1JrbVhxdFhka2hSMEY1NUlqN180LWprczk3UFhRWHlBbHJrMlVEOENmLUFacnl4T2RMcDVDeXNpcGp1a0VxMDlxbU1XLVVXaS1HZDVxdjF1ekN1Y1FrS3ZBU19nODY1LXVmaHp4bFh5cFJFRE9FUnZUaS1lVTF5b3R1OU05bGFXZU9iWk1tRHJtYUdabE8tQU41c2ZXWXhQRw",
+    "CBMiuAFBVV95cUxOMGROOWxWVzJ0N2tGTjNmSi1UVFc2Z1dZMDZNTjVaZGo5Wl9Ib19lcUJYNmpPMWQyZzN2NUJBU1RUTVFTU0g4dUQzVVVKOG9Wb2RvaTBsbWxrVVEwdGhVNE43NjN6RkRiM1JkWE43WHVhTnQ3QVk3OGNPQVBuOFZQVjE1UXEtUkdBcWJWV2R1UG82dlRHdjRJRldLUFJKRUdOdFhqZHdmY0NlblZhRS04SEtmeGlnN3Bq"
   ],
   "https://en.yna.co.kr/RSS/news.xml": [
     "https://en.yna.co.kr/view/AEN20260818004500315",
@@ -2781,7 +2781,6 @@
     "https://en.mercopress.com/2026/08/21/bolivian-prosecutors-open-a-second-case-against-the-consultant-who-advised-milei-and-paz?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss"
   ],
   "https://www.abc.net.au/news/feed/2942460/rss.xml": [
-    "https://www.abc.net.au/news/2026-07-30/nrl-live-updates-north-queensland-cowboys-sydney-roosters/106979316",
     "https://www.abc.net.au/news/2026-07-30/afl-round-21-thursday-collingwood-geelong-live-blog/106978574",
     "https://www.abc.net.au/news/2026-07-30/commonwealth-games-glasgow-day-seven-live-blog/106974778",
     "https://www.abc.net.au/news/2026-07-31/commonwealth-games-ridge-barredo-mafs-weightlifting/106979516",
@@ -3080,6 +3079,7 @@
     "https://www.abc.net.au/news/2026-08-22/tadej-pogacar-tour-de-france-wins-suspicion/106881158",
     "https://www.abc.net.au/news/2026-08-22/wallaroos-100th-test-new-zealand-black-ferns/107055868",
     "https://www.abc.net.au/news/2026-08-22/f1-dutch-grand-prix-sprint-qualifying/106998462",
-    "https://www.abc.net.au/news/2026-08-22/us-open-tennis-jannik-sinner-pulls-out-due-to-knee-injury/107066610"
+    "https://www.abc.net.au/news/2026-08-22/us-open-tennis-jannik-sinner-pulls-out-due-to-knee-injury/107066610",
+    "https://www.abc.net.au/news/2026-08-22/adelaide-crows-walk-wildcard-tightrope-on-eve-of-afl-finals/107058378"
   ]
 }
