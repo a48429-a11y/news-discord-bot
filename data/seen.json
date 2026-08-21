@@ -1,8 +1,5 @@
 {
   "https://news.google.com/rss/search?q=site:reuters.com&hl=ja&gl=JP&ceid=JP:ja": [
-    "CBMieEFVX3lxTE5fUDBXYkhCaFNvc0huX2dhQmNFNU5qOW1DbXRuelp5NUZWQ2dJQ3FRTUtnRnlLVnM2VkdhTU1lY205ZVNRRGJybGNITGRTc3VQZS00X1Zia2Z2eGM3MkNZdjBvX0hTRXpyYlhYdDV1OWhIZHA4b3lGcg",
-    "CBMiekFVX3lxTE52STNBeURWOHJyVW9aN3pYdzdrOXluWFdfcjh3VU15UmhWOGtCX2doOWUzeHBEWU8yT3VwVFcxc0hfZXA4Mllmb2VPb0M2b1pKUzZyZlZiaWZLd3plOVBFZ09SdUVEczAwLWV2MnN5ZWFCSHpXRERNcWVR",
-    "CBMifkFVX3lxTFBHMmhYT3pacTg0OGM1RXg0MlJoR1lmNGJsOGpmZzZRS0xSaTNraGl5ZGV2aDluVHJKUkllQmV5elJESU5EVHZXM1FGbTQ0dFZsR0loX2E0cW0zZnVsSTcwYmpwNmFoeDFlb2JuSnJ5dm5BUjNPVTF1b0JmMHZqZw",
     "CBMiekFVX3lxTFBPbEdvUXBmZG5xaHJPX3JvT1ktSzFFdUhod0x5Wk9JblFmYWlwcC1QNjJtc0ZVSEtfS3puNkZuS2tJVEEzcE14UzYzak10SU5CNnVBRDVYWS0zcGN3UTRnQTE3d0JwYXNreHhGazgyMWVwc2dCODNveDVR",
     "CBMigAFBVV95cUxPSEFCSUFUZUttX2VPTktzTl9VZkI3cHhmWHE2VDZvVzhTQ2RiRUpGMHcwcnE2R0trSGlMb3lFSTVDV0hXZ1Z1aFdkLV8zejNSZXFvMVBHWEgwLXpnUTVTT1c4TVNfcGl0VTFEcmpxbUQ3SmV2aEJRaFZUSXNlM29ndg",
     "CBMiggFBVV95cUxOSEJYbzY0Tm5xY3pGZ25yb0dfa2NJRzFsQ2RIYkJ6ZmRwTXpuZ1dnb0o0VlprZDJxTHdDUWtLeEdNd212ejItNzJCWDNMak5ZM2FUa01ObGdFUy15YW5BbHNBQnhlZHRuOXhzRGd1dEJtd0V2ejAxVnpsUFVQVDlhSGtn",
@@ -299,7 +296,10 @@
     "CBMieEFVX3lxTE96endaOTZSaTNtSUJseXNXelRBdVNQRUlvbTg4X19iR3Q2b0piRHVOSEg1eUJOclpEUDlrMUFHZnhEejdzY3NqaUFnVnQxQ0FKc3BTT1VtcEV3TWdSQk80ZG5KQVRzNzJ0R1BGMmM1bGFCNWtQcUZfYw",
     "CBMiggFBVV95cUxOYzdaWDFmejFKR3JjQmUwd2ZJaUdleWYyMXNETEY2Y3JSOWs2bGt3SjdVRDdqZ3BaazAzVjBvRWp0RHd4S3ZQZkRPZEk0b3h4LTdXcEhWVEpESmVZejZVMTFvS1lqX3FyVWFabjJ5dndIVzR5VEhpNlNVa3hHQy1hOF9n",
     "CBMieEFVX3lxTE03M3BNWllqdGlJVzU1Xy1wVlY4N2dGYm42RlVaREp3U3R5eHE3S0dJU3pvZ2ctZlMwSTRHMjB2MFlxVjNnUDNfQ2pWZU5UTXF1Wkt0TlVyRzFiN0tqdFlUdWx1ZkJFRVA0UVZId1ZfU2stdldiUnFnUQ",
-    "CBMieEFVX3lxTE9SZzVqeU1NZ29aRlNKdHBocjBqT3R6X2Z6SlI4dlpiWERob2l4engwWjBGaWc1UllBRGRSdGNadENmSVAzMERpQnFBaXpDZDVyVXMtVVF5U1pXU1JaYXNnTmptQ1R2ck1KOEFySGlieUlaWnVBN0RBSw"
+    "CBMieEFVX3lxTE9SZzVqeU1NZ29aRlNKdHBocjBqT3R6X2Z6SlI4dlpiWERob2l4engwWjBGaWc1UllBRGRSdGNadENmSVAzMERpQnFBaXpDZDVyVXMtVVF5U1pXU1JaYXNnTmptQ1R2ck1KOEFySGlieUlaWnVBN0RBSw",
+    "CBMieEFVX3lxTE16bW5pcEJnUTFyNGh3SDlTaXBnLWlzTy1GU2libDBmOXR1dnk3cmFpNElsYUlnUkgxTU9xYXdnV1Nmd1RBN3pwcXNlYjV3UkRoaTJsb3R0UzRKYzdWNjVsS1VYdktka080Z2VMcVRMa1lSN0hzbjVnMQ",
+    "CBMif0FVX3lxTE5EbVZ5R1IxVUhOcjlCdnIydVpITFgtRHluZk1FN0c0clNzZTA5VmpMRU9iLVhZUWg4aUd4S0lSczRDVWp3R1dQNTNlbnB5cUtPR2k1ek5lbFVKUVJZNnN0aGthNHlzVjZ5UEpjMG1HOWZCazg0RDZibF9mTVdrbG8",
+    "CBMifkFVX3lxTE1ZRmRQZjlJaXA4OGhkcHVlTFVYZDZlTTVlS2NHWTBVSzQ3NFJVdXVDME1TOWtoalozWlpZSF8zTzZoak5Ba1gyR1plc25PQXVOU3hqT2c0cW5vWkNLaldBTXM1S1pldWNpcjA0Z0lndEkxb3UwdUdmd2pZbDBaZw"
   ],
   "https://www3.nhk.or.jp/rss/news/cat0.xml": [
     "http://www3.nhk.or.jp/news/html/20260724/k10015185791000.html",
@@ -1812,7 +1812,6 @@
     "CBMivwFBVV95cUxOcTQ5N2hHSDdoOGhHcm5hZ01xVUI1YTZqWTQ3b2ZjYWtfVEdEN3VmdlNrWmhPQUlOOGRtY3MxR3dvNlVGd2NRelRKcmhtNG1VVEZvQVJCbXJVdE9OZXM5akpEbFhmRjlMUlBqbURaUnRqbXdzOGxPZEJBOGtOUDY3dFFRNURkX2RIdllRZm1HQ19WWnRMYWJ0MmZXcWFVTFppNWtBakNuSXFlRTgyejRzNDEtTzJaRXdoVVBXZjFoSQ"
   ],
   "https://en.yna.co.kr/RSS/news.xml": [
-    "https://en.yna.co.kr/view/AEN20260818001400315",
     "https://en.yna.co.kr/view/AEN20260818002400315",
     "https://en.yna.co.kr/view/AEN20260818002200320",
     "https://en.yna.co.kr/view/AEN20260818002100315",
@@ -2111,7 +2110,8 @@
     "https://en.yna.co.kr/view/AEN20260821006400315",
     "https://en.yna.co.kr/view/AEN20260821006100315",
     "https://en.yna.co.kr/view/AEN20260821004252320",
-    "https://en.yna.co.kr/view/AEN20260821006300320"
+    "https://en.yna.co.kr/view/AEN20260821006300320",
+    "https://en.yna.co.kr/view/AEN20260821006500315"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
     "https://www.aljazeera.com/?t=1786977779",
@@ -2416,7 +2416,6 @@
     "https://www.aljazeera.com/?t=1787281582"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
-    "https://allafrica.com/stories/202607240040.html",
     "https://allafrica.com/stories/202607240013.html",
     "https://allafrica.com/stories/202607240006.html",
     "https://allafrica.com/stories/202607240004.html",
@@ -2715,7 +2714,8 @@
     "https://allafrica.com/stories/202608210007.html",
     "https://allafrica.com/stories/202608210015.html",
     "https://allafrica.com/stories/202608210009.html",
-    "https://allafrica.com/stories/202608210023.html"
+    "https://allafrica.com/stories/202608210023.html",
+    "https://allafrica.com/stories/202608210097.html"
   ],
   "https://en.mercopress.com/rss/latin-america": [
     "https://en.mercopress.com/2026/07/11/four-held-in-ecuador-over-migrant-smuggling-network-to-the-united-states?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss",
@@ -2778,7 +2778,6 @@
     "https://en.mercopress.com/2026/08/19/an-argentine-consultant-who-advised-milei-s-campaign-detained-in-bolivia-after-a-shooting?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss"
   ],
   "https://www.abc.net.au/news/feed/2942460/rss.xml": [
-    "https://www.abc.net.au/news/2026-07-30/josh-hazlewood-driven-by-achieving-series-wins-england-india/106977508",
     "https://www.abc.net.au/news/2026-07-30/irish-families-watch-aflw-back-home-in-the-middle-of-the-night/106913202",
     "https://www.abc.net.au/news/2026-07-30/storm-coach-responds-to-munster-png-ultimatum/106976728",
     "https://www.abc.net.au/news/2026-07-30/clicky-ponting-suspended-as-cricket-investigation-continues/106975696",
@@ -3077,6 +3076,7 @@
     "https://www.abc.net.au/news/2026-08-21/cycling-maeve-plouffe-close-call-car-tour-of-britain/107061910",
     "https://www.abc.net.au/news/2026-08-21/afl-dean-cox-callum-mills-address-sydney-swans-scandal/107062056",
     "https://www.abc.net.au/news/2026-08-21/sydney-swans-aflw-addresss-media-amid-club-scandal/107063448",
-    "https://www.abc.net.au/news/2026-08-21/nrl-panthers-jack-cogger-three-match-suspension/107063140"
+    "https://www.abc.net.au/news/2026-08-21/nrl-panthers-jack-cogger-three-match-suspension/107063140",
+    "https://www.abc.net.au/news/2026-08-21/australia-vs-bangladesh-second-test-when-is-it-where-is-it/107060464"
   ]
 }
