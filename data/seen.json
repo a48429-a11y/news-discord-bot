@@ -604,7 +604,6 @@
     "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html"
   ],
   "http://feeds.bbci.co.uk/news/world/rss.xml": [
-    "https://www.bbc.co.uk/news/articles/cqlxpq5q799o#1",
     "https://www.bbc.co.uk/news/articles/cj9dpdmr77do#1",
     "https://www.bbc.co.uk/news/articles/c2el29e3m3xo#1",
     "https://www.bbc.co.uk/news/articles/c2352jyvm5xo#1",
@@ -903,10 +902,10 @@
     "https://www.bbc.co.uk/news/articles/cj9dmw8183wo#0",
     "https://www.bbc.co.uk/news/articles/c4gdn2vmgvwo#0",
     "https://www.bbc.co.uk/news/articles/cy8e6g13497o#1",
-    "https://www.bbc.co.uk/news/articles/cd9w1jwdkkjo#1"
+    "https://www.bbc.co.uk/news/articles/cd9w1jwdkkjo#1",
+    "https://www.bbc.co.uk/news/articles/cd9w1jwdkkjo#0"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
-    "CBMiogFBVV95cUxOU19BM2l2RGhNUW5aWGxpdXJRU1QwVWtzekJ1ckw2bUdzWlhBSWcxX3U3T1JVblRkYW92MEhkaS1rakhweUN6MnlYc0xVbzVQcUtwdXRBbGFPUzV5T2Q5a3lmbVNqdE0zZFgyT0J3OGt6bzlwT1dWb2dtdVBieEtuOVFQXzdlNFdzUm8tU3FrV1JQS1hEUGpscjl3Q1BRczR4RlE",
     "CBMimAFBVV95cUxQUUtCYmtXZFVlZHF0Sl93Nkh1MDFadFJDNThMTGpMVERYZzhFVTJ0bjZTeWVvLXYxUEFsVVVfRlhUSG1xdEZCakdXOHB3UE1JMWVyYVFONVZxOTBqcUx1X09DNG9NLXUyc2cxZ3JPMEp1SGtvZXhRTVBqMzgyQVcwMTRQY3kyM2hienQzUGNMWFRqaVB6Um02dQ",
     "CBMilwFBVV95cUxQd0tIU0ZZSnYxQ1pISmdjaENZMDRCWkdtSVk2dThVQVFQRVdSYzJBeEFlYTlndmF1MEtQWUd3OWprQWJ5al9KOE1MdW9UQjAyRnh5VTh1NDBVdk1jcUtqdml5d1BQWnNSSnBtdzltOFRYMW52TGR1R2lpZVhMUXJnX250cThTaW1YYzhMLXV5b2VBbzB4Q0pn",
     "CBMirgFBVV95cUxPNDlzYkI4b1B0SUxBOXZ4eUZHRHg5T2ZhVl9jbjNrTENNY2s5SnQyVE16V0lBVGM3Z2VpQUt6SllnX1VLalB3ZXV1Vk5SZUd1MTBtNXRLNEgyNU5Nb19hbXh2UkFkQndwdVFDeWlPdnhGNTQweDQ0aE5JaExmQm9vaEtnYzJXNTdaeDJyY2xOenJTdTVCNFFyelB2MEpHNnJwNWk3ZW9WVDNrZ3pJLVE",
@@ -1205,10 +1204,10 @@
     "CBMikAFBVV95cUxQTHF5V2hJdGEwOHpyRTJDbTl2SFVBMl9UZzhuS0R2QWRERkwydk82Q2tybHo3Vlh1VzdWc1J6TWdPejg1ck01NGprV0pQTjFsWW0wVzZKMk9EbzJTS1VtdUZUN1JmeEEyb18xamw3TmNHMmR3ZFpwSEgxcEozUThrN2V6eEc2dTlEYjBCbVJVYTM",
     "CBMimgFBVV95cUxNbWFIczR4czFBVUlITmNMenh5VkN6LUpDTzBOaXhhNko2X1k4QVBKdDRxLVlJTG1iNGsxOThRbC1RNzlxSHJqN05zV1ZFOGRNR2NpLW0xbG9QZU11M3paNXoxWmp1TGNSVjBPUXcwMVlUc3RVZC10QmxhMTUzREY2eHlCOGUyNU9zb2Z1UWF0RHVWQVRKY1gtU0p3",
     "CBMikwFBVV95cUxQaVFHWktOcUxIbmgyRFotMW5JWnAwTHRXZkpFRmhHY1Y4dV8tRkpjdzN6VEg1SFozd3o1QTJma09fQ3JQT19KaWlJcHdQSndmT0k5c3AxTXRVQ28yQTFUQkgtdDRYRXBpMTh0U3RjdUdwRGZRU1U3a1ZHbnpzSVYta2cwMk9oNFZ5RzQ2U2V5RzZJdDg",
-    "CBMioAFBVV95cUxNUE10WWV5MXpuQWxmVWlJdFg2SlpUbEVSQmxQLWhzVzZ5M3V0TnhiS2lGNkR1ZmtBaFBfcTVVUVhITU9kdmJKOHcyVFhBTjA2eGZhQm9mV1Zpa2VwNzBOSV8temFLU1pLa2pGX2VkRUNrNE5ZWFE5TVNXNXNyWFA3VWVLU0ttTmwtWU1VdmY4bUYxaVViOEZheGZ0Y1VRUllw"
+    "CBMioAFBVV95cUxNUE10WWV5MXpuQWxmVWlJdFg2SlpUbEVSQmxQLWhzVzZ5M3V0TnhiS2lGNkR1ZmtBaFBfcTVVUVhITU9kdmJKOHcyVFhBTjA2eGZhQm9mV1Zpa2VwNzBOSV8temFLU1pLa2pGX2VkRUNrNE5ZWFE5TVNXNXNyWFA3VWVLU0ttTmwtWU1VdmY4bUYxaVViOEZheGZ0Y1VRUllw",
+    "CBMilwFBVV95cUxNbkt1NF9lQXZWbXU5NmdEdDZIR3lXZjVuaEk2Zklpc1RGaUNlTmwtNV8teEY0SDRwQjlxRkdKMGh6NTJXcTk2aXJaMW0wNUtmVXNmZHJDbU9JMXVFVTNIQ1lxb2dzSlVGNVF2Z1NybDNWcGFFUU5fTWdfTldkQlhUN3JiUGdtU1V6Zm9QUVFLV0MtQ3BDWVU0"
   ],
   "https://www.scmp.com/rss/4/feed": [
-    "https://www.scmp.com/news/china/science/article/3362637/chinas-catch-era-ends-whats-standing-way-tech-innovation?utm_source=rss_feed",
     "https://www.scmp.com/news/china/diplomacy/article/3362641/pain-or-gain-us-moves-decouple-its-defence-industry-chinas-rare-earths?utm_source=rss_feed",
     "https://www.scmp.com/news/china/military/article/3362639/chinese-test-pilot-who-landed-plane-safely-after-cabin-leak-given-first-class-merit-award?utm_source=rss_feed",
     "https://www.scmp.com/news/china/military/article/3362640/why-chinas-jl-3-made-waves-first-submarine-based-missile-test-over-40-years?utm_source=rss_feed",
@@ -1507,7 +1506,8 @@
     "https://www.scmp.com/news/china/politics/article/3364814/chinas-typhoon-maysak-death-toll-soars-159-region-tallies-catastrophic-losses?utm_source=rss_feed",
     "https://www.scmp.com/news/china/politics/article/3364805/research-boosts-south-korean-chinese-links-wwii-resistance-against-japan?utm_source=rss_feed",
     "https://www.scmp.com/plus/news/china/diplomacy/article/3364793/wang-yi-visits-south-korea-chinas-economy-cools-warsh-speaks-jackson-hole?utm_source=rss_feed",
-    "https://www.scmp.com/news/china/science/article/3364661/chinas-drone-production-capacity-can-only-meet-60-war-demand-study?utm_source=rss_feed"
+    "https://www.scmp.com/news/china/science/article/3364661/chinas-drone-production-capacity-can-only-meet-60-war-demand-study?utm_source=rss_feed",
+    "https://www.scmp.com/news/china/diplomacy/article/3364745/mistral-paradox-europes-push-tech-sovereignty-relies-chinas-zai?utm_source=rss_feed"
   ],
   "https://news.google.com/rss/search?q=site:euronews.com&hl=en-US&gl=US&ceid=US:en": [
     "CBMirgFBVV95cUxON0JZRVJmOWNpck9XeFdVaWNxc3BpaXlsTmZ5Y1R4TzRaQ3UxcTRla1VvZnVpQUFqcExFcmllTUQ2ajlsRnp3MExNUHVsNTFnWEJPbmJwYnNtZnR5YjIySHJ0N0FiRnJVM1k2Smlvd3F3cHZjUE5uVm5xZE93WW9Fd2FHTDRVOWxOWWFONFBjNFQtWHdxbG1CX2VPX3NWT3FoM3JKLU5LSW85WkFmc3c",
@@ -2114,9 +2114,6 @@
     "https://en.yna.co.kr/view/AEN20260821008500320"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1786988343",
-    "https://www.aljazeera.com/?t=1786995188",
-    "https://www.aljazeera.com/?t=1786992600",
     "https://www.aljazeera.com/?t=1786997469",
     "https://www.aljazeera.com/?t=1787005697",
     "https://www.aljazeera.com/?t=1787018145",
@@ -2413,7 +2410,10 @@
     "https://www.aljazeera.com/?t=1787301507",
     "https://www.aljazeera.com/?t=1787296527",
     "https://www.aljazeera.com/?t=1787302585",
-    "https://www.aljazeera.com/?t=1787305047"
+    "https://www.aljazeera.com/?t=1787305047",
+    "https://www.aljazeera.com/?t=1787292796",
+    "https://www.aljazeera.com/?t=1787306425",
+    "https://www.aljazeera.com/?t=1787300508"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
     "https://allafrica.com/stories/202607240006.html",
@@ -2777,7 +2777,8 @@
     "https://en.mercopress.com/2026/08/18/colombia-s-president-hands-out-branded-footballs-in-an-earthquake-hit-port-city?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss",
     "https://en.mercopress.com/2026/08/19/an-argentine-consultant-who-advised-milei-s-campaign-detained-in-bolivia-after-a-shooting?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss",
     "https://en.mercopress.com/2026/08/21/eclac-trims-its-2026-forecast-for-latin-america-and-the-caribbean-to-2.2?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss",
-    "https://en.mercopress.com/2026/08/21/montevideo-hosts-a-progressive-congress-after-three-consecutive-electoral-defeats-in-the-region?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss"
+    "https://en.mercopress.com/2026/08/21/montevideo-hosts-a-progressive-congress-after-three-consecutive-electoral-defeats-in-the-region?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss",
+    "https://en.mercopress.com/2026/08/21/bolivian-prosecutors-open-a-second-case-against-the-consultant-who-advised-milei-and-paz?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss"
   ],
   "https://www.abc.net.au/news/feed/2942460/rss.xml": [
     "https://www.abc.net.au/news/2026-07-30/broncos-player-corey-jensen-announces-medical-retirement/106975182",
