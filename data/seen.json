@@ -906,7 +906,6 @@
     "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo#1"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
-    "CBMiugFBVV95cUxQTkJEYUhOVXJDWmhxYU5PQk5WemtHZGxMOTVuXzkwWUhYbzhaTldoZEdwM3FJc1o0T0FXT0hIcE1tM3VuMnU1Ulo3dldmd2dnX2s0WXdXU0xtaHhoRHgzMXBOdldGVU9FZjJqM21LbURwYS1pX3J5Ti1zTldKYkRCYWNybDhRODd3Z1Y4cTdJYW50YnlsMUd5YmhOeEFDeS1ydE5FS0p6VVA4RnU2WWtPbnFuYmdyMnZlM2c",
     "CBMirwFBVV95cUxNSlNrM2hySll1T0FvYnlydkYwRHJUUDUxSTVjalhsdzRDaUphaGE2N1dxNm81RjlfLVFhdWtDVlNpWC1peFNCSlFSTmxOUWMwd0YxRkRwZTNCQXA0V2ZBWnNVT0hocURTYlNQUEtqUEdTOVR2UFhtRzNkM0pkLXhTWjJoRVBoVU9nOG1WbHdFNkpqWWtFQ0xTT3F5VFJacC1sZ3M2SE9TbnltelI5bW9j",
     "CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ",
     "CBMitwFBVV95cUxNc3h2M0pCOUxLMHVuWmVTVVAtcEo0SC1aamRGeHQ5VnZhcTdRWkxWeWI0cy1MN29hb005NnFBMkZXei01VkFRWUpYUDZnUGJvUkdJYVVYMktGQ1lMODVsUXowZDJFZDJkaURhR3BXMjM1dnFoLVAxUlYtSmw5QXhKT0dDYlMxVHZISXlXV2xEX0pfWGR0Q056VzZsQjM1UW8xZVJwMFM3RlUtak5zeFAwWEJCRXYwTnc",
@@ -1205,7 +1204,8 @@
     "CBMiswFBVV95cUxQa1Y2M3NIc0FjbFNUUXMxVVVJTlVwNUE1UGR5RXdZazNZT2lxNTQ5LTRXZTVzcVdJZGhDQzUtbFZqay1jZ2tNemhOZy1JdXQwR0JjVWh1ajlMMFpQUHBqak0wd3gzSXZISVZLYXFqeDR0dDlkRXlGQXZaZE5DTnBwMTAwYnhZMTJtM09oVVItQkMySkhPV3gxOWRWVFBsU3V6em1HMUc3czNjU2ozaFRKM1Rxbw",
     "CBMimAFBVV95cUxQRlBMdi1RVGNHQTBXS1ItTi1TVDBQT1J4OU4yaTJOdnRQSWtJeUFyVGl0X2VwYmdjc09pUC13X0tMTk1pdWJjblltc1NsNXYwVkt6ckpwYmgzSkstTW50eE05MUFqaURHUk9FWjBwUkR3emw3dXMyM0JNOXhYWDI0ZjhNRFVocjR2RlVwU2V6aG16MHVYcnlPcA",
     "CBMikwFBVV95cUxOd2ZWcnEzSHpvUUo0b0FBWFh5cndyNS1kMVY2dmJzcEpfdU1xM05BR3p1SndrTEthZ0Z4bmFiZWJVQ05zZGRyc3NDNjJwclpHcnZFNUNoMF9hTVF1MHYxMENRNEw4a21pekZzaDN6WHpSYjFiLUJwWFFXRzJHdGhMTnlnMzF6S243SkJYYXpiYzI1T2s",
-    "CBMiowFBVV95cUxOVVFtMlhNYU9fa1JGZXpOSzFDd1NKSTRTRXlYOXZ0dk94ekhqaUVvdllWVXFyMlJ5aEVKdzFTbGkxV091RmJ0S2lJSWkxSERpTm43dlFfWjR2U0FQVF9rMHpLejVQNTdIdzAtcjVMdGNhWU1jZXhZTWNSanZYcmZxUktLb2tLZDhWSHZTclZzc2JxeTFwVDluMTlqa0RlRURnUldZ"
+    "CBMiowFBVV95cUxOVVFtMlhNYU9fa1JGZXpOSzFDd1NKSTRTRXlYOXZ0dk94ekhqaUVvdllWVXFyMlJ5aEVKdzFTbGkxV091RmJ0S2lJSWkxSERpTm43dlFfWjR2U0FQVF9rMHpLejVQNTdIdzAtcjVMdGNhWU1jZXhZTWNSanZYcmZxUktLb2tLZDhWSHZTclZzc2JxeTFwVDluMTlqa0RlRURnUldZ",
+    "CBMisAFBVV95cUxPQlNzd1VSejJBRjh4UEZBcGlCcHlVYW94M3NPOUhTQnlMOEdaelhUZE91VTFNcjNlX1g0NExaNDBvWmdualZsRnBKcjhtcFh1X3pzck1lOXRZR2I2LWRHcWYwTzlTUGN2ZWx6WklWaTNjVk9LTmhtc1JnS0V3ZE5NN3FyWmxsTDNjeDZxNC1FUlZUUmNQYzJhOWdyWjQ1SjU4TEpzcHZIVHI2ZC1obTROdw"
   ],
   "https://www.scmp.com/rss/4/feed": [
     "https://www.scmp.com/news/china/diplomacy/article/3362808/could-silicon-valleys-lobbying-create-mutual-suspicion-between-us-and-china?utm_source=rss_feed",
@@ -1510,7 +1510,6 @@
     "https://www.scmp.com/news/china/military/article/3364914/why-china-may-have-little-lose-weakened-trump-seeks-north-korea-talks?utm_source=rss_feed"
   ],
   "https://news.google.com/rss/search?q=site:euronews.com&hl=en-US&gl=US&ceid=US:en": [
-    "CBMi0gFBVV95cUxPRk1VU3RmVXpuNzJFN1Ytc3hubEM3Z2pYZm02c1l0OWhuRVUtUF9nWDMtRnh2QXJSTElDUnF1SzNhN1FJUkNnbHpmemtWUnZ5ZnhrRWxueVFKYmczLTNoUXBTVEstRU9uT3lQSkZ1WFRRY24zNjh1cVcwZXc3YlVJMFZVOGMwZ2FZanBxMWNfaURaVXhuaEpzVnRocVl6VzUtbVl4UHJpTDlxdnV0c3ltV3JiQW5KLXhvS09EMWVGdXo1SDJSYmRjVE1pZk1kSGVJZGc",
     "CBMizgFBVV95cUxPcDk4RVo3ZWljbUJYeDN0RVBSR0o5VDR5OUpFZUtWbWR6Y19fV2FpaWRRQTJrNTA3V19DdnBOdnEwWV9NdGM0Rlh1Zy1NYk1fbUdzSDgtMEUwZlY1aVB2QzU4ZG5VNGR4MVdZMTBpOXN1ODhBOVBnbTRXcXQxT3hhTXQ2N3pnOEp4SXRSckxRb0RCQkJTT0VFNTI2NWtKMnlmNUZ0QndhTmg4RXVjcnFiXzh6T2hSWjNPb0RNWVQ2WmIzclFZNG96UWRIeHBKdw",
     "CBMiuwFBVV95cUxNTk1JdGpkM0JfV3ZObFZ4cWhjVnQwZE4xU3ViV0ZoZ3VfZ3hleVlmcThpSzdSQzFGNnpHSnBwdUVycXJsaGVkS3RZLXJqb0xVQWJjYTVnYko4MmZtTE5SSnA1d2lPSm5RSTNOZGhOR0JhU1JWaTB0MnFlMDExUlpKdnJ0STdYY0p0N2kyRVJuM1k4ZFNPTmhaaW93LU05LURfMmlHZUFaRmcxNURXUmFnMmZGMThYWWx4dWk4",
     "CBMinwFBVV95cUxQZlZqcTlpYWhnY2Y3ZGhqWHB6Y2NzZ3ZHdW9pN3RrcUY1YUtsVndsWDdMZlhoNDRrSWkwdXljcmpYaC1MeXFpT3JLa2VmcjFOd19lMGFTX3JoQkZsaWZzdVJaRWxoRDYxYVlGem1ZcGcwRzJXVEpoRlotSHl0T1dCVDU5eUQwRWNrMkhDeDBwaFdyUlI1djkzc2RvZWZTTmc",
@@ -1809,7 +1808,8 @@
     "CBMi0gFBVV95cUxOYkFjQnpGZWExdm00ZWFPUUZyVmltX1lqc0ZyZk5EWWs4SDhQRzJvbEFXeU05TUZrMzlCcXJLZzJJQ0d3d0ZjT3BhZEc1QThOY0tqbTZJZmxPcUhFUjJrXzFVQk44N1pYME9iS09CVllaMDZaQ3NpdGpLNGFUMkZGTmQ0eXJubnY2YTluMDM1M1BYY3hrRE9WZHdvc0kzemwxVjJlZGVIRFlJV0I0bEdGOUlDRHV6QUVtc0dLMjNxUnlFSWJJaTBOdUdySjl2aWFKQlE",
     "CBMiwAFBVV95cUxOWjB1NEhCc3ZNRDhTVWF0aXA2Ni1xTHZhdGZkendVQWd5cDFNX0hsVHRNM3FzRU1XT011QktJWU50QzFYeEVvYm1nYnhDUWFBRzQ3QkJBYWQ2M1ZjRnZqYU1xa0lkSDM5b3E1MWl5c2toTUtvWnN3dFZqQXZXQmlMZXJQSkhJcmZ4OVJVR1o3QlZRMW9qdFU0bDlHeUMyX09wTzFBRDM3WVdLd3h1WEhLVmZaZ3ZsQ3JyV2xWa0NDSzk",
     "CBMixAFBVV95cUxPMXhVeVBZc09PODBYOW8wR2dOOTEzdHA4NUdvcS1pNDc1UU13LTdtM05rUEs1Q0JzaEsyWHMzOGY4SFl0NHhLZV9aN0FILWF0bnhaMnd0WnNjVXBBSnBrVGJBaGJQU29kVEpYb3N1Qnd5UlppWmNWZlZSSjBoSWd4M2U4cFFnUGZidEFiTVlOb2FnQW1jdTlrU2IyYmRRTXFGbUtNYXh5Wm8wTy10ZkRBUE1QUS11YjdXMnBuSV9JZFZHTjYw",
-    "CBMilgFBVV95cUxQMzdFT1BNamFrZFZLcUQtb2VXYTdaalQzQ2lVY1JDSGNJSWtQU0JhZlg2OHJreG5aQ3ZHWkdnY0MyUUpyN3RqVzJSZC1INTRleHJWWWtZSXc3OVlZaFI4bnVzOWN5elhKc0JzcXhCRU9JSVNBR3d6UjVuX0d0ZU5QY2VsU1JCVWYwZHdCUkdSQnRMYnVUbUE"
+    "CBMilgFBVV95cUxQMzdFT1BNamFrZFZLcUQtb2VXYTdaalQzQ2lVY1JDSGNJSWtQU0JhZlg2OHJreG5aQ3ZHWkdnY0MyUUpyN3RqVzJSZC1INTRleHJWWWtZSXc3OVlZaFI4bnVzOWN5elhKc0JzcXhCRU9JSVNBR3d6UjVuX0d0ZU5QY2VsU1JCVWYwZHdCUkdSQnRMYnVUbUE",
+    "CBMitwFBVV95cUxOU0V6bVIxakVlTDR3aHVkSXZ2Q05QVkZRRFV4NFBZd1Ixc3hEXy1kd3k4di1peGtBZF9xQXFhYjV3VFFCeFJPUHlxTm1DenA0dnY1UUFQQlR0cEdLQWtoNks5RUR6VGx0WUNJRGFQaDgxWGNWU0NYV2FNNkJBZ2R1MmhtUUJJTEJoRFJvOW1mQXY4RVVMeVl1QndZX1BmcXQybERBcU1fMUJtcjlZUUdSdExaenJyZVU"
   ],
   "https://en.yna.co.kr/RSS/news.xml": [
     "https://en.yna.co.kr/view/AEN20260818006600320",
@@ -2784,8 +2784,6 @@
     "https://en.mercopress.com/2026/08/22/colombia-s-government-objects-to-the-law-barring-lower-requirements-for-senior-posts?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss"
   ],
   "https://www.abc.net.au/news/feed/2942460/rss.xml": [
-    "https://www.abc.net.au/news/2026-07-31/england-hires-nzs-fleming-to-coach-test-side-root-to-captain/106980488",
-    "https://www.abc.net.au/news/2026-07-31/commonwealth-games-glasgow-day-seven-quick-hits/106974752",
     "https://www.abc.net.au/news/2026-07-31/fifa-sale-continue-despite-opposition-/106984546",
     "https://www.abc.net.au/news/2026-07-31/afl-round-21-friday-dockers-bulldogs-live-blog/106984196",
     "https://www.abc.net.au/news/2026-07-31/australian-team-psychiatrist-glasgow-commonwealth-games/106974328",
@@ -3083,6 +3081,8 @@
     "https://www.abc.net.au/news/2026-08-22/australia-vs-bangladesh-quick-hits-day-one-starc-shoriful/107064274",
     "https://www.abc.net.au/news/2026-08-22/australia-vs-bangladesh-test-series-mackay-cricket-history/107064584",
     "https://www.abc.net.au/news/2026-08-22/south-africas-former-world-boxing-champion-zolani-tete-shot-dead/107067524",
-    "https://www.abc.net.au/news/2026-08-23/zyzz-poster-boy-documentary-manosphere-looksmaxxing/107052896"
+    "https://www.abc.net.au/news/2026-08-23/zyzz-poster-boy-documentary-manosphere-looksmaxxing/107052896",
+    "https://www.abc.net.au/news/2026-08-23/oscar-piastri-qualifies-fourth-f1-dutch-grand-prix/106998476",
+    "https://www.abc.net.au/news/2026-08-22/the-robot-that-can-beat-usain-bolt/107067592"
   ]
 }
