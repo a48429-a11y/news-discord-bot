@@ -1,6 +1,5 @@
 {
   "https://news.google.com/rss/search?q=site:reuters.com&hl=ja&gl=JP&ceid=JP:ja": [
-    "CBMiggFBVV95cUxQaTlsbWFsVWl2ODRNLXB5ckVVd0F1RDhwbC12MWgycnp3NXl6d1p4UkZLYXFMN0JfOUM3dmxycTZmUWE1Ti1yNEhQQ3g4LTZ0dWYzMDBpRVhtRm9zZFdDMVpQd2xvUmNCWldXZGZ1Q0JHM2pfT3NyYnc2aTBLSXBicmRR",
     "CBMiekFVX3lxTFB1dDNlbmdPYlhwYnNuY3NzcjBFWGtZLTJ0cmZZZDVwb09Ta2Z2Wm92bzVkRFZ2YjJRSHBnamJUaHlJN2FJSE1POXhqUW9DSzF2NV95SHRUYXBlam9XTDh4Z2VUVnZjN0E0UjBTcU04QlhRQi1LZUpCcmhn",
     "CBMieEFVX3lxTE1faXNxamhqc1dJVWxyb0RNUlcxbVl1NGFPaTB5RHJVVHJrSV9JNTZRWF95bko2MThBd0haWnE0THpRZFd1WjA3cTRLWTI0MDNtOG1xVGxMemlnWUZkX1hEbm53eHRNeGE2Vm93Yi1pSDhiNXc4UmdJLQ",
     "CBMigAFBVV95cUxQQ0FfTkxhVW9iSlFQbmpMcGN4UHV1UlMxZTg0R0g0d0IyOFJ6dTZyWVc4OW1NWnFLX2I2TlVUQ1RSVl9nbWdPR3RuSmlUaUtaMFlFZzdEXzU0Ung1ekNrNVpZZWRqczZ5dE9hM3NGWC0zVFdNM0RrMFRIOTFrT0lZRg",
@@ -299,7 +298,8 @@
     "CBMieEFVX3lxTFBIaWsySVJKci1YQW5VbXctVjRTVFRRMXVpR2lHZ3NKY3BxV0hBVFY2QlYwbG85Q3BzSmhkam5Ob2MtTmEyNTlnSUpiUjNDSmNjb0s5cnc3OGFwSDU5Y2NLQkNrZkw0cUJQeTFrNE41UUt4d0M2N2xlUw",
     "CBMieEFVX3lxTE9lOHRiYldlQnUtZUNrZ3NFS2NVSTdGaGlFeG1FSHUzeDM0bkJCTTBmWW5YWFpqTmN3dFpITE1MS2UtaVVySUoyRE9ZOHVVZ0gyVndmU0FsLVRNWkFIMVo1QWF0SmtLNl9iM2dhdE5LWVdJSTNwaEN1dw",
     "CBMieEFVX3lxTE1ucF9FNHJFeXdzVnRWX0tmd0VqVnVLV2dYU3k1ai1weFZhZjIyVjRTcmwzakFrNFk4V3BYME1KUWtyczdub3BKOXpOSTE3WlFhZUQ0anV1anR3bGxvbmpIZkNVOG54bC03Z1d1b2VMOGVBd3BEZzFxTw",
-    "CBMigAFBVV95cUxPWHhsTEU4Yl9yWF9BSkxMSEYxZU9tTXJHaUtGTHZQdUZTTWJqOGROMS1va1NMR2JUN2ZTZUFLU09vVURSMXFQbmw3SXRPZGxrcnAxcDd1VDVpU2xERTJ1ZXBvSU1hT0s0TkJodkFWeWRkVVRPM2xEdzQ2bnh6Q20zUg"
+    "CBMigAFBVV95cUxPWHhsTEU4Yl9yWF9BSkxMSEYxZU9tTXJHaUtGTHZQdUZTTWJqOGROMS1va1NMR2JUN2ZTZUFLU09vVURSMXFQbmw3SXRPZGxrcnAxcDd1VDVpU2xERTJ1ZXBvSU1hT0s0TkJodkFWeWRkVVRPM2xEdzQ2bnh6Q20zUg",
+    "CBMieEFVX3lxTE1OSTdGMEkySDhMeTFLMWRLR3pHVzJaMFpiTDNRWndVVEd2a1BFZlFDYnhiN25xU091NlB6TE43ZUNuQi1mRDVUOWhteFZXMk9qajJ5YjRXSkFwUWppNzY3R1Y4RnBBVlp1TE8yR05fVUNMZ2V4dlAzYQ"
   ],
   "https://www3.nhk.or.jp/rss/news/cat0.xml": [
     "http://www3.nhk.or.jp/news/html/20260724/k10015185791000.html",
@@ -604,10 +604,6 @@
     "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html"
   ],
   "http://feeds.bbci.co.uk/news/world/rss.xml": [
-    "https://www.bbc.co.uk/news/articles/cx2vj433xqlo#1",
-    "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo#1",
-    "https://www.bbc.co.uk/news/articles/cly5p995ykko#1",
-    "https://www.bbc.co.uk/news/videos/cly58dnde5yo#3",
     "https://www.bbc.co.uk/news/articles/clyje43dz4eo#0",
     "https://www.bbc.co.uk/news/articles/c9342wn2x27o#1",
     "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo#0",
@@ -903,7 +899,11 @@
     "https://www.bbc.co.uk/news/articles/c1l10mdrld5o#1",
     "https://www.bbc.co.uk/news/articles/czxe9n0vxzdo#1",
     "https://www.bbc.co.uk/news/articles/cj0338l6yg4o#2",
-    "https://www.bbc.co.uk/news/articles/cnvn0n1nld6o#2"
+    "https://www.bbc.co.uk/news/articles/cnvn0n1nld6o#2",
+    "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo#0",
+    "https://www.bbc.co.uk/news/articles/c0l5d387j18o#0",
+    "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo#1",
+    "https://www.bbc.co.uk/news/videos/c235j22d85ro#3"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
     "CBMipAFBVV95cUxPYkJWWkxxWUQ3dDVxeGNmanhVeTB2LWk2N3NqWHFrdGJyOFJoNzI1NDlwaUFTWlJFVVhqYlF6eTBsRXFCV1NFQXVsRXJCUDFYM3o3UkxCZG5jbVVTdFJIZW5Sd0E0UWg0TVRSUE1zUzk1MC1uUmJoQmI5OWN0eXJRMEotVGFzaVQwY2l2cWctdXdJSDVnOGxhYUhRbndrQ0RhM1V3Vg",
@@ -1812,8 +1812,6 @@
     "CBMipwFBVV95cUxOa1RNRkpKMjYtcHptOVlGLVN0OURTNXRTSXNoUUMzeTlIVkQxZ3dFalJNcXJreDgyb2R1a3dSOHpnM3R5QVR4bU44SVlTM0c1V2Zqam1aMG5rYzk3dG9lSkZPS2FnalhST3JxcVY1WU1vaHBTQUM0M1RxcDlfbTJBRUFwQXh4cFIwTk14Ymx5bkJnbWlMcmp4dFROUWhNemUtZm53a2lDYw"
   ],
   "https://en.yna.co.kr/RSS/news.xml": [
-    "https://en.yna.co.kr/view/AEN20260818006400320",
-    "https://en.yna.co.kr/view/AEN20260818006900315",
     "https://en.yna.co.kr/view/AEN20260818006300320",
     "https://en.yna.co.kr/view/AEN20260818007000315",
     "https://en.yna.co.kr/view/AEN20260818006700315",
@@ -2111,12 +2109,11 @@
     "https://en.yna.co.kr/view/AEN20260822001100315",
     "https://en.yna.co.kr/view/AEN20260822001000315",
     "https://en.yna.co.kr/view/AEN20260822000800315",
-    "https://en.yna.co.kr/view/AEN20260822001200315"
+    "https://en.yna.co.kr/view/AEN20260822001200315",
+    "https://en.yna.co.kr/view/AEN20260822000900315",
+    "https://en.yna.co.kr/view/AEN20260822001400315"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1787075763",
-    "https://www.aljazeera.com/?t=1787086321",
-    "https://www.aljazeera.com/?t=1787078646",
     "https://www.aljazeera.com/?t=1787079699",
     "https://www.aljazeera.com/?t=1787076098",
     "https://www.aljazeera.com/?t=1787082458",
@@ -2413,7 +2410,10 @@
     "https://www.aljazeera.com/?t=1787356730",
     "https://www.aljazeera.com/?t=1787363786",
     "https://www.aljazeera.com/?t=1787367205",
-    "https://www.aljazeera.com/?t=1787370994"
+    "https://www.aljazeera.com/?t=1787370994",
+    "https://www.aljazeera.com/?t=1787372933",
+    "https://www.aljazeera.com/?t=1787372778",
+    "https://www.aljazeera.com/?t=1787059247"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
     "https://allafrica.com/stories/202607240003.html",
@@ -2781,7 +2781,6 @@
     "https://en.mercopress.com/2026/08/21/bolivian-prosecutors-open-a-second-case-against-the-consultant-who-advised-milei-and-paz?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss"
   ],
   "https://www.abc.net.au/news/feed/2942460/rss.xml": [
-    "https://www.abc.net.au/news/2026-07-30/gianni-infantino-fifa-world-cup-sell-off-bid-explained/106976670",
     "https://www.abc.net.au/news/2026-07-31/live-blog-commonwealth-games-day-eight/106980504",
     "https://www.abc.net.au/news/2026-07-31/nrl-live-updates-dragons-dolphins-storm-bulldogs/106977948",
     "https://www.abc.net.au/news/2026-07-31/magpies-coach-throws-support-behind-hill-as-star-exits/106981454",
@@ -3080,6 +3079,7 @@
     "https://www.abc.net.au/news/2026-08-22/afl-brisbane-lions-coach-chris-fagan-feels-sorry-sydney-swans/107066662",
     "https://www.abc.net.au/news/2026-08-22/third-woman-legal-representation-civil-sydney-swans-scandal/107066742",
     "https://www.abc.net.au/news/2026-08-22/afl-rd-24-live-carl-fre-mel-wb-geel-rich-adel-gws/107064452",
-    "https://www.abc.net.au/news/2026-08-22/australia-wallaroos-new-zealand-black-ferns-test/107066896"
+    "https://www.abc.net.au/news/2026-08-22/australia-wallaroos-new-zealand-black-ferns-test/107066896",
+    "https://www.abc.net.au/news/2026-08-22/nrl-live-updates-knights-sea-eagles-souths-warriors/107067124"
   ]
 }
