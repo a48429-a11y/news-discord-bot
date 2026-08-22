@@ -906,8 +906,6 @@
     "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo#1"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
-    "CBMirwFBVV95cUxNSlNrM2hySll1T0FvYnlydkYwRHJUUDUxSTVjalhsdzRDaUphaGE2N1dxNm81RjlfLVFhdWtDVlNpWC1peFNCSlFSTmxOUWMwd0YxRkRwZTNCQXA0V2ZBWnNVT0hocURTYlNQUEtqUEdTOVR2UFhtRzNkM0pkLXhTWjJoRVBoVU9nOG1WbHdFNkpqWWtFQ0xTT3F5VFJacC1sZ3M2SE9TbnltelI5bW9j",
-    "CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ",
     "CBMitwFBVV95cUxNc3h2M0pCOUxLMHVuWmVTVVAtcEo0SC1aamRGeHQ5VnZhcTdRWkxWeWI0cy1MN29hb005NnFBMkZXei01VkFRWUpYUDZnUGJvUkdJYVVYMktGQ1lMODVsUXowZDJFZDJkaURhR3BXMjM1dnFoLVAxUlYtSmw5QXhKT0dDYlMxVHZISXlXV2xEX0pfWGR0Q056VzZsQjM1UW8xZVJwMFM3RlUtak5zeFAwWEJCRXYwTnc",
     "CBMickFVX3lxTE9TM3ZVeXpDTnVvcDh4dUFXRWpFVTBTcVJaQUZuRHFOZUR0NTBRQnRoVUQxdmxrMDFvVzlWR1BJV21HTlNac0V5bWtyOHkzR0dQVnR4TFl1cWJkOGVuLXduaHhOZzdVV1JvN2h1UmJqWHR1dw",
     "CBMingFBVV95cUxOVDRMQ0R2aXhiVXowdW1fejdjaU9CUlhOZ0tLMVZ5QTl5eERvc1VrZjdveGhOZ3FkdWVwb29xSTVBYTJjV19HVTloVEFtb0pYNWI2LWE3MDV3Y0tEcWROaUdYTGF5MG5DR3FIMndBaTZtV1hOTXcxY3NfM2ptRTlmRkR2YmpOYjZCS21JUXA5UEU3V3QzUG0tcmRBdUNmdw",
@@ -1205,10 +1203,11 @@
     "CBMimAFBVV95cUxQRlBMdi1RVGNHQTBXS1ItTi1TVDBQT1J4OU4yaTJOdnRQSWtJeUFyVGl0X2VwYmdjc09pUC13X0tMTk1pdWJjblltc1NsNXYwVkt6ckpwYmgzSkstTW50eE05MUFqaURHUk9FWjBwUkR3emw3dXMyM0JNOXhYWDI0ZjhNRFVocjR2RlVwU2V6aG16MHVYcnlPcA",
     "CBMikwFBVV95cUxOd2ZWcnEzSHpvUUo0b0FBWFh5cndyNS1kMVY2dmJzcEpfdU1xM05BR3p1SndrTEthZ0Z4bmFiZWJVQ05zZGRyc3NDNjJwclpHcnZFNUNoMF9hTVF1MHYxMENRNEw4a21pekZzaDN6WHpSYjFiLUJwWFFXRzJHdGhMTnlnMzF6S243SkJYYXpiYzI1T2s",
     "CBMiowFBVV95cUxOVVFtMlhNYU9fa1JGZXpOSzFDd1NKSTRTRXlYOXZ0dk94ekhqaUVvdllWVXFyMlJ5aEVKdzFTbGkxV091RmJ0S2lJSWkxSERpTm43dlFfWjR2U0FQVF9rMHpLejVQNTdIdzAtcjVMdGNhWU1jZXhZTWNSanZYcmZxUktLb2tLZDhWSHZTclZzc2JxeTFwVDluMTlqa0RlRURnUldZ",
-    "CBMisAFBVV95cUxPQlNzd1VSejJBRjh4UEZBcGlCcHlVYW94M3NPOUhTQnlMOEdaelhUZE91VTFNcjNlX1g0NExaNDBvWmdualZsRnBKcjhtcFh1X3pzck1lOXRZR2I2LWRHcWYwTzlTUGN2ZWx6WklWaTNjVk9LTmhtc1JnS0V3ZE5NN3FyWmxsTDNjeDZxNC1FUlZUUmNQYzJhOWdyWjQ1SjU4TEpzcHZIVHI2ZC1obTROdw"
+    "CBMisAFBVV95cUxPQlNzd1VSejJBRjh4UEZBcGlCcHlVYW94M3NPOUhTQnlMOEdaelhUZE91VTFNcjNlX1g0NExaNDBvWmdualZsRnBKcjhtcFh1X3pzck1lOXRZR2I2LWRHcWYwTzlTUGN2ZWx6WklWaTNjVk9LTmhtc1JnS0V3ZE5NN3FyWmxsTDNjeDZxNC1FUlZUUmNQYzJhOWdyWjQ1SjU4TEpzcHZIVHI2ZC1obTROdw",
+    "CBMikwFBVV95cUxNMUkxanIwSTVhd2xuNTUteVpWQWJlQXF1M2c4R2RSM25vTTlENHZMSkRaNGJXR0Fsd1QwUmhyX3NtU3dNalg1dlBKWHJMRnJXOTNZZkJ4cDNxbmJDdEQ4YXdpZkdJZGxTT2gwR21NUzRnZnpfY1dibWF2cVVFRllELWJ1eDVzalBLLWh0M3lKNlVUR1k",
+    "CBMiqAFBVV95cUxOeWRaLUVRdVlQOXYtbjRuRlNOQzUwVnNhbUxSVndiNjNhNUdsUDBXdnBmQWtXTVk3aEhYSUhUVWNQY29RUDJKR0YtZmJnOVpBWkwyUmZ6VnBWbE9IVE5OQlVyYzVsNG5DS3pIbDdBb09Sc2JJSnlOQzV1dVU3bm82VS1pbVNFd2d5ZGk5NW53UHVtUVgyZHliT0F1UWZMR19ZZkdnQ1dkRUI"
   ],
   "https://www.scmp.com/rss/4/feed": [
-    "https://www.scmp.com/news/china/diplomacy/article/3362808/could-silicon-valleys-lobbying-create-mutual-suspicion-between-us-and-china?utm_source=rss_feed",
     "https://www.scmp.com/news/china/military/article/3362790/are-commercial-sea-drones-new-headache-pla-south-china-sea-and-taiwan-strait?utm_source=rss_feed",
     "https://www.scmp.com/news/china/science/article/3362764/how-xinjiang-weed-could-reduce-chinas-reliance-southeast-asian-rubber?utm_source=rss_feed",
     "https://www.scmp.com/news/china/science/article/3362753/china-working-towards-100-renewable-power-its-antarctic-bases-2035?utm_source=rss_feed",
@@ -1507,7 +1506,8 @@
     "https://www.scmp.com/news/china/diplomacy/article/3364922/mainland-chinese-research-ship-spotted-near-taiwans-largest-naval-base?utm_source=rss_feed",
     "https://www.scmp.com/news/china/diplomacy/article/3364799/why-chinas-ev-boom-seen-unparalleled-opportunity-africa?utm_source=rss_feed",
     "https://www.scmp.com/news/china/diplomacy/article/3364913/chinese-j-16-fighters-arrive-egypt-ahead-eagles-civilisation-2026-joint-drill?utm_source=rss_feed",
-    "https://www.scmp.com/news/china/military/article/3364914/why-china-may-have-little-lose-weakened-trump-seeks-north-korea-talks?utm_source=rss_feed"
+    "https://www.scmp.com/news/china/military/article/3364914/why-china-may-have-little-lose-weakened-trump-seeks-north-korea-talks?utm_source=rss_feed",
+    "https://www.scmp.com/news/china/diplomacy/article/3364908/how-pacific-nations-walk-tightrope-between-western-security-and-chinese-trade?utm_source=rss_feed"
   ],
   "https://news.google.com/rss/search?q=site:euronews.com&hl=en-US&gl=US&ceid=US:en": [
     "CBMizgFBVV95cUxPcDk4RVo3ZWljbUJYeDN0RVBSR0o5VDR5OUpFZUtWbWR6Y19fV2FpaWRRQTJrNTA3V19DdnBOdnEwWV9NdGM0Rlh1Zy1NYk1fbUdzSDgtMEUwZlY1aVB2QzU4ZG5VNGR4MVdZMTBpOXN1ODhBOVBnbTRXcXQxT3hhTXQ2N3pnOEp4SXRSckxRb0RCQkJTT0VFNTI2NWtKMnlmNUZ0QndhTmg4RXVjcnFiXzh6T2hSWjNPb0RNWVQ2WmIzclFZNG96UWRIeHBKdw",
@@ -2114,7 +2114,6 @@
     "https://en.yna.co.kr/view/AEN20260822002800315"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1787131365",
     "https://www.aljazeera.com/?t=1787118833",
     "https://www.aljazeera.com/?t=1787143659",
     "https://www.aljazeera.com/?t=1787145326",
@@ -2413,7 +2412,8 @@
     "https://www.aljazeera.com/?t=1787424444",
     "https://www.aljazeera.com/?t=1787423943",
     "https://www.aljazeera.com/?t=1787433726",
-    "https://www.aljazeera.com/?t=1787428930"
+    "https://www.aljazeera.com/?t=1787428930",
+    "https://www.aljazeera.com/?t=1787433974"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
     "https://allafrica.com/stories/202607240402.html",
@@ -2784,8 +2784,6 @@
     "https://en.mercopress.com/2026/08/22/colombia-s-government-objects-to-the-law-barring-lower-requirements-for-senior-posts?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss"
   ],
   "https://www.abc.net.au/news/feed/2942460/rss.xml": [
-    "https://www.abc.net.au/news/2026-07-31/fifa-sale-continue-despite-opposition-/106984546",
-    "https://www.abc.net.au/news/2026-07-31/afl-round-21-friday-dockers-bulldogs-live-blog/106984196",
     "https://www.abc.net.au/news/2026-07-31/australian-team-psychiatrist-glasgow-commonwealth-games/106974328",
     "https://www.abc.net.au/news/2026-08-01/nina-kennedy-pole-vault-commonwealth-games-glasgow/106985198",
     "https://www.abc.net.au/news/2026-08-01/fifa-scraps-world-cup-sell-off-plans/106985360",
@@ -3083,6 +3081,8 @@
     "https://www.abc.net.au/news/2026-08-22/south-africas-former-world-boxing-champion-zolani-tete-shot-dead/107067524",
     "https://www.abc.net.au/news/2026-08-23/zyzz-poster-boy-documentary-manosphere-looksmaxxing/107052896",
     "https://www.abc.net.au/news/2026-08-23/oscar-piastri-qualifies-fourth-f1-dutch-grand-prix/106998476",
-    "https://www.abc.net.au/news/2026-08-22/the-robot-that-can-beat-usain-bolt/107067592"
+    "https://www.abc.net.au/news/2026-08-22/the-robot-that-can-beat-usain-bolt/107067592",
+    "https://www.abc.net.au/news/2026-08-23/epl-lucas-herrington-debut-hull-city-beats-manchester-united/107068206",
+    "https://www.abc.net.au/news/2026-08-23/story-vision-impaired-gippsland-archer-world-championships/106922438"
   ]
 }
