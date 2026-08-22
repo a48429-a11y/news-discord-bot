@@ -604,8 +604,6 @@
     "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html"
   ],
   "http://feeds.bbci.co.uk/news/world/rss.xml": [
-    "https://www.bbc.co.uk/news/articles/cd0xk82mrpyo#2",
-    "https://www.bbc.co.uk/news/articles/c74gdgly3g3o#2",
     "https://www.bbc.co.uk/news/articles/c5y0zz63gero#0",
     "https://www.bbc.co.uk/news/articles/cq561gpen8lo#1",
     "https://www.bbc.co.uk/news/articles/c4gxy0wqqd9o#2",
@@ -903,7 +901,9 @@
     "https://www.bbc.co.uk/news/articles/c93403wg288o#0",
     "https://www.bbc.co.uk/news/articles/cvgl2pe09eno#1",
     "https://www.bbc.co.uk/news/articles/cvg92y1wzn8o#1",
-    "https://www.bbc.co.uk/news/videos/c0qvqzzdd02o#3"
+    "https://www.bbc.co.uk/news/videos/c0qvqzzdd02o#3",
+    "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o#0",
+    "https://www.bbc.co.uk/news/articles/c62xpre63j2o#1"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
     "CBMinwFBVV95cUxOUjM0TjVURG5BYjNaZlhVS2J2VGtwV3p5WF9JeFZ5cFZWalR5bjBncE9DY3lQVEx6RnBUWU5wS3VwbzRrUmZVWGpGNzZZTVdhN1IyRUlqcVdsRnlHcnduUjNhWXl2M2pNY3NGRDFGaVBMbUxVdGVqV3pRZmpsZ1BBUjFSYk9JQ08wZEFyc2NaMFpSVzZSeW91Z3ZQYXRUeGc",
@@ -1208,7 +1208,6 @@
     "CBMiqgFBVV95cUxPbnJJUkh5N3A5bmdDYkJOaTY2dENDNlJtNjJwMWRnZ3BvRnBsTVdiVHlNWUxnTGMycGRaTFlTQnJyMl9lSVZYYjc1RWt6T09qWDlzY28td3RxbHNPaXpmTXlJLXNWVUZ0VmRfTVJIZ0FYdW0yajFLX2ZUU2xCWEl0V1J2LUxrakdiUXZRTFc3a2RhWTZ1azJtUFhaRUV2MUh5STBLREV4RXB3QQ"
   ],
   "https://www.scmp.com/rss/4/feed": [
-    "https://www.scmp.com/news/china/military/article/3362704/chinas-military-goal-stand-neck-and-neck-us-ex-pla-colonel-zhou-bo?utm_source=rss_feed",
     "https://www.scmp.com/news/china/diplomacy/article/3362808/could-silicon-valleys-lobbying-create-mutual-suspicion-between-us-and-china?utm_source=rss_feed",
     "https://www.scmp.com/news/china/military/article/3362790/are-commercial-sea-drones-new-headache-pla-south-china-sea-and-taiwan-strait?utm_source=rss_feed",
     "https://www.scmp.com/news/china/science/article/3362764/how-xinjiang-weed-could-reduce-chinas-reliance-southeast-asian-rubber?utm_source=rss_feed",
@@ -1507,7 +1506,8 @@
     "https://www.scmp.com/news/china/science/article/3364755/electrochemist-liu-jiawei-moves-singapore-hong-kong-start-her-own-lab?utm_source=rss_feed",
     "https://www.scmp.com/news/china/diplomacy/article/3364922/mainland-chinese-research-ship-spotted-near-taiwans-largest-naval-base?utm_source=rss_feed",
     "https://www.scmp.com/news/china/diplomacy/article/3364799/why-chinas-ev-boom-seen-unparalleled-opportunity-africa?utm_source=rss_feed",
-    "https://www.scmp.com/news/china/diplomacy/article/3364913/chinese-j-16-fighters-arrive-egypt-ahead-eagles-civilisation-2026-joint-drill?utm_source=rss_feed"
+    "https://www.scmp.com/news/china/diplomacy/article/3364913/chinese-j-16-fighters-arrive-egypt-ahead-eagles-civilisation-2026-joint-drill?utm_source=rss_feed",
+    "https://www.scmp.com/news/china/military/article/3364914/why-china-may-have-little-lose-weakened-trump-seeks-north-korea-talks?utm_source=rss_feed"
   ],
   "https://news.google.com/rss/search?q=site:euronews.com&hl=en-US&gl=US&ceid=US:en": [
     "CBMi0gFBVV95cUxQMERLTnV3M1Z6TWhBY0V3a3NsRlFWT1BLTGxDbVprNWF3QmdVRl9SS3dPTjMxN3h4MlozMkF5NXJlakNkUmxrZ2xPMWUtaUV5VW85NDVEamg0YU14WVAwSHp4WUMtZWcwS01UUjhhMWVZT3ZkcEVZTDFuYTVMbHRJUHlEcmtjLVhmYUVJQWltYnE0YmtwWGs1SHVoY3pfTnoyYnBBSG1PaEQtdlVfOEg1OVZoQ01ELTRPZ250SFpyWDZLdllESnBESXBHeHFuLVNmTlE",
