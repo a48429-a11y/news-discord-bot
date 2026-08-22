@@ -604,7 +604,6 @@
     "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html"
   ],
   "http://feeds.bbci.co.uk/news/world/rss.xml": [
-    "https://www.bbc.co.uk/news/articles/c1j1ye6n30no#0",
     "https://www.bbc.co.uk/news/articles/c4gkyez7195o#0",
     "https://www.bbc.co.uk/news/articles/cx2vj433xqlo#0",
     "https://www.bbc.co.uk/news/articles/clyje43dz4eo#1",
@@ -903,11 +902,10 @@
     "https://www.bbc.co.uk/news/articles/c62xpre63j2o#1",
     "https://www.bbc.co.uk/news/videos/cgljl9zp47xo#3",
     "https://www.bbc.co.uk/news/articles/c3040pn8lmmo#0",
-    "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o#1"
+    "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o#1",
+    "https://www.bbc.co.uk/news/articles/cx272np7vgyo#0"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
-    "CBMinwFBVV95cUxOUjM0TjVURG5BYjNaZlhVS2J2VGtwV3p5WF9JeFZ5cFZWalR5bjBncE9DY3lQVEx6RnBUWU5wS3VwbzRrUmZVWGpGNzZZTVdhN1IyRUlqcVdsRnlHcnduUjNhWXl2M2pNY3NGRDFGaVBMbUxVdGVqV3pRZmpsZ1BBUjFSYk9JQ08wZEFyc2NaMFpSVzZSeW91Z3ZQYXRUeGc",
-    "CBMimwFBVV95cUxPMmZ6Z01kclNFSVd6V09LUzVGYVNIb3EyWTl5YW01eXBGLXI1SjExZ0NXbHZXdXVDN2hVNXNiNUlpSFgwNFozTWhFNnF2SWU1djBZUkdzWXBhdEY5S3FRS1BuX0RFcUJJQTlLNmdfWEI0QXJMWGRISVpBSHB6blc3cE1PaDA0YkR3UW1GREkybmhJc2hzNDgxdzBLYw",
     "CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ",
     "CBMiqgFBVV95cUxNTW9xS0xIUkYzczYwdHJSTnBnTGZIQXdZdXhweDJzT2RfZURPUTNieFZ3VlIzX0JxSzc1UWNQU1lfVlh5QXZfQzk4YVE2MlRzcXdhb3M0b3JmTjV0OW1Jc2xMOWdqaVhtck1iZkUxY1VQNnhVQ19sU2dXbmVVVWZpRXdWTjB3amxLd0c4OUxodkkyemlmVEhjdXpSVDBmOExkQk5yODdTbFg1Zw",
     "CBMisAFBVV95cUxQZkM4WG9NMkF4Y3Iyc0U1dEZtclh2bTQ1LXg0X2ExRTJYdG10NE1ZdzhaX0N3UE43U0ttdDJ6eldIZThCWkZnNHY5RW43MTNscFFrMVFjWEFLRWhNeVViN3JIeHJVeEU5cnljOE5SV0c5UkZNV2tNa3RBRG0yRjNCT1d4XzFiaDZEcFIzUVgwTWREdzcwVjhoTWplWDBTbEk4ejJUUVN5S1Foay1yR2ZFRw",
@@ -1205,7 +1203,9 @@
     "CBMiiwFBVV95cUxOZm5yNjN3T3N1dVhCZE1PYlY5M25TdXlGZDJzcmVkWW5pWUlfaHI2eV94WjBFUG1pRG84V3duV01MTTVHV1hoekY4UWVmSWt1MVQ3UTEzei1WUGVWNmNMc2JaNEJaNFFMTmFKdG5Kc3FWZEVfaUNBZTJBblhNX0tKZXpkVGVtYlFjamg0",
     "CBMitAFBVV95cUxQemMxWERaSmxYcmRaYmJTbVl4cHZYWGZOQXBpejVVM1lqS1FnY2k3VER1Q0dPZU8wVlV4d0xwVnF6MVNIWkdfdE9ZdWJpT3lJLVVBd2ZfVWtvZ0oyaVU3ekJSTnB6LTllTmsybXk5YTlSVGc5aUNqNk1mMlJ2dGY4bzczcWs2WHVZX3hvMUZvcndfdm9mUFRNX1d4Ny1nWXA0R0VBbXhIOWFzaFhlTjlGUG5iTEM",
     "CBMimAFBVV95cUxORDlKS21PamkzYWJOci1zNHcxTGlhQ1NSaGtqUVVvZ0RaNkhESjJOT3dXdEJJSkQ0Snlabkhuek9YU1laLUJOOUYwV292NW56NW4tb1FjekY1X2xxdjJHaXZZeTFoWTNvdjJPd1h1MHFaQkdzTUlWSnpSV3FPRG9UVFlVVzRyaFUtVVUtckplelQxYkhjd1dfLQ",
-    "CBMiqgFBVV95cUxPbnJJUkh5N3A5bmdDYkJOaTY2dENDNlJtNjJwMWRnZ3BvRnBsTVdiVHlNWUxnTGMycGRaTFlTQnJyMl9lSVZYYjc1RWt6T09qWDlzY28td3RxbHNPaXpmTXlJLXNWVUZ0VmRfTVJIZ0FYdW0yajFLX2ZUU2xCWEl0V1J2LUxrakdiUXZRTFc3a2RhWTZ1azJtUFhaRUV2MUh5STBLREV4RXB3QQ"
+    "CBMiqgFBVV95cUxPbnJJUkh5N3A5bmdDYkJOaTY2dENDNlJtNjJwMWRnZ3BvRnBsTVdiVHlNWUxnTGMycGRaTFlTQnJyMl9lSVZYYjc1RWt6T09qWDlzY28td3RxbHNPaXpmTXlJLXNWVUZ0VmRfTVJIZ0FYdW0yajFLX2ZUU2xCWEl0V1J2LUxrakdiUXZRTFc3a2RhWTZ1azJtUFhaRUV2MUh5STBLREV4RXB3QQ",
+    "CBMiaEFVX3lxTE5VV3VPSDlyQU1QQmdfSlpMX2ZHNEZpR24xN1hVSWNHdEZVeEZPc0N6NC1mTTBJRXg5eVJTTU1kYWVPUlRPQS1DZFlvOUotX205ZGhmcjhFc1lQN2FacUxyYzFYdGFPVDZ6",
+    "CBMipgFBVV95cUxNalE4TlJQaWwzb3FLNWlTcUl4SUw5Y1Vidk9JT2VMUFdCWVFuTmpJVmVOYnBuVl81a19wc1U1QU9YenB1TUlMbWZENkRyb2pUMWtqZTFRQWI4SEhmcW1aUUFBeDRBZ19sblNUQWt3TjE4MEw0NXNkZFNsTWJoV0UxRV95SmpHNk0xbjktTW1kbEVOaFZneUtfRXkwbEw3VzVKSGsyNXln"
   ],
   "https://www.scmp.com/rss/4/feed": [
     "https://www.scmp.com/news/china/diplomacy/article/3362808/could-silicon-valleys-lobbying-create-mutual-suspicion-between-us-and-china?utm_source=rss_feed",
@@ -2114,9 +2114,6 @@
     "https://en.yna.co.kr/view/AEN20260822002800315"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1787127563",
-    "https://www.aljazeera.com/?t=1787131170",
-    "https://www.aljazeera.com/?t=1787130294",
     "https://www.aljazeera.com/?t=1787126138",
     "https://www.aljazeera.com/?t=1787129008",
     "https://www.aljazeera.com/?p=4865586",
@@ -2413,7 +2410,10 @@
     "https://www.aljazeera.com/?t=1787404139",
     "https://www.aljazeera.com/?t=1787404887",
     "https://www.aljazeera.com/?t=1787384815",
-    "https://www.aljazeera.com/?t=1787402264"
+    "https://www.aljazeera.com/?t=1787402264",
+    "https://www.aljazeera.com/?t=1787413195",
+    "https://www.aljazeera.com/?t=1787413409",
+    "https://www.aljazeera.com/?t=1787404554"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
     "https://allafrica.com/stories/202607240402.html",
