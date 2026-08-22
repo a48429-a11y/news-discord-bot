@@ -1812,9 +1812,6 @@
     "CBMitwFBVV95cUxPaG14Z1BfYzdaQWVsaVpnTFlWSElpRlFtbzBzekZKT3o5ZWQtSTFKTFFHNVh0RzVpb0I5ajVaMG5qMUF0RFNUSHRXTDVELU5YRERJTklRbFVWeFRLMTFoMm5aQ0JHdkJybEQzMmkwd0l1eUpzM3FTazhpM0R1dnk0Y2NRemNERzZ1YXV6a2hLU2o5dy1TSTF2MEJIci0wLXVsZk43dWhhRzdNeVJvRGwtdmFmM3pJTTA"
   ],
   "https://en.yna.co.kr/RSS/news.xml": [
-    "https://en.yna.co.kr/view/AEN20260818004500315",
-    "https://en.yna.co.kr/view/AEN20260818004400315",
-    "https://en.yna.co.kr/view/AEN20260818006000315",
     "https://en.yna.co.kr/view/AEN20260818006751315",
     "https://en.yna.co.kr/view/AEN20260818006400320",
     "https://en.yna.co.kr/view/AEN20260818006900315",
@@ -2111,17 +2108,12 @@
     "https://en.yna.co.kr/view/AEN20260821010300320",
     "https://en.yna.co.kr/view/AEN20260822000200315",
     "https://en.yna.co.kr/view/AEN20260822000300315",
-    "https://en.yna.co.kr/view/AEN20260822000400315"
+    "https://en.yna.co.kr/view/AEN20260822000400315",
+    "https://en.yna.co.kr/view/AEN20260822001100315",
+    "https://en.yna.co.kr/view/AEN20260822001000315",
+    "https://en.yna.co.kr/view/AEN20260822000800315"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1787077797",
-    "https://www.aljazeera.com/?t=1787076767",
-    "https://www.aljazeera.com/?t=1787073514",
-    "https://www.aljazeera.com/?t=1787075367",
-    "https://www.aljazeera.com/?t=1787080687",
-    "https://www.aljazeera.com/?t=1787070881",
-    "https://www.aljazeera.com/?t=1787081978",
-    "https://www.aljazeera.com/?t=1787077765",
     "https://www.aljazeera.com/?t=1787075059",
     "https://www.aljazeera.com/?t=1787063658",
     "https://www.aljazeera.com/?t=1787085554",
@@ -2413,7 +2405,15 @@
     "https://www.aljazeera.com/?t=1787344096",
     "https://www.aljazeera.com/?t=1787343852",
     "https://www.aljazeera.com/?t=1787353928",
-    "https://www.aljazeera.com/?t=1787353931"
+    "https://www.aljazeera.com/?t=1787353931",
+    "https://www.aljazeera.com/?t=1787352330",
+    "https://www.aljazeera.com/?t=1787350630",
+    "https://www.aljazeera.com/?t=1787350305",
+    "https://www.aljazeera.com/?t=1787355370",
+    "https://www.aljazeera.com/?t=1787353828",
+    "https://www.aljazeera.com/?t=1787351292",
+    "https://www.aljazeera.com/?t=1787346981",
+    "https://www.aljazeera.com/?t=1787342737"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
     "https://allafrica.com/stories/202607240003.html",
@@ -2781,7 +2781,6 @@
     "https://en.mercopress.com/2026/08/21/bolivian-prosecutors-open-a-second-case-against-the-consultant-who-advised-milei-and-paz?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss"
   ],
   "https://www.abc.net.au/news/feed/2942460/rss.xml": [
-    "https://www.abc.net.au/news/2026-07-31/uefa-vows-world-cup-boycott-fifa-private-equity-plan/106980126",
     "https://www.abc.net.au/news/2026-07-31/commonwealth-games-track-cycling-team-sprint-australia-gold/106979862",
     "https://www.abc.net.au/news/2026-07-30/gina-rinehart-olympic-lobbying-rockhampton/106978242",
     "https://www.abc.net.au/news/2026-07-30/gianni-infantino-fifa-world-cup-sell-off-bid-explained/106976670",
@@ -3080,6 +3079,7 @@
     "https://www.abc.net.au/news/2026-08-22/fifa-hands-argentina-star-leando-paredes-10-match-ban/107066632",
     "https://www.abc.net.au/news/2026-08-21/sydney-swans-scandal-women-lawyer-speaks/107062612",
     "https://www.abc.net.au/news/2026-08-22/australia-vs-bangladesh-live-updates-second-test-day-one/107063906",
-    "https://www.abc.net.au/news/2026-08-22/afl-brisbane-lions-coach-chris-fagan-feels-sorry-sydney-swans/107066662"
+    "https://www.abc.net.au/news/2026-08-22/afl-brisbane-lions-coach-chris-fagan-feels-sorry-sydney-swans/107066662",
+    "https://www.abc.net.au/news/2026-08-22/third-woman-legal-representation-civil-sydney-swans-scandal/107066742"
   ]
 }
