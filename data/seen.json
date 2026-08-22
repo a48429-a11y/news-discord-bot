@@ -604,8 +604,6 @@
     "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html"
   ],
   "http://feeds.bbci.co.uk/news/world/rss.xml": [
-    "https://www.bbc.co.uk/news/articles/cq561gpen8lo#1",
-    "https://www.bbc.co.uk/news/articles/c4gxy0wqqd9o#2",
     "https://www.bbc.co.uk/news/articles/c1j1ye6n30no#0",
     "https://www.bbc.co.uk/news/articles/c4gkyez7195o#0",
     "https://www.bbc.co.uk/news/articles/cx2vj433xqlo#0",
@@ -903,7 +901,9 @@
     "https://www.bbc.co.uk/news/videos/c0qvqzzdd02o#3",
     "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o#0",
     "https://www.bbc.co.uk/news/articles/c62xpre63j2o#1",
-    "https://www.bbc.co.uk/news/videos/cgljl9zp47xo#3"
+    "https://www.bbc.co.uk/news/videos/cgljl9zp47xo#3",
+    "https://www.bbc.co.uk/news/articles/c3040pn8lmmo#0",
+    "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o#1"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
     "CBMinwFBVV95cUxOUjM0TjVURG5BYjNaZlhVS2J2VGtwV3p5WF9JeFZ5cFZWalR5bjBncE9DY3lQVEx6RnBUWU5wS3VwbzRrUmZVWGpGNzZZTVdhN1IyRUlqcVdsRnlHcnduUjNhWXl2M2pNY3NGRDFGaVBMbUxVdGVqV3pRZmpsZ1BBUjFSYk9JQ08wZEFyc2NaMFpSVzZSeW91Z3ZQYXRUeGc",
@@ -2114,7 +2114,6 @@
     "https://en.yna.co.kr/view/AEN20260822002800315"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1787131478",
     "https://www.aljazeera.com/?t=1787127563",
     "https://www.aljazeera.com/?t=1787131170",
     "https://www.aljazeera.com/?t=1787130294",
@@ -2413,10 +2412,10 @@
     "https://www.aljazeera.com/?t=1787404447",
     "https://www.aljazeera.com/?t=1787404139",
     "https://www.aljazeera.com/?t=1787404887",
-    "https://www.aljazeera.com/?t=1787384815"
+    "https://www.aljazeera.com/?t=1787384815",
+    "https://www.aljazeera.com/?t=1787402264"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
-    "https://allafrica.com/stories/202607240003.html",
     "https://allafrica.com/stories/202607240402.html",
     "https://allafrica.com/stories/202607240401.html",
     "https://allafrica.com/stories/202607240368.html",
@@ -2715,7 +2714,8 @@
     "https://allafrica.com/stories/202608210097.html",
     "https://allafrica.com/stories/202608210114.html",
     "https://allafrica.com/stories/202608210372.html",
-    "https://allafrica.com/stories/202608210689.html"
+    "https://allafrica.com/stories/202608210689.html",
+    "https://allafrica.com/stories/202608220074.html"
   ],
   "https://en.mercopress.com/rss/latin-america": [
     "https://en.mercopress.com/2026/07/11/four-held-in-ecuador-over-migrant-smuggling-network-to-the-united-states?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss",
