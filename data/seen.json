@@ -1,6 +1,5 @@
 {
   "https://news.google.com/rss/search?q=site:reuters.com&hl=ja&gl=JP&ceid=JP:ja": [
-    "CBMidkFVX3lxTE9oUVl3WEY5N0RReTNXZkxNcVVrdEFFRWZSblVRMm5pRm5IRXMyaWhNWXhjYVRWRnF2eTZ1eU12Vk1LRFZ6Tl94Tlh0MXdGV21VTHlsUXk2TWlIUU5wSjQ1Z0RybG1TVGV1OGdzazBjRWdQOFN5YUE",
     "CBMieEFVX3lxTE0tLUZHWFJ0Tzl2Z00wRzh5M1dDN1hQaGFvQjFyTWN0eTRSUGhQVUdvc3VibTZuT0hrSF93c2VCS2RhclU1U2QxeFNrZUJReEdnYm9vYk5WNkNLRWN5b1MtY0dCVllmbXdvMGNxamF1ZmNKUnBEY2tPLQ",
     "CBMiggFBVV95cUxQaTlsbWFsVWl2ODRNLXB5ckVVd0F1RDhwbC12MWgycnp3NXl6d1p4UkZLYXFMN0JfOUM3dmxycTZmUWE1Ti1yNEhQQ3g4LTZ0dWYzMDBpRVhtRm9zZFdDMVpQd2xvUmNCWldXZGZ1Q0JHM2pfT3NyYnc2aTBLSXBicmRR",
     "CBMiekFVX3lxTFB1dDNlbmdPYlhwYnNuY3NzcjBFWGtZLTJ0cmZZZDVwb09Ta2Z2Wm92bzVkRFZ2YjJRSHBnamJUaHlJN2FJSE1POXhqUW9DSzF2NV95SHRUYXBlam9XTDh4Z2VUVnZjN0E0UjBTcU04QlhRQi1LZUpCcmhn",
@@ -299,7 +298,8 @@
     "CBMigAFBVV95cUxQR1dkRUlyeGtlZ0puY1d4Y3pNeTFQWEdpM0FfYmhYSFFRMUp3YXoyRkFwaHZMWFlFY0x5Njc4WnNON2dTVG1hb2JhRElMZnctelZRdGMwMFA0Z09YV2VYbm9VRDJqOVh3a3d1TEJEQTFzSUhmM2pZZ3o4X0xjOWFLRQ",
     "CBMiggFBVV95cUxOUmdxdU1kQ2F1a1A1RUJmRnZDRGJhWld1TmYzYndtb19yUlhCN1BkOVdmM05zUzdrdVIxeXFuQnYwVGRmb0JhRVB4dWl0SmhoZXZ3NWY4bkExa2d3S09mbjN6U3BDMWtGNGdvVEtIZFpHdnV0cmdMb0Y3aU5taTBqRXJR",
     "CBMieEFVX3lxTFBIaWsySVJKci1YQW5VbXctVjRTVFRRMXVpR2lHZ3NKY3BxV0hBVFY2QlYwbG85Q3BzSmhkam5Ob2MtTmEyNTlnSUpiUjNDSmNjb0s5cnc3OGFwSDU5Y2NLQkNrZkw0cUJQeTFrNE41UUt4d0M2N2xlUw",
-    "CBMieEFVX3lxTE9lOHRiYldlQnUtZUNrZ3NFS2NVSTdGaGlFeG1FSHUzeDM0bkJCTTBmWW5YWFpqTmN3dFpITE1MS2UtaVVySUoyRE9ZOHVVZ0gyVndmU0FsLVRNWkFIMVo1QWF0SmtLNl9iM2dhdE5LWVdJSTNwaEN1dw"
+    "CBMieEFVX3lxTE9lOHRiYldlQnUtZUNrZ3NFS2NVSTdGaGlFeG1FSHUzeDM0bkJCTTBmWW5YWFpqTmN3dFpITE1MS2UtaVVySUoyRE9ZOHVVZ0gyVndmU0FsLVRNWkFIMVo1QWF0SmtLNl9iM2dhdE5LWVdJSTNwaEN1dw",
+    "CBMieEFVX3lxTE1ucF9FNHJFeXdzVnRWX0tmd0VqVnVLV2dYU3k1ai1weFZhZjIyVjRTcmwzakFrNFk4V3BYME1KUWtyczdub3BKOXpOSTE3WlFhZUQ0anV1anR3bGxvbmpIZkNVOG54bC03Z1d1b2VMOGVBd3BEZzFxTw"
   ],
   "https://www3.nhk.or.jp/rss/news/cat0.xml": [
     "http://www3.nhk.or.jp/news/html/20260724/k10015185791000.html",
@@ -604,12 +604,6 @@
     "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html"
   ],
   "http://feeds.bbci.co.uk/news/world/rss.xml": [
-    "https://www.bbc.co.uk/news/articles/c5ydzg0dnz7o#0",
-    "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o#1",
-    "https://www.bbc.co.uk/news/videos/cddjlrzd26eo#3",
-    "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo#0",
-    "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o#1",
-    "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no#0",
     "https://www.bbc.co.uk/news/articles/cx2vj433xqlo#1",
     "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo#1",
     "https://www.bbc.co.uk/news/articles/cly5p995ykko#1",
@@ -903,10 +897,15 @@
     "https://www.bbc.co.uk/news/articles/c4gknzgje7go#2",
     "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo#0",
     "https://www.bbc.co.uk/news/articles/cly57kzgr0ko#1",
-    "https://www.bbc.co.uk/news/articles/c2lq5g4dedpo#2"
+    "https://www.bbc.co.uk/news/articles/c2lq5g4dedpo#2",
+    "https://www.bbc.co.uk/news/articles/czjlr0evy0do#0",
+    "https://www.bbc.co.uk/news/articles/cwyr0l45xjro#0",
+    "https://www.bbc.co.uk/news/articles/c1l10mdrld5o#1",
+    "https://www.bbc.co.uk/news/articles/czxe9n0vxzdo#1",
+    "https://www.bbc.co.uk/news/articles/cj0338l6yg4o#2",
+    "https://www.bbc.co.uk/news/articles/cnvn0n1nld6o#2"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
-    "CBMirwFBVV95cUxNVVFqcS02ZHV5ZjlaeVFZdTlteEs3VjRqcVhQN3hxZHRQYjFjNUhKenE5MnVQR1J3R1d0cTA2NXJGTHZfcjU0RXM0T0dvSHFUUWItbktmV3JLMVFPaURkMzh5RUhCQmRyY3JUb3NNWGJqSlZvYXhBdzFfeU5hY3d6YVRMRkg5SWt4ZVJSVUpJZWxuYi0tZ2ExbXd5SGdmQzVWWnRvOE5JUm9HOXk4LUVV",
     "CBMirwFBVV95cUxPMUl1eTVsMHVkaVpUS0Y3SXVicEl6T09oUkNrNE91cWtqUi1qeXVKLVlRdEZyUE1uY0lQcmowckFWbjMzTVpreHYtMWVNbkRORXNuQ3FGdXViT3NZMjRCQWVYRFk3ekZyeWQzQnYyUW4yLVVBS0lMNkRsWXV0ZUxMNjdWMTVhNENtZVBvLW4wbEhVZ1c2WFBKM2FFay1xYjQ1Y2d6VnBKY0dtNWphUU5B",
     "CBMipwFBVV95cUxOeks3dFFoNHJwR3dMMmRmUnR3cUZIMm91QktlbXlTQnJsQTNZaDV2U1hHUGYtYmhnRTdpVWNwcUp1MENVa3o0dUh0MW11TWhLUU8zb3JKOUN3S19wdElLakJTVlBXY3dzaU5udTlUUlZxRHNZdVppQjczZWFtUXJvM3JBVzBScWtnZW1LUDJhYS1wOV83S081UmgwOEtDTERKa3FpY0ptQQ",
     "CBMi0gFBVV95cUxPNFZJT0VYSzdiQTBqdDUyd3pOLXNINTRDQlFkZEJ5SlJpSTFXNGhXNTVObHhrSmNJZi14VThfQWN1WkV4LWJjclVENFBBS0Zuc252WGxhTUdHaWlWN2szYnEtdDhCS19IaFIzUEpIdF80T3FVam5vRWRnN1NHLUVMb1RsVGV5TzIwdXJTemUzakdwdnVOMXNNeVV2VFJWeXFral9Kc0dWbGR1Y1ZSRUMyN0xCRUhGSUdBZFlEb0tBUEpvai1QZXZOR0gtc3BYeWhHMnc",
@@ -1205,10 +1204,10 @@
     "CBMinwFBVV95cUxQREdybUlDU0VLV0d5cmkxVFpfMjc1dnV6TTFuMGE1NkVwclpxbkpfeUV5b2UxenZleTVKeGstbHdEMzRBdUdDRG1VVUZEcUxGS2JGNEh5cFlSUDJ3em9LN21sclUwcUNnNG53d0Q3bHdLeHhiTC1hYUI4d3BndEc1cUFjTTQ1d1dROUR1UVROeXBZQkxpQW93RUhYcDYxMU0",
     "CBMilAFBVV95cUxQTVp3TkxRTlg1ZnZiYzUxM0hZWDZYM056SlNRdDVjYl9fcHB5ZkdhNHVjcXVacWRyOVdxbFBGR2xvYXAtcHg5ZFQyUER5LWNhT2xWUjhucFc4R3FYZ3Z2YlZLMUUwTG5GczVWS05xY0Z1dzdzMk1RUmt6VWFzMHZqSnBILUlqVXROOWUzUUFtMEdmdm5h",
     "CBMijAFBVV95cUxNZVBVMWVYTUY4ZWR3OXhZMEx2WTNtU1MzMnVhbjNLZjFSZ0t0b3pIMGNMWWpwZHZlT05HTXhzU0FHa29LenVOZENwaU0zRFJyVjZvN3oybXRTc0tLSzJCbzYwUWdJeWVPQjY0UEhldEdWbE9XX1F0N0dFYTA3RHJEcWtqT1JwbHpORTVteQ",
-    "CBMiqAFBVV95cUxObFV2NWFLWVhic0ZzMUdRMzQ1Z3c0VlpCbXFuLVR5b0dpN3llTnZrd2MwUlJRSkpxRTlCT2F0QmFlekpQdDhiLXhYTHI2dk5Pd2JPb2s1NlFfTTF1Snl2SUpIQTh2dnZsYzRLakJ1bzJPX1BTTUdLc3N3eUc2SThvYUhBUkkybUtrdjRPX0ZwZEFiN3VlMmo0XzJrb2hjSnYteXdFNnZ2REM"
+    "CBMiqAFBVV95cUxObFV2NWFLWVhic0ZzMUdRMzQ1Z3c0VlpCbXFuLVR5b0dpN3llTnZrd2MwUlJRSkpxRTlCT2F0QmFlekpQdDhiLXhYTHI2dk5Pd2JPb2s1NlFfTTF1Snl2SUpIQTh2dnZsYzRLakJ1bzJPX1BTTUdLc3N3eUc2SThvYUhBUkkybUtrdjRPX0ZwZEFiN3VlMmo0XzJrb2hjSnYteXdFNnZ2REM",
+    "CBMiqAFBVV95cUxQNHVlLTlydUJ6UzlTMHNIMWY5bWtMNklnMzloN2VlYzZVVTR0N0g1VmxmcHFBTzY4LVVReG1wbG1LUF9NSWQ1Wmt6aWwyUEdnaVhwVE9ZYkpVYmNoR3JiWDE1WU5SQjZodzZMYWZCM0h6d3o4cm9GRzRITnAzNElqYWowUm9QbllSdkJrajkzWEt3bG9XbnhHbUlMeUJxRk8zaFFHV3dTVjk"
   ],
   "https://www.scmp.com/rss/4/feed": [
-    "https://www.scmp.com/news/china/article/3362707/7-face-arrest-after-inner-mongolia-fatal-blast-report-exposes-string-failings?utm_source=rss_feed",
     "https://www.scmp.com/news/china/military/article/3362700/beijing-warns-manila-powerful-south-china-sea-toolbox-ready-head-blow?utm_source=rss_feed",
     "https://www.scmp.com/news/china/diplomacy/article/3362693/turkey-putting-pressure-china-africas-infrastructure-market?utm_source=rss_feed",
     "https://www.scmp.com/news/china/science/article/3362361/chinese-rocket-scientists-find-most-effective-way-nuke-doomsday-asteroid?utm_source=rss_feed",
@@ -1507,7 +1506,8 @@
     "https://www.scmp.com/news/article/3364791/chinas-trade-grip-tightens-europe-clock-ticks-towards-october-deadline?utm_source=rss_feed",
     "https://www.scmp.com/economy/china-economy/article/3364791/chinas-trade-grip-tightens-europe-clock-ticks-towards-october-deadline?utm_source=rss_feed",
     "https://www.scmp.com/news/china/diplomacy/article/3364853/china-and-us-push-southeast-asia-over-their-ai-blocs-will-it-test-regions-non-alignment?utm_source=rss_feed",
-    "https://www.scmp.com/news/china/diplomacy/article/3364895/tiktok-bytedance-agree-us400-million-settlement-us-over-childrens-privacy-suit?utm_source=rss_feed"
+    "https://www.scmp.com/news/china/diplomacy/article/3364895/tiktok-bytedance-agree-us400-million-settlement-us-over-childrens-privacy-suit?utm_source=rss_feed",
+    "https://www.scmp.com/news/china/diplomacy/article/3364877/why-chinese-foreign-ministers-trip-south-korea-dealt-low-blow-seoul?utm_source=rss_feed"
   ],
   "https://news.google.com/rss/search?q=site:euronews.com&hl=en-US&gl=US&ceid=US:en": [
     "CBMivAFBVV95cUxOY0Ewd3cxQnVaYy1ROGYyUkZGUG9ERW43ajhlRkdTaHBmcy1lZ293OHBraXFFN196c0dwd0ZXS0JEeHRmYzVWdllrRWRVVUdabDVSN01uNGhySjNhLW9OSlh3XzhhQzVySHVudXowRTQtclh2YzJiS09YQ1lqd1ZlZlJxMUFfY3YtRWxkdV9EaVVraWU0Z2I5Qk1rSkZpZEs0UmZSWUZDYlNKa3g0dGFPN204WGxJaTZLdlM0YQ",
@@ -2114,8 +2114,6 @@
     "https://en.yna.co.kr/view/AEN20260822000800315"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1787075059",
-    "https://www.aljazeera.com/?t=1787063658",
     "https://www.aljazeera.com/?t=1787085554",
     "https://www.aljazeera.com/?t=1787081787",
     "https://www.aljazeera.com/?t=1787081610",
@@ -2413,7 +2411,9 @@
     "https://www.aljazeera.com/?t=1787353828",
     "https://www.aljazeera.com/?t=1787351292",
     "https://www.aljazeera.com/?t=1787346981",
-    "https://www.aljazeera.com/?t=1787342737"
+    "https://www.aljazeera.com/?t=1787342737",
+    "https://www.aljazeera.com/?t=1787364158",
+    "https://www.aljazeera.com/?t=1787356730"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
     "https://allafrica.com/stories/202607240003.html",
