@@ -2114,12 +2114,6 @@
     "https://en.yna.co.kr/view/AEN20260822001500315"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1787086863",
-    "https://www.aljazeera.com/?t=1787085579",
-    "https://www.aljazeera.com/?t=1787082852",
-    "https://www.aljazeera.com/?t=1787084888",
-    "https://www.aljazeera.com/?t=1787085244",
-    "https://www.aljazeera.com/?t=1787097857",
     "https://www.aljazeera.com/?t=1787100408",
     "https://www.aljazeera.com/?t=1787089874",
     "https://www.aljazeera.com/?t=1787091023",
@@ -2413,7 +2407,13 @@
     "https://www.aljazeera.com/?t=1787059247",
     "https://www.aljazeera.com/?t=1787302177",
     "https://www.aljazeera.com/?t=1787306482",
-    "https://www.aljazeera.com/?t=1787376450"
+    "https://www.aljazeera.com/?t=1787376450",
+    "https://www.aljazeera.com/?t=1787384085",
+    "https://www.aljazeera.com/?t=1787385517",
+    "https://www.aljazeera.com/?t=1787385531",
+    "https://www.aljazeera.com/?t=1787382447",
+    "https://www.aljazeera.com/?t=1787143108",
+    "https://www.aljazeera.com/?t=1787379518"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
     "https://allafrica.com/stories/202607240003.html",
@@ -2778,10 +2778,10 @@
     "https://en.mercopress.com/2026/08/19/an-argentine-consultant-who-advised-milei-s-campaign-detained-in-bolivia-after-a-shooting?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss",
     "https://en.mercopress.com/2026/08/21/eclac-trims-its-2026-forecast-for-latin-america-and-the-caribbean-to-2.2?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss",
     "https://en.mercopress.com/2026/08/21/montevideo-hosts-a-progressive-congress-after-three-consecutive-electoral-defeats-in-the-region?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss",
-    "https://en.mercopress.com/2026/08/21/bolivian-prosecutors-open-a-second-case-against-the-consultant-who-advised-milei-and-paz?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss"
+    "https://en.mercopress.com/2026/08/21/bolivian-prosecutors-open-a-second-case-against-the-consultant-who-advised-milei-and-paz?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss",
+    "https://en.mercopress.com/2026/08/22/progressive-leaders-gathered-in-uruguay-denounce-us-interference-and-acknowledge-their-own-mistakes?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss"
   ],
   "https://www.abc.net.au/news/feed/2942460/rss.xml": [
-    "https://www.abc.net.au/news/2026-07-31/nrl-live-updates-dragons-dolphins-storm-bulldogs/106977948",
     "https://www.abc.net.au/news/2026-07-31/magpies-coach-throws-support-behind-hill-as-star-exits/106981454",
     "https://www.abc.net.au/news/2026-07-31/korey-boddington-classified-out-commonwealth-games-para-cycling/106669880",
     "https://www.abc.net.au/news/2026-07-31/alex-de-minaur-beats-cruz-hewitt-in-aussie-tussle-at-dc-open/106980658",
@@ -3080,6 +3080,7 @@
     "https://www.abc.net.au/news/2026-08-22/afl-rd-24-live-carl-fre-mel-wb-geel-rich-adel-gws/107064452",
     "https://www.abc.net.au/news/2026-08-22/australia-wallaroos-new-zealand-black-ferns-test/107066896",
     "https://www.abc.net.au/news/2026-08-22/nrl-live-updates-knights-sea-eagles-souths-warriors/107067124",
-    "https://www.abc.net.au/news/2026-08-22/collingwood-scott-pendlebury-hamstring-injury/107067306"
+    "https://www.abc.net.au/news/2026-08-22/collingwood-scott-pendlebury-hamstring-injury/107067306",
+    "https://www.abc.net.au/news/2026-08-22/australia-vs-bangladesh-quick-hits-day-one-starc-shoriful/107064274"
   ]
 }
