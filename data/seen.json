@@ -1,6 +1,5 @@
 {
   "https://news.google.com/rss/search?q=site:reuters.com&hl=ja&gl=JP&ceid=JP:ja": [
-    "CBMigAFBVV95cUxPWnhjRzR4UDFDR3labEhnMjFYcnhyWFB3b1ZhT3lGM2VPTlhnMXg1ZVZPVXBDQUg1VFJCcVFqODlOXzlVTzk3UEpsbVJUTTJ3T0QxNEluMVNadjNveGxtNWRmVzBtVmhQV3lVUTRiUHlFZWQyakNLWVI1V3dqbVhGMQ",
     "CBMieEFVX3lxTE0yaGY2cVJqeDJhVnc2bDNlM0M5bnBCc3d5cHNQN3Jjb0ppQjN5ZU1uTndaMHp1SWhiazY4WHlidmpqcng3YXctaXBITTV4ejhmQU11cFZEMmdHaGc4bE9Rcjlrd1JybThTV1VMbVliaTBlWnBUSnUxOA",
     "CBMigAFBVV95cUxOeHh0Z1BUYWpiVHJnbERia3RhYUZMWGk0NGlPQzF6WGRoVlVnaVlCVlhYakczbldycG9ENWVMMi1mUURub0hwQ3JzaUJPWVdQYkJMMVVoTk5DZGVQTE14dVhnV0JaLW9vUURTVjdCS1c0UV9TZWNRSWdtd1VsRXpsVw",
     "CBMifkFVX3lxTE9TeTRuNmlLaXpqNXBrNHI3eC1tclY4MjI0VEhMcmZ0a3ZEOXQzcHFKX1ZzOGMtbWFFMVJ5VjhQU2pmRktlMmtUUTBPeUg1UUYwMUtCT1pvWHlCbzFzWXRWRHZGVmJ5akJ4MVNsRWNZU2Z3MVhOY0NqczdCZERVQQ",
@@ -299,7 +298,8 @@
     "CBMieEFVX3lxTE1OSTdGMEkySDhMeTFLMWRLR3pHVzJaMFpiTDNRWndVVEd2a1BFZlFDYnhiN25xU091NlB6TE43ZUNuQi1mRDVUOWhteFZXMk9qajJ5YjRXSkFwUWppNzY3R1Y4RnBBVlp1TE8yR05fVUNMZ2V4dlAzYQ",
     "CBMiiwFBVV95cUxOaDFvUEM1elcxR3ZuRDFva0xlSlhhMk5seHQwcUMxSTJocU0yc1hOazZqMy1RN0E2a3pYX0V0NFpuUXFQeFMyeXJaMnNiOFpEQ09qUkh6LTYxa3NrQ2lwTGxjM1UzaTNlNlpVcHU3dTluNkg5OXdqS1VCU08zVWFQSC1DS2dDNi1aZkRv",
     "CBMigAFBVV95cUxQelJpWjh4d1pCQ3kwcVc3X3kwQjNVak1NTHZBdEZxZGk0SXRudnRtZnU4NjRlYWFyc1BRdkFKa09MMlV0VDNnT19BMW85RzY3V0s2UjU3Z0pxUjFROGUxM0tQVUhYRnFSZ2lVdkF0eklSdWpxaFV3cWpLX1pRdEMxQQ",
-    "CBMieEFVX3lxTE9aaDBJTzVOVTVVZW0ybjIxWmdIWG9kYkI0dzRUMWNtZzBHYXlObWU5czN3VTJFU1NXQTU2eUJCRTZZVzhYc29wY2RqS1BXVDB2aGFMZWRaRFR5bWJIM3Q4LUFuWVI1Wk5abnRNZmp2SlB5bmtNMHhYOQ"
+    "CBMieEFVX3lxTE9aaDBJTzVOVTVVZW0ybjIxWmdIWG9kYkI0dzRUMWNtZzBHYXlObWU5czN3VTJFU1NXQTU2eUJCRTZZVzhYc29wY2RqS1BXVDB2aGFMZWRaRFR5bWJIM3Q4LUFuWVI1Wk5abnRNZmp2SlB5bmtNMHhYOQ",
+    "CBMiekFVX3lxTE96MUZ0WkQtZXEzQ1M2aXhxaDkySUNJNnh3MzZGZ2c0UlpNQTBIZmVwNjJjVXNUeHpMcVZlM3BmNVIwSjN5b0JvVjJ6MEMwd3FNOTFWXy1nbjFKcW1SWUtHT0ttSF9BV0x5SU55YjBLMlJVMFVnRjgxNjRR"
   ],
   "https://www3.nhk.or.jp/rss/news/cat0.xml": [
     "http://www3.nhk.or.jp/news/html/20260724/k10015185791000.html",
@@ -2114,8 +2114,6 @@
     "https://en.yna.co.kr/view/AEN20260822002800315"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1787130708",
-    "https://www.aljazeera.com/?t=1785761391",
     "https://www.aljazeera.com/?t=1787130439",
     "https://www.aljazeera.com/?t=1787125818",
     "https://www.aljazeera.com/?t=1787125173",
@@ -2413,7 +2411,9 @@
     "https://www.aljazeera.com/?t=1787421037",
     "https://www.aljazeera.com/?t=1787415363",
     "https://www.aljazeera.com/?t=1787420624",
-    "https://www.aljazeera.com/?t=1787419313"
+    "https://www.aljazeera.com/?t=1787419313",
+    "https://www.aljazeera.com/?t=1787425872",
+    "https://www.aljazeera.com/?t=1787419574"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
     "https://allafrica.com/stories/202607240402.html",
@@ -2784,7 +2784,6 @@
     "https://en.mercopress.com/2026/08/22/colombia-s-government-objects-to-the-law-barring-lower-requirements-for-senior-posts?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss"
   ],
   "https://www.abc.net.au/news/feed/2942460/rss.xml": [
-    "https://www.abc.net.au/news/2026-07-31/alex-de-minaur-beats-cruz-hewitt-in-aussie-tussle-at-dc-open/106980658",
     "https://www.abc.net.au/news/2026-07-31/england-hires-nzs-fleming-to-coach-test-side-root-to-captain/106980488",
     "https://www.abc.net.au/news/2026-07-31/commonwealth-games-glasgow-day-seven-quick-hits/106974752",
     "https://www.abc.net.au/news/2026-07-31/fifa-sale-continue-despite-opposition-/106984546",
@@ -3083,6 +3082,7 @@
     "https://www.abc.net.au/news/2026-08-22/collingwood-scott-pendlebury-hamstring-injury/107067306",
     "https://www.abc.net.au/news/2026-08-22/australia-vs-bangladesh-quick-hits-day-one-starc-shoriful/107064274",
     "https://www.abc.net.au/news/2026-08-22/australia-vs-bangladesh-test-series-mackay-cricket-history/107064584",
-    "https://www.abc.net.au/news/2026-08-22/south-africas-former-world-boxing-champion-zolani-tete-shot-dead/107067524"
+    "https://www.abc.net.au/news/2026-08-22/south-africas-former-world-boxing-champion-zolani-tete-shot-dead/107067524",
+    "https://www.abc.net.au/news/2026-08-23/zyzz-poster-boy-documentary-manosphere-looksmaxxing/107052896"
   ]
 }
