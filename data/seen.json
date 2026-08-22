@@ -604,7 +604,6 @@
     "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html"
   ],
   "http://feeds.bbci.co.uk/news/world/rss.xml": [
-    "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no#1",
     "https://www.bbc.co.uk/news/articles/cd0xk82mrpyo#2",
     "https://www.bbc.co.uk/news/articles/c74gdgly3g3o#2",
     "https://www.bbc.co.uk/news/articles/c5y0zz63gero#0",
@@ -903,7 +902,8 @@
     "https://www.bbc.co.uk/news/articles/cq56x3910jwo#2",
     "https://www.bbc.co.uk/news/articles/c93403wg288o#0",
     "https://www.bbc.co.uk/news/articles/cvgl2pe09eno#1",
-    "https://www.bbc.co.uk/news/articles/cvg92y1wzn8o#1"
+    "https://www.bbc.co.uk/news/articles/cvg92y1wzn8o#1",
+    "https://www.bbc.co.uk/news/videos/c0qvqzzdd02o#3"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
     "CBMiigFBVV95cUxPc1BseTdlN0tNamJob25sYURUaVRsdjVnamVPM3RqZ2ZiMEhTQmcyZzZnNkE0cUZKckszb3E0cU53WEhrTXU5N3N4ZDRjSEVPS1NrTlU3RGlzWXRGNktVX1VIQ2RPQWRxS2pVQ1VibU1VZUJZdXJIcHQ5TmtSZ3hVdHQxLVZjV0ZMQUE",
@@ -1208,7 +1208,6 @@
     "CBMingFBVV95cUxQMVB4b05kM21oYjVVOUExcWJZODV3M0dWQnBpNU1QV3Z3WmRvRWN1NDlwS29fY0NzbVF5cTFPb1dkaEwyQ1NuVlV5WENvMjVwZnFjeFhBSkpWcDU2Z1EzNGV5TktPRTBPUkZwcnVvZHViLVhzRGZieGt1QWF6cmYyczJNWWJQLUtobkhVOXRCZWRielZqckVpaExWcGItdw"
   ],
   "https://www.scmp.com/rss/4/feed": [
-    "https://www.scmp.com/news/china/politics/article/3362551/discouraged-university-maths-star-wang-hong-spurs-chinese-education-debate?utm_source=rss_feed",
     "https://www.scmp.com/news/china/military/article/3362704/chinas-military-goal-stand-neck-and-neck-us-ex-pla-colonel-zhou-bo?utm_source=rss_feed",
     "https://www.scmp.com/news/china/diplomacy/article/3362808/could-silicon-valleys-lobbying-create-mutual-suspicion-between-us-and-china?utm_source=rss_feed",
     "https://www.scmp.com/news/china/military/article/3362790/are-commercial-sea-drones-new-headache-pla-south-china-sea-and-taiwan-strait?utm_source=rss_feed",
@@ -1507,11 +1506,10 @@
     "https://www.scmp.com/news/china/diplomacy/article/3364877/why-chinese-foreign-ministers-trip-south-korea-dealt-low-blow-seoul?utm_source=rss_feed",
     "https://www.scmp.com/news/china/science/article/3364755/electrochemist-liu-jiawei-moves-singapore-hong-kong-start-her-own-lab?utm_source=rss_feed",
     "https://www.scmp.com/news/china/diplomacy/article/3364922/mainland-chinese-research-ship-spotted-near-taiwans-largest-naval-base?utm_source=rss_feed",
-    "https://www.scmp.com/news/china/diplomacy/article/3364799/why-chinas-ev-boom-seen-unparalleled-opportunity-africa?utm_source=rss_feed"
+    "https://www.scmp.com/news/china/diplomacy/article/3364799/why-chinas-ev-boom-seen-unparalleled-opportunity-africa?utm_source=rss_feed",
+    "https://www.scmp.com/news/china/diplomacy/article/3364913/chinese-j-16-fighters-arrive-egypt-ahead-eagles-civilisation-2026-joint-drill?utm_source=rss_feed"
   ],
   "https://news.google.com/rss/search?q=site:euronews.com&hl=en-US&gl=US&ceid=US:en": [
-    "CBMitAFBVV95cUxONUFVaDM2aTNmcmlaY3VtVDd0WGJuLTE1U0dtRjA0dlQzR3pNdjBKYzBlemExN0Q5Y3VydHNVaFQ2MVVqYk1tM1l3ci10ZmlwMTA4UTZqZFJqUF8wLWRTTXVoRUVqRFNGQnJ6UnJGdC0tOXhNQmxUR3V4STQ0YldEYXc4dEdKNVYycnc0bzhiUU9lTEhsSEMwMTA3RDM2UEJHaDYtcTBEZ01lUDNobWFac19hcGY",
-    "CBMiwgFBVV95cUxOLXIwSUVOaGl2ODBBZ0xNdkdHX1AwOXlWLUN6MTNjU2RKZ19Bc3RYZElwN1FORkZwQTR5VWV4N2VrUjdKMW1sU0JibzFvcVRZR1RkUXduU1o0ZjZKd1U3cU83eDc3QWw1dHdkX3lrbUNha1JXcHViLWVEc1dEZ3RZanU2bnZ4QUJPekptLXZNRWpBRjFRN3Z0MEs0ZlhXZ1daal9wY19aRkVTNEV1QXFMRFNSRW1ZMjVKbTZCSU9GQWR0dw",
     "CBMiugFBVV95cUxQT2ZwQVU0eVdyVGNlcnBuMVp3b0REUE5zaUtGbGF1aUJMVHJXdTlmSWR5V0ZNNzlYWnJSLXNwcTZsck9vTklZVm9waEc5RU16ZW5pUjZnMVFNUXVDemtHQk03Q01QSl94RmVFY0NWRzdUTXJ4OVZYTXZHc2lESjlyS0pDdFo4Z3gxdnc0bXVJdHVEYlpPcjFXbWQ5enhfWHV1dk1kM2JSOWFhamIwY1FoOEs4R0x6TkJWaHc",
     "CBMiwAFBVV95cUxQd1hJNjdXTnFYWEdlRDE2ZlZYU1NlTHZhZG0zazJTNzc2MDEwTGVzYmZTdi1zU1h6LU5qVVhCa0RHcHJDZ1R2NGV0MzRaZVl6UTlWS3N5V0kwbWhDVGNfalVSc0I0X2NDTWp2SUlkMFBnRWxuaWZQXzhXTTlOSFh3XzRNRDczRFhOcEktSzVxV2ttajFERmRzTnZsQWxiS21MV2ZRUkx3eWwwMG5Va0ZacTBTQWZ0d3laXzVpMGVBRWo",
     "CBMirgFBVV95cUxQTGxqQTdIUlhLTlRUNS1IQ1NWMTQyWThfaHRkV3J5MjB6WHVDaXRMd2Nic2ZlYlF0QXg0MzV2U1EtR0IyMnVIX1pfYk12SVRuUW5xa0p3dlJwQlE0SjNsMTM5NXlnWnNqM09NZlBnZnVjdUdnaTYyVVdRTGtyc3FvQnJDUmNjTDloejJudnRHb2tWeENxb0J1bDVhaE51MDdXS19KNFh6VkpSTkUwOFE",
@@ -1809,7 +1807,9 @@
     "CBMikwFBVV95cUxON1Z5NnZMdmR4R05ZNEtrQUp0b3JyT1NvaUozbzRZc1dXWDlJcGZ4bURIWkljS1JGMl9qdnBnclFBaUdBTXFsWFlBeVg2eUNabmpicnZvaS1EYldtaUVrb0NFRW9oSWJrUFowd3c0MWo3MFpiZ0w3X1pkeExLNmtxLWFGcFNNeEplMC1hX2RXZTl4V2s",
     "CBMixgFBVV95cUxPNWthTC1QOEYxOGk2U1NLSE1QQzh4RXZ2YlFMMmpmalRWZW4zNEo4dUZlcnFZdzBZS1AwMXRWcUxHNDU0MzdGb3NpS19pdGhuTHlqaHhxZE9udXVlMWJTYlhmaG8yazZ6RHNaSUFKMUVFMHBPVGlvb3B6cjlPWGJPZzd6S0hFbE5lNkk1eFRPYkd3ZUJ0d3FfNWYxTkYxWGx3aldrbzlCQ3RLZjRWdmYxYmV4ejhCS1hsR2pySW5tb0ZwOXNPaVE",
     "CBMitAFBVV95cUxPN2M1aEdYRlcxN3paTUlybHQ4LWRPSkhMNmtzQlFaaVNQeUFqZElqNXR1VHc5YUg1TU1aeHRJQnBWWEdsVjBtZVJUYzV6SkJGRXdyQVhINGhRbkdORmpPZVBvMEQtM1RpOUdBVGZHRzVwNkZYeDE1bzhFVzdoTm0zV2hiYk9PcXh0cWZZRWJyQnVKb2lZcDNxY2hjdm82a1JzRmFLVzdpaWxWdExPMFI2dHY4WjY",
-    "CBMizwFBVV95cUxNNkVVM29YSWluNC1KN3F3dkJWM0U1OFNld1BoNjQ0R2JUb1hlSl9BRWE1QjZJT3g1TzJOU3NLRTBwUTAtdjd6aGxfUGE3RGFYaDBhNFZRcXdQN1FCZjNlV0RDTmotZmpCRTZ0NHlhV01lZUdhSkJvSlcyYUEyMXNtTE1LdlJYRndHWGFuTzRXMmk0UVJOZ3pkOFNVbjVycW9nZWduM2F1QVRBVTBwT3Nic2U3UUJFS0Ntd2Mwd0ctU2lHR2trMWZfTDR2N0hzUTg"
+    "CBMizwFBVV95cUxNNkVVM29YSWluNC1KN3F3dkJWM0U1OFNld1BoNjQ0R2JUb1hlSl9BRWE1QjZJT3g1TzJOU3NLRTBwUTAtdjd6aGxfUGE3RGFYaDBhNFZRcXdQN1FCZjNlV0RDTmotZmpCRTZ0NHlhV01lZUdhSkJvSlcyYUEyMXNtTE1LdlJYRndHWGFuTzRXMmk0UVJOZ3pkOFNVbjVycW9nZWduM2F1QVRBVTBwT3Nic2U3UUJFS0Ntd2Mwd0ctU2lHR2trMWZfTDR2N0hzUTg",
+    "CBMiuwFBVV95cUxPQUpuQmxTaWRBRHZXYnhZNGxJR1Q4dzVZdERKbmVOQlhNNTEzM0l4bnk2RkhvcXhUZEFrTXdZSlE0T3UtYmFBYzNNQng4enFXQm16NUZiUUlTTllvU3dHbzRYcnM3RlZmUDNZMUM3Nl9CTmRjZ1JZRWJuUDhfTVBrUW03cVlGUHduMkpaZ182R3g1UjhtOS1jbUdjMlRpNC1qSjIwRXVXUGppUUVZSVlHSU9JUWVrazRaVkQw",
+    "CBMirwFBVV95cUxOTjhtYzBKY0RRYjFacnVqanVOUVZVaGxSRHVoN3lUeHhiX3dIaXA1VllLelFPYTJ4dFZaODNQdFdmUUJNZDZJbXVjMkxpWmtoaTA0Z0hyVGNLRlVhT0ZqMVJVS0Z1eTljY2l2dXZUeTBUelNIRWFaMWFZVFlZMkIzQ3ZOV0J3TDFPOHR0c0hvSldaZjRDVlE4T3ZvTVNlRGViRXBBZTFFXzZ0bklMRzFn"
   ],
   "https://en.yna.co.kr/RSS/news.xml": [
     "https://en.yna.co.kr/view/AEN20260818007000315",
