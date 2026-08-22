@@ -604,9 +604,6 @@
     "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html"
   ],
   "http://feeds.bbci.co.uk/news/world/rss.xml": [
-    "https://www.bbc.co.uk/news/articles/c171yp5zdrxo#0",
-    "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo#1",
-    "https://www.bbc.co.uk/news/articles/cd69ely319eo#0",
     "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no#1",
     "https://www.bbc.co.uk/news/articles/cd0xk82mrpyo#2",
     "https://www.bbc.co.uk/news/articles/c74gdgly3g3o#2",
@@ -903,10 +900,12 @@
     "https://www.bbc.co.uk/news/videos/c235j22d85ro#3",
     "https://www.bbc.co.uk/news/articles/c62xpre63j2o#0",
     "https://www.bbc.co.uk/news/articles/c0l5d387j18o#1",
-    "https://www.bbc.co.uk/news/articles/cq56x3910jwo#2"
+    "https://www.bbc.co.uk/news/articles/cq56x3910jwo#2",
+    "https://www.bbc.co.uk/news/articles/c93403wg288o#0",
+    "https://www.bbc.co.uk/news/articles/cvgl2pe09eno#1",
+    "https://www.bbc.co.uk/news/articles/cvg92y1wzn8o#1"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
-    "CBMirgFBVV95cUxON2ZCdS01ZDVvd3FwMjdxdFRJalhDNUFLZUVvdF9TWGxxeGN4MkRZYUotQ2M0S19LOEFmS3hPY2dUVUxEV0J0ck1YQUlreTZrWXdjQTlTTGZIejAyTEgxMUJBRTZRYTUzY3BOMW5wdS1JcWxiTWJTVFlPUmZZMl9UTlloUldqNTRQOHhpbDF1NVYyWU03anBGSzZhVkRNU2s2aGFVSzJmYlZNTktVU2c",
     "CBMilgFBVV95cUxPRHBMaDlITnhZaG5xYXhPTUxhUlhIMnFHYTVKZXhZQWcwSmswLVo0aWx5dHI1T3l0bXg5eDZzSzhyUEhyNDMyWkFHVEhRQ19WcVJMM3prWWFLRjFEQ1ZjS1dqZk03M01zSmVtNGFRODZzTmsyVHpmTTQtV2dwMGRTclVUc1FBTkM5T2cyeVR1OEVPN0V6eHc",
     "CBMiqgFBVV95cUxOS1ZVeVR3dkRTVHNDamZQUkxBc0FUS1RVQlh4WnJnM0hESmZYZUhMdkk1a3JaNE9IQUFMT2hGWU1CU1VkYkxCbUVpUGp0YzJNYmU2U05tZ2ViNE5hWVVnZUtyUW0zNjVLMk9IRDBVSzR0cTFlY0dsUDRGUXlEaWlFUFN5Qk5LTnJkQ0R5NDRpSUpiWmFoQVpKQ2VHaHJIY0o5SmN2OUE5Zm1ndw",
     "CBMirwFBVV95cUxQcjJXcUxELVBkb3dsclNBbDBsZUswNHB2WW5QNlpQTW5adGdNVGFoZC1aTEJqSUhRbk9XTVNHUUZnVHlGM3JuT29weS1pa3NsTmFGdzJMRktTcmpUc2tNa3g4Yk9ObWoxamd4X2sxZ1dJa1d1Q0dZMk11UXFBY3phbnRHbi0yMkNuanVoeGhjZURpMzVhU1NDVkRvazVyRFlGQkstZkVTZERtTllwb013",
@@ -1205,7 +1204,8 @@
     "CBMioAFBVV95cUxOdHp6VFdWcHF6N3ltR2Fmek5DTG1qd3oxN24yTlFMSHB1UEdwY05wM29KOTc4Snp2c0VBek5KcktYdGJoakR1eEtWaEo2a1pzN216RndOOE02by1VZlNZOFpOcWRuemZUcDVkZ1YybGtYTG9EZ0VRSDUtQzB0cWlBckZrc2hmZ29jQmU0ZTZLYkNjM0lDTnVFbFRzOTQwN0NL",
     "CBMilAFBVV95cUxPV1YtV0wwcVpTS3JYVERwRnZlZVJTc1o0bWluSzJBb2NsMWNkYVE3ekg0QjhoUGRYcGNIVU1PalM3cDVBN0NlakxBUkNhYnNiSGJ5TWVacHZVWDJzQ2hWdVVrd3JSZmxBbktCQUV3V3Q2ZjBJTmNudkxzX19jT01KQTFObkZfSEhYSkZqTnU3SWhSd01J",
     "CBMipgFBVV95cUxNM1pOdkZzQjY3ZlpmcEp5ZVhjUTRtX3E1V2M4bnY0ODVFQnlBTnUtV09mREtvVXBVVnk0SVZhT09FYkhzbElvbE5KVTVWandkdTRaZjlIU3A1b2tOWDNTb1pER0lNdWZUTnBkWUlKd3NaaHpZMnFJSmNObUd5eWlZUC16TktQamdFQzFLQzlOUWtBdjRBSFlHSElUS083WUpKTnZhMkhB",
-    "CBMirwFBVV95cUxQeWNiaDhOZ09mZzExcWZWOEh5TmtBTjRzRWdjb1JjNk5nY2pNc3pCaWVQQUd6VFgxamRYaHh3aTRSV1UyRGZKMmR0SklocFZ6ZVItYS1iZURNRlZPMF8tYjJaMmpFTU84VVZYRWNpVm00WFQzU1ZCNFJCVWFVT2JYS0tjSGt2Q3NHNHl5Q08xeHZRWUV2R1hEc2ZxM2VUbXJ0MUZsSnU2UVUtQ1lQN05v"
+    "CBMirwFBVV95cUxQeWNiaDhOZ09mZzExcWZWOEh5TmtBTjRzRWdjb1JjNk5nY2pNc3pCaWVQQUd6VFgxamRYaHh3aTRSV1UyRGZKMmR0SklocFZ6ZVItYS1iZURNRlZPMF8tYjJaMmpFTU84VVZYRWNpVm00WFQzU1ZCNFJCVWFVT2JYS0tjSGt2Q3NHNHl5Q08xeHZRWUV2R1hEc2ZxM2VUbXJ0MUZsSnU2UVUtQ1lQN05v",
+    "CBMioAFBVV95cUxQVURpSFQ4WnVGVmZkQzdrYS1FTUVNdHRIREZWYU1iek1RV24tNjlINGRZSHU3bElZSFBHVHFTQklmdXRlaGk2eWFoM2NUWWVRTGkzbjdxM1FkTXFpM0hDOTBXaDZsQXFZZEJLcGtLai16ZjZHQmtpcVhLOG1Yc2dpSzJQSi1ObWNIT2xMbkwxQmxha0RmV0ZfNWFwQjFpeFNJ"
   ],
   "https://www.scmp.com/rss/4/feed": [
     "https://www.scmp.com/news/china/diplomacy/article/3362693/turkey-putting-pressure-china-africas-infrastructure-market?utm_source=rss_feed",
@@ -2779,7 +2779,9 @@
     "https://en.mercopress.com/2026/08/21/eclac-trims-its-2026-forecast-for-latin-america-and-the-caribbean-to-2.2?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss",
     "https://en.mercopress.com/2026/08/21/montevideo-hosts-a-progressive-congress-after-three-consecutive-electoral-defeats-in-the-region?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss",
     "https://en.mercopress.com/2026/08/21/bolivian-prosecutors-open-a-second-case-against-the-consultant-who-advised-milei-and-paz?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss",
-    "https://en.mercopress.com/2026/08/22/progressive-leaders-gathered-in-uruguay-denounce-us-interference-and-acknowledge-their-own-mistakes?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss"
+    "https://en.mercopress.com/2026/08/22/progressive-leaders-gathered-in-uruguay-denounce-us-interference-and-acknowledge-their-own-mistakes?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss",
+    "https://en.mercopress.com/2026/08/22/colombia-s-earthquake-toll-rises-to-329-dead-and-more-than-300-000-affected?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss",
+    "https://en.mercopress.com/2026/08/22/colombia-s-government-objects-to-the-law-barring-lower-requirements-for-senior-posts?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss"
   ],
   "https://www.abc.net.au/news/feed/2942460/rss.xml": [
     "https://www.abc.net.au/news/2026-07-31/magpies-coach-throws-support-behind-hill-as-star-exits/106981454",
