@@ -1812,11 +1812,6 @@
     "CBMipAFBVV95cUxPMnhaUmVTQkZrdlhvdV9zS2ZzQXBXdjAxaGVfREs3M3ZmNE81Q0g5NFZWVTFPMHBoVDd5ZFFMVVE5OHViTnFYT2JyR3VZTDY5V0tPNTdxR3RNZlB0bjZwYlluMkVOREltaVlEOEkwZmtHUm9LOUdSRTFSdUVKMVkxZFExeFduTFZWcXlKSFhKVmNNVXFzUEg4UEs4VllkSkJxbGZEUg"
   ],
   "https://en.yna.co.kr/RSS/news.xml": [
-    "https://en.yna.co.kr/view/AEN20260818008800315",
-    "https://en.yna.co.kr/view/AEN20260818008251315",
-    "https://en.yna.co.kr/view/AEN20260818010400320",
-    "https://en.yna.co.kr/view/AEN20260818010351320",
-    "https://en.yna.co.kr/view/AEN20260818010600315",
     "https://en.yna.co.kr/view/AEN20260818010700315",
     "https://en.yna.co.kr/view/AEN20260819000600315",
     "https://en.yna.co.kr/view/AEN20260819000500315",
@@ -2111,7 +2106,12 @@
     "https://en.yna.co.kr/view/AEN20260823005751315",
     "https://en.yna.co.kr/view/AEN20260823005752315",
     "https://en.yna.co.kr/view/AEN20260823006000315",
-    "https://en.yna.co.kr/view/AEN20260824000300315"
+    "https://en.yna.co.kr/view/AEN20260824000300315",
+    "https://en.yna.co.kr/view/AEN20260824000351315",
+    "https://en.yna.co.kr/view/AEN20260824000700315",
+    "https://en.yna.co.kr/view/AEN20260824000600315",
+    "https://en.yna.co.kr/view/AEN20260824000500315",
+    "https://en.yna.co.kr/view/AEN20260824000400315"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
     "https://www.aljazeera.com/?t=1787212442",
@@ -2784,7 +2784,6 @@
     "https://en.mercopress.com/2026/08/22/colombia-s-government-objects-to-the-law-barring-lower-requirements-for-senior-posts?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss"
   ],
   "https://www.abc.net.au/news/feed/2942460/rss.xml": [
-    "https://www.abc.net.au/news/2026-08-01/australia-beats-ireland-in-aflw-with-thrills-and-spills-at-north/106986172",
     "https://www.abc.net.au/news/2026-08-01/commonwealth-games-day-nine-live-updates-medals/106985380",
     "https://www.abc.net.au/news/2026-08-01/commonwealth-games-jemima-montag-race-walk-lizzy-mcmillen/106986368",
     "https://www.abc.net.au/news/2026-08-02/womens-pro-baseball-league-usa/106984674",
@@ -3083,6 +3082,7 @@
     "https://www.abc.net.au/news/2026-08-23/f1-live-dutch-grand-prix-oscar-piastri-lando-norris/106998450",
     "https://www.abc.net.au/news/2026-08-24/afl-confirms-date-and-times-for-wildcard-weekend/107069412",
     "https://www.abc.net.au/news/2026-08-24/australia-beat-bangladesh-but-batting-problems-remain/107069022",
-    "https://www.abc.net.au/news/2026-08-23/nsw-sydney-marathon-medal-mix-up-munich-arena/107068624"
+    "https://www.abc.net.au/news/2026-08-23/nsw-sydney-marathon-medal-mix-up-munich-arena/107068624",
+    "https://www.abc.net.au/news/2026-08-24/poland-diamond-league-meet-sees-medals-for-australian-trio/107069992"
   ]
 }
