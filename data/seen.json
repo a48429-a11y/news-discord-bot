@@ -604,9 +604,6 @@
     "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html"
   ],
   "http://feeds.bbci.co.uk/news/world/rss.xml": [
-    "https://www.bbc.co.uk/news/articles/clyje43dz4eo#1",
-    "https://www.bbc.co.uk/news/articles/c89n20wj9kko#1",
-    "https://www.bbc.co.uk/news/articles/c5ydzg0dnz7o#1",
     "https://www.bbc.co.uk/news/articles/c8jnwnw22ngo#2",
     "https://www.bbc.co.uk/news/articles/cm2gp5g0xngo#2",
     "https://www.bbc.co.uk/news/articles/c87nwq9qe24o#2",
@@ -903,7 +900,10 @@
     "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o#1",
     "https://www.bbc.co.uk/news/articles/cx272np7vgyo#0",
     "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o#0",
-    "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo#1"
+    "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo#1",
+    "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo#0",
+    "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o#1",
+    "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o#2"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
     "CBMingFBVV95cUxOVDRMQ0R2aXhiVXowdW1fejdjaU9CUlhOZ0tLMVZ5QTl5eERvc1VrZjdveGhOZ3FkdWVwb29xSTVBYTJjV19HVTloVEFtb0pYNWI2LWE3MDV3Y0tEcWROaUdYTGF5MG5DR3FIMndBaTZtV1hOTXcxY3NfM2ptRTlmRkR2YmpOYjZCS21JUXA5UEU3V3QzUG0tcmRBdUNmdw",
@@ -2114,7 +2114,6 @@
     "https://en.yna.co.kr/view/AEN20260822002800315"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1787143659",
     "https://www.aljazeera.com/?t=1787145326",
     "https://www.aljazeera.com/?t=1787059486",
     "https://www.aljazeera.com/?t=1787148666",
@@ -2413,7 +2412,8 @@
     "https://www.aljazeera.com/?t=1787433726",
     "https://www.aljazeera.com/?t=1787428930",
     "https://www.aljazeera.com/?t=1787433974",
-    "https://www.aljazeera.com/?t=1787430549"
+    "https://www.aljazeera.com/?t=1787430549",
+    "https://www.aljazeera.com/?t=1787434848"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
     "https://allafrica.com/stories/202607240402.html",
