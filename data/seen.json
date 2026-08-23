@@ -1,6 +1,5 @@
 {
   "https://news.google.com/rss/search?q=site:reuters.com&hl=ja&gl=JP&ceid=JP:ja": [
-    "CBMieEFVX3lxTFA2bmgtaXFJUlRpYU1pRTh6N0FjOG9MX3pGVzVoUjhITjE4OXpOdXNUR1RoMzVyaUpnTF9HNVRPRWN0QmJjRE5ra1FhaUxELXRsYWpWcTlPejlGYkJpT25BNEZDMVRQc0lmYkY2Z19oSUp6SDdXRmU3ag",
     "CBMiekFVX3lxTE0zVjZVU0VJMVU0dUdndW5sR0pHWWsteGx0MTBDZFFDZ044ekc1bk4yLXJPX19hd1RPUVFGS1F2bGlrVUo1clJBcXRCYjVmYk8zZ2dOY0VQQnhiZmZPUE84QXRHbmZBLWNXYWxvNF9Va0p0NFVJT2dBNGlB",
     "CBMigAFBVV95cUxPZVVPcUsySzNMTUY1NVhXQmtQTEhLRlpJX1pqQjVCMW1CbzQtcWhUREhyMl9jS01ZTGpnbVNsRGdvVFdkTEZQaVFiZUlfSFI1MTdfY1NLYjZxUXRoUDhnNEJoWmJfaXZQSjNCMlppdHBmTUJSakdNTVpjRXZVYk5hbQ",
     "CBMieEFVX3lxTE9JU0xMQVA5MmFObUR3N1RKbkg5a2Jackx3VEFYSGUzMmFrdVJCVERMT3BJNHJ0dVRKU3Q4dmU0eUdaTGNlaVVWeG9zbWFyY0g5RHhrSlZHU2l1MzJFZFNtbG1BUnBsS3BzMWlfbV90N0RjczEzLXRTWQ",
@@ -299,7 +298,8 @@
     "CBMiggFBVV95cUxOYmd3T1Rfa2drX3A3SXJWVVJReWl1YVgtaWhtekhMcnN2MWlYNnRZcjZaSzNvVHFWWkVUZVNTZ2x6RkM1ZnVEZVp2Tlp1WjBISmUzei1UNlQxMnBJTS1Jc053aTJodXN6YlE2N1p3UzBud3d4TnNBT0V0bG1Kd0hxc3ln",
     "CBMifkFVX3lxTE5nSzNhRnVCOERSSTB1VFd2S00tTWlBTVA0Z2ltV3hzSUxCLXJKRUNMdC1BRXh4cVlDWXR5VUg1UVQ5d3AyMEpCYzZnX1Z3QzZnazhDckpzbm04VFdEQWFMS3pVUXl5cTU1VlRDd2d3cmREV0dRRlN4QzU5eVJMZw",
     "CBMifkFVX3lxTFA3OVdCTHZvNGRlczVyNkh1RWlDbUw4Wmo0U3d3cnM3YkJQWkJUUm96dW1CYXZVUWstOExOOU1CQ3hHSU1BYW1WOEFrV1dhZEZmdU40c2gzamd3VmNNbWZlQWtnb29PNFFCekhwVXZoM0xwSFVZX0JIYVZJenR4QQ",
-    "CBMifkFVX3lxTE9YTTNGc18wZzlGQmgyMWt0cDM1cTM3cXBQb1B5VURDOGRSbDlTRXJ4VmFabXVFc0Q0b0RoZkU4NmZQZlVEbzhZb0llWUZ5UDlWNjlYbV9MOVZmMG1tN3FsNW84blpaT1gxM1FabHMxMWs2dkwtczFfaG1pTGp3dw"
+    "CBMifkFVX3lxTE9YTTNGc18wZzlGQmgyMWt0cDM1cTM3cXBQb1B5VURDOGRSbDlTRXJ4VmFabXVFc0Q0b0RoZkU4NmZQZlVEbzhZb0llWUZ5UDlWNjlYbV9MOVZmMG1tN3FsNW84blpaT1gxM1FabHMxMWs2dkwtczFfaG1pTGp3dw",
+    "CBMifkFVX3lxTE81S2J6N1BvLWl0VzZWMF9zVmdzYlJxenlIbS13dlhDT095WHJ3ZGpISGE4MXExdlU2dVNZSEVTSmNudHJyU21JNXc2Z2xiZjZtdFdtaVpwdTJ6a0JCek1qcEJsUXhVZUthSk5icDVQbmVnSWhQU0RqYjdZT1kxQQ"
   ],
   "https://www3.nhk.or.jp/rss/news/cat0.xml": [
     "http://www3.nhk.or.jp/news/html/20260724/k10015185791000.html",
@@ -1208,7 +1208,6 @@
     "CBMilgFBVV95cUxNYjJWZE9raUpObEpLRDllTXBEeUw4N1I3ZHlfbjk3RExjZXJhd3dwdkFYNktNVkwzaUNQM3Q2d0ViUjEwMFAxeVFScHBueTRSX2RnOVMxMThlRldWa1RPOFZvR0ZEWFlzZjE0N1UzX3M0S1c1RERITXVzYnZyX1JGQldnWXJmd29jbDRCWUs3S0t3emxwb0E"
   ],
   "https://www.scmp.com/rss/4/feed": [
-    "https://www.scmp.com/news/china/science/article/3362753/china-working-towards-100-renewable-power-its-antarctic-bases-2035?utm_source=rss_feed",
     "https://www.scmp.com/news/china/science/article/3362718/chinas-climate-returning-tang-dynasty-golden-age-experts-warn-trap?utm_source=rss_feed",
     "https://www.scmp.com/opinion/china-opinion/article/3362386/how-likely-beijing-walk-talk-boosting-consumption?utm_source=rss_feed",
     "https://www.scmp.com/news/china/diplomacy/article/3362521/military-base-displaced-people-and-trumps-china-fears-burnhams-chagos-test?utm_source=rss_feed",
@@ -1507,7 +1506,8 @@
     "https://www.scmp.com/news/china/military/article/3364914/why-china-may-have-little-lose-weakened-trump-seeks-north-korea-talks?utm_source=rss_feed",
     "https://www.scmp.com/news/china/diplomacy/article/3364908/how-pacific-nations-walk-tightrope-between-western-security-and-chinese-trade?utm_source=rss_feed",
     "https://www.scmp.com/news/asia/south-asia/article/3364946/india-launches-rescue-mission-panama-flagged-cargo-ship-sinks-east-coast?utm_source=rss_feed",
-    "https://www.scmp.com/news/china/science/article/3364933/china-builds-worlds-first-custom-plant-immunity-system-epidemic-response?utm_source=rss_feed"
+    "https://www.scmp.com/news/china/science/article/3364933/china-builds-worlds-first-custom-plant-immunity-system-epidemic-response?utm_source=rss_feed",
+    "https://www.scmp.com/news/china/diplomacy/article/3364926/gaokao-reforms-could-leave-chinese-public-vulnerable-pseudo-history-top-academic-warns?utm_source=rss_feed"
   ],
   "https://news.google.com/rss/search?q=site:euronews.com&hl=en-US&gl=US&ceid=US:en": [
     "CBMinwFBVV95cUxQZlZqcTlpYWhnY2Y3ZGhqWHB6Y2NzZ3ZHdW9pN3RrcUY1YUtsVndsWDdMZlhoNDRrSWkwdXljcmpYaC1MeXFpT3JLa2VmcjFOd19lMGFTX3JoQkZsaWZzdVJaRWxoRDYxYVlGem1ZcGcwRzJXVEpoRlotSHl0T1dCVDU5eUQwRWNrMkhDeDBwaFdyUlI1djkzc2RvZWZTTmc",
@@ -2114,9 +2114,6 @@
     "https://en.yna.co.kr/view/AEN20260823000800320"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1787147599",
-    "https://www.aljazeera.com/?t=1787143298",
-    "https://www.aljazeera.com/?t=1787125760",
     "https://www.aljazeera.com/?t=1787149323",
     "https://www.aljazeera.com/?t=1787143932",
     "https://www.aljazeera.com/?t=1787145463",
@@ -2413,7 +2410,10 @@
     "https://www.aljazeera.com/?t=1787440033",
     "https://www.aljazeera.com/?t=1787441973",
     "https://www.aljazeera.com/?t=1787448779",
-    "https://www.aljazeera.com/?t=1787447157"
+    "https://www.aljazeera.com/?t=1787447157",
+    "https://www.aljazeera.com/?t=1787456392",
+    "https://www.aljazeera.com/?t=1787236740",
+    "https://www.aljazeera.com/?t=1787454635"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
     "https://allafrica.com/stories/202607240402.html",
@@ -2784,7 +2784,6 @@
     "https://en.mercopress.com/2026/08/22/colombia-s-government-objects-to-the-law-barring-lower-requirements-for-senior-posts?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss"
   ],
   "https://www.abc.net.au/news/feed/2942460/rss.xml": [
-    "https://www.abc.net.au/news/2026-08-01/torrie-lewis-adaejah-hodge-200m-final-glasgow-commonwealth-games/106984908",
     "https://www.abc.net.au/news/2026-08-01/aflw-australia-vs-ireland-inaugural-clash-preview/106983814",
     "https://www.abc.net.au/news/2026-08-01/nz-greyhound-racing-ban-charter-flights/106985844",
     "https://www.abc.net.au/news/2026-08-01/nrl-live-titans-warriors-panthers-raiders-broncos-knights/106977952",
@@ -3083,6 +3082,7 @@
     "https://www.abc.net.au/news/2026-08-23/australia-vs-bangladesh-live-updates-second-test-day-two/107065186",
     "https://www.abc.net.au/news/2026-08-23/afl-live-sydney-swans-play-after-pullman-hotel-scandal/107067396",
     "https://www.abc.net.au/news/2026-08-23/dom-ballard-goal-stuns-for-bristol-city/107068532",
-    "https://www.abc.net.au/news/2026-08-23/sydney-swans-fans-react-to-week-at-scg-on-sunday/107068462"
+    "https://www.abc.net.au/news/2026-08-23/sydney-swans-fans-react-to-week-at-scg-on-sunday/107068462",
+    "https://www.abc.net.au/news/2026-08-23/nrl-live-updates-titans-sharks-roosters-tigers/107068718"
   ]
 }
