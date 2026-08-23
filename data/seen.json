@@ -604,9 +604,6 @@
     "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html"
   ],
   "http://feeds.bbci.co.uk/news/world/rss.xml": [
-    "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo#1",
-    "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro#0",
-    "https://www.bbc.co.uk/news/articles/cd69ely319eo#1",
     "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo#0",
     "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo#1",
     "https://www.bbc.co.uk/news/articles/cj4kk8kz271o#0",
@@ -903,7 +900,10 @@
     "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o#0",
     "https://www.bbc.co.uk/news/articles/c39egw7nmk2o#1",
     "https://www.bbc.co.uk/news/videos/c20eq9ywplqo#0",
-    "https://www.bbc.co.uk/news/articles/c3040pn8lmmo#2"
+    "https://www.bbc.co.uk/news/articles/c3040pn8lmmo#2",
+    "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo#0",
+    "https://www.bbc.co.uk/news/articles/cn4n4l1yyvro#1",
+    "https://www.bbc.co.uk/news/videos/cn0nd7y883zo#3"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
     "CBMioAFBVV95cUxNSGREOWZvM3dnTXVqZVJOelAtcjhKdWxfci1KSFRSTkc1cEJFTkZZWjU2OTFuZTdEZ2xQLTM5UmxpWE5EUl9MR0ZuY241R2M4OVdhR2JpV1NPRlJRbXdQbVh5dnNjOG1DSEJXWVZ5OE9vLWg1bkI3ZWZ1T2NtX3ZVbjF3RTVwSTJaUVFrYTRyY3pOY294clhWQldwMktpSXNa",
@@ -1510,7 +1510,6 @@
     "https://www.scmp.com/news/china/diplomacy/article/3364959/washington-pushes-america-first-agenda-apec-talks-ahead-chinese-leaders-visit?utm_source=rss_feed"
   ],
   "https://news.google.com/rss/search?q=site:euronews.com&hl=en-US&gl=US&ceid=US:en": [
-    "CBMivgFBVV95cUxPRmEtYlhyTEtiTGNaWl9lbHo3WFJ4c0N6dFI5ZUNxOG1xZGV1XzktUmxCN0NCQzByTDFSbnhKYjd4YkZQMDVCWDhSSE4wMTJfSjRzMzljeGtvQnZFVGhuR3I0ajhXVzN3WG1EUVpfODYzMlBPXzg3MXhnVXBrRjF5a2ZJdWhrSXNIVnFYVUdUaE91bVZWWjl1SENURTVKQXNONFoyM3A1OVVmOVRGMUtSWEJrUy1PMWFKVE1HZWp3",
     "CBMixwFBVV95cUxOVHk5RjBWQVpqT0pOZXFpbE4zSnRTT0o1RmtvRkR3aU0zOHR3U3loYkFYMC1tUi04am9uMFNUYkxHQURDVWp2dVVCLXVURTkxejhjMVhob2FKOTNMYWRMRUhPNkctYVBuT28xel8zc2UyY0tQNHY2cy1KdmR1b1BvOEVSVW9jMUQ1M2ZFeGdOdjNPcHhBYU5rLW0wUDNZZnNINlJ3VFJJMUh6UUdJbHU2ZEQ3Q0FJSTc1MlMwSGtoMDFfWnN2S1dJ",
     "CBMipwFBVV95cUxNZmNwbU4wM1ZsZi1nVGZPNEM3MFZ3M3BRcmN4eDN2OXgxMW5BUG5PNUNaY015Uk5qT1Z1R3hrQzVheFhMYnRkbmNxZUR4TzUwaFJVenRIU0E3ZG9uQTl0bXhzbjZQVFZJdFRxQl9hRUFJSHVJdWxtYlNlTHUyOXdvMHJUeHU1d1VzNDdrMzdPc09BNjRTWTNMTUhlVmh5ZktoNVppR29QYw",
     "CBMiogFBVV95cUxNQVgtNG5QNWR5cmM2ZFkwWHJWLVdQSE5jSHRSaG9yVmhzVFowaTlzYy1aNmk5cndkWXQ1djRrcE9OeVp1MEtmN21uanFDbXczclQxZzk3bWJvWFhVUjlzQ2FFOFJnWEg5UjA1ZjBNMG5nb2hmUlZLb0tRTHNuenNGbS0yQnJUVWtCeVpxRVVJb3h6d1RyTkJZdjhaU3Y0SkM3bmc",
@@ -1809,7 +1808,8 @@
     "CBMivAFBVV95cUxPSVZGT0lFTHNrdUZQekhpTVoxdGU2OHFONVFIUkhzcWkzQXZEeDg2bGc4ME1DdDdqY2lRYXFrWlVERnVjSW8wcTdxTkJ0ZHU1ZnJkT0FvQTJGcUpTcTR0bDR1N3MybF9Qdy1QcUM0Z0xWamVxblk3bTJ4MWZqTjJsVXdnWVVabHlNeTRMRWRuaEpiMUJoREE0QzIxNWlVMXV3b3l2Sm85SE80VUtOWVZUYmQ5UVZDWFFHUkxLdA",
     "CBMitgFBVV95cUxNdGpEbk83aXo1TnRFZ1prNGN1a1JxZVFaRnk1ZFY3VHFMRy0wRGUyaGRxTFVGSG12d2VKcDMzM29lNUZqMjctZ0VUd3hnNXcwNHRTTDBYYUU0Qk1fZ0tGZENjZmJkQnZYcFZ5SkI4Mm1UNjIzeE1nMFdaNzJkN0dBVThwQU0xVHdITkhYR3dIWHJZaDNtd0xhRUpnRUlXOXFhSGN0N3RVVGJsbjhRaXd5TExfbWVtZw",
     "CBMisgFBVV95cUxQdFBOeVltUHk1cWRZQ1NhaEZsazlyNDc0RjBpMlBlcHplVm5ibUZKTXdTM3kyZzJXVVYxYXh3RTlmaFZqZHhKalVuRXZyU0FEZ0lYS2N2dFZKNElwM0l4Mlh0ak4welpWS2wzcEdjTHZRRUU4YUlndUtXbnBOWVBSUGw5LU1OOEtsRjRHaVNCbDZhWG16czB0MWg1RzhLTTBqZHdPLWdzai1kamd6YlpzbUxn",
-    "CBMixAFBVV95cUxNQUhvVFJuQW5BNTJMWC0wbmhKZ3lJWFdmQzFVUG83VHg1NGFpdWtZRkgzQklvMERZQzFVRnJ2UE9JLXdoOEtidHF0RW9fWGhFT2tvZ196ZDBpMmU2RTFDZ3RnOFVDNDdSY0FXRWJyOFNvTnI5UFNRVXROank2V0E0VHh5UVVZMHd4Vk5yNXZYdVI2RFUwWWRTUGR1RlhJVl80TWVXaVhPNkZ0bXE5Z3Zhbl9XaG9PTWF5Z1ZwWTVzZGliRFJL"
+    "CBMixAFBVV95cUxNQUhvVFJuQW5BNTJMWC0wbmhKZ3lJWFdmQzFVUG83VHg1NGFpdWtZRkgzQklvMERZQzFVRnJ2UE9JLXdoOEtidHF0RW9fWGhFT2tvZ196ZDBpMmU2RTFDZ3RnOFVDNDdSY0FXRWJyOFNvTnI5UFNRVXROank2V0E0VHh5UVVZMHd4Vk5yNXZYdVI2RFUwWWRTUGR1RlhJVl80TWVXaVhPNkZ0bXE5Z3Zhbl9XaG9PTWF5Z1ZwWTVzZGliRFJL",
+    "CBMikAFBVV95cUxPaTRSUEhqVUpGNG4wYXFFNHlOUEpaNWlrR20zMTIwSE5iZDI1bTZUMkNSek1ldW11Mk9Tcl83VEw4dHRkdExqTHVmTjRMd1hjc0g0N1puMzEwamRWb2FrVWNKbzVhZDRqNTFiOVNVcGRpelk3aV9IYWFnQllPdTlkQ1BneVp6Y1BtSG5ZVHc3MGo"
   ],
   "https://en.yna.co.kr/RSS/news.xml": [
     "https://en.yna.co.kr/view/AEN20260818010200315",
@@ -2114,7 +2114,6 @@
     "https://en.yna.co.kr/view/AEN20260823001951315"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1787167408",
     "https://www.aljazeera.com/?t=1787166444",
     "https://www.aljazeera.com/?t=1787165171",
     "https://www.aljazeera.com/?t=1787159365",
@@ -2413,7 +2412,8 @@
     "https://www.aljazeera.com/?t=1787457679",
     "https://www.aljazeera.com/?t=1787469875",
     "https://www.aljazeera.com/?t=1787476795",
-    "https://www.aljazeera.com/?t=1787460146"
+    "https://www.aljazeera.com/?t=1787460146",
+    "https://www.aljazeera.com/?t=1787474427"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
     "https://allafrica.com/stories/202607240402.html",
