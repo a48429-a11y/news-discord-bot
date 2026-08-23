@@ -1,7 +1,5 @@
 {
   "https://news.google.com/rss/search?q=site:reuters.com&hl=ja&gl=JP&ceid=JP:ja": [
-    "CBMieEFVX3lxTE0yaGY2cVJqeDJhVnc2bDNlM0M5bnBCc3d5cHNQN3Jjb0ppQjN5ZU1uTndaMHp1SWhiazY4WHlidmpqcng3YXctaXBITTV4ejhmQU11cFZEMmdHaGc4bE9Rcjlrd1JybThTV1VMbVliaTBlWnBUSnUxOA",
-    "CBMigAFBVV95cUxOeHh0Z1BUYWpiVHJnbERia3RhYUZMWGk0NGlPQzF6WGRoVlVnaVlCVlhYakczbldycG9ENWVMMi1mUURub0hwQ3JzaUJPWVdQYkJMMVVoTk5DZGVQTE14dVhnV0JaLW9vUURTVjdCS1c0UV9TZWNRSWdtd1VsRXpsVw",
     "CBMifkFVX3lxTE9TeTRuNmlLaXpqNXBrNHI3eC1tclY4MjI0VEhMcmZ0a3ZEOXQzcHFKX1ZzOGMtbWFFMVJ5VjhQU2pmRktlMmtUUTBPeUg1UUYwMUtCT1pvWHlCbzFzWXRWRHZGVmJ5akJ4MVNsRWNZU2Z3MVhOY0NqczdCZERVQQ",
     "CBMigAFBVV95cUxONDZnT0pnNkxCaG13a3Z2VnZJOVdLQkUtREd3dlMzaWhCdEFOMzFBY0JZelk2bjdVT0tpNXdYY0RlZkVya2FGVTFRNk5RR3VSeEI5YkpyRmVxekZxaGxaUnZuallhRXdRUFRnOU55LXNhYzQ3bGdEaU9PSjMyYkJtRg",
     "CBMieEFVX3lxTFA2bmgtaXFJUlRpYU1pRTh6N0FjOG9MX3pGVzVoUjhITjE4OXpOdXNUR1RoMzVyaUpnTF9HNVRPRWN0QmJjRE5ra1FhaUxELXRsYWpWcTlPejlGYkJpT25BNEZDMVRQc0lmYkY2Z19oSUp6SDdXRmU3ag",
@@ -299,7 +297,9 @@
     "CBMiiwFBVV95cUxOaDFvUEM1elcxR3ZuRDFva0xlSlhhMk5seHQwcUMxSTJocU0yc1hOazZqMy1RN0E2a3pYX0V0NFpuUXFQeFMyeXJaMnNiOFpEQ09qUkh6LTYxa3NrQ2lwTGxjM1UzaTNlNlpVcHU3dTluNkg5OXdqS1VCU08zVWFQSC1DS2dDNi1aZkRv",
     "CBMigAFBVV95cUxQelJpWjh4d1pCQ3kwcVc3X3kwQjNVak1NTHZBdEZxZGk0SXRudnRtZnU4NjRlYWFyc1BRdkFKa09MMlV0VDNnT19BMW85RzY3V0s2UjU3Z0pxUjFROGUxM0tQVUhYRnFSZ2lVdkF0eklSdWpxaFV3cWpLX1pRdEMxQQ",
     "CBMieEFVX3lxTE9aaDBJTzVOVTVVZW0ybjIxWmdIWG9kYkI0dzRUMWNtZzBHYXlObWU5czN3VTJFU1NXQTU2eUJCRTZZVzhYc29wY2RqS1BXVDB2aGFMZWRaRFR5bWJIM3Q4LUFuWVI1Wk5abnRNZmp2SlB5bmtNMHhYOQ",
-    "CBMiekFVX3lxTE96MUZ0WkQtZXEzQ1M2aXhxaDkySUNJNnh3MzZGZ2c0UlpNQTBIZmVwNjJjVXNUeHpMcVZlM3BmNVIwSjN5b0JvVjJ6MEMwd3FNOTFWXy1nbjFKcW1SWUtHT0ttSF9BV0x5SU55YjBLMlJVMFVnRjgxNjRR"
+    "CBMiekFVX3lxTE96MUZ0WkQtZXEzQ1M2aXhxaDkySUNJNnh3MzZGZ2c0UlpNQTBIZmVwNjJjVXNUeHpMcVZlM3BmNVIwSjN5b0JvVjJ6MEMwd3FNOTFWXy1nbjFKcW1SWUtHT0ttSF9BV0x5SU55YjBLMlJVMFVnRjgxNjRR",
+    "CBMiggFBVV95cUxOYmd3T1Rfa2drX3A3SXJWVVJReWl1YVgtaWhtekhMcnN2MWlYNnRZcjZaSzNvVHFWWkVUZVNTZ2x6RkM1ZnVEZVp2Tlp1WjBISmUzei1UNlQxMnBJTS1Jc053aTJodXN6YlE2N1p3UzBud3d4TnNBT0V0bG1Kd0hxc3ln",
+    "CBMifkFVX3lxTE5nSzNhRnVCOERSSTB1VFd2S00tTWlBTVA0Z2ltV3hzSUxCLXJKRUNMdC1BRXh4cVlDWXR5VUg1UVQ5d3AyMEpCYzZnX1Z3QzZnazhDckpzbm04VFdEQWFMS3pVUXl5cTU1VlRDd2d3cmREV0dRRlN4QzU5eVJMZw"
   ],
   "https://www3.nhk.or.jp/rss/news/cat0.xml": [
     "http://www3.nhk.or.jp/news/html/20260724/k10015185791000.html",
@@ -906,8 +906,6 @@
     "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o#2"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
-    "CBMingFBVV95cUxOVDRMQ0R2aXhiVXowdW1fejdjaU9CUlhOZ0tLMVZ5QTl5eERvc1VrZjdveGhOZ3FkdWVwb29xSTVBYTJjV19HVTloVEFtb0pYNWI2LWE3MDV3Y0tEcWROaUdYTGF5MG5DR3FIMndBaTZtV1hOTXcxY3NfM2ptRTlmRkR2YmpOYjZCS21JUXA5UEU3V3QzUG0tcmRBdUNmdw",
-    "CBMihwFBVV95cUxOV0c2WlFsVm5vS1Y3czdnMzhXN1lZMzlIVEFlVzQyc29yck1pQnNtVUFPZUZFRkZTRWhvcDdFRUM4bjFVVmFkeGJQWFM2NmI1UEQyYVdpYWxzVk9mNWFiRFF6U0pLdF9nX3YtUjJGVU5YOFhjZDlXVU4tY0ZVamFidWFIREpDZEU",
     "CBMihAFBVV95cUxPSW9mTFNZNmhNT3Rucy1OdzIyUzZxYlZVMk1oY2liVkNobXMtYXJPTUI2MFZfYWt3QkJwTVhaNnlEbzY2M0I4NWZtVFRyLVpwX3JQdUZXOVlkZVZXNThuQmRXMjFsOFN2QWRnX3ZCNk1DRlUyQWZIdUNrM0IwWGFRdHhIWHQ",
     "CBMingFBVV95cUxOekM5VXhLY1NEVEZnWUFWdzdpd3VnekF5UUkzdzQxSDFLWnJpbHlzN2ZQU2hwTDRVcWthLTJMWmNWUjVQdXRyejZwNllFMm1TNHFSZ05DQjBVQXc3Z01Tc3BiX29TVHVwNlhfakI5eHl5UTZmUm82VGtaR3o2eF9UODl3RHZQTHFwQ2RxdjJqLTJoaHVJSUFSdTBQV3VIdw",
     "CBMimwFBVV95cUxQUVZVMmZJcmhyXzFYanVTWXhvZUxtcGZUOFZSTTY1RkR4UGl3X1pGNExzdDVHY0FhbmJ3d3lFeTY0NmN0WWZ1R29DM05LZElFYXFfVUlGa3BubFhtLTFRQTNPcDJ2b29FYU0wd2stXzlicHVqOWFNaUVpYk1MYlRfbEFuOFNGVjB2djhMNFJZd29mYU54cjY3QVJZQQ",
@@ -1205,7 +1203,9 @@
     "CBMikwFBVV95cUxNMUkxanIwSTVhd2xuNTUteVpWQWJlQXF1M2c4R2RSM25vTTlENHZMSkRaNGJXR0Fsd1QwUmhyX3NtU3dNalg1dlBKWHJMRnJXOTNZZkJ4cDNxbmJDdEQ4YXdpZkdJZGxTT2gwR21NUzRnZnpfY1dibWF2cVVFRllELWJ1eDVzalBLLWh0M3lKNlVUR1k",
     "CBMiqAFBVV95cUxOeWRaLUVRdVlQOXYtbjRuRlNOQzUwVnNhbUxSVndiNjNhNUdsUDBXdnBmQWtXTVk3aEhYSUhUVWNQY29RUDJKR0YtZmJnOVpBWkwyUmZ6VnBWbE9IVE5OQlVyYzVsNG5DS3pIbDdBb09Sc2JJSnlOQzV1dVU3bm82VS1pbVNFd2d5ZGk5NW53UHVtUVgyZHliT0F1UWZMR19ZZkdnQ1dkRUI",
     "CBMimwFBVV95cUxNTVViWDlLRjR5ZGYxNm1uZHdhWWdsUFR5OElyQ1dwVG9MMzdKY1NpNXdzWmNpSjNMd21zTm96bFdWU3JzWi12OEw3YWtQcENoanZzbFJFVjRTNVl2VkFoS2lZY0hDNTljQVlya1kxQXQ3OUFWalRHN2NSNUdWSzkxYWZDeldpWGszYjg5dnowSVEyU25DWTdhWUlpMA",
-    "CBMimAFBVV95cUxNVHl1OFdkU2VpRThnVkF0UE9lcXYyeERtOFZOMDNQTHZTR1VxU3pzVWc4WEs4TXFIcnNtYThhWmVzOHprcmNwbDBUT1RwekVBd003ZGw1YUZwTXlZa2E0d1pIUFdmWVd5enRtYW5tbjlzSmw1aFVhMF94Ni01TlJsTEtfVWdLR2FtclRPUWJYLUxSMDZCam1ESw"
+    "CBMimAFBVV95cUxNVHl1OFdkU2VpRThnVkF0UE9lcXYyeERtOFZOMDNQTHZTR1VxU3pzVWc4WEs4TXFIcnNtYThhWmVzOHprcmNwbDBUT1RwekVBd003ZGw1YUZwTXlZa2E0d1pIUFdmWVd5enRtYW5tbjlzSmw1aFVhMF94Ni01TlJsTEtfVWdLR2FtclRPUWJYLUxSMDZCam1ESw",
+    "CBMimwFBVV95cUxPTnpfX3ROVlRfWVpYeldFRjJxTzBvcXBXdGlWY1VPQi1uMG5DSEhDRVctQlFTbWc1cE5HckpFLU1GVGJIRjJyQTdOdFNYMkQ0YVV0eWVOMzlDYVNvMFB0N1pwQ2M2bnR5bEQ1S2NuRGRBa0FFMmpYWjJQcjJOMXYzZS1wVlFiMEF0Y0p3SHZXUzZ3QlZVQy1FTkVJMA",
+    "CBMirgFBVV95cUxPX0x6OS1nem91eXN1MV9lTjQ3M0NGMzR0SDRLbjNFZFR3YzVIb18zNkFCVXgzWjNLMHhsamE5VXBQWUs2Y1BMM2FDeF9HdEZJbDhyaVE3bjNQZ21aS1FIY1FBZWFYcEMycl9QeEVyUkQ5cTUyYVR1MnFheFgwMWhiRTJyQ2J4TmZFdXlwT2FELTA1dlZCRUsyR2hIODJpX3FEc3RTSHA4aU5zNFVyeWc"
   ],
   "https://www.scmp.com/rss/4/feed": [
     "https://www.scmp.com/news/china/science/article/3362764/how-xinjiang-weed-could-reduce-chinas-reliance-southeast-asian-rubber?utm_source=rss_feed",
@@ -1812,9 +1812,6 @@
     "CBMiywFBVV95cUxNRURFVTJ1czc2Y1VOUklfS2FmSlN4OXNQc0pPeUkyN2xiUXVxVTVpNm01VWxPNFVsUFAwSmUyMmxjeFhMZzdWd1hLcGN3dW5jbWFPTVhWeW40OVE0dk51UkNYTG5tSWtSWUpNVUM4a2xaVGQ1Yll4RkpjenBsczF3QWF5Mnd0dHhNVHNHUTZWRHQzaGNHNXl0NEJDOVkzQmJHSzV1SFprSkJVSVcwWVRTUm9CUkpjY3M1X2d0VjRVZUR5WWtzbkNXUHRHYw"
   ],
   "https://en.yna.co.kr/RSS/news.xml": [
-    "https://en.yna.co.kr/view/AEN20260818006600320",
-    "https://en.yna.co.kr/view/AEN20260818004551315",
-    "https://en.yna.co.kr/view/AEN20260818006200315",
     "https://en.yna.co.kr/view/AEN20260818008300315",
     "https://en.yna.co.kr/view/AEN20260818006451320",
     "https://en.yna.co.kr/view/AEN20260818008100320",
@@ -2111,11 +2108,12 @@
     "https://en.yna.co.kr/view/AEN20260822001400315",
     "https://en.yna.co.kr/view/AEN20260822001500315",
     "https://en.yna.co.kr/view/AEN20260822002600315",
-    "https://en.yna.co.kr/view/AEN20260822002800315"
+    "https://en.yna.co.kr/view/AEN20260822002800315",
+    "https://en.yna.co.kr/view/AEN20260823000700315",
+    "https://en.yna.co.kr/view/AEN20260823000600315",
+    "https://en.yna.co.kr/view/AEN20260823000500315"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1787145326",
-    "https://www.aljazeera.com/?t=1787059486",
     "https://www.aljazeera.com/?t=1787148666",
     "https://www.aljazeera.com/?t=1787138043",
     "https://www.aljazeera.com/?t=1787147599",
@@ -2413,7 +2411,9 @@
     "https://www.aljazeera.com/?t=1787428930",
     "https://www.aljazeera.com/?t=1787433974",
     "https://www.aljazeera.com/?t=1787430549",
-    "https://www.aljazeera.com/?t=1787434848"
+    "https://www.aljazeera.com/?t=1787434848",
+    "https://www.aljazeera.com/?t=1787440033",
+    "https://www.aljazeera.com/?t=1787441973"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
     "https://allafrica.com/stories/202607240402.html",
@@ -2784,7 +2784,6 @@
     "https://en.mercopress.com/2026/08/22/colombia-s-government-objects-to-the-law-barring-lower-requirements-for-senior-posts?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss"
   ],
   "https://www.abc.net.au/news/feed/2942460/rss.xml": [
-    "https://www.abc.net.au/news/2026-08-01/fifa-scraps-world-cup-sell-off-plans/106985360",
     "https://www.abc.net.au/news/2026-08-01/commonwealth-games-glasgow-day-eight-quick-hits/106980690",
     "https://www.abc.net.au/news/2026-08-01/fifa-kevin-lamour-lashes-gianni-infantino-over-sell-off-plan/106985308",
     "https://www.abc.net.au/news/2026-08-01/torrie-lewis-adaejah-hodge-200m-final-glasgow-commonwealth-games/106984908",
@@ -3083,6 +3082,7 @@
     "https://www.abc.net.au/news/2026-08-23/epl-lucas-herrington-debut-hull-city-beats-manchester-united/107068206",
     "https://www.abc.net.au/news/2026-08-23/story-vision-impaired-gippsland-archer-world-championships/106922438",
     "https://www.abc.net.au/news/2026-08-23/spanish-vuelta-tadej-pogacar-claims-red-jersey/107068230",
-    "https://www.abc.net.au/news/2026-08-23/australia-vs-bangladesh-live-updates-second-test-day-two/107065186"
+    "https://www.abc.net.au/news/2026-08-23/australia-vs-bangladesh-live-updates-second-test-day-two/107065186",
+    "https://www.abc.net.au/news/2026-08-23/afl-live-sydney-swans-play-after-pullman-hotel-scandal/107067396"
   ]
 }
