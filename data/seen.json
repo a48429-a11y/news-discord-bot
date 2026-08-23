@@ -604,11 +604,6 @@
     "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html"
   ],
   "http://feeds.bbci.co.uk/news/world/rss.xml": [
-    "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o#0",
-    "https://www.bbc.co.uk/news/articles/cgjee21eenvo#1",
-    "https://www.bbc.co.uk/news/videos/c62e1v8p07go#3",
-    "https://www.bbc.co.uk/news/articles/ckg4424zd7go#0",
-    "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo#1",
     "https://www.bbc.co.uk/news/articles/c1411pgje8xo#0",
     "https://www.bbc.co.uk/news/articles/c0l5583903yo#1",
     "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo#0",
@@ -903,7 +898,12 @@
     "https://www.bbc.co.uk/sport/football/articles/cr4941zkgevo#0",
     "https://www.bbc.co.uk/sport/golf/articles/cx2j2g42xq9o#1",
     "https://www.bbc.co.uk/news/articles/c93403wg288o#1",
-    "https://www.bbc.co.uk/news/articles/cj36kv62g7yo#2"
+    "https://www.bbc.co.uk/news/articles/cj36kv62g7yo#2",
+    "https://www.bbc.co.uk/sport/golf/articles/cx2j2g42xq9o#0",
+    "https://www.bbc.co.uk/sport/athletics/articles/c9989lm0vkro#1",
+    "https://www.bbc.co.uk/news/videos/c20eq9ywplqo#1",
+    "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo#2",
+    "https://www.bbc.co.uk/news/articles/c0l5d387j18o#2"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
     "CBMiiwFBVV95cUxQLUV6T2ZubnZMWG5VQVI1QkhGdzdQTEpEelYxVk1fTWJSX2YzUHJnV1RpZmRMMkdlYUNpd25WQnN4Um5QQlFBZjk2SHVKdDMteUVDYmEzUjl2UTd4UndiMFFkQ1dfcXBvUThWdTQ0ODZxbTRuS0hITFhsNVdldkl2M04wc2U0THdXdGFr",
@@ -2114,7 +2114,6 @@
     "https://en.yna.co.kr/view/AEN20260823005752315"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1787176236",
     "https://www.aljazeera.com/?t=1787148200",
     "https://www.aljazeera.com/?t=1787184605",
     "https://www.aljazeera.com/?t=1787161676",
@@ -2413,7 +2412,8 @@
     "https://www.aljazeera.com/?t=1787487081",
     "https://www.aljazeera.com/?t=1787476885",
     "https://www.aljazeera.com/?t=1787483321",
-    "https://www.aljazeera.com/?t=1787490330"
+    "https://www.aljazeera.com/?t=1787490330",
+    "https://www.aljazeera.com/?t=1787490527"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
     "https://allafrica.com/stories/202607240402.html",
