@@ -604,11 +604,6 @@
     "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html"
   ],
   "http://feeds.bbci.co.uk/news/world/rss.xml": [
-    "https://www.bbc.co.uk/news/articles/cj4kk8kz271o#0",
-    "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo#0",
-    "https://www.bbc.co.uk/news/videos/c62e1v8p07go#1",
-    "https://www.bbc.co.uk/news/articles/cy0j60p0d29o#1",
-    "https://www.bbc.co.uk/news/articles/c171yp5zdrxo#1",
     "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o#0",
     "https://www.bbc.co.uk/news/articles/cgjee21eenvo#1",
     "https://www.bbc.co.uk/news/videos/c62e1v8p07go#3",
@@ -903,10 +898,14 @@
     "https://www.bbc.co.uk/news/articles/cn4n4l1yyvro#1",
     "https://www.bbc.co.uk/news/videos/cn0nd7y883zo#3",
     "https://www.bbc.co.uk/news/articles/c8enegx4xy3o#0",
-    "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo#1"
+    "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo#1",
+    "https://www.bbc.co.uk/news/articles/cre4e1q3wewo#0",
+    "https://www.bbc.co.uk/sport/football/articles/cr4941zkgevo#0",
+    "https://www.bbc.co.uk/sport/golf/articles/cx2j2g42xq9o#1",
+    "https://www.bbc.co.uk/news/articles/c93403wg288o#1",
+    "https://www.bbc.co.uk/news/articles/cj36kv62g7yo#2"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
-    "CBMioAFBVV95cUxOSTJuQ0hCM1lDUUZWQTd2N3AxQmdWZFpDSWFLSzhpT0s1Y1pTakg3eGRBZ0FrVzA4a2ktaE9EcEpVS1pJaGdDczVWUDVsZFEzYVQ2Zm56MU81b2hIRERFSkpmcThBZEhId19aSm1oTHE2OFRndVhJTkM2OWZabGZ5U21MejhTTTd0Zzg0UVB6eTJEX0t2QVV2RzJwWWU4OWVk",
     "CBMiiwFBVV95cUxQLUV6T2ZubnZMWG5VQVI1QkhGdzdQTEpEelYxVk1fTWJSX2YzUHJnV1RpZmRMMkdlYUNpd25WQnN4Um5QQlFBZjk2SHVKdDMteUVDYmEzUjl2UTd4UndiMFFkQ1dfcXBvUThWdTQ0ODZxbTRuS0hITFhsNVdldkl2M04wc2U0THdXdGFr",
     "CBMisgFBVV95cUxOdkZfWnlndmVHeExqMHo3OTBSTG5mYTlxdjA4c3RqUWZuYWd4X2dvS0otT2pwQjBscHE3QTNkVWRzbWNOaXhBX2t2bmloeHlSV3dEXzdMZldBdFlDa2FMTHVJTzlnenQxbmNpMVdBR0t2YnNjamg2djlReHhCNkktY3lyVkNvclhxMllZQ3BreGxScXFVeFJlb3BxQXhrZkRmeWpTTmhud3Z2ZXQzeVVoSEd3",
     "CBMinAFBVV95cUxQdnlrWmxPWkVSVUdZaG9JZXY1UTVpbDFIWUI2NEF4SG1pbnBVaVhQaXRxUjhIOVN5Sk5Pd0VJck1sbTZwLTFsbVpIMDNqVjQ3S2ZjV0t1S0dJU1hjcHpwc2J5dExUaC1zNXNqUG5uX0ZOQzZJZS1DVG1aOGJELVZ5RXktSm5ycXR5d2hDTEZUWEIwS3BXTVNTOUhRcW8",
@@ -1205,7 +1204,8 @@
     "CBMikwFBVV95cUxNdmE4am10S043c0dka2x4cWdVWG9zanBfZkFVSnpyck5QWW9mUHNpLXdjaWxPYzhfSVBQTkxrb2hXS1c1dF9mbnlPZ2RzZnJzYlZFUTJsUGtSUXZRajQ2Z2tubkkyT3FNaXh1RWc1WXZwTEVSaVR0Zzhmc0ZKalg3OFcyeHZmWkJvWnRFV2RaNmJ6cGM",
     "CBMinwFBVV95cUxNLURsNmY0WWpNV2pPMkdoM3VDcHA0VURYaWlKd2IycWhtMFBoRVBSRlZlMC1SNV9MV2lrWDhDdXp5X0JZU0M0MUhmN2ExTDY0VFlHcldrbWVnVVkwY1JuSlFfa2l0c1ZtdGkteHRGMC05TDYzWGcyaEJNZ3NNc25pa1FCV1ZadHJqa2FLTmo3emlCaTNySzNPVzg4d1Q5Uzg",
     "CBMinAFBVV95cUxQbHZOQU9TaGZ3VUJzZFlORmVCY000YVp4Q2k5dmI3LUZ1TzY4WDRfYUZZOGJPLS0xMVVCUG11T000bllJLVVsMW5EUG5mODBpYjFZXzJpUkVCcjF6TUFkWVZZZUcxdEVjcm9QOU5abFE4N0pfT04xSTVvZkZ3dHhTU2VsM2hxYWYxZVZrcDZCMS0tSTVRNlAyU09fY1Q",
-    "CBMiigFBVV95cUxNYURReW5UejhzSXR6ZTl0d3F4UEtDUm5sSGFNZGdWbE9oRFZVWFZDb3haUHVQOWczeEgyMjBwWnBDa1N2a1VoQzcxRklrelVjMlkxUEU0cnNvY1RPQTZZQWxndnFpM0xGSm12UUhNMzl3UXIwNnNybDFBaDhuSFIzQVJBd1E5dDRZOUE"
+    "CBMiigFBVV95cUxNYURReW5UejhzSXR6ZTl0d3F4UEtDUm5sSGFNZGdWbE9oRFZVWFZDb3haUHVQOWczeEgyMjBwWnBDa1N2a1VoQzcxRklrelVjMlkxUEU0cnNvY1RPQTZZQWxndnFpM0xGSm12UUhNMzl3UXIwNnNybDFBaDhuSFIzQVJBd1E5dDRZOUE",
+    "CBMitwFBVV95cUxPT0U0MkJERFJlSklxcklwcjYtS0ZzYjB5RE1BM1hXaUdLQmVYY1JmZVRwdjV4SlhzWHc1VENaeDhpRXlHMmtwUlhvRF82WE95TlljLU5jZ2NDbUw2QU5NcFBQT21VSW5mN0JkS2drampJV1dieGFXSXg4UjZhRUJXaUNxTnkyZ2EtUzRDTnZpeHN1NEFXYU9zb2c4YzBnN0w0RTBuSWtEUjN5Zy12WEVyX2kzWDA5RG8"
   ],
   "https://www.scmp.com/rss/4/feed": [
     "https://www.scmp.com/news/china/military/article/3362824/chinese-military-unveils-ai-system-plan-and-coordinate-mass-air-strikes?utm_source=rss_feed",
@@ -1812,7 +1812,6 @@
     "CBMizAFBVV95cUxNS0oyLThJY0hhMHB1cWpxaXJKWm50alNlZHlMU0lCUWlUWEpjdldLZ0FhNGs1bHBSMGtKYUZvenJQZXNHWWxuOFlPVF9JOWxoTEM0WUhIX0QzUDFYZ2pRRi1BR2tsRVlxVFJMaVY2VVRrVXpQMGJpZ0prTnE4UmsyNzhJeUJmNFZLbnRSZkJOSW1DTWZBQVBVNUIzMlJybVdIRmo4Y0l6WXVaX3FRaWxKQkt4MWlRZzhpSDJnVVFsdlBuMEdWZWlNUzdkbGE"
   ],
   "https://en.yna.co.kr/RSS/news.xml": [
-    "https://en.yna.co.kr/view/AEN20260818009000315",
     "https://en.yna.co.kr/view/AEN20260818008900315",
     "https://en.yna.co.kr/view/AEN20260818006752315",
     "https://en.yna.co.kr/view/AEN20260818008800315",
@@ -2111,11 +2110,10 @@
     "https://en.yna.co.kr/view/AEN20260823002000320",
     "https://en.yna.co.kr/view/AEN20260823001951315",
     "https://en.yna.co.kr/view/AEN20260823005700315",
-    "https://en.yna.co.kr/view/AEN20260823005751315"
+    "https://en.yna.co.kr/view/AEN20260823005751315",
+    "https://en.yna.co.kr/view/AEN20260823005752315"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1787175835",
-    "https://www.aljazeera.com/?t=1787181046",
     "https://www.aljazeera.com/?t=1787176236",
     "https://www.aljazeera.com/?t=1787148200",
     "https://www.aljazeera.com/?t=1787184605",
@@ -2413,7 +2411,9 @@
     "https://www.aljazeera.com/?t=1787477450",
     "https://www.aljazeera.com/?t=1787486966",
     "https://www.aljazeera.com/?t=1787487081",
-    "https://www.aljazeera.com/?t=1787476885"
+    "https://www.aljazeera.com/?t=1787476885",
+    "https://www.aljazeera.com/?t=1787483321",
+    "https://www.aljazeera.com/?t=1787490330"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
     "https://allafrica.com/stories/202607240402.html",
