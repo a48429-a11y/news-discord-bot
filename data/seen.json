@@ -604,8 +604,6 @@
     "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html"
   ],
   "http://feeds.bbci.co.uk/news/world/rss.xml": [
-    "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo#0",
-    "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo#1",
     "https://www.bbc.co.uk/news/articles/cj4kk8kz271o#0",
     "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo#0",
     "https://www.bbc.co.uk/news/videos/c62e1v8p07go#1",
@@ -903,7 +901,9 @@
     "https://www.bbc.co.uk/news/articles/c3040pn8lmmo#2",
     "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo#0",
     "https://www.bbc.co.uk/news/articles/cn4n4l1yyvro#1",
-    "https://www.bbc.co.uk/news/videos/cn0nd7y883zo#3"
+    "https://www.bbc.co.uk/news/videos/cn0nd7y883zo#3",
+    "https://www.bbc.co.uk/news/articles/c8enegx4xy3o#0",
+    "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo#1"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
     "CBMioAFBVV95cUxNSGREOWZvM3dnTXVqZVJOelAtcjhKdWxfci1KSFRSTkc1cEJFTkZZWjU2OTFuZTdEZ2xQLTM5UmxpWE5EUl9MR0ZuY241R2M4OVdhR2JpV1NPRlJRbXdQbVh5dnNjOG1DSEJXWVZ5OE9vLWg1bkI3ZWZ1T2NtX3ZVbjF3RTVwSTJaUVFrYTRyY3pOY294clhWQldwMktpSXNa",
@@ -1812,7 +1812,6 @@
     "CBMiugFBVV95cUxQT2ZwQVU0eVdyVGNlcnBuMVp3b0REUE5zaUtGbGF1aUJMVHJXdTlmSWR5V0ZNNzlYWnJSLXNwcTZsck9vTklZVm9waEc5RU16ZW5pUjZnMVFNUXVDemtHQk03Q01QSl94RmVFY0NWRzdUTXJ4OVZYTXZHc2lESjlyS0pDdFo4Z3gxdnc0bXVJdHVEYlpPcjFXbWQ5enhfWHV1dk1kM2JSOWFhamIwY1FoOEs4R0x6TkJWaHc"
   ],
   "https://en.yna.co.kr/RSS/news.xml": [
-    "https://en.yna.co.kr/view/AEN20260818010200315",
     "https://en.yna.co.kr/view/AEN20260818008851315",
     "https://en.yna.co.kr/view/AEN20260818009000315",
     "https://en.yna.co.kr/view/AEN20260818008900315",
@@ -2111,11 +2110,10 @@
     "https://en.yna.co.kr/view/AEN20260823001800320",
     "https://en.yna.co.kr/view/AEN20260823000900315",
     "https://en.yna.co.kr/view/AEN20260823002000320",
-    "https://en.yna.co.kr/view/AEN20260823001951315"
+    "https://en.yna.co.kr/view/AEN20260823001951315",
+    "https://en.yna.co.kr/view/AEN20260823005700315"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1787165171",
-    "https://www.aljazeera.com/?t=1787159365",
     "https://www.aljazeera.com/?t=1787165123",
     "https://www.aljazeera.com/?t=1787166285",
     "https://www.aljazeera.com/?t=1787165944",
@@ -2413,7 +2411,9 @@
     "https://www.aljazeera.com/?t=1787476795",
     "https://www.aljazeera.com/?t=1787460146",
     "https://www.aljazeera.com/?t=1787474427",
-    "https://www.aljazeera.com/?t=1787475741"
+    "https://www.aljazeera.com/?t=1787475741",
+    "https://www.aljazeera.com/?t=1787481402",
+    "https://www.aljazeera.com/?t=1787481460"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
     "https://allafrica.com/stories/202607240402.html",
