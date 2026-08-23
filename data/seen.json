@@ -604,8 +604,6 @@
     "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html"
   ],
   "http://feeds.bbci.co.uk/news/world/rss.xml": [
-    "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo#1",
-    "https://www.bbc.co.uk/news/videos/c8dnn05e90lo#3",
     "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo#0",
     "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro#1",
     "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo#0",
@@ -903,11 +901,11 @@
     "https://www.bbc.co.uk/news/articles/c0l5d387j18o#2",
     "https://www.bbc.co.uk/news/articles/clylqlkq5e5o#1",
     "https://www.bbc.co.uk/news/videos/c20eq9ywplqo#3",
-    "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo#0"
+    "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo#0",
+    "https://www.bbc.co.uk/news/articles/clyly8vdpdwo#0",
+    "https://www.bbc.co.uk/sport/football/articles/cr4941zkgevo#1"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
-    "CBMilwFBVV95cUxNbW42T3BnU1RkMVFMZ1FhUTZITnNZZW02bGFRcXZpYWlNOXJRMG04bDZ0Y2k1N0FJR3U3cE8zdllFdV9CTzViZXROSmFnN1pCWFdzNEgyU0o2b2xZOTFhY0pDdHB5UTFmRUl2WW9ZY3MzVXlmd1lqcnUwQ3ZUYkJIT1dIR0dxMzVoRjk5Vkt2TUYyWWdVZXJF",
-    "CBMinAFBVV95cUxOcHhHV3lUMDZGRG9mdnFzME11M2syblB5NThWeTZtdGV4aW5XQXZUMU9jVnp6MkxQaWQzdXNxTjE4YV93MGt6alotNTdjNHlpSVJYWlVUVFBuWGUxdGI2bHFtYjJKZUUyaHlyY29tQTJOUGg4S3FJdlBHX1A5bHhKSmROWl9oZW5rN01WU3pSam5YZHVmelVoaXZvcFM",
     "CBMiugFBVV95cUxQb2RjS19lVHRWUHJtbzIwY1FEWmxkWG5wVGVMeDV4LUE2UC1NN0liejZ2S3NfY01RN1ZKaEVnSnFQeUNHaUc2b29qT19Ldk1xUExBQmFXSWs1TG56ZGNtVzJ3cGpPNVRWWklkc2QtQ3VkaDZzTlIzTll1VGxSMUpzM21VejFWcFk0QXg0VkZYRTBCQmRYSVFUcWNEY0t0RDFwWkFFZmtsSTRVVjZUa3RrdkxRWDRfLXVNWnc",
     "CBMiqwFBVV95cUxONjVFSk1Pdmcxb29Gb1lYWTIzSU0xdzhLcjc3V3NSNzhYVzc3SXp1VFZ0OUQ0ZU1MRHIyTkp4OF93bV92SlRQRHg2ZE1abE1sSkJ1Y2E1UlFGa3dJaS1JRlJJYnFQUWtpTnE0T2kzdVNjZVI4akd5SXpkNEFxeHl1ZW1obGpHbElGTHR3QXJjRjh5RjBsX2NHQ0NaMXM5T0c4dUxGRnJwUHkxbVU",
     "CBMitAFBVV95cUxNWnFRcW9HbzBnVEVnSk92am10b0F0NGx4RTJlcjRTY28xQVdwWWxkdGd5eXNMdmxWeEFRQ3BFZEN6bUF1WDVCQkUtTjlrTGdtenNWclIteG9CRTVZdzVNaUJ4Z2FPVE0zaTBEX0RIdlRWMG1ieHRYcWt0dXpWYllGTjRnT2cxVDZwS0FCNEFEZnpJa0c1VXpaTGw0eFJxc251RUVvUmJPVmltWWlJbHBaLUJwd1I",
@@ -1205,7 +1203,9 @@
     "CBMijgFBVV95cUxQU2QyTEtaWVBXY0JlWEwxLXJ6eHMzMGoyY2VzR2N0V0RpR21fUmw1WFJCSHluWUV2emk3TG9IejRQTHFzWU04TDhHS2N3NjkyZmFFY053ek9ibzA4UDhFdjJTYmRmdVpBalNYOGhuVVhKYWlnb1lmSTdBNWJSZ0RocmFGLVk0bU1XUjJmZ193",
     "CBMisAFBVV95cUxQMnpnd0NFSGpTVjAwTS1wUk04a1cycXduWE1GTThtQmRua3U3NDdqMzMxSkpzZXQwYWpadDFheW9Mand5XzdWRWlXQmlVc01rbXFCbmc2M050MHJESkNaampyWTlCXzZnMThlRGU5bXl2Z3FpNVZhTmlNU05Xb1QwT1I4WjV3NHhKc0wxRlMxMmZCamcxOHRBeXZCMUY5a2IzTzRzdWd0TGlfUWl5TTBVQg",
     "CBMiugFBVV95cUxNODZYeFVITVhOM3IzOWFWb040M0xoMWZCaVJNdkZFSVVkQXlUOW1nLURZUV8zVWpqSUtlbEx2Z0N5NEstODJJcXoxQmpBMWtGc0ktdWNsbklkMFNucUJKX1RaeXotcWh0T2s5UllDYUNmQjVkc2RuRXZTZGJpTGFRUks4ZWVXeUFtS05pQjBGMXZMQnpYNE9hbWx0SHFRTW9xVEJTUFBCckVBNzA5MG81anFZRHQxTDJvYUE",
-    "CBMisgFBVV95cUxObGRqUjN0ODlLTkQ2Q0ZldXRMb0llSEQxVklHWF9Wd1JpMWVwTUIwRGRpWnNRRmFMWXYzaUxESVd6OVVwSUhBbmx3RjJFdGxZWlJzRlZ5LWM3VW15Q0JWRTB5RWQ2Mzlxa1dzcGNudEZPOFBWNzladk5QWHJJNFVuM1FPQ3c3STY3OXFoaEtqbUxEbUlYMHlUSmZXcHJwckVjNm9pZ0VZVWxFMTg1UjNDTkRn"
+    "CBMisgFBVV95cUxObGRqUjN0ODlLTkQ2Q0ZldXRMb0llSEQxVklHWF9Wd1JpMWVwTUIwRGRpWnNRRmFMWXYzaUxESVd6OVVwSUhBbmx3RjJFdGxZWlJzRlZ5LWM3VW15Q0JWRTB5RWQ2Mzlxa1dzcGNudEZPOFBWNzladk5QWHJJNFVuM1FPQ3c3STY3OXFoaEtqbUxEbUlYMHlUSmZXcHJwckVjNm9pZ0VZVWxFMTg1UjNDTkRn",
+    "CBMimAFBVV95cUxNVUpEM0MwOHJxRV9tR2NuUkV6NFFBSzFwRHM3dmp2Z2U1TlBaTVRWY1ZDNDg2U0NTX0V0dlJVSkVNZF9FV1dDY2F4ZFBaMkhuVjl1MHRVYXZPZm1SUlRCOEZoa1lTZ0toek0wYVJIN2d0eTEtSXFYLVdOVFNOdHZYM0pzZXNKb2NscjNFLThoX1hpZmgzcHJoTQ",
+    "CBMingFBVV95cUxNT2VNOGxYc2gtaDQwcXU1VE1lRWZ3QjNCN19GOFBpb2h6OVhTT1FmYTZxaHlHV0tha1dZeWJ1WTMxVktzYjBub3VkRFBUYTI1eWJlODdOSlh0d1Jfek9SOGFaZkdZWk1fRldMNEl5T19wWmxNYlFMZ2FGTFZQeS1DWWhFbVlzSjFKQjFvX3NxM3Fmb3VEYTBoQ0RiVUNNdw"
   ],
   "https://www.scmp.com/rss/4/feed": [
     "https://www.scmp.com/news/us/diplomacy/article/3362850/trump-claims-last-chance-iran-strike-deal-latest-warning?utm_source=rss_feed",
@@ -2114,10 +2114,6 @@
     "https://en.yna.co.kr/view/AEN20260823006000315"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1787179113",
-    "https://www.aljazeera.com/?t=1787097129",
-    "https://www.aljazeera.com/?t=1787175804",
-    "https://www.aljazeera.com/?t=1787185455",
     "https://www.aljazeera.com/?t=1787189561",
     "https://www.aljazeera.com/?t=1787192000",
     "https://www.aljazeera.com/?t=1787185559",
@@ -2413,10 +2409,13 @@
     "https://www.aljazeera.com/?t=1787135582",
     "https://www.aljazeera.com/?t=1787479548",
     "https://www.aljazeera.com/?t=1787492532",
-    "https://www.aljazeera.com/?t=1787498120"
+    "https://www.aljazeera.com/?t=1787498120",
+    "https://www.aljazeera.com/?t=1787493962",
+    "https://www.aljazeera.com/?t=1787477977",
+    "https://www.aljazeera.com/?t=1787481630",
+    "https://www.aljazeera.com/?t=1787499438"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
-    "https://allafrica.com/stories/202607240402.html",
     "https://allafrica.com/stories/202607240401.html",
     "https://allafrica.com/stories/202607240368.html",
     "https://allafrica.com/stories/202607240310.html",
@@ -2715,7 +2714,8 @@
     "https://allafrica.com/stories/202608210114.html",
     "https://allafrica.com/stories/202608210372.html",
     "https://allafrica.com/stories/202608210689.html",
-    "https://allafrica.com/stories/202608220074.html"
+    "https://allafrica.com/stories/202608220074.html",
+    "https://allafrica.com/stories/202608230040.html"
   ],
   "https://en.mercopress.com/rss/latin-america": [
     "https://en.mercopress.com/2026/07/11/four-held-in-ecuador-over-migrant-smuggling-network-to-the-united-states?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss",
