@@ -604,8 +604,6 @@
     "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html"
   ],
   "http://feeds.bbci.co.uk/news/world/rss.xml": [
-    "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo#0",
-    "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo#1",
     "https://www.bbc.co.uk/news/articles/c87nnwlpe5no#0",
     "https://www.bbc.co.uk/news/articles/cj4kk8kz271o#1",
     "https://www.bbc.co.uk/news/articles/c77gg5vn44yo#0",
@@ -903,10 +901,11 @@
     "https://www.bbc.co.uk/news/articles/clyly8vdpdwo#0",
     "https://www.bbc.co.uk/sport/football/articles/cr4941zkgevo#1",
     "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o#0",
-    "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o#1"
+    "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o#1",
+    "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o#0",
+    "https://www.bbc.co.uk/news/articles/clyly8vdpdwo#1"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
-    "CBMimwFBVV95cUxNUDkydjBTR3lpSUtTQV80dFE4LTktZmVPSi1KaFpETmRaN3dPU3VpakQ4Wk1SYkxtd19oc0Q2a1p5aDJwaUZyN2FtZVctMngwS3BCNmYtUFRtd2prNVVyeURFLUJDb0lGQXppVGZ1c21ZVWR6R0hsaXdHNllMcXRWQ2RrN1ZXUXJRY0ZSOUJmNmNhbzg3RkFPSE84aw",
     "CBMihgFBVV95cUxQaWRlRkF0X3FrMFRldHpCeU54VkJNUk9lb2lLNWpXb0tXcEI2azh3SHpMX0cyajNucFZEUkw0Z3JwYndQWE1uTDYzRWlyN0FYeEpOZTFPOWx3ODJOWUJOM3JmYVBHOUZuSHFDSjNncnZPOV9jbjllSGNYX245QUw4UFZhUndaZw",
     "CBMipgFBVV95cUxNTlBoRmhQRUp0V2J5aFNhVEhOSW9FY3pKQkVKdko0UE5vRjN6WjE4VUU3MEdGSTU0UTZ1RVB6Uy02QjJ5eVN4bkx2bHo1UUZscGtWT21EQWhUb2lzWHlrTUctZU9OME5KMF9UMHh5cF9KaFYtZko2QV9GLVc1N0FaLUlsX1czTTNzbk5iOGxFaUpmTnByaEVlUy05UTlTbldORWIxVGhn",
     "CBMipAFBVV95cUxOV1ZfVHVWWm9fSS1fSTBydVl1WEtmZE5aY0ZxdEFZbTd0LVpUNUYweU4xYW53cjh1bV80Mlh2UHprZk51MVhGWnNQN1JZMGdnTG9nRDdJM2VCVVhhUURNUjV5VWJjbHFkd09WTFBKcUdJaHBTWER6MVh2WmR2bVpJV1pDTWlUcXYxU2M4STdObE5xWkFBR1FETmxPcmpkT2pyaHZYcg",
@@ -1205,7 +1204,8 @@
     "CBMingFBVV95cUxNT2VNOGxYc2gtaDQwcXU1VE1lRWZ3QjNCN19GOFBpb2h6OVhTT1FmYTZxaHlHV0tha1dZeWJ1WTMxVktzYjBub3VkRFBUYTI1eWJlODdOSlh0d1Jfek9SOGFaZkdZWk1fRldMNEl5T19wWmxNYlFMZ2FGTFZQeS1DWWhFbVlzSjFKQjFvX3NxM3Fmb3VEYTBoQ0RiVUNNdw",
     "CBMinAFBVV95cUxOcHhHV3lUMDZGRG9mdnFzME11M2syblB5NThWeTZtdGV4aW5XQXZUMU9jVnp6MkxQaWQzdXNxTjE4YV93MGt6alotNTdjNHlpSVJYWlVUVFBuWGUxdGI2bHFtYjJKZUUyaHlyY29tQTJOUGg4S3FJdlBHX1A5bHhKSmROWl9oZW5rN01WU3pSam5YZHVmelVoaXZvcFM",
     "CBMiugFBVV95cUxQb2RjS19lVHRWUHJtbzIwY1FEWmxkWG5wVGVMeDV4LUE2UC1NN0liejZ2S3NfY01RN1ZKaEVnSnFQeUNHaUc2b29qT19Ldk1xUExBQmFXSWs1TG56ZGNtVzJ3cGpPNVRWWklkc2QtQ3VkaDZzTlIzTll1VGxSMUpzM21VejFWcFk0QXg0VkZYRTBCQmRYSVFUcWNEY0t0RDFwWkFFZmtsSTRVVjZUa3RrdkxRWDRfLXVNWnc",
-    "CBMiowFBVV95cUxQQ01ZN3RnaUdmMXE3MjhPUTJuN1VaNVdBVkFZLU1wYm9nSlJQYW9LcXc3LXNSUUZKUHA2cGl1MjBac0l5ZEVoSEpXQjFGRmxrTjQ4blZUck1XbTFYSl94WUh6M1AtSHRPak42OTZ4VkpIR2VBTkRyTG10bTBCb0pONnNKYmUzckxFc0J1UGZ6dUpVV2p5cGpBZ0x1Q01oRXFsQ1pR"
+    "CBMiowFBVV95cUxQQ01ZN3RnaUdmMXE3MjhPUTJuN1VaNVdBVkFZLU1wYm9nSlJQYW9LcXc3LXNSUUZKUHA2cGl1MjBac0l5ZEVoSEpXQjFGRmxrTjQ4blZUck1XbTFYSl94WUh6M1AtSHRPak42OTZ4VkpIR2VBTkRyTG10bTBCb0pONnNKYmUzckxFc0J1UGZ6dUpVV2p5cGpBZ0x1Q01oRXFsQ1pR",
+    "CBMiigFBVV95cUxQYWJVRld5Vk1RVUU3RVRiSVhwLTg4aEpQbUVVRERDS1o1bTlGdldOMVpLNHNKc3ZWQUp2WG44MjZMYk5TQ1h1WDhHZVpXbFMtdkVueklUWVdNbzJ1U0w4OEpXcTJhcVRHVURhQ2VhMURqdDdJY21YVFN1eVl6cl9QVGphNVh2b2dFblE"
   ],
   "https://www.scmp.com/rss/4/feed": [
     "https://www.scmp.com/news/us/diplomacy/article/3362850/trump-claims-last-chance-iran-strike-deal-latest-warning?utm_source=rss_feed",
@@ -2114,9 +2114,6 @@
     "https://en.yna.co.kr/view/AEN20260823006000315"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1787198775",
-    "https://www.aljazeera.com/?t=1787204115",
-    "https://www.aljazeera.com/?t=1787196328",
     "https://www.aljazeera.com/?t=1787201723",
     "https://www.aljazeera.com/?t=1787202789",
     "https://www.aljazeera.com/?t=1787193479",
@@ -2413,7 +2410,10 @@
     "https://www.aljazeera.com/?t=1787499438",
     "https://www.aljazeera.com/?t=1787486577",
     "https://www.aljazeera.com/?t=1787503756",
-    "https://www.aljazeera.com/?t=1787497573"
+    "https://www.aljazeera.com/?t=1787497573",
+    "https://www.aljazeera.com/?t=1787507665",
+    "https://www.aljazeera.com/?t=1787498725",
+    "https://www.aljazeera.com/?t=1787504709"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
     "https://allafrica.com/stories/202607240401.html",
