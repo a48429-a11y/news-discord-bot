@@ -906,9 +906,6 @@
     "https://www.bbc.co.uk/news/articles/cvgy58ql288o#1"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
-    "CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ",
-    "CBMiowFBVV95cUxPTUNmbTc5QnZEWWpxVnFDMHlFZ2tCWFZUZ01LTTg0SnB1YmdvY0JYWU10ZW5LeDVQdm0yRENSN1J2N3FXMW9YUFlzY3JWZ2RCcWdFNjNEaml5R2xBNFdkMWJJak4xSVBaWVhuOFZzZnFJOTFnQzhIU3VYdkdKY05vRzhONkpUTEVIdlF6YkdoY3hSeFhRcFl3X0tRckg2MlJXellz",
-    "CBMiaEFVX3lxTFAxd0pna1pqQm44d3hLcXBYb2U0Z1pSUktxQUdicnZxWTVRN2lJeHdiYVprY3l1dVZHMWJtRUlKS01yaG9NYkNDRmZEUmtBNVlVQ01MYm92TGpxN3BOQzFqdVBlWHRqZFk3",
     "CBMilwFBVV95cUxQajRMMnNScjR5Tk1jNTZNZ1loMVctaUFVWWtjNHZhRGZzTWNvQWkzalRDZ1pNVjFjRGd5RVZyRTJ5dkVVOVpmVEVlczg0d2NWOTQtYTlyTnBLTlJTZ2FFVnNhTm1BNll2bGRWTGF2c3JCZHNpRlBudFFrNEJlUTVJVVI5b1d6T29pRDNhNEpMYVd6RVRVX3VZ",
     "CBMitAFBVV95cUxNWlZTbzV4R3BNYUhaSzZEMzRXdlhvQkVQZ3pXcWZhbGZXRXV0WFBNODNfN1BWcW9BS3kwOWtOXzB3OTI2a0ZuSHhPOEV0aGRTeHd3Tm83a0U3NEl3YlozMC1MVUZKdjhyOXRiM0U4ZlozQXVJRnF4eXozQm80UTdSMVlWOVVyX09FcjBpMmtCaHdhWEdjaXd1amdSYk1NSllfb09uT0ZQc0RjYWk5cDBBdjRMdDQ",
     "CBMipwFBVV95cUxPbU9TbzJ2ZG5Yb0h3QmRrTzJhMHdTVEU2Nzl2cGNlZ293alBfRzJxamZDTmc5c21JZEgxZGx0SU1adHNGXy11akpFSWxNc3F5WklaS2x2Z0xsTUtLSjB2Sk5FX1NqamhsQm5nNkN5X2IyQWtxMHB1Sjh0ZXV5amcwRlZvR2dSQjRZSGdQUkZVODdwZ3JmNS1XZWFiSno5R24tSDVBWXZYaw",
@@ -1205,7 +1202,10 @@
     "CBMipgFBVV95cUxOVFhGdVdaZTRkSXVVbDdFMTlVa3pEWEFDSjNEaWNoLVJieUNYYlJRRF9ISEQxMmk5NFVzWFktQ2FSeXVHYmpFR0dDQVFSbnVWQ2x3emRkQ3k0ckZYZG1xM3JQR3VoQ0dOUl9XTXFScDlxUmhFeWt0M0o4elYxM0dfVUdXVjM2T1prTWdYU0RHbXNGVUttR1BGb3VyVU1uWUlIU3hlWVN3",
     "CBMiqgFBVV95cUxQNTNxWmRReXloNnFvUTd5NlgtTGZnSHdYZlhMNFk3ZWVFdi01eUdmY0pHYWRLUmVwVlBmUU1jeHgybEdGZXFZUUVyU0had0E0Yy13c21LRVBvVFhVNzk4aVJRNkQ3RGNLUFItbXJqYlBDcFBLN2RqSzV2YXNBSzZfQjY4bzc2S1ZUcEVvQVhDcHFLcC1Vb2lsY0VMRDl1NUFuQUs1NVVkSUVxZw",
     "CBMilgFBVV95cUxPUTFJYWp5U2FxQlpxYjVCb1p5dThHZmx4NGNwRnpybDZSMEVnZVpBMWZuaU9CSDlieHVYU3kzOUQ4TEl6RjlBZmxwd2dBQW9qclA0VG1RQnRBcUdkSDRfbE1RTmdib2tzRFUyTWwxTmVlZE1FVkt5QmR6M0ZVVUlyQ1pQN2E0S2pJUnJxb3RYZlZTT3BodVE",
-    "CBMinwFBVV95cUxPUnNnLTRfSnlTMUpMa3pibFNwQXRQR2llTm42ZkNVUFZUOUh2YVI3TnhFa3hsQmdDcWRMYXJsTTd4OGlFZlpVNjVSLWZmWm83VEExZHJTbXcxbU01blFKVkZpRVA3QnpFNlFieDR4MlZFeUx5QnZIZlcxVDlRZEwtTllnQjR1d1pPWkJMN3ZCcDZaOHlfVDYxRUtGQWE0bTA"
+    "CBMinwFBVV95cUxPUnNnLTRfSnlTMUpMa3pibFNwQXRQR2llTm42ZkNVUFZUOUh2YVI3TnhFa3hsQmdDcWRMYXJsTTd4OGlFZlpVNjVSLWZmWm83VEExZHJTbXcxbU01blFKVkZpRVA3QnpFNlFieDR4MlZFeUx5QnZIZlcxVDlRZEwtTllnQjR1d1pPWkJMN3ZCcDZaOHlfVDYxRUtGQWE0bTA",
+    "CBMiowFBVV95cUxNbWpiQnZjU2VSRnc2aEcwbzNQbTA2TU8zOHpLRU5EN2YwWDRncHpBTWlZc1FIUWI1M2FJZ09DaV8xQ2phV25UcXBzMHp0ZmhkNXNUdnN6dDdZbnhpaUp2cUFWdEd1YndqTFJYVzYzZGNCNzMtd01iSWJnWFJlSTBENlBMLXNxc2VIb3c3bWlqZGZZam1ScmgxUEd0bk9ManFURktR",
+    "CBMihwFBVV95cUxNSzdFRXJaQU1GSUV6R3RoYmFHaU5haDdXeEQ0OUNyMDhPb1N5NFRMMFYwNzNrWks0eXBrNGtmZElsWmJpY0VDRVpLREJrRTc1SEE2VFhmZWU0OHo1TW96ZzFWRFNDc0Y4aW5KaE10SW8wS0YyemNDRG1XMFA0dVhUb0pzenFUSVU",
+    "CBMimAFBVV95cUxNUlRoRlE2UHlLR1YxT2hkUzdPc2Ytbmc5RGFUcWd6VXBHNUU3X2hjRDRPMVBHdUV6Ykdlc19pdWpVRHVVekJTM3gtaDNYMEhxQkJGZGt0VVpobzdKM0EtNW5vR2NtY1NhVlVVWkkwemxtRVlZdHoyZ0s0MTFRZ2taamhpazF5LWxOT0dOMFhCV2dFeEVNbWVJdA"
   ],
   "https://www.scmp.com/rss/4/feed": [
     "https://www.scmp.com/news/china/article/3362979/bachelet-led-panel-urges-latin-america-not-choose-sides-us-china-rivalry?utm_source=rss_feed",
@@ -2114,8 +2114,6 @@
     "https://en.yna.co.kr/view/AEN20260824008300320"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1787291101",
-    "https://www.aljazeera.com/?t=1787301507",
     "https://www.aljazeera.com/?t=1787296527",
     "https://www.aljazeera.com/?t=1787302585",
     "https://www.aljazeera.com/?t=1787305047",
@@ -2413,7 +2411,9 @@
     "https://www.aljazeera.com/?t=1787601342",
     "https://www.aljazeera.com/?t=1787584634",
     "https://www.aljazeera.com/?t=1787597491",
-    "https://www.aljazeera.com/?t=1787604161"
+    "https://www.aljazeera.com/?t=1787604161",
+    "https://www.aljazeera.com/?t=1787603297",
+    "https://www.aljazeera.com/?t=1787607006"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
     "https://allafrica.com/stories/202607240730.html",
@@ -2783,7 +2783,9 @@
     "https://en.mercopress.com/2026/08/22/colombia-s-earthquake-toll-rises-to-329-dead-and-more-than-300-000-affected?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss",
     "https://en.mercopress.com/2026/08/22/colombia-s-government-objects-to-the-law-barring-lower-requirements-for-senior-posts?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss",
     "https://en.mercopress.com/2026/08/24/almost-half-the-minors-recruited-by-armed-groups-in-2025-were-approached-via-social-media?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss",
-    "https://en.mercopress.com/2026/08/24/two-newly-detained-men-testify-in-the-case-over-the-shooting-of-the-bolivian-lawyer?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss"
+    "https://en.mercopress.com/2026/08/24/two-newly-detained-men-testify-in-the-case-over-the-shooting-of-the-bolivian-lawyer?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss",
+    "https://en.mercopress.com/2026/08/24/colombia-orders-deportation-of-irregular-migrants-after-a-decade-as-the-main-host-country?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss",
+    "https://en.mercopress.com/2026/08/24/milei-links-lula-to-the-case-of-the-argentine-former-adviser-detained-in-bolivia?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss"
   ],
   "https://www.abc.net.au/news/feed/2942460/rss.xml": [
     "https://www.abc.net.au/news/2026-08-02/diamonds-bronze-medal-commonwealth-games-england/106988168",
