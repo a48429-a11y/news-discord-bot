@@ -906,8 +906,6 @@
     "https://www.bbc.co.uk/news/articles/cvgy58ql288o#1"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
-    "CBMiowFBVV95cUxOTTZLOTI0LW9VekdVX1ZXR0dpd20xa0dLLWxQVjczeVhOWG5fNjZZT3dLMkQwSkZFUFVpbE0wUXpfUDR2WllVTmliVzgxNzRuX2M5V1AwMEtiTlhkWHZmcDcwNnJ3TC1DUFZUT1M5M0FKYWN2SXp5dldVN1hFamI2Y0g1RVl2cTk5eHRkVF81UkFaSENRWkwwWGFDQ1I0OHdraFNj",
-    "CBMipgFBVV95cUxOQk85aFc5OVpMc3pHdWFaS2xjYzQyUmJhRVdQd2ZVc1dIZGY2Szd3b0V0bEdUOG02RnZ4VDV1cnllejNQM203bmkxcG5sS3BYSHlMVXg3ZGNNUldOWVgyOHBHTDlQOFJlS2VGWmlLQmJib0VXM2czT3BQTDAwc05JQnZ1RjFEdG5ORWE2TXBhYVc5MXNOSUs0YU52UUF1eDBaS1Zhc0JB",
     "CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ",
     "CBMiowFBVV95cUxPTUNmbTc5QnZEWWpxVnFDMHlFZ2tCWFZUZ01LTTg0SnB1YmdvY0JYWU10ZW5LeDVQdm0yRENSN1J2N3FXMW9YUFlzY3JWZ2RCcWdFNjNEaml5R2xBNFdkMWJJak4xSVBaWVhuOFZzZnFJOTFnQzhIU3VYdkdKY05vRzhONkpUTEVIdlF6YkdoY3hSeFhRcFl3X0tRckg2MlJXellz",
     "CBMiaEFVX3lxTFAxd0pna1pqQm44d3hLcXBYb2U0Z1pSUktxQUdicnZxWTVRN2lJeHdiYVprY3l1dVZHMWJtRUlKS01yaG9NYkNDRmZEUmtBNVlVQ01MYm92TGpxN3BOQzFqdVBlWHRqZFk3",
@@ -1205,10 +1203,11 @@
     "CBMinAFBVV95cUxQSkJZNVRseVRaejdSaEVfMDlXMGlXVDV4bVd0MjVOYWNmQzVIQ19kYkgtbUwxbmV3YURuT2daMk5zYl95RTZFQzFlanFnaVh6NTc3ZjFsZEJKZ1pIMmdraVByZnJyb3ZCUGFpcHJnWWtkS3VDeVRDLXlGRDhFZmktNDNId1BvaUs3R2dic1RBdkp3NGQ0enFPLVNmc2M",
     "CBMiiAFBVV95cUxQZlI0LXlzSmxSN2x6R2VGcG5oUHdpQUlLc2xodmw2MmRYZzNyTHZCajRTRndxYUdPbnF2ODhodFdCTUo5eXRRc1NjTHBSVEI4cnZCcFVnUmpwdVRzVllqcXBPRjE1VUZ3TG5DVGEwUmJvVW9zcTAtRUhnN3BNa3k1RDNUN0VlZlJZ",
     "CBMipgFBVV95cUxOVFhGdVdaZTRkSXVVbDdFMTlVa3pEWEFDSjNEaWNoLVJieUNYYlJRRF9ISEQxMmk5NFVzWFktQ2FSeXVHYmpFR0dDQVFSbnVWQ2x3emRkQ3k0ckZYZG1xM3JQR3VoQ0dOUl9XTXFScDlxUmhFeWt0M0o4elYxM0dfVUdXVjM2T1prTWdYU0RHbXNGVUttR1BGb3VyVU1uWUlIU3hlWVN3",
-    "CBMiqgFBVV95cUxQNTNxWmRReXloNnFvUTd5NlgtTGZnSHdYZlhMNFk3ZWVFdi01eUdmY0pHYWRLUmVwVlBmUU1jeHgybEdGZXFZUUVyU0had0E0Yy13c21LRVBvVFhVNzk4aVJRNkQ3RGNLUFItbXJqYlBDcFBLN2RqSzV2YXNBSzZfQjY4bzc2S1ZUcEVvQVhDcHFLcC1Vb2lsY0VMRDl1NUFuQUs1NVVkSUVxZw"
+    "CBMiqgFBVV95cUxQNTNxWmRReXloNnFvUTd5NlgtTGZnSHdYZlhMNFk3ZWVFdi01eUdmY0pHYWRLUmVwVlBmUU1jeHgybEdGZXFZUUVyU0had0E0Yy13c21LRVBvVFhVNzk4aVJRNkQ3RGNLUFItbXJqYlBDcFBLN2RqSzV2YXNBSzZfQjY4bzc2S1ZUcEVvQVhDcHFLcC1Vb2lsY0VMRDl1NUFuQUs1NVVkSUVxZw",
+    "CBMilgFBVV95cUxPUTFJYWp5U2FxQlpxYjVCb1p5dThHZmx4NGNwRnpybDZSMEVnZVpBMWZuaU9CSDlieHVYU3kzOUQ4TEl6RjlBZmxwd2dBQW9qclA0VG1RQnRBcUdkSDRfbE1RTmdib2tzRFUyTWwxTmVlZE1FVkt5QmR6M0ZVVUlyQ1pQN2E0S2pJUnJxb3RYZlZTT3BodVE",
+    "CBMinwFBVV95cUxPUnNnLTRfSnlTMUpMa3pibFNwQXRQR2llTm42ZkNVUFZUOUh2YVI3TnhFa3hsQmdDcWRMYXJsTTd4OGlFZlpVNjVSLWZmWm83VEExZHJTbXcxbU01blFKVkZpRVA3QnpFNlFieDR4MlZFeUx5QnZIZlcxVDlRZEwtTllnQjR1d1pPWkJMN3ZCcDZaOHlfVDYxRUtGQWE0bTA"
   ],
   "https://www.scmp.com/rss/4/feed": [
-    "https://www.scmp.com/news/china/science/article/3362465/shenzhen-based-ai-mathematician-yurii-nesterov-wins-top-prize-applied-maths?utm_source=rss_feed",
     "https://www.scmp.com/news/china/article/3362979/bachelet-led-panel-urges-latin-america-not-choose-sides-us-china-rivalry?utm_source=rss_feed",
     "https://www.scmp.com/news/us/diplomacy/article/3362976/trumps-former-lawyer-advances-attorney-general-bid-after-deal-republican-holdouts?utm_source=rss_feed",
     "https://www.scmp.com/news/china/politics/article/3363017/narrow-escape-how-ana-flight-shanghai-avoided-collision-tokyo-airport?utm_source=rss_feed",
@@ -1507,7 +1506,8 @@
     "https://www.scmp.com/news/china/military/article/3365081/mainland-chinas-ship-activity-near-taiwan-hits-record-third-month-row?utm_source=rss_feed",
     "https://www.scmp.com/news/world/united-states-canada/article/3365109/sheins-acquisition-everlane-faces-us-national-security-review?utm_source=rss_feed",
     "https://www.scmp.com/news/us/diplomacy/article/3365111/us-sanctions-chinese-entities-issues-global-warning-economic-d-day-against-iran?utm_source=rss_feed",
-    "https://www.scmp.com/news/china/diplomacy/article/3365115/us-targets-chinas-telecoms-grip-venezuela-new-sanctions-carve-out?utm_source=rss_feed"
+    "https://www.scmp.com/news/china/diplomacy/article/3365115/us-targets-chinas-telecoms-grip-venezuela-new-sanctions-carve-out?utm_source=rss_feed",
+    "https://www.scmp.com/opinion/china-opinion/article/3364802/forcing-women-drink-business-dinners-has-no-place-modern-china?utm_source=rss_feed"
   ],
   "https://news.google.com/rss/search?q=site:euronews.com&hl=en-US&gl=US&ceid=US:en": [
     "CBMixAFBVV95cUxQQzU4Qnc1MDdJQ3I0YUYtVUZuajNYZHV2dXhCNU41QlNEbFFLY1pqRDRjajlSNkQwNVNkV3pFaGk4aHMxejJHQzJLMy1PekZIblhiaFpjZGU2U3JlT2t3bF84N3hwMGhXdDNMSEd0M3V5SVJGYzhaZG1iVUV0ZlM3Z0JlWTB2alM3dHpPSGNWQ2VUeGFzYmtVUVplaEpGOER6N2lUd2V6bzJpak5XNkEwWnRDVUNrMW1qbXpVUWV6eVE0anMy",
@@ -1812,7 +1812,6 @@
     "CBMiugFBVV95cUxPdjFua2NkU050UVpOVXVERTRqejM2blB6LWtfc2R6QXhyMDFrc1RheWRVcUotY3BrbktqZUNBYUpBbmRhM2p2Mk5IbjVqRGR4ajVmb28wWUpYWjNJOWlvVlJHWlFXXzVNUE1Sc1NjSzE5QXlUY0xhTmlSYXRPMlAteTlXVV95MTVRTUVMU2NzOWxqbG93RXpWUm9rQWc0MjMzQ3hoRTk2amZzVExmWTRLVmNMcVoyYWFlT3c"
   ],
   "https://en.yna.co.kr/RSS/news.xml": [
-    "https://en.yna.co.kr/view/AEN20260819010000320",
     "https://en.yna.co.kr/view/AEN20260819010700315",
     "https://en.yna.co.kr/view/AEN20260819010800315",
     "https://en.yna.co.kr/view/AEN20260819011000315",
@@ -2111,15 +2110,10 @@
     "https://en.yna.co.kr/view/AEN20260825000353315",
     "https://en.yna.co.kr/view/AEN20260824008400315",
     "https://en.yna.co.kr/view/AEN20260824010700315",
-    "https://en.yna.co.kr/view/AEN20260824005300315"
+    "https://en.yna.co.kr/view/AEN20260824005300315",
+    "https://en.yna.co.kr/view/AEN20260824008300320"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1787281582",
-    "https://www.aljazeera.com/?t=1787230717",
-    "https://www.aljazeera.com/?t=1787294130",
-    "https://www.aljazeera.com/?t=1787244135",
-    "https://www.aljazeera.com/?t=1787298949",
-    "https://www.aljazeera.com/?t=1787289962",
     "https://www.aljazeera.com/?t=1787291101",
     "https://www.aljazeera.com/?t=1787301507",
     "https://www.aljazeera.com/?t=1787296527",
@@ -2413,7 +2407,13 @@
     "https://www.aljazeera.com/?t=1787589999",
     "https://www.aljazeera.com/?t=1787594645",
     "https://www.aljazeera.com/?t=1787591496",
-    "https://www.aljazeera.com/?t=1787598240"
+    "https://www.aljazeera.com/?t=1787598240",
+    "https://www.aljazeera.com/?t=1787604561",
+    "https://www.aljazeera.com/?t=1787602838",
+    "https://www.aljazeera.com/?t=1787601342",
+    "https://www.aljazeera.com/?t=1787584634",
+    "https://www.aljazeera.com/?t=1787597491",
+    "https://www.aljazeera.com/?t=1787604161"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
     "https://allafrica.com/stories/202607240730.html",
@@ -2786,7 +2786,6 @@
     "https://en.mercopress.com/2026/08/24/two-newly-detained-men-testify-in-the-case-over-the-shooting-of-the-bolivian-lawyer?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss"
   ],
   "https://www.abc.net.au/news/feed/2942460/rss.xml": [
-    "https://www.abc.net.au/news/2026-08-02/live-blog-commonwealth-games-day-ten/106987006",
     "https://www.abc.net.au/news/2026-08-02/diamonds-bronze-medal-commonwealth-games-england/106988168",
     "https://www.abc.net.au/news/2026-08-03/quick-hits-commonwealth-games-goodrem-76-year-old-gold/106987230",
     "https://www.abc.net.au/news/2026-08-03/laurie-daley-stands-down-as-nsw-origin-coach/106989074",
@@ -3085,6 +3084,7 @@
     "https://www.abc.net.au/news/2026-08-25/joey-manu-convinced-by-png-pm-to-join-chiefs/107073960",
     "https://www.abc.net.au/news/2026-08-25/surf-life-saving-iron-series-tiarnee-massie-drowning/107062390",
     "https://www.abc.net.au/news/2026-08-25/sa-port-adelaide-analysis-zak-butters-leaving-tumultuous-year/107071682",
-    "https://www.abc.net.au/news/2026-08-25/vuelta-a-espa%C3%B1a-third-stage-cancelled-after-hailstorm/107073986"
+    "https://www.abc.net.au/news/2026-08-25/vuelta-a-espa%C3%B1a-third-stage-cancelled-after-hailstorm/107073986",
+    "https://www.abc.net.au/news/2026-08-25/snooker-graeme-dott-convinced-of-sexually-abusing-children/107074090"
   ]
 }
