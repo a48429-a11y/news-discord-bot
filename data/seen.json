@@ -1,8 +1,5 @@
 {
   "https://news.google.com/rss/search?q=site:reuters.com&hl=ja&gl=JP&ceid=JP:ja": [
-    "CBMigAFBVV95cUxNSldZQlNMcU9wX1F3UWM0dTlLdjNiUGxDNlFSckNiVTVoZ0c2V2VfRHJMMTE5d3k2OGRwWDZnS2xhZkt5UmVJZFFkQnBpY0Y5dVBvNUtUTHBGVkdyLUNuWDVodEtVTVRLR0VxblNDOE0zWUNXanJfQjFYeldzdmozXw",
-    "CBMiggFBVV95cUxNS3VDVnJSYmMzN2hLYkQ2RVF3d1ZrM2NHblV3WnFmNWtBMW82NXhhQ2hPR0R5VmhnMFZSX2tOSjdtNGZTUVZiYU9HSGhBRmVUYmFpV0xPa2VGNktXNE01MnpIZVVnRDRSak02Rk5DcXBVVHFDRVhwbEZmbmNNNmNtc1p3",
-    "CBMifkFVX3lxTFB5SG4zYkRJX3M3OVJkX1daSkY2M3N0blpHMGJ2MWJiTk9rb2ZTWjNCRXZPYmxHanJvRDlKNGxseUV3bmdZem9IRjlfaS1kNlpKSm5Ob0FHckVEVlVta1FXRmdzck91SnZOX2dHLXFJRmlQN2VVVWo3b185WDR2dw",
     "CBMieEFVX3lxTE8tMWFBWXlXeXVBQVhXR2FwV2VPd2lwSEZRaTVHV1FPMzlBM3B3Y2dwWUJlVThWOFZnbkNncnNVY1Q3ZHpvdkVYYTdQZEs4MTRKOW9JcDNrUE5YZ2VjcVNFVlFyUHJSMVNOOUkzLWh5UTN3YzBiTGI2Qw",
     "CBMigAFBVV95cUxOdVhjZDZMZGlTRFZXWG1ENVY1N1h3cU90V3BWSXFrM0RaUjhzdGk0RkxEWEhkenlnaWlwOXZ5RmtHenVFTVBmVmRoRDVIRlotSzZGdGdxWmpiNHRJaGhwMFFvSVBtUGk0eURlWjdpMWt0OC1FbDlub2xyM0pqd3ROZQ",
     "CBMiggFBVV95cUxQQzZLQmtCWGlHS1hwUm5hdzNrR1AxSHhCUGxHakdfcXU4QklBYWV1WmlESnZySTVCaTEyOW9xYjVTMGJ5M1VRNUNhX1dERWNUUFBiVGpvNmd5Y1JwNFpEWHpVV3JQSTZ2QTZBVDJlUkR2NnZ4eHBtOVJTTnhYWFVmTU1B",
@@ -299,7 +296,10 @@
     "CBMifkFVX3lxTE1iRE5BN3RBTTQwY251M0hiWFh1RHFQU1NfdGI2SF9TWURjdkZUQUdWSzhQS0lEdGZPVld0bTNlNE00LU15dDlSQVctQkZpMzhoTHZSVnd1YjZ2ZWVuRVRhcHJDUVpzcHlqYmV2OXFPY3JaeWRKamJObXVTZDRRZw",
     "CBMifkFVX3lxTE5yeUkwbWVrd09Hem95Vm42TGhIOV9kV1J1cWwyTjZPZnM5N0J5VGlHWW9vNVVCcnl4bk9yLTZDcFRJQ1hXbVcwTTNSa2Q3anNEcTV3eFU1SDFwZG9QX1RsS0duaXItTnlGOGNBeWpHSVhVM21UaVlaeUFtOC1aZw",
     "CBMiekFVX3lxTFBmLWx2Y3U1OXhocDRpeERZcWFUcG5ac2k0X3ZJSjB0YXVQNFFoTi1zbHJ0NFhZa19LYzRUNlIzaDJONmZkOEIzRnJiZGR3ZWRSZzJsZS1GU1RRcldaa29Sa09ITnJGQUhwQS1QanVLalRiTlg0T1k2VDhR",
-    "CBMigAFBVV95cUxPWU5mN1BvZmFfUEZVb3lNUjIxRFY0VEVzYzJ5OVE5ZWhDWW9uZ2tCNVE2YUhXNWFrRTdpX1pKeWt2YldBei1BX1dBVng3VnFYd0RBMTNfSnpCcUlmY3pDcXBEdmtuVkJzZjhVSVhEUFpEdTQ0emFmTEZRWTRhMThJeA"
+    "CBMigAFBVV95cUxPWU5mN1BvZmFfUEZVb3lNUjIxRFY0VEVzYzJ5OVE5ZWhDWW9uZ2tCNVE2YUhXNWFrRTdpX1pKeWt2YldBei1BX1dBVng3VnFYd0RBMTNfSnpCcUlmY3pDcXBEdmtuVkJzZjhVSVhEUFpEdTQ0emFmTEZRWTRhMThJeA",
+    "CBMifkFVX3lxTFBiT3lpd3BqeVkxYVBwNGtjemFwMzJQOVhoU3I0MXNpM3l4TW9SbzVMalZUVmY4alZTbUFFQ3UxWC15dXZfX1RlMU41UzRpbkhHRE5BazI2LWZJWldFaHdMZU1qdmp6MEpaREtKWHJnNWhGMTM1bHJmTnNOMFVwdw",
+    "CBMieEFVX3lxTE5PSnhBRWItS3puamNPTmRpRXhoM2RsQ0lWTHZlZGJ6LVdkb003SDM0MmFVTEtEdUFYWTJ3SzcwX1F3ZmkwU0ZhbnA3dHBkVlBRbHFydDFyWElEWFZUU2VuTzEtQ0wwZFU2cGFZN2hnVXNMXy1TNU9HUw",
+    "CBMiekFVX3lxTE1NbDJqZWpzTDNTVHpHbjFOVHB4aVFsRHZZRVE5Q0tpa2pkNFdoWVVfRGJkeUVzam9XdUg0ZV9CNEdpMmFDMmlkNHF5Y0hoeEM1amRIUzRYbmxrM29VbUlMeG9nWm5adHJ2VVNUSmpXVURzdkg3UFU0YUtn"
   ],
   "https://www3.nhk.or.jp/rss/news/cat0.xml": [
     "http://www3.nhk.or.jp/news/html/20260724/k10015185791000.html",
@@ -1208,7 +1208,6 @@
     "CBMinwFBVV95cUxPVTVzQWhpRV94UFlYYjlobi1WaFhzMllaSEFjdUZXUlNDNkxrVTFkeTVJRGJIZWppdU5zZElta0paUEVaY3UxSEtBZmxmRDVkZl96U2kzS0FLOF9td0dFSk5fdnU3bThaSHRDa1NIYnlmVlBfU2VfSUpKZFJxMHktSm8xVk1udl9qdEhac29ORm1wYWs3VmpYR0VqWHlVT0E"
   ],
   "https://www.scmp.com/rss/4/feed": [
-    "https://www.scmp.com/news/china/article/3362846/chinese-executive-filmed-taking-cash-colombia-metro-south-americas-biggest-project?utm_source=rss_feed",
     "https://www.scmp.com/news/china/diplomacy/article/3361675/how-chinas-us900-million-port-deal-angola-shows-its-dominance-over-us-interests?utm_source=rss_feed",
     "https://www.scmp.com/news/china/science/article/3362881/chinese-observatory-finds-most-powerful-particle-accelerator-universe?utm_source=rss_feed",
     "https://www.scmp.com/news/china/politics/article/3362823/kmt-accuses-taiwans-government-failing-uphold-south-china-sea-claims?utm_source=rss_feed",
@@ -1507,7 +1506,8 @@
     "https://www.scmp.com/news/china/science/article/3364982/china-puts-change-7-mission-lunar-south-pole?utm_source=rss_feed",
     "https://www.scmp.com/news/china/science/article/3364796/your-backyard-could-hold-rare-earth-fortune-and-orange-lichen-clue?utm_source=rss_feed",
     "https://www.scmp.com/news/china/diplomacy/article/3364961/chinese-archaeologists-heading-peru-first-joint-project-explore-ancient-sites?utm_source=rss_feed",
-    "https://www.scmp.com/opinion/hong-kong-opinion/article/3364730/remembering-zhu-rongji-and-understanding-his-legacy?utm_source=rss_feed"
+    "https://www.scmp.com/opinion/hong-kong-opinion/article/3364730/remembering-zhu-rongji-and-understanding-his-legacy?utm_source=rss_feed",
+    "https://www.scmp.com/news/china/science/article/3364808/china-team-brings-x-ray-vision-life-compact-high-speed-ghost-video-cam?utm_source=rss_feed"
   ],
   "https://news.google.com/rss/search?q=site:euronews.com&hl=en-US&gl=US&ceid=US:en": [
     "CBMizgFBVV95cUxQT01fYVZsc290dHBnU2VCZnlWWTFHZ0FfcnpSU241c1NwX3pKTllrcnR5VWZ0NjVtWDE4dGlTbkIwQUNBcHdCTGlHeWhCTWVQX3BfTEdyb1ptaVctZENJcVFFSVVJSEtOdkZ1LUZySnhEeUh3UE93YXBsQ2MyNGZXdmRfcTAwVWJGNUtjYm1uNGY1WFVZNFJodl96ODFfZ1A1U1FWendkSjV5dXA3eVE0UmZzT01lY0ZTd1lCSGgwSGJ5cmJpbzgteEM3Nko1QQ",
@@ -1812,8 +1812,6 @@
     "CBMipgFBVV95cUxQT0owNGQ3ak9Ma1BzOHVFQ2NjUWdKNTJDb3Y3YzBCOWQ4N0xuWGFfRHZjZGd0aHB0dGpPRXByTlRlTERma3o4MXdMVmtuLV8xZ09uU0JscTNMWFJRYU92cmdiT0lzcnJ5S21aNmEtNmFRWjJJM3FsblkwMjByNTFkMXU1clFtYlJxQjNIcVVRamoxMlMyM0JfR1BkMDdOcTVveWhlVElB"
   ],
   "https://en.yna.co.kr/RSS/news.xml": [
-    "https://en.yna.co.kr/view/AEN20260819001300320",
-    "https://en.yna.co.kr/view/AEN20260819001100320",
     "https://en.yna.co.kr/view/AEN20260819005200320",
     "https://en.yna.co.kr/view/AEN20260819005100315",
     "https://en.yna.co.kr/view/AEN20260819005000320",
@@ -2111,11 +2109,11 @@
     "https://en.yna.co.kr/view/AEN20260824001400320",
     "https://en.yna.co.kr/view/AEN20260824002900320",
     "https://en.yna.co.kr/view/AEN20260824004000315",
-    "https://en.yna.co.kr/view/AEN20260824003700320"
+    "https://en.yna.co.kr/view/AEN20260824003700320",
+    "https://en.yna.co.kr/view/AEN20260824004700315",
+    "https://en.yna.co.kr/view/AEN20260824003851315"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1787216037",
-    "https://www.aljazeera.com/?t=1787219911",
     "https://www.aljazeera.com/?t=1787231351",
     "https://www.aljazeera.com/?t=1787228457",
     "https://www.aljazeera.com/?t=1787225353",
@@ -2413,7 +2411,9 @@
     "https://www.aljazeera.com/?t=1787404516",
     "https://www.aljazeera.com/?t=1787521929",
     "https://www.aljazeera.com/?t=1787535691",
-    "https://www.aljazeera.com/?t=1787539975"
+    "https://www.aljazeera.com/?t=1787539975",
+    "https://www.aljazeera.com/?t=1787541444",
+    "https://www.aljazeera.com/?t=1787527864"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
     "https://allafrica.com/stories/202607240401.html",
@@ -2784,7 +2784,6 @@
     "https://en.mercopress.com/2026/08/22/colombia-s-government-objects-to-the-law-barring-lower-requirements-for-senior-posts?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss"
   ],
   "https://www.abc.net.au/news/feed/2942460/rss.xml": [
-    "https://www.abc.net.au/news/2026-08-02/women-girls-regional-golf-clubs-increase-south-australia/106922554",
     "https://www.abc.net.au/news/2026-08-02/commonwealth-games-matt-denny-wins-discus-gold/106987034",
     "https://www.abc.net.au/news/2026-08-02/granny-grommets-find-fitness-and-friendship-in-the-waves/106965728",
     "https://www.abc.net.au/news/2026-08-02/rhiannan-iffland-greatest-cliff-diver-wins-mostar-event-bosnia/106987668",
@@ -3083,6 +3082,7 @@
     "https://www.abc.net.au/news/2026-08-24/half-marathon-world-record-smashed-in-buenos-aires/107070524",
     "https://www.abc.net.au/news/2026-08-24/afl-james-hird-congratulates-mark-mcveigh-essendon-coach-job/107070434",
     "https://www.abc.net.au/news/2026-08-24/wnba-enes-kantor-freedom-ejected-from-game/107071160",
-    "https://www.abc.net.au/news/2026-08-24/afl-sydney-swans-scandal-andrew-dillon/107070342"
+    "https://www.abc.net.au/news/2026-08-24/afl-sydney-swans-scandal-andrew-dillon/107070342",
+    "https://www.abc.net.au/news/2026-08-24/wnba-enes-kanter-freedom-ejected-from-game/107071160"
   ]
 }
