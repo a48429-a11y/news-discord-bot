@@ -1,6 +1,5 @@
 {
   "https://news.google.com/rss/search?q=site:reuters.com&hl=ja&gl=JP&ceid=JP:ja": [
-    "CBMidkFVX3lxTE1SemNxRjg1OXdXZ2hPWm1kckZjV19PRFUyUVoxVl9mdldjU3NtS0VSaUVwX1BjODVsUGh1dldnZldDc1Y3WXVLV01MOHJIYmlRclI5N0pXcjBhXzc3U1Bvd09VUXM1SUpRTFE0Q3VZcVhFeVJjTmc",
     "CBMiekFVX3lxTE5XdVRBUVJYZzdkS05hNUtzYnNzYmZzTjBWOThYRWxOQ29xREZMTE5fcGo5SzBrYkVXempUcl9UQ0pIaUt3cmZISk1VVms0cXlsSU9zZXowbFF5eEo1QVR0NDVlLVNzT09LZGxPbjdoVk12RGtfc2NncjZn",
     "CBMigAFBVV95cUxOWWZPOXo1S210eHBzdGpzbFYzQlByZlFRYjFIYWdaWS1pWDd1STZpeXZOTjNmeFplYnlfZEdRRUFHNUNhcUhaZ2lLTWFaTHc2Si11bEVGUmRSRDhPZUJ0M0lmTHA3eFl0eGRmaTRsd1dOQUg4ejJTTkUwUVVlVzBhUw",
     "CBMigAFBVV95cUxQeVVSeERWNFJXcXRkY2dqVUFkaVBYVWtwX0Q0TWcyZC05d21IbHRIRE9HekVsLUhvNV9HOFJGeEhPQnJna3I5aUhKcFcyNHNnNEpiMEU3a2JMQndSZHowc3pFXzh0NERLZ2pIcG9kQlhBS252M0E0bVVMM1U1cXh2Vw",
@@ -299,7 +298,8 @@
     "CBMiekFVX3lxTFBwb0VBQkFhMlN0dTlrNzhJZU42MjBpSVh3RXB0OWdCTk5DN1JUeWRKZTJucDZDTzdOMG83UTB1dXdVR05fekRrdTZiUkM2b1ZhRy1QVmdkLUJtN3RIaDN3SEVkVi1kdVBJQnA2ZmlfNTJ6WVI1TExiOWVn",
     "CBMieEFVX3lxTE5pX1FBWmtHZFlVM0pzQ25qX1FDVnIzWmE4MU5meGpyMlpTVXNhZ2VZNG5VWHRqSTVvdzNYTHY2S0xWOVlldUNSXzUzellKY2VRYm5SZk5JMXJIM0pwN0ZITHg1MjdWalc4Q1dWZzdXRXFrOGJwd0ZOUw",
     "CBMigAFBVV95cUxQSjFBaGdmZS1ZZnR1RnNmUTZsbjBBXzlCTk5FRzNHbG9oTHFOYzdPbjM4SkFWR0Rnak8tT0pybG1Tc0lGbHVOVnZicHJadlhUMVNiQUxYY1hhclNoNmhFNVBub1ByYVIwZFhEd1FxeVdFUVNFRW5NckZFNGx3dFotNg",
-    "CBMifkFVX3lxTE94VW1acnJIeVlMckMzbVFhZE1naTZ2a1h3Z1F4RjlYZ280WmdKTUpaVGpXSFQwTUo5T3JWZ2Zxdzh1N3o5b0I1QWRENTVqZkxrc21jNGlnUHE5ZnRSTmlkdFZXY01jYkFXYUhiM0VWTjFMa3BscEQwbHlwM205QQ"
+    "CBMifkFVX3lxTE94VW1acnJIeVlMckMzbVFhZE1naTZ2a1h3Z1F4RjlYZ280WmdKTUpaVGpXSFQwTUo5T3JWZ2Zxdzh1N3o5b0I1QWRENTVqZkxrc21jNGlnUHE5ZnRSTmlkdFZXY01jYkFXYUhiM0VWTjFMa3BscEQwbHlwM205QQ",
+    "CBMigAFBVV95cUxNX2ZvbFRGZDkzNTFzVVNxUWxIbGF4OU5yamN3Vk9HT185VkNvS2R5TDlnaFV6WS1nS3hHYmpwMkcyaVhCZWx6ZHJWTjl3RG1DXzBNYkNJbUVGRjJKOUpRMGZDcnVZMHd5ZzN0eU1tY0duQ285Q20zamp3UWIySFV3UQ"
   ],
   "https://www3.nhk.or.jp/rss/news/cat0.xml": [
     "http://www3.nhk.or.jp/news/html/20260724/k10015185791000.html",
@@ -906,7 +906,6 @@
     "https://www.bbc.co.uk/news/articles/c5yednen30go#1"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
-    "CBMiqwFBVV95cUxNU3ZsMXhFNUNUQkpXbjVGeERmX0dDX3NNWjFRRjNYSGl3SHNHZWsxdTFPMU44WHZaQUFkczEteFNxaC1MaUV6aFRKc3BOV2YwT2tMUXBnblZkOHhhdkRONGU0aVJvVi15azVsLTJocXlkZHkwM2tPV3ZfcVJqWjRkWnpWZFliSlRkd2FlRmh2MWNzc0t4RExMZUtGam5kQTc3N1g5VlRVajBNaEE",
     "CBMiggFBVV95cUxOaVZmbWZYdjFCbktzdHEzVDhqNktlMEp3dW5DTTBTMnRIV3V0YW1HTTllUkhMaEhpbzJJb2J3bTdDNU9wX0NuZVZEaHVwOW9HT0ZaSzBwbnZIQ3Y3cldPU3RlaTMtUnBPR29rVjRsbUt2NHVKU3lWYmY1N1N3NjBDQTV3",
     "CBMikAFBVV95cUxOY0k1eHVvdHB1VFdtbGxuQXI0dGlHV2w4bkVoYTVTTVkzZ2V0UC10UXRTT29zOHZGN19BQWNOcF94OGNlQWJzTktWREw3X0tXVEVaRUFzd0xVamNLb3ZCZU5ScVdnU2JURVZwUUpGSWlUMTUtYVRQQXNmZHRxbEptb0lzZTgwSTM4ZmVzY25FeTA",
     "CBMirAFBVV95cUxOTTFETUJQZkVvNDNDajRVdEhmQktncnJKN0Rqa2o3U3ZZSDhzSTRKVV84YkwtOEx3Q0pDRHQ0cHEtYmhOcDQwTkVTOXdHWkpIVWZxenE5cDZOaFFxOXdwczcyU0JXR1A0cmhfWGx5cms4NU10bUV4a2l2ckZ0dmVMdVRyMjIzX3puVjlxRnJNZTZJWnJpb1h2R1ZUaTlhRW9OMWg4WVlOZTNVNnVl",
@@ -1205,10 +1204,10 @@
     "CBMilgFBVV95cUxONnlGNlNob0dBenVEaDd5Y2s4QmdjalN3QVNyMW9lLUg0ZnV3eEpva0VQc3g2MGd6cUVVT0dpR0hSTThYSVRHV2daNlUxbEowR0RkSXZuS0RBajQtNmY5RkxQbkhCYWJXY19qWnJidHR1UlNFQ1c5elNpcHJrZ09KWkJDZUl4NWJWRGoyeVYyM3NQQXFVYUE",
     "CBMiqwFBVV95cUxOblpFTlR0TGpXSk0xX0JsbFMydE5yOWhNZ1ZTdThXdlJSeDNTbmFlUWhraUh3NDB2ZlBUMXI5Rjl3WWdjUm9mdTlicjJrc1N5VVM1bmpqcGpnU25PYnZmRVgwN1RiWVpLVHF3SVozVHVBclZFOVBBR2JfWlRZWjY3SUI2UlotU1BqUVUwb2F3QkVGS1JZTWNnZGVkOUNSVjBsSXdPZEROemlNdmc",
     "CBMilwFBVV95cUxQSXdSdlFiakVvQjB2SzhmWFlya0NreVVMMURCSVdtZS1VLVZtaEcxanRSb3VfNEV0TmxQcnlkaUNnSlFscVZUblBtelJrZXBhMWtQQjBHallLMjJVX2JtaDZiQ3NWbUlTeVhCOWdEMTAwZkFpWFRaOEI0em13YjF2R3BCd091X0xhQjRtaTNkSXM2SkczaWJr",
-    "CBMipgFBVV95cUxNc014aUQzZWhRYTFPTWVUUWQzNWxPay1Qd3NmUDAzY3Ewb2lzM2NZelRacGlHUmc3YmlQV2NFOGctQlNqc0dUVmRDdGRPbzA4VXBHOUFsd0FxUkc0RTJHd1RPTklwZS1jUEdlX254aXpKTGE3dE5FQkp3QkZFNzQtT3NWRGpOd1c4bHdFOEhYb09peENXeTE3dzNtSC1IbUxiN3M5VjRn"
+    "CBMipgFBVV95cUxNc014aUQzZWhRYTFPTWVUUWQzNWxPay1Qd3NmUDAzY3Ewb2lzM2NZelRacGlHUmc3YmlQV2NFOGctQlNqc0dUVmRDdGRPbzA4VXBHOUFsd0FxUkc0RTJHd1RPTklwZS1jUEdlX254aXpKTGE3dE5FQkp3QkZFNzQtT3NWRGpOd1c4bHdFOEhYb09peENXeTE3dzNtSC1IbUxiN3M5VjRn",
+    "CBMijgFBVV95cUxNX29vM3hDWU4waTA0b1pQOGQ1UmRSempJWWxCNTItRlRpd09nTk9tT3NfUFNUSXBHaWQ2aGNkYjNRdlMtZjFGQ2tPNW5RX2s5UmNsa2ZKTlhHRVNucEhaOVhEc2MxbG12LUtPaEFoV25NbVBQVU5UaUlFMVJUdmo1VENmM05TdjFsQVpOSmxn"
   ],
   "https://www.scmp.com/rss/4/feed": [
-    "https://www.scmp.com/news/china/military/article/3363032/chinas-palantir-private-tech-firms-surge-defence-ai-aiming-match-us-giants?utm_source=rss_feed",
     "https://www.scmp.com/news/china/diplomacy/article/3363101/chinas-retaliation-against-us-shows-depth-its-trade-war-strategy-analysts-say?utm_source=rss_feed",
     "https://www.scmp.com/news/china/science/article/3363067/ntu-vice-president-kuan-jimmy-hsia-leaves-singapore-new-chinese-university?utm_source=rss_feed",
     "https://www.scmp.com/news/china/science/article/3363108/great-solar-wall-china-doubles-down-its-ambitious-effort-tame-deserts?utm_source=rss_feed",
@@ -1507,7 +1506,8 @@
     "https://www.scmp.com/news/china/article/3365246/brazil-fines-tiktok-record-us30-million-profiting-childrens-data?utm_source=rss_feed",
     "https://www.scmp.com/news/china/military/article/3365247/china-seeks-public-tips-procurement-violations-pla-rocket-force-probe-continues?utm_source=rss_feed",
     "https://www.scmp.com/news/world/russia-central-asia/article/3365253/industrial-fire-kills-3-including-2-chinese-citizens-russias-far-east?utm_source=rss_feed",
-    "https://www.scmp.com/news/us/economy-trade-business/article/3365255/trump-says-china-driving-opposition-data-centres-these-residents-disagree?utm_source=rss_feed"
+    "https://www.scmp.com/news/us/economy-trade-business/article/3365255/trump-says-china-driving-opposition-data-centres-these-residents-disagree?utm_source=rss_feed",
+    "https://www.scmp.com/opinion/china-opinion/article/3364970/africa-knows-who-its-true-friends-are-and-theyre-not-washington?utm_source=rss_feed"
   ],
   "https://news.google.com/rss/search?q=site:euronews.com&hl=en-US&gl=US&ceid=US:en": [
     "CBMiogFBVV95cUxQMGt5YU5zX0hQVExWYVdXdFU0dVFvNWtkcEFQZmNIUU5PTlprM3hvVGo5S0d4X2VBdFFrRFIzQTNLN2R2cHlacHlTVHFWUlB0NzRXM1ZUc2hRR3lkUnVDeHMzbUhyOUI5ZWxoU09ldlBGNGRZYWtScW1RVWhzeWpHSl9VVjd1bGVsdVBjT2tBcGxjdnpWcEJoRWgycjFPUmNpZUE",
@@ -2114,9 +2114,6 @@
     "https://en.yna.co.kr/view/AEN20260825010400315"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1787385765",
-    "https://www.aljazeera.com/?t=1786803576",
-    "https://www.aljazeera.com/?t=1787386918",
     "https://www.aljazeera.com/?t=1787394704",
     "https://www.aljazeera.com/?t=1786920374",
     "https://www.aljazeera.com/?t=1787385223",
@@ -2413,7 +2410,10 @@
     "https://www.aljazeera.com/?t=1787674819",
     "https://www.aljazeera.com/?t=1787651464",
     "https://www.aljazeera.com/?t=1787690113",
-    "https://www.aljazeera.com/?t=1787664885"
+    "https://www.aljazeera.com/?t=1787664885",
+    "https://www.aljazeera.com/?t=1787686183",
+    "https://www.aljazeera.com/?t=1787683903",
+    "https://www.aljazeera.com/?t=1787689019"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
     "https://allafrica.com/stories/202607280027.html",
@@ -2787,7 +2787,8 @@
     "https://en.mercopress.com/2026/08/24/colombia-orders-deportation-of-irregular-migrants-after-a-decade-as-the-main-host-country?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss",
     "https://en.mercopress.com/2026/08/24/milei-links-lula-to-the-case-of-the-argentine-former-adviser-detained-in-bolivia?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss",
     "https://en.mercopress.com/2026/08/24/the-pan-american-congress-closes-with-a-call-for-more-equal-north-south-dialogue?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss",
-    "https://en.mercopress.com/2026/08/24/some-25-000-people-are-seeking-housing-in-cali-two-weeks-after-colombia-s-earthquake?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss"
+    "https://en.mercopress.com/2026/08/24/some-25-000-people-are-seeking-housing-in-cali-two-weeks-after-colombia-s-earthquake?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss",
+    "https://en.mercopress.com/2026/08/25/argentina-acknowledges-the-magellan-treaties-and-seeks-to-defuse-friction-with-chile?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss"
   ],
   "https://www.abc.net.au/news/feed/2942460/rss.xml": [
     "https://www.abc.net.au/news/2026-08-03/richmond-defender-luke-trainor-banned-one-match/106992396",
