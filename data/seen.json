@@ -1208,7 +1208,6 @@
     "CBMimAFBVV95cUxOVi04c1BmUFdiVjdvS2lVTFZHVWhBV3h2U0poNXh3Z0ExQWowWTVoUTQwblBMdUxtanB2OEVRNWVSUmk3c0hSWEwtT2NhVWFpOTdhX1Fxc25XSG5PQnlRU2F6Sy1aMnJVeTY2MHEwV0xjaldlUGFMOVhrcXlWSUJUWUlVSXNfVGpxRkY2ak9SYjZDUDdzeGhxMw"
   ],
   "https://www.scmp.com/rss/4/feed": [
-    "https://www.scmp.com/news/us/diplomacy/article/3363223/trump-signs-new-orders-targeting-birthright-citizenship-and-birth-tourism?utm_source=rss_feed",
     "https://www.scmp.com/news/us/article/3363222/us-presses-china-over-alleged-scam-bosses-despite-growing-police-cooperation?utm_source=rss_feed",
     "https://www.scmp.com/news/china/article/3363219/argentina-renews-us19-billion-china-currency-swap-brushing-washingtons-pressure?utm_source=rss_feed",
     "https://www.scmp.com/news/us/article/3363216/us-sanctions-cubas-military-representative-beijing-over-china-procurement?utm_source=rss_feed",
@@ -1507,7 +1506,8 @@
     "https://www.scmp.com/opinion/china-opinion/article/3364767/chinas-multilateral-pitch-finding-audience?utm_source=rss_feed",
     "https://www.scmp.com/news/china/science/article/3365295/smart-diabetes-probiotic-chinese-missile-ai-90-accuracy-7-science-highlights?utm_source=rss_feed",
     "https://www.scmp.com/plus/news/us/diplomacy/article/3365321/us-pulls-china-punches-iran-economic-d-day-sanctions?utm_source=rss_feed",
-    "https://www.scmp.com/news/china/military/article/3365317/chinese-navy-fires-new-radar-absorbing-yj-18a-anti-ship-missile-sea-trial-expert?utm_source=rss_feed"
+    "https://www.scmp.com/news/china/military/article/3365317/chinese-navy-fires-new-radar-absorbing-yj-18a-anti-ship-missile-sea-trial-expert?utm_source=rss_feed",
+    "https://www.scmp.com/news/china/diplomacy/article/3365330/frustration-china-us-freezes-green-card-interviews-worldwide-citing-training?utm_source=rss_feed"
   ],
   "https://news.google.com/rss/search?q=site:euronews.com&hl=en-US&gl=US&ceid=US:en": [
     "CBMixwFBVV95cUxOUlNXVUhUZFZhMmwzMkVtSDZ0Qkp5dzlGWHppWFc4djVTVklRbmhmbEZMcDNYZTRpQWtzMEVyYTFKNFZzejBfbm95UEVqcEw4X3V0ZW5PR29WWFNIRXVPWTF1WDhZZS1CbFFVQktZNGs4OTR2QVVUZ1R0ZlBHS0ZCYkE4SU96VW9RcGNxSzRkVW11WVFkNm95MDF5Wk5wdnBJekx4eld4VUpKUnZ2S1o5V3B2bGN3SHdZNnJ4LUN5VDdnOW10WjhJ",
@@ -2114,9 +2114,6 @@
     "https://en.yna.co.kr/view/AEN20260826008000315"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1787419197",
-    "https://www.aljazeera.com/?t=1787426526",
-    "https://www.aljazeera.com/?t=1787424444",
     "https://www.aljazeera.com/?t=1787423943",
     "https://www.aljazeera.com/?t=1787433726",
     "https://www.aljazeera.com/?t=1787428930",
@@ -2413,10 +2410,12 @@
     "https://www.aljazeera.com/?t=1787723180",
     "https://www.aljazeera.com/?t=1787724144",
     "https://www.aljazeera.com/?t=1787733936",
-    "https://www.aljazeera.com/?t=1787733625"
+    "https://www.aljazeera.com/?t=1787733625",
+    "https://www.aljazeera.com/?t=1787732132",
+    "https://www.aljazeera.com/?t=1787729312",
+    "https://www.aljazeera.com/?t=1787690018"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
-    "https://allafrica.com/stories/202607280176.html",
     "https://allafrica.com/stories/202607280240.html",
     "https://allafrica.com/stories/202607280474.html",
     "https://allafrica.com/stories/202607280561.html",
@@ -2715,7 +2714,8 @@
     "https://allafrica.com/stories/202608260048.html",
     "https://allafrica.com/stories/202608260049.html",
     "https://allafrica.com/stories/202608260063.html",
-    "https://allafrica.com/stories/202608260091.html"
+    "https://allafrica.com/stories/202608260091.html",
+    "https://allafrica.com/stories/202608260208.html"
   ],
   "https://en.mercopress.com/rss/latin-america": [
     "https://en.mercopress.com/2026/07/11/four-held-in-ecuador-over-migrant-smuggling-network-to-the-united-states?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss",
