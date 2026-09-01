@@ -604,12 +604,6 @@
     "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html"
   ],
   "http://feeds.bbci.co.uk/news/world/rss.xml": [
-    "https://www.bbc.co.uk/news/articles/c3040pn8lmmo#0",
-    "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o#1",
-    "https://www.bbc.co.uk/news/articles/cx272np7vgyo#0",
-    "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o#0",
-    "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo#1",
-    "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo#0",
     "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o#1",
     "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o#2",
     "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo#1",
@@ -903,7 +897,13 @@
     "https://www.bbc.co.uk/news/articles/c5ywd9q3ywvo#0",
     "https://www.bbc.co.uk/news/articles/cpwlxy49225o#1",
     "https://www.bbc.co.uk/news/articles/c93vgv4kr49o#2",
-    "https://www.bbc.co.uk/news/videos/c158z7g23zqo#3"
+    "https://www.bbc.co.uk/news/videos/c158z7g23zqo#3",
+    "https://www.bbc.co.uk/news/articles/czjz31dk1xmo#0",
+    "https://www.bbc.co.uk/news/articles/c9w457e7ydlo#1",
+    "https://www.bbc.co.uk/news/articles/c5ywd9q3ywvo#1",
+    "https://www.bbc.co.uk/news/articles/cz64955d56po#2",
+    "https://www.bbc.co.uk/news/videos/ckg7yrwp70qo#3",
+    "https://www.bbc.co.uk/news/videos/c74emdn49kdo#3"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
     "CBMiogFBVV95cUxNMmwzSmZFWkgyYTUxZ2I5c3FrRFZqb1NNdE01Yk5kZ0QtbE5SNE9fQXAyVDZ4Y3pWdlVvbFczNGVzTXpiM3AybjhNR0JxZ1FmQzY4TkNrUEFDX29FLWp0cC1mVWg0N0JDQVpfbTI0VVBqMlVrNFVPanJqT3JETHBiZFVaV3JpTVI0VU14QXZBWkpNWVZMRGQ2R3VJLUVaT0t5MVE",
@@ -1208,8 +1208,6 @@
     "CBMiiwFBVV95cUxOcVljaFdEWVp5eWl2RWJuakZqbFpnTDVXUnNNRkVqWDNzaGk4Q0VZcGcwYjRhbzNTcEdIVGRUUDQ5ZW9HaHdoODVqRG1yRHZXTTF2R3pIMXZrQ1VJUTc5M21JSXhrWDhwQmF3WU9saW1FMkR6WWJIemtYdTdRdDRSeDlrc3AwZjdWT3hF"
   ],
   "https://www.scmp.com/rss/4/feed": [
-    "https://www.scmp.com/news/china/science/article/3363814/china-sending-scientists-iran-rare-earth-exploration-and-processing?utm_source=rss_feed",
-    "https://www.scmp.com/news/china/politics/article/3363824/zhu-rongji-reformer-who-led-chinas-economic-transformation-through-minefield-or-abyss?utm_source=rss_feed",
     "https://www.scmp.com/news/us/economy-trade-business/article/3363829/us-china-board-investment-stalls-expected-trump-xi-meeting?utm_source=rss_feed",
     "https://www.scmp.com/news/us/diplomacy/article/3363833/us-sets-task-force-combat-birth-tourism-revokes-more-600-visas?utm_source=rss_feed",
     "https://www.scmp.com/news/us/article/3363832/china-projects-outward-confidence-amid-economic-anxiety-us-congressional-panel-says?utm_source=rss_feed",
@@ -1507,7 +1505,9 @@
     "https://www.scmp.com/opinion/asia-opinion/article/3365334/india-needs-make-its-mind-about-economic-ties-china?utm_source=rss_feed",
     "https://www.scmp.com/news/china/article/3365902/can-chinese-sleeper-hit-dear-you-conquer-us-box-office-next?utm_source=rss_feed",
     "https://www.scmp.com/news/china/diplomacy/article/3365899/chile-fines-chinese-mafia-inmate-after-cocaine-found-maximum-security-prison?utm_source=rss_feed",
-    "https://www.scmp.com/news/china/diplomacy/article/3365895/us-targets-chinas-global-trade-surplus-g20-meeting-ahead-xi-trump-summit?utm_source=rss_feed"
+    "https://www.scmp.com/news/china/diplomacy/article/3365895/us-targets-chinas-global-trade-surplus-g20-meeting-ahead-xi-trump-summit?utm_source=rss_feed",
+    "https://www.scmp.com/news/china/diplomacy/article/3365909/us-university-pay-us21-million-settlement-over-claims-it-didnt-disclose-china-ties?utm_source=rss_feed",
+    "https://www.scmp.com/news/china/politics/article/3365875/laptop-social-media-user-and-false-alarm-taiwan-over-beijing-spy?utm_source=rss_feed"
   ],
   "https://news.google.com/rss/search?q=site:euronews.com&hl=en-US&gl=US&ceid=US:en": [
     "CBMirgFBVV95cUxPWG1KWnVhOEdJb3lXYWY3aDJraVFTQVNmRGlSRkV4UENlcTF0a1VWSFg3aEkxZUR3R3BRbWpVcTdOTlAxdkdYUzFoUjF4bndWWWZBSkFqTUZwcy1SSjR5SWhVSjItSHpGQi1iSUREeV95SkQtaWF5RVlVT05MR3Bhdjlqb1NvNTVUUkl2dmEzRTJLTUtLV3NWWFNuS2tXZ0U5dklnV1YtX3RQYUNzLVE",
@@ -1812,27 +1812,6 @@
     "CBMiuwFBVV95cUxObFdGalQ0ODlrUGVsM0dtSDFmRWhfWFhaTmh2WG5vR3hoZEM2NmVXd1VTOUJQVnk5OGxGTGdzR1J1M3NhYl9WVG1ERURpZVh4eTFpWW9Fd3A4c1ZEckhTd0RrajJIa2twRzc1bU1TSXE2N1BESXBUaGZMU0dzQTlpcVVMdS1wWkpmVXVTZzhpN2IxV0dMaFBPYXdrWG0yRld4Q3NWNk5MeVhlM2I2LUp4QUtudnNrSVg0R1Rz"
   ],
   "https://en.yna.co.kr/RSS/news.xml": [
-    "https://en.yna.co.kr/view/AEN20260827005500315",
-    "https://en.yna.co.kr/view/AEN20260827005800320",
-    "https://en.yna.co.kr/view/AEN20260827004800320",
-    "https://en.yna.co.kr/view/AEN20260827005600320",
-    "https://en.yna.co.kr/view/AEN20260827005300315",
-    "https://en.yna.co.kr/view/AEN20260827005400320",
-    "https://en.yna.co.kr/view/AEN20260827004900315",
-    "https://en.yna.co.kr/view/AEN20260827004700315",
-    "https://en.yna.co.kr/view/AEN20260827005000320",
-    "https://en.yna.co.kr/view/AEN20260827003000320",
-    "https://en.yna.co.kr/view/AEN20260827005100320",
-    "https://en.yna.co.kr/view/AEN20260827004600320",
-    "https://en.yna.co.kr/view/AEN20260827004300315",
-    "https://en.yna.co.kr/view/AEN20260827003800315",
-    "https://en.yna.co.kr/view/AEN20260827004500320",
-    "https://en.yna.co.kr/view/AEN20260827003700315",
-    "https://en.yna.co.kr/view/AEN20260827001300320",
-    "https://en.yna.co.kr/view/AEN20260827002800320",
-    "https://en.yna.co.kr/view/AEN20260827002900315",
-    "https://en.yna.co.kr/view/AEN20260827003600315",
-    "https://en.yna.co.kr/view/AEN20260827003100315",
     "https://en.yna.co.kr/view/AEN20260827001252320",
     "https://en.yna.co.kr/view/AEN20260827003200315",
     "https://en.yna.co.kr/view/AEN20260827003400320",
@@ -2111,12 +2090,30 @@
     "https://en.yna.co.kr/view/AEN20260901000800315",
     "https://en.yna.co.kr/view/AEN20260901000500315",
     "https://en.yna.co.kr/view/AEN20260901000300315",
-    "https://en.yna.co.kr/view/AEN20260901000200315"
+    "https://en.yna.co.kr/view/AEN20260901000200315",
+    "https://en.yna.co.kr/view/AEN20260901003900320",
+    "https://en.yna.co.kr/view/AEN20260901003551315",
+    "https://en.yna.co.kr/view/AEN20260901002752320",
+    "https://en.yna.co.kr/view/AEN20260901002252315",
+    "https://en.yna.co.kr/view/AEN20260901003000320",
+    "https://en.yna.co.kr/view/AEN20260901003200315",
+    "https://en.yna.co.kr/view/AEN20260901003500315",
+    "https://en.yna.co.kr/view/AEN20260901001600315",
+    "https://en.yna.co.kr/view/AEN20260901003300315",
+    "https://en.yna.co.kr/view/AEN20260901002751320",
+    "https://en.yna.co.kr/view/AEN20260901001851320",
+    "https://en.yna.co.kr/view/AEN20260901002251315",
+    "https://en.yna.co.kr/view/AEN20260901002800315",
+    "https://en.yna.co.kr/view/AEN20260901002700320",
+    "https://en.yna.co.kr/view/AEN20260901001800320",
+    "https://en.yna.co.kr/view/AEN20260901001700320",
+    "https://en.yna.co.kr/view/AEN20260901002300320",
+    "https://en.yna.co.kr/view/AEN20260901002200315",
+    "https://en.yna.co.kr/view/AEN20260901001900315",
+    "https://en.yna.co.kr/view/AEN20260901002000315",
+    "https://en.yna.co.kr/view/AEN20260901001500315"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1787848656",
-    "https://www.aljazeera.com/?t=1787862065",
-    "https://www.aljazeera.com/?t=1787861772",
     "https://www.aljazeera.com/?t=1787843935",
     "https://www.aljazeera.com/?t=1787853027",
     "https://www.aljazeera.com/?t=1787860868",
@@ -2413,11 +2410,12 @@
     "https://www.aljazeera.com/?t=1788198899",
     "https://www.aljazeera.com/?t=1788200735",
     "https://www.aljazeera.com/?t=1788182746",
-    "https://www.aljazeera.com/?t=1788182100"
+    "https://www.aljazeera.com/?t=1788182100",
+    "https://www.aljazeera.com/?t=1788183480",
+    "https://www.aljazeera.com/?t=1788215217",
+    "https://www.aljazeera.com/?t=1788216650"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
-    "https://allafrica.com/stories/202608040108.html",
-    "https://allafrica.com/stories/202608040103.html",
     "https://allafrica.com/stories/202608040034.html",
     "https://allafrica.com/stories/202608040082.html",
     "https://allafrica.com/stories/202608040011.html",
@@ -2715,7 +2713,9 @@
     "https://allafrica.com/stories/202608310445.html",
     "https://allafrica.com/stories/202608310684.html",
     "https://allafrica.com/stories/202608310681.html",
-    "https://allafrica.com/stories/202608310503.html"
+    "https://allafrica.com/stories/202608310503.html",
+    "https://allafrica.com/stories/202608310791.html",
+    "https://allafrica.com/stories/202608310790.html"
   ],
   "https://en.mercopress.com/rss/latin-america": [
     "https://en.mercopress.com/2026/07/11/four-held-in-ecuador-over-migrant-smuggling-network-to-the-united-states?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss",
@@ -2794,9 +2794,6 @@
     "https://en.mercopress.com/2026/08/31/brazil-flavio-bolsonaro-promises-500-000-prison-places-inspired-by-the-salvadoran-model?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss"
   ],
   "https://www.abc.net.au/news/feed/2942460/rss.xml": [
-    "https://www.abc.net.au/news/2026-08-09/nrl-live-updates-raiders-knights-dragons-sharks/107014254",
-    "https://www.abc.net.au/news/2026-08-09/wallabies-debut-isaac-henry-test-debut-japan/107014262",
-    "https://www.abc.net.au/news/2026-08-09/afl-rd-22-live-gws-suns-wce-coll-stk-carl/107008342",
     "https://www.abc.net.au/news/2026-08-09/quillan-salkilld-wins-his-first-ufc-main-event/107014434",
     "https://www.abc.net.au/news/2026-08-09/cameron-munster-dangerous-contact-charge-downgraded/107014712",
     "https://www.abc.net.au/news/2026-08-09/blues-start-aflw-season-with-26-point-win-over-saints/107014688",
@@ -3093,6 +3090,9 @@
     "https://www.abc.net.au/news/2026-08-31/afl-geelong-cats-concussion-waiver-jake-kolodjashnij-finals/107098826",
     "https://www.abc.net.au/news/2026-09-01/messi-leaves-argentina/107030934",
     "https://www.abc.net.au/news/2026-09-01/aryna-sabalenka-begins-us-open-title-defence-arthur-fils-out/107100648",
-    "https://www.abc.net.au/news/2026-09-01/kim-birrell-defeats-petra-marcinko-in-us-open-first-round/107100632"
+    "https://www.abc.net.au/news/2026-09-01/kim-birrell-defeats-petra-marcinko-in-us-open-first-round/107100632",
+    "https://www.abc.net.au/news/2026-09-01/stefanos-tsitsipas-expected-nick-kyrgios-cocaine-suspension/107101286",
+    "https://www.abc.net.au/news/2026-09-01/lionel-messi-argentina-world-up-success-almost-never-happened/107100750",
+    "https://www.abc.net.au/news/2026-09-01/marnus-labuschagne-dropped-as-australia-names-odi-squad/107101124"
   ]
 }
