@@ -1510,8 +1510,6 @@
     "https://www.scmp.com/news/china/science/article/3366307/chinese-team-extracts-uranium-seawater-8-times-us-target-rate?utm_source=rss_feed"
   ],
   "https://news.google.com/rss/search?q=site:euronews.com&hl=en-US&gl=US&ceid=US:en": [
-    "CBMixAFBVV95cUxNQlQ3NjFIYkYtTV9qcWhRaFp0TkdieF9iakZ1WnA1b2RKN05odW1Zdzh5ZndMN1djcFNIWklWT05SRThBQ3RMVHRERi1ZbVZDN3kyV0YyWUtGYVI4YjY4MnlnWTFXMERDMFJCbFFwSlMyWFpWQU0zVEVVcHEzQUtJdEZLa1p1RGM0RHo5YnBMeDFpSUZBck1pOHRuakVwVHcwQW1ZcEdYTlpoT1Z5VUJ1cVAyM0JWMzZ3SlFMNTFqRVEzQi1H",
-    "CBMi0gFBVV95cUxNUFBkQzFQMXRnekhRZ21ZNVdkNEdfd2pFdU9xMXZSV2tLWnpiUC0wNWVucnd2RUQ0d1RyUnVNd1pnX1hzb3M3em1VQ1ptM3BxZ2UyMHZmWjR6eWVlVDhrNUlDSFVSMmtYUlNwWmJxR24tLVU0N0Eta21BMjNSNXhrRzlJLU5SVlRMUkREdllXSHc0cndMLTN0NmVoc0tzVU9iNGRtQm1fYXZ1UzNoaDU2bXlucUxPYS1LUUg5QlFMS2hfWWhrRnVURHZua2JsQnFCcVE",
     "CBMiwAFBVV95cUxOU2tHSFRmYnJVUnJ2RWM3LWFMXzNpZ1BCUGw2T0tKS2RkTjRfMjk3ZzdLc25laW93OU5ZYTZ4cHhOeGx2V0xISEJaN1RhbXQ1RVRINmJFYWxxNkFld2l4YVZJMmU3U05nZmdSbWZnV1QwT0pfV0pQcUVYbG9sekpEaXZyZlZFYjNnWUVIYkl6Q3VnblZlaW5jd1dvbS1BWHdBYnZRNTFEdW52M2hla04yRm9pa0txU1BWNld5bi1XYlQ",
     "CBMiuwFBVV95cUxOUWNWbWFFcUJRRTctNW00T25tZlhxZ0xTWjlpNFZwbHAzZEhDYnVweXVXOVpsaTQ1Wk0tb19kNUJPekJOTkdwM3VPTlhkMjVkb3gyM19ra3NzS2JHcGhucmhVNVpSVUFiQ3JyOEZkazVpNjRBOTVVTEFCT1VXVFI2VjVVa01zWjdPTDA0Mm9OZ003YVhEVVc3d2RhaHhjTHBuSGluWUpwc1JzUFRlZ0MxVEhueEdoSXBqRks0",
     "CBMirgFBVV95cUxNUkRHaFRzOHVIWlFTQnlIblJlS0hTcGxPM0E1NGVJNHk4WkNqbWZGVVhKM0Y3UnFyOTRLRVctb3RuQkdMSm9sU2FBRjhMZmo2Z0RqaDZIQWVOZ19lOEhWSjhwckxnNVA0akx4WTk5MVRGLUVkeDQxQkludmo0MjBIMjFQS2FjSXN5MzVmSnZLVFVkRExXWWZCeXZrOHMzaVdlUmNCTVpfV2dES1JCY1E",
@@ -1809,10 +1807,11 @@
     "CBMixAFBVV95cUxNWlREZkpzWWdscmZMYVhvQ0NBZWppU1cwMC1RTkpwYXJGRHNHdkxxV2VCLVYyalJOa1Fvd2lHOWhPREswRmZxYVh2N0RCVFVGNlpfanNmVVpUQnhwbUJKYks3Nk5EVy1YTnVDN2R2ZFVWTXlkX1QtUjFvanh3N2hmbkQwOGpYemdQTmRFU1hVdk1EODQwR1lLYURCSThkZGtvUjFNNThXTy16aC1ROVN3M2xFRW45Vk1rVW9FVm5ybXpnVXR3",
     "CBMizAFBVV95cUxPNmd4M2FJRlNWaW8zblpMbUdRTnhvRklzVG84Wm1IUG5PNF9RVWZvaWFjREV4YUVZc3gtX2FTcjhUVUFRNFpHSm5qU2lxdmxVZ1p1ejFUcVJWdm1TWWNmbjdZRzhpQlhMbklnUWFFNDlvWmpnTE5PaHhrenlQa0M3OE5LWm9TYzJUb2ZQQzJhczJ6MU9mT3ZuVjZTX0hqRF96blFRMllrY2I4MExDSVMtMEozenBOTzI3SDYyOTBBWEt2TFBmdUtPY3loN08",
     "CBMixAFBVV95cUxPeHozbXhzZVNoMmNhQXdib3lsaWFUWjRocXRFTE5FNlZjSm9DZkFTVkwtUUY5TXczZzV6WXN0dTRQS0k1TndYRVlMdEJRTU9jcktZcXZ5WU16cUV3NUR4WUpZd2U5QTREd0kwVURSY1ppYW5NNGJnM3gwX3o4ODc1NF9NMGQ0WmJreFdYcHVTNWw1SU9PYjB2Z09rRTJ2XzRLa1Vyak5GUHBWeGJxQ21IVVZOOEpPdmUtNm52NXpTZ0htd0p4",
-    "CBMixAFBVV95cUxNUE9nYUM1RHVLOHltU19CR2NvQkxCVU5qU1JGUERKLWwzem8tTWxxSXliUGpGRHlJdUhJX2IwOGVzNV9WbFdoaFhPQ1huNkk1UHZEZVIxZHdzQnlPblU5c1FyY1l5Ti1YXy1uNnZvc29uMHUwRmFFbmJGYU9rOWRtRGhZbEcybUplbmR5RDhWRTFib2xEaVM4TThmbXdoOHFOcGdkWTJOQkVhWDZ1UE03UDh3dFBwdC1rMk5jc0Z0YXlmekZu"
+    "CBMixAFBVV95cUxNUE9nYUM1RHVLOHltU19CR2NvQkxCVU5qU1JGUERKLWwzem8tTWxxSXliUGpGRHlJdUhJX2IwOGVzNV9WbFdoaFhPQ1huNkk1UHZEZVIxZHdzQnlPblU5c1FyY1l5Ti1YXy1uNnZvc29uMHUwRmFFbmJGYU9rOWRtRGhZbEcybUplbmR5RDhWRTFib2xEaVM4TThmbXdoOHFOcGdkWTJOQkVhWDZ1UE03UDh3dFBwdC1rMk5jc0Z0YXlmekZu",
+    "CBMiugFBVV95cUxORHZnN21XazdjSndHVTFSRkVJMndMZTNWMUs0RlQwMllnZXRFUVJMbmRuZEstUTRGX1NtNnRNNVBkZmN2bVBUU1E2M1JIWE12X2VScFQ4VWxXV3ZBc0RPZDJXOU9CQ2JoTUx3bW1WSVJpaTN0WHA4VHdOWkFSb2Foejd5RHJaT1A5OThYNGYzRUZoUUlvWTVwYzBjUlNRY1pWaC1SWWNiYk1Yb0VUMzhWbW9JTHFTc0ZFOVE",
+    "CBMikgFBVV95cUxQc2R5RERIVU9oYUtBd09iR0ZBaXZyWjhiM2pycndoTEx6UndQa2xjV3BQallwdTlwVmcwQzZueHdEaHRFUVd2YkZEZC1TX1F1ZTFyZTVTeDlrNUdUZjZZVVNldUFMSl93SFo0V1pGdVpGT0toUEFKc2IzM2F0dklWZDFzUzg2V1lfemo5bUhtVTRfQQ"
   ],
   "https://en.yna.co.kr/RSS/news.xml": [
-    "https://en.yna.co.kr/view/AEN20260901004600315",
     "https://en.yna.co.kr/view/AEN20260901004900320",
     "https://en.yna.co.kr/view/AEN20260901007100315",
     "https://en.yna.co.kr/view/AEN20260901007000315",
@@ -2111,20 +2110,10 @@
     "https://en.yna.co.kr/view/AEN20260904002500320",
     "https://en.yna.co.kr/view/AEN20260904012100315",
     "https://en.yna.co.kr/view/AEN20260904012000315",
-    "https://en.yna.co.kr/view/AEN20260904011900320"
+    "https://en.yna.co.kr/view/AEN20260904011900320",
+    "https://en.yna.co.kr/view/AEN20260904012200320"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1788284132",
-    "https://www.aljazeera.com/?t=1788276802",
-    "https://www.aljazeera.com/?t=1788282271",
-    "https://www.aljazeera.com/?t=1788275851",
-    "https://www.aljazeera.com/?t=1788274670",
-    "https://www.aljazeera.com/?t=1788280747",
-    "https://www.aljazeera.com/?t=1788270987",
-    "https://www.aljazeera.com/?t=1788279143",
-    "https://www.aljazeera.com/?t=1788279060",
-    "https://www.aljazeera.com/?t=1788272518",
-    "https://www.aljazeera.com/?t=1788277991",
     "https://www.aljazeera.com/?t=1788294412",
     "https://www.aljazeera.com/?t=1788296196",
     "https://www.aljazeera.com/?t=1788296311",
@@ -2413,7 +2402,18 @@
     "https://www.aljazeera.com/?t=1788541893",
     "https://www.aljazeera.com/?t=1788543325",
     "https://www.aljazeera.com/?t=1788535068",
-    "https://www.aljazeera.com/?t=1788540327"
+    "https://www.aljazeera.com/?t=1788540327",
+    "https://www.aljazeera.com/?t=1788553654",
+    "https://www.aljazeera.com/?t=1788554479",
+    "https://www.aljazeera.com/?t=1788554148",
+    "https://www.aljazeera.com/?t=1788550486",
+    "https://www.aljazeera.com/?t=1788553501",
+    "https://www.aljazeera.com/?t=1788543343",
+    "https://www.aljazeera.com/?t=1788553084",
+    "https://www.aljazeera.com/?t=1788552137",
+    "https://www.aljazeera.com/?t=1788548158",
+    "https://www.aljazeera.com/?t=1788528468",
+    "https://www.aljazeera.com/?t=1788541611"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
     "https://allafrica.com/stories/202608100079.html",
@@ -2796,10 +2796,6 @@
     "https://en.mercopress.com/2026/09/03/eight-months-after-maduro-s-capture-venezuela-s-oil-boom-has-outrun-latin-america-s-sovereignty-debate?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss"
   ],
   "https://www.abc.net.au/news/feed/2942460/rss.xml": [
-    "https://www.abc.net.au/news/2026-08-13/red-bull-supercars-will-brown-engine-fault/107031324",
-    "https://www.abc.net.au/news/2026-08-13/sexual-favours-scandal-rocks-south-korea-football-association/107031744",
-    "https://www.abc.net.au/news/2026-08-13/live-updates-australia-vs-bangladesh-first-test-day-one/107021750",
-    "https://www.abc.net.au/news/2026-08-13/wallabies-team-japan-second-test-1000-cap/107027200",
     "https://www.abc.net.au/news/2026-08-13/sophie-cunningham-trans-comments-wnba-attack-analysis/107023100",
     "https://www.abc.net.au/news/2026-08-13/afl-solomon-rejects-feud-rumours-mcveigh-hird-essendon/107033606",
     "https://www.abc.net.au/news/2026-08-13/afl-sidebottom-prestia-announce-retirements/107034062",
@@ -3095,6 +3091,10 @@
     "https://www.abc.net.au/news/2026-09-04/lucas-herrington-hull-city-epl-teenage-dream/107115754",
     "https://www.abc.net.au/news/2026-09-04/nrl-tigers-marshall-defends-luai-png-trip-irrelevant-criticism/107117678",
     "https://www.abc.net.au/news/2026-09-04/afl-sydney-swans-rowbottom-on-blakey-ban-support/107116932",
-    "https://www.abc.net.au/news/2026-09-05/afl-adelaide-midfield-test-western-bulldogs-analysis/107116116"
+    "https://www.abc.net.au/news/2026-09-05/afl-adelaide-midfield-test-western-bulldogs-analysis/107116116",
+    "https://www.abc.net.au/news/2026-09-05/basketball-world-cup-opener-australia-opals-beat-puerto-rico/107119704",
+    "https://www.abc.net.au/news/2026-09-05/kyrgyzstan-world-nomad-games-central-asia/107112630",
+    "https://www.abc.net.au/news/2026-09-05/us-open-tennis-aryna-sabalenka-cannabis-smell-new-york/107119676",
+    "https://www.abc.net.au/news/2026-09-05/jai-arrow-south-sydney-rabbitohs-last-game-mn/107119276"
   ]
 }
