@@ -604,7 +604,6 @@
     "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html"
   ],
   "http://feeds.bbci.co.uk/news/world/rss.xml": [
-    "https://www.bbc.co.uk/news/articles/c70d41g40njo#2",
     "https://www.bbc.co.uk/news/articles/cd948kn02e5o#2",
     "https://www.bbc.co.uk/news/videos/cj06j16vpr5o#3",
     "https://www.bbc.co.uk/news/videos/c93v7x5qr79o#3",
@@ -903,7 +902,8 @@
     "https://www.bbc.co.uk/news/videos/cqlw6q0xv4zo#3",
     "https://www.bbc.co.uk/news/videos/cr7dzr2e789o#3",
     "https://www.bbc.co.uk/news/videos/c4gr9y1ny3xo#3",
-    "https://www.bbc.co.uk/news/videos/c74knp7y04eo#3"
+    "https://www.bbc.co.uk/news/videos/c74knp7y04eo#3",
+    "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo#0"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
     "CBMiqAFBVV95cUxPSnVLbXdYY0JCUk1NeXotZE1WUFNyNG5ITm5GVUpEQnplT1BFQ0d6SWxPTjlIdC1va2JHM0duRTRZUUpnWUxTSmo2cDZPY016d2l5OWZBcG1oUnNJekV0M3U2WW1LSjZBNl8xSjNlbktVT2NRdlNISHkxeXlqdWp1UXhUUHEtZzg1SmVYYlJUcmE5bzQzSGlwZkZMYVk5eWV4QUJUNFhYUlk",
@@ -1208,11 +1208,6 @@
     "CBMisAFBVV95cUxOTGFfMG5pSlJNM01Ba0ZHbkZVZkdmOHVVdlFsNTh4WFFpS2FOcVp1ZzNQSnI1TmFSQWU3MzBRNlc2aGNWbXRhTVd4UHhxYWxXeko5b05tMkNTS09VQy14SGEzaFljSjN3OTNYdjN2SmU5TlVXekc3R2h1VjQ3Y1YyWXZkZDlEdVMyZF92RUlyeU12WTg1Uk5rVGVQanhlWDNyN0tOZEpiQ1otR05aZHJ4Wg"
   ],
   "https://www.scmp.com/rss/4/feed": [
-    "https://www.scmp.com/news/china/politics/article/3364320/why-chinese-state-media-telling-people-stop-using-english-ai-terms?utm_source=rss_feed",
-    "https://www.scmp.com/news/china/science/article/3364364/chinese-navys-combat-software-guru-zhao-xiaozhe-disappears-academy-website?utm_source=rss_feed",
-    "https://www.scmp.com/plus/news/china/diplomacy/article/3364393/china-led-sco-counterweight-west?utm_source=rss_feed",
-    "https://www.scmp.com/news/china/diplomacy/series/3364401/xis-2026-trip-us?utm_source=rss_feed",
-    "https://www.scmp.com/plus/news/world/middle-east/article/3364424/iran-conflict-boosts-appeal-arctic-short-cut-asia-europe-ships?utm_source=rss_feed",
     "https://www.scmp.com/news/china/politics/article/3364422/chinese-president-xi-jinping-leads-party-elite-final-farewell-ex-premier-zhu-rongji?utm_source=rss_feed",
     "https://www.scmp.com/news/china/military/article/3364423/pla-troops-sent-gold-new-taiwan-and-us-dollars-wartime-financial-support-drill?utm_source=rss_feed",
     "https://www.scmp.com/news/china/military/article/3364444/top-chinese-general-draws-jiangs-legacy-highlight-importance-loyalty-military?utm_source=rss_feed",
@@ -1507,7 +1502,12 @@
     "https://www.scmp.com/news/china/science/article/3366307/chinese-team-extracts-uranium-seawater-8-times-us-target-rate?utm_source=rss_feed",
     "https://www.scmp.com/news/china/politics/article/3366459/typhoon-saudel-days-flooding-trigger-fatal-landslide-central-china?utm_source=rss_feed",
     "https://www.scmp.com/news/china/politics/article/3366416/taiwans-opposition-parties-split-over-mayoral-race-threatening-2028-election-alliance?utm_source=rss_feed",
-    "https://www.scmp.com/news/china/diplomacy/article/3366430/china-expands-currency-swap-egypt-trade-ties-reach-new-heights?utm_source=rss_feed"
+    "https://www.scmp.com/news/china/diplomacy/article/3366430/china-expands-currency-swap-egypt-trade-ties-reach-new-heights?utm_source=rss_feed",
+    "https://www.scmp.com/news/china/diplomacy/article/3366488/taiwan-remains-asias-most-dangerous-issue-former-singaporean-diplomat-warns?utm_source=rss_feed",
+    "https://www.scmp.com/news/china/science/article/3366481/chinese-german-team-builds-ultra-sensitive-floating-compass-hunt-dark-matter?utm_source=rss_feed",
+    "https://www.scmp.com/news/asia/south-asia/article/3366486/chinese-man-nepali-woman-found-alive-10-days-after-flood?utm_source=rss_feed",
+    "https://www.scmp.com/news/china/diplomacy/article/3366477/canada-and-china-thaw-continues-militaries-hold-first-talks-8-years-amid-us-pressure?utm_source=rss_feed",
+    "https://www.scmp.com/news/china/science/article/3366170/war-earth-could-spill-over-moon-chinese-space-scientists-warn?utm_source=rss_feed"
   ],
   "https://news.google.com/rss/search?q=site:euronews.com&hl=en-US&gl=US&ceid=US:en": [
     "CBMixgFBVV95cUxQQWtBOGtwMnRhdGdERVlQczJOTzlqR0RIOF9iQ2VobGt0VnZiUldCOHJuemFadXNiMVpqaU9jNGlEMXk3M3FhUnM0STRQZGh0X0xsRzFYUVpLdTBaYTRFS0lxQ2FCc0NRQXJKNGVJeGJhX0pVTk9fclFhUkppaDJ0T1BaVDRabkt0VGp3d0ZDUkkxT2F6M3hZOEJ5S2c4YXBDZGRHRENsQzZ4b1FVTGV3Wm1oYkZmX3NnQWNlM2dCbmw2M2xSc2c",
@@ -1812,8 +1812,6 @@
     "CBMiowFBVV95cUxQSURFZFVWQ1UzWUc1djNtdjREbThTS0dYOUhBNjVWQUhVR0J2QnBVd3BFcEhoZnlDMmx5WURuQ3R6TjhwREtkc2JodFlscHZ1U01PaEotUUxRRjF0Q054QkZsYkZ0UXZkd3pFM1hSN0E4cWo1eVk4QTZpVlh5QUFPVmJpOFN3VlBzRldFRWd5S25Vd0VfZGF2eXl0NmE0RlMwU0Vr"
   ],
   "https://en.yna.co.kr/RSS/news.xml": [
-    "https://en.yna.co.kr/view/AEN20260901006100315",
-    "https://en.yna.co.kr/view/AEN20260901001200320",
     "https://en.yna.co.kr/view/AEN20260901000600320",
     "https://en.yna.co.kr/view/AEN20260901000700320",
     "https://en.yna.co.kr/view/AEN20260901003553315",
@@ -2111,20 +2109,11 @@
     "https://en.yna.co.kr/view/AEN20260905000551315",
     "https://en.yna.co.kr/view/AEN20260905001000315",
     "https://en.yna.co.kr/view/AEN20260905000800315",
-    "https://en.yna.co.kr/view/AEN20260905001900315"
+    "https://en.yna.co.kr/view/AEN20260905001900315",
+    "https://en.yna.co.kr/view/AEN20260905000652315",
+    "https://en.yna.co.kr/view/AEN20260905002100315"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1788300383",
-    "https://www.aljazeera.com/?t=1788308151",
-    "https://www.aljazeera.com/?t=1788302071",
-    "https://www.aljazeera.com/?t=1788343745",
-    "https://www.aljazeera.com/?t=1788343220",
-    "https://www.aljazeera.com/?t=1788332515",
-    "https://www.aljazeera.com/?t=1788340100",
-    "https://www.aljazeera.com/?t=1788331583",
-    "https://www.aljazeera.com/?t=1788322502",
-    "https://www.aljazeera.com/?t=1788325140",
-    "https://www.aljazeera.com/?t=1788337071",
     "https://www.aljazeera.com/?t=1788333178",
     "https://www.aljazeera.com/?t=1788332354",
     "https://www.aljazeera.com/?t=1788321141",
@@ -2413,10 +2402,20 @@
     "https://www.aljazeera.com/?t=1788592016",
     "https://www.aljazeera.com/?t=1788503849",
     "https://www.aljazeera.com/?t=1788588179",
-    "https://www.aljazeera.com/?t=1788588500"
+    "https://www.aljazeera.com/?t=1788588500",
+    "https://www.aljazeera.com/?t=1788610055",
+    "https://www.aljazeera.com/?t=1788606531",
+    "https://www.aljazeera.com/?t=1788373123",
+    "https://www.aljazeera.com/?t=1788593553",
+    "https://www.aljazeera.com/?t=1788605157",
+    "https://www.aljazeera.com/?t=1788601358",
+    "https://www.aljazeera.com/?t=1788594727",
+    "https://www.aljazeera.com/?t=1788601673",
+    "https://www.aljazeera.com/?t=1788598389",
+    "https://www.aljazeera.com/?t=1788600856",
+    "https://www.aljazeera.com/?t=1788595355"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
-    "https://allafrica.com/stories/202608100079.html",
     "https://allafrica.com/stories/202608100108.html",
     "https://allafrica.com/stories/202608100321.html",
     "https://allafrica.com/stories/202608100318.html",
@@ -2715,7 +2714,8 @@
     "https://allafrica.com/stories/202609040431.html",
     "https://allafrica.com/stories/202609040668.html",
     "https://allafrica.com/stories/202609040680.html",
-    "https://allafrica.com/stories/202609040675.html"
+    "https://allafrica.com/stories/202609040675.html",
+    "https://allafrica.com/stories/202609050119.html"
   ],
   "https://en.mercopress.com/rss/latin-america": [
     "https://en.mercopress.com/2026/07/11/four-held-in-ecuador-over-migrant-smuggling-network-to-the-united-states?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss",
