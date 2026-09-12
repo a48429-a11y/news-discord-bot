@@ -604,7 +604,6 @@
     "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html"
   ],
   "http://feeds.bbci.co.uk/news/world/rss.xml": [
-    "https://www.bbc.co.uk/news/articles/cd68jv9d21zo#1",
     "https://www.bbc.co.uk/news/articles/c7507g9v992o#1",
     "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o#2",
     "https://www.bbc.co.uk/news/articles/cyvze0n4vy1o#2",
@@ -903,11 +902,10 @@
     "https://www.bbc.co.uk/news/videos/cwyz11gk7y7o#3",
     "https://www.bbc.co.uk/news/articles/cy4zpp20w77o#0",
     "https://www.bbc.co.uk/news/articles/c4gr33g3evlo#1",
-    "https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o#2"
+    "https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o#2",
+    "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo#0"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
-    "CBMipgFBVV95cUxObVQ1YjV2dVRsb0UtOVBCbHB3UVU0SC1qelZLSHVYZTM5MF9FdzMtZmhrZDgtS3BXUWxheXFleWZ5bnIzTU5aZlZSQTUtRWk0NU9VblN5eTM2aEJNOFdDdjcxTGxyYnRlR05JU0JaT1JENEt1VW5HRDk2dmlYZHJGWmZ6a2pWVmJnQ2VfeUsybVlOeHVtSkU1V0R3YndhQzRkcEVwbjB3",
-    "CBMihAFBVV95cUxPUHNOX1pxMzZOcXo4VmU0S2xfU240TEJQaXlDYXZZeVd4QV9rczlNSUpURFNtQ253WkxzenVSM0NJTzRsU1hhT0JwakhSc1JHUTNVcndQb3o2SzI3YkFhUWxwZGsxWWxoRkJNVWM2OE01QWVwNTNBaHZPU3hCNHpDVGkySHc",
     "CBMiswFBVV95cUxPVFYzbkpYSWY3R01MQVo2Sk44OVRpSjlLaTNma1F0dFpveURjeXRlaldXdjJXSHhQdFo2RVNwb1BrUGNLM20zd3ZEZ1lKank4eVBEckgxZDlGVlBfd1NJSVBWbUlqLVUwZlhFV0RkWU1DbnpsNUdqdmc3QTFCQXBZTjJsUGl5T2pmb1FhVjdhM0FucThfNERxcjZUTDNXaGQzRDNwMzlCSE9SdFJaV0l0MFRubw",
     "CBMimgFBVV95cUxQQzF6ZDJnRkJmMVJZVmlMNUJfcjlmMW9yd09KM0l6RW9jUTh6eFNSOVowaHRnWlEyc0VlMFYzdzNpRVctOWJ5NHBjc2hYa0VybHBDTUQzMVNXSVFhWTJyNklSdm0ycVY4ZUNhZE9Ia0Q1NllESU1ucE9QYy1xZlN5OS1fNkZkRWkxcGw3alpRdV9ndDdGeUVqdHZB",
     "CBMiiwFBVV95cUxPUEtPbThoMkY0OEVqRWdxUlA0eDRZYlhPTG5qbEt5V1RnazFIVzBuZHJyU2VMVHdHMzBCWmQxRDhmZ0RnOTZ2WGZPLVJTQjExWFo2amZiMmJFM3Jkb3plWnJOd0dkeEtHLXFqaFRseExIc00wUHRONXdVVWVWMWhJRmxRZFhPVTJuS3J3",
@@ -1205,10 +1203,11 @@
     "CBMirgFBVV95cUxQSUpYUUlad1c2MWpiMUZxZjdhOVhtSEhBRVFyWG03a3Vfd2ZQRnlxLWtaT0FuVUwyWm5oT2NiMWlUM0FjRlYyUi1PZ29xbEJzZWZDLXQyZ043UG5raVJqSV9Rd25OMS1CbjJXcE1oM1FIMXd3WGNETms1bkdsQVVOSktlWU03YklGVVNDQnd6WHNaZ1JJSlFpOWs5bXkzTGExMFByRXdaN3U1QUlEV2c",
     "CBMiiAFBVV95cUxQZGxWT2gxRl9IX1EteVliTkZBUlNLaTd1M29NQUl4UkFIZE1VY2xpbUVOOTdpUGVWX2t5T1V5OG9KV0RiSWZKOU12Ui1GNmlGSFZPeEJiWmRQVUZiTTFLTDZUNl9mMTlNUEVYVXhoMDlfQjRJbFZJRDJtWV9GZ2FKVmVPcXVZeUVP",
     "CBMijgFBVV95cUxNUFdaU1djaC1FZjNRY0hrTVpVcWNmU0h0WXZjaTJNaEtZLTlMUDc1M3ZaRnVNcExhc3lVWEx4MXhqV2FuTElDTkN1SnFIUlB1QUdmdFJFbTlKYlY3S2xqZEtvb0Y4SmdYVDV2LWJIN2NOdEtWOWZscXowQmtzbVZENDVxTjdXZC03ZDVmNWJn",
-    "CBMiogFBVV95cUxQXzhMei1TMmZ5QlRJQ29PSm5jZDBzRklzc3hibmNSLV8yOVF5ZDNiSW95dC1CVldyZzBySkV2Wjc1VGxKRndleXlMS3JZNzg5R2MwRW82UEZ1YnNFOWZEQmkzN0llM1lPb0lDUV9LRkxWLWs4ZVh2YzVZZTBHcFNVNm00dG1hNlV1cEZsRE9qdFZXdHpreVYzSmFSeFZvbS1XMGc"
+    "CBMiogFBVV95cUxQXzhMei1TMmZ5QlRJQ29PSm5jZDBzRklzc3hibmNSLV8yOVF5ZDNiSW95dC1CVldyZzBySkV2Wjc1VGxKRndleXlMS3JZNzg5R2MwRW82UEZ1YnNFOWZEQmkzN0llM1lPb0lDUV9LRkxWLWs4ZVh2YzVZZTBHcFNVNm00dG1hNlV1cEZsRE9qdFZXdHpreVYzSmFSeFZvbS1XMGc",
+    "CBMiqAFBVV95cUxNaU9FXzNrWElFVC1LeTlCU3JEdk02UHliQTdiX2xqZHd6UG5lZWpQcWRRc24taFE4X0Z0UFlyQUxMYUdXZ2dKNW1haWxqYlJQaUZLRUJ4SmJVWXFQQVNxOTJSbTlTRWgtbVVwMjFYTm9CTTAwbGRKUlVSVklhcFlyQXpVWWV3YlNpQjN1MVIzdTlrZXR5bDFpOUQ3WFk5UVFqbkxXSHp4ZXk",
+    "CBMilwFBVV95cUxPREN1ZUdHRFFya0JscEZ1STBoU1ZORmF0NmRBbFE1YmM0VDBBZThPODd1V2FxZ3k3V3M2R2RDOVFWd1dfZW1zNG9BWmNNY1JDaGNvbE53S1oxUkozbzliNjJ0WnFNVmVlb0pma1lhc0hjSjBNcTNGZTlWaWo2MnJDWmh3SUl1dUFmZkhMMmpkZ2pwR0ptY2xv"
   ],
   "https://www.scmp.com/rss/4/feed": [
-    "https://www.scmp.com/news/china/diplomacy/article/3365239/us-admits-defeat-china-minerals-race-can-brazil-turn-panic-processing-power?utm_source=rss_feed",
     "https://www.scmp.com/news/china/article/3365246/brazil-fines-tiktok-record-us30-million-profiting-childrens-data?utm_source=rss_feed",
     "https://www.scmp.com/news/china/military/article/3365247/china-seeks-public-tips-procurement-violations-pla-rocket-force-probe-continues?utm_source=rss_feed",
     "https://www.scmp.com/news/world/russia-central-asia/article/3365253/industrial-fire-kills-3-including-2-chinese-citizens-russias-far-east?utm_source=rss_feed",
@@ -1507,7 +1506,8 @@
     "https://www.scmp.com/news/china/diplomacy/article/3367318/iranian-president-abu-dhabi-crown-prince-meet-sidelines-brics-summit-india?utm_source=rss_feed",
     "https://www.scmp.com/news/china/diplomacy/article/3367315/under-trumps-shadow-brics-takes-step-towards-de-dollarisation?utm_source=rss_feed",
     "https://www.scmp.com/news/china/diplomacy/article/3367314/xi-tells-modi-there-ample-scope-learn-each-others-strengths?utm_source=rss_feed",
-    "https://www.scmp.com/news/china/science/article/3367290/us-china-decoupling-could-benefit-other-countries-china-trade-war-game-suggests?utm_source=rss_feed"
+    "https://www.scmp.com/news/china/science/article/3367290/us-china-decoupling-could-benefit-other-countries-china-trade-war-game-suggests?utm_source=rss_feed",
+    "https://www.scmp.com/news/china/diplomacy/article/3367328/jd-vance-network-courted-brazils-flavio-bolsonaro-over-anti-china-mineral-deal-report?utm_source=rss_feed"
   ],
   "https://news.google.com/rss/search?q=site:euronews.com&hl=en-US&gl=US&ceid=US:en": [
     "CBMirgFBVV95cUxPUF84bGtLT0p2UVhkc0hpaE1PdHU0OHZEaTZYZjJDQWt4eTZFbUtfS2Z1ZUpETEYwb1dJY3doOHFuWEo3TnFXdEItbGxaOTRlLWFYaGRIdWRsZjY0MC1PUDJ6UU1pZWhTaFdiRzhZMHF1UFI2WlZEM29YdVdKYTJIRDlLWGVtQWhsQzZxUUl3NFdMWTZJUjhtcmhTUlhiak5qYVA4WFFMTmRxWGxldnc",
@@ -2114,8 +2114,6 @@
     "https://en.yna.co.kr/view/AEN20260911004451315"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1788957371",
-    "https://www.aljazeera.com/?t=1788949243",
     "https://www.aljazeera.com/?t=1788948294",
     "https://www.aljazeera.com/?t=1788953910",
     "https://www.aljazeera.com/?t=1788950032",
@@ -2413,7 +2411,9 @@
     "https://www.aljazeera.com/?t=1789233333",
     "https://www.aljazeera.com/?t=1789234806",
     "https://www.aljazeera.com/?t=1789230650",
-    "https://www.aljazeera.com/?t=1789231578"
+    "https://www.aljazeera.com/?t=1789231578",
+    "https://www.aljazeera.com/?t=1789249216",
+    "https://www.aljazeera.com/?t=1789249006"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
     "https://allafrica.com/stories/202608190168.html",
@@ -2801,7 +2801,6 @@
     "https://en.mercopress.com/2026/09/10/peru-joins-the-americas-shield-during-rubio-s-visit-to-lima?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss"
   ],
   "https://www.abc.net.au/news/feed/2942460/rss.xml": [
-    "https://www.abc.net.au/news/2026-08-21/rebecca-beeson-75-milestone-matches-aflw-gws-giants/107059414",
     "https://www.abc.net.au/news/2026-08-20/sydney-swans-players-police-told-of-drug-use-in-hotel/107059156",
     "https://www.abc.net.au/news/2026-08-21/sydney-swans-allegations-reflects-misogyny-in-afl-culture/107056180",
     "https://www.abc.net.au/news/2026-08-21/yuko-sato-sets-australian-and-japanese-backyard-ultra-record/107054444",
@@ -3100,6 +3099,7 @@
     "https://www.abc.net.au/news/2026-09-12/afl-semifinal-lions-crows-live-blog/107146854",
     "https://www.abc.net.au/news/2026-09-12/hawks-aflw-win-soured-by-skippers-sickening-leg-injury/107146874",
     "https://www.abc.net.au/news/2026-09-13/wallaroos-scare-england-but-lose-in-salford/107147694",
-    "https://www.abc.net.au/news/2026-09-13/formula-1-grand-prix-spain-piastri-problems/106998646"
+    "https://www.abc.net.au/news/2026-09-13/formula-1-grand-prix-spain-piastri-problems/106998646",
+    "https://www.abc.net.au/news/2026-09-13/us-open-women-s-final-aryna-sabalenka-elena-rybakina/107135066"
   ]
 }
