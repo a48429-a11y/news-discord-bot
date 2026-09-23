@@ -604,14 +604,6 @@
     "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html"
   ],
   "http://feeds.bbci.co.uk/news/world/rss.xml": [
-    "https://www.bbc.co.uk/news/articles/ck20989806e9o#0",
-    "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo#0",
-    "https://www.bbc.co.uk/news/articles/cy459y5y9yxo#1",
-    "https://www.bbc.co.uk/news/videos/cm4gkvk7wzkpo#3",
-    "https://www.bbc.co.uk/news/videos/c6j9xym8zjy3o#3",
-    "https://www.bbc.co.uk/news/videos/cmdx5wdl7z0lo#3",
-    "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo#0",
-    "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo#0",
     "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo#0",
     "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo#0",
     "https://www.bbc.co.uk/news/articles/cmq8jdgel128o#0",
@@ -903,7 +895,15 @@
     "https://www.bbc.co.uk/news/articles/c9dr74g32g8go#1",
     "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o#2",
     "https://www.bbc.co.uk/news/articles/c3kg80ve7x0no#2",
-    "https://www.bbc.co.uk/news/videos/c38xk275jd21o#3"
+    "https://www.bbc.co.uk/news/videos/c38xk275jd21o#3",
+    "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo#0",
+    "https://www.bbc.co.uk/news/articles/c6n9w410v3vzo#0",
+    "https://www.bbc.co.uk/news/articles/cm98626n260yo#0",
+    "https://www.bbc.co.uk/news/articles/c699d2dn9z0mo#0",
+    "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o#1",
+    "https://www.bbc.co.uk/news/articles/crgjqxzl097eo#1",
+    "https://www.bbc.co.uk/news/articles/c6790yrgzq25o#1",
+    "https://www.bbc.co.uk/news/videos/c962j1jgx884o#3"
   ],
   "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en": [
     "CBMiiAFBVV95cUxQMzZRQUhZYk9UdUpTZG15Q21zYlVyNDhKRkVKQkxILUFzRS1ET1lzanR6NXZlR3BkbVRYSlVkYlJvZFVVX1lJSEEyMHR2bkpTQU9YeThLWXl1R1NObXluemxhNGg5Z19KTU55WXV1cjZJaU9POEZiN0h4ZGZxb3lsOGNORklGMmpw",
@@ -1208,7 +1208,6 @@
     "CBMingFBVV95cUxPdmhYTnJZRmkyTG1YSmJTSDhzVkhteTFOaUIxcHBQREtBTEhpdzNZeVVVV3hGajVlc3FoYk1fUGdqSExDQ2x1QmFfUXBnZHRROWo2ZFIyY01DU011djZ2dXp0U0ZIY0s5Rjl0X0tsUmNDaXZoaVZEeU9CX2pOclBieGZZQ1dTOF9FbnRCMHh3TlREZzZFQThfN3A4SzdXQQ"
   ],
   "https://www.scmp.com/rss/4/feed": [
-    "https://www.scmp.com/opinion/china-opinion/article/3366239/despite-rivalry-china-india-coexistence-not-pipe-dream?utm_source=rss_feed",
     "https://www.scmp.com/news/china/diplomacy/article/3366351/china-arrests-52-singaporeans-guangxi-pyramid-scheme-crackdown?utm_source=rss_feed",
     "https://www.scmp.com/news/china/science/article/3366293/could-roman-concrete-have-clues-how-pyramid-giza-was-built-and-saved?utm_source=rss_feed",
     "https://www.scmp.com/news/china/military/article/3366379/burkina-faso-sky-dragon-30-missiles-point-chinas-military-export-inroads?utm_source=rss_feed",
@@ -1507,7 +1506,8 @@
     "https://www.scmp.com/news/china/diplomacy/article/3368511/xi-trump-summit-chinas-state-car-has-already-proved-match-us-beast?utm_source=rss_feed",
     "https://www.scmp.com/news/china/science/article/3368490/neurobiologist-ye-bing-says-his-return-china-not-spurred-michigan-campus-tragedy?utm_source=rss_feed",
     "https://www.scmp.com/news/china/diplomacy/article/3368501/china-hawks-grumble-over-trumps-lavish-welcome-planned-xi-state-visit?utm_source=rss_feed",
-    "https://www.scmp.com/news/china/diplomacy/article/3368527/ahead-xis-historic-milestone-us-visit-fentanyl-goodwill-gesture-china?utm_source=rss_feed"
+    "https://www.scmp.com/news/china/diplomacy/article/3368527/ahead-xis-historic-milestone-us-visit-fentanyl-goodwill-gesture-china?utm_source=rss_feed",
+    "https://www.scmp.com/news/china/diplomacy/article/3368555/bessent-and-he-meet-again-tackle-some-unfinished-business-xi-summit-nears?utm_source=rss_feed"
   ],
   "https://news.google.com/rss/search?q=site:euronews.com&hl=en-US&gl=US&ceid=US:en": [
     "CBMiuAFBVV95cUxQbWc0UUlrZk1rVC05TDYwR2pkYklPeGhqNDdXWm40SFdMaFdnRE9ybFJmbDJqMVAzSm5DT0ptRVhzVlZnc2dZaDd1dVVncG1fZ1llUFh1N01aYlpJNG5rN0lpYS1CUktVV3dCbHAzbE1zLUNYNWlJS2lTcUdtZDZDbWp5ci05T01TZ25fTUo0OWhDeDB6cE9TNG9sd0V4Q21CUEh1NnNoTGFaQ2hpcm9CTEh3a1dBc0wz",
@@ -1812,9 +1812,6 @@
     "CBMiqgFBVV95cUxPVXdmWkthVFRiWm5YWHZlUzgtWWM1ektlU1ZBV1VQUE9oM25rQWQwd0JzUEctLXFaVjRfM0RRNWZfOTB0SWJETEdnckhlS0FzMEN5V2puNW13eE8yTHpNNXIwOTBmUzdwN1ZIZGxJZnZKeFF2ZjBJRFY5ckFyYU9hLXk3M3ZKOW80ZFdfcVlWUlJKWUl0cUdZSkRjdF92dVFLdzl2MWh6eGh4QQ"
   ],
   "https://en.yna.co.kr/RSS/news.xml": [
-    "https://en.yna.co.kr/view/AEN20260920003500320",
-    "https://en.yna.co.kr/view/AEN20260920003400315",
-    "https://en.yna.co.kr/view/AEN20260920003300315",
     "https://en.yna.co.kr/view/AEN20260920006300320",
     "https://en.yna.co.kr/view/AEN20260920004351315",
     "https://en.yna.co.kr/view/AEN20260920005800320",
@@ -2111,32 +2108,12 @@
     "https://en.yna.co.kr/view/AEN20260923011400315",
     "https://en.yna.co.kr/view/AEN20260923011251315",
     "https://en.yna.co.kr/view/AEN20260923010651320",
-    "https://en.yna.co.kr/view/AEN20260923011300315"
+    "https://en.yna.co.kr/view/AEN20260923011300315",
+    "https://en.yna.co.kr/view/AEN20260924000251315",
+    "https://en.yna.co.kr/view/AEN20260924000200315",
+    "https://en.yna.co.kr/view/AEN20260923012151315"
   ],
   "https://www.aljazeera.com/xml/rss/all.xml": [
-    "https://www.aljazeera.com/?t=1789831436",
-    "https://www.aljazeera.com/?t=1789832230",
-    "https://www.aljazeera.com/?t=1789831198",
-    "https://www.aljazeera.com/?t=1789827219",
-    "https://www.aljazeera.com/?t=1789828753",
-    "https://www.aljazeera.com/?t=1789825961",
-    "https://www.aljazeera.com/?t=1789826479",
-    "https://www.aljazeera.com/?t=1789835405",
-    "https://www.aljazeera.com/?t=1789840719",
-    "https://www.aljazeera.com/?t=1789837626",
-    "https://www.aljazeera.com/?t=1789835504",
-    "https://www.aljazeera.com/?t=1789834058",
-    "https://www.aljazeera.com/?t=1789835064",
-    "https://www.aljazeera.com/?t=1789752809",
-    "https://www.aljazeera.com/?t=1789846328",
-    "https://www.aljazeera.com/?t=1789796582",
-    "https://www.aljazeera.com/?t=1789848302",
-    "https://www.aljazeera.com/?t=1789845692",
-    "https://www.aljazeera.com/?t=1789691396",
-    "https://www.aljazeera.com/?t=1789843928",
-    "https://www.aljazeera.com/?t=1789849949",
-    "https://www.aljazeera.com/?t=1789852594",
-    "https://www.aljazeera.com/?t=1789859241",
     "https://www.aljazeera.com/?t=1789851755",
     "https://www.aljazeera.com/?t=1789881670",
     "https://www.aljazeera.com/?t=1789881760",
@@ -2413,13 +2390,32 @@
     "https://www.aljazeera.com/?t=1790157462",
     "https://www.aljazeera.com/?t=1790150936",
     "https://www.aljazeera.com/?t=1790129185",
-    "https://www.aljazeera.com/?t=1790144275"
+    "https://www.aljazeera.com/?t=1790144275",
+    "https://www.aljazeera.com/?t=1790177988",
+    "https://www.aljazeera.com/?t=1790183439",
+    "https://www.aljazeera.com/?t=1790181057",
+    "https://www.aljazeera.com/?t=1790186004",
+    "https://www.aljazeera.com/?t=1790175212",
+    "https://www.aljazeera.com/?t=1790161571",
+    "https://www.aljazeera.com/?t=1790175609",
+    "https://www.aljazeera.com/?t=1790183977",
+    "https://www.aljazeera.com/?t=1790184033",
+    "https://www.aljazeera.com/?t=1790183111",
+    "https://www.aljazeera.com/?t=1790181919",
+    "https://www.aljazeera.com/?t=1790173153",
+    "https://www.aljazeera.com/?t=1790173516",
+    "https://www.aljazeera.com/?t=1790180979",
+    "https://www.aljazeera.com/?t=1790156056",
+    "https://www.aljazeera.com/?t=1790168156",
+    "https://www.aljazeera.com/?t=1790179165",
+    "https://www.aljazeera.com/?t=1790178457",
+    "https://www.aljazeera.com/?t=1790178170",
+    "https://www.aljazeera.com/?t=1790143375",
+    "https://www.aljazeera.com/?t=1790176450",
+    "https://www.aljazeera.com/?t=1790164409",
+    "https://www.aljazeera.com/?t=1790165105"
   ],
   "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf": [
-    "https://allafrica.com/stories/202609010004.html",
-    "https://allafrica.com/stories/202609010079.html",
-    "https://allafrica.com/stories/202609010168.html",
-    "https://allafrica.com/stories/202609010390.html",
     "https://allafrica.com/stories/202609010501.html",
     "https://allafrica.com/stories/202609010420.html",
     "https://allafrica.com/stories/202609020035.html",
@@ -2715,7 +2711,11 @@
     "https://allafrica.com/stories/202609230205.html",
     "https://allafrica.com/stories/202609230342.html",
     "https://allafrica.com/stories/202609230307.html",
-    "https://allafrica.com/stories/202609230254.html"
+    "https://allafrica.com/stories/202609230254.html",
+    "https://allafrica.com/stories/202609230462.html",
+    "https://allafrica.com/stories/202609230595.html",
+    "https://allafrica.com/stories/202609230589.html",
+    "https://allafrica.com/stories/202609230550.html"
   ],
   "https://en.mercopress.com/rss/latin-america": [
     "https://en.mercopress.com/2026/07/11/four-held-in-ecuador-over-migrant-smuggling-network-to-the-united-states?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss",
